@@ -10,3 +10,7 @@ The file /queries/cypher.txt contains cypher for ingesting all relevant data int
 ## Setup
 1. Create a new neo4j database. The dataset is suitable for a free neo4j-instance in [AuraDB](https://neo4j.com/cloud/platform/aura-graph-database/)
 2. Run /queries/cypher.txt
+
+![Schema](/schema.png)
+
+
