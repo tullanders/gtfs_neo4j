@@ -1,0 +1,16 @@
+match (s1:stops)--(st1:stop_times)--(t:trips)--(cd:calendar_dates) 
+where s1.stop_name starts with 'Gävle' and (s1)--(:stop_times) and cd.date = date('2023-11-28')
+match (s2:stops)--(st2:stop_times) 
+where s2.stop_name starts with 'Hedemora' and (s2)--(:stop_times)
+MATCH sg=shortestPath((st1)-[r:NEXT_STOP|TRANSFERS*]->(st2))
+unwind nodes(sg) as row
+match (row)--(s:stops)
+return row.trip_id, row.departure_time,s.stop_name
+
+// create a point for each shapes (from their lon lat)
+match (s:shapes)
+set s.point = Point({latitude: toFloat(s.shape_pt_lat), longitude: toFloat(s.shape_pt_lon)})
+
+// create a point for each stops from their lon lat
+match (s:stops)
+set s.point = Point({latitude: toFloat(s.stop_lat), longitude: toFloat(s.stop_lon)})
