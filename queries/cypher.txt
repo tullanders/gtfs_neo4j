@@ -123,6 +123,7 @@ merge (t)-[:HAS_SHAPES]->(s)
 LOAD CSV WITH HEADERS FROM $basedir + "transfers.csv" as row
 match (st1:stop_times {stop_id:tointeger(row.from_stop_id), trip_id: tointeger(row.from_trip_id)})
 match (st2:stop_times {stop_id:tointeger(row.to_stop_id), trip_id: tointeger(row.to_trip_id)})
+with st1, st2
 merge (st1)-[:TRANSFERS]->(st2)
 
 // next stop mellan alla stationer:
