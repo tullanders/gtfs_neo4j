@@ -1,7 +1,7 @@
-//RENSA DATABAS
+//CLEAR DATABASE (not the indexes and constraints)
 match ()-[r]-() delete r;
 match (n) delete n;
-MATCH(o) DETACH DELETE o;
+
 
 :param basedir => 'https://raw.githubusercontent.com/tullanders/gtfs_neo4j/main/data/';
 
