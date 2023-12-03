@@ -117,16 +117,16 @@ merge (st)-[:HAS_STOPS]->(s);
 // trips -> shapes
 match (t:trips)
 match (s:shapes {shape_id: t.shape_id})
-merge (t)-[:HAS_SHAPES]->(s)
+merge (t)-[:HAS_SHAPES]->(s);
 
 // transfers stop_times -> stop_times
 LOAD CSV WITH HEADERS FROM $basedir + "transfers.csv" as row
 match (st1:stop_times {stop_id:tointeger(row.from_stop_id), trip_id: tointeger(row.from_trip_id)})
 match (st2:stop_times {stop_id:tointeger(row.to_stop_id), trip_id: tointeger(row.to_trip_id)})
 with st1, st2
-merge (st1)-[:TRANSFERS]->(st2)
+merge (st1)-[:TRANSFERS]->(st2);
 
 // next stop mellan alla stationer:
 match (st1:stop_times)
 match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
-merge (st1)-[:NEXT_STOP]->(st2)
+merge (st1)-[:NEXT_STOP]->(st2);
