@@ -22,9 +22,9 @@ class agency {
 }
 class stops {
   -stop_id: Int
-  -stopName: String
-  -stopLat: Double
-  -stopLon: Double
+  -stop_name: String
+  -stop_lat: Double
+  -stop_lon: Double
 }
 
 class routes {
