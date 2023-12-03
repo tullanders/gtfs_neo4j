@@ -126,7 +126,7 @@ match (st2:stop_times {stop_id:tointeger(row.to_stop_id), trip_id: tointeger(row
 with st1, st2
 merge (st1)-[:TRANSFERS]->(st2);
 
-// next stop mellan alla stationer:
+// next stop between stop_times (not gtfs standard)
 match (st1:stop_times)
 match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
 merge (st1)-[:NEXT_STOP]->(st2);
