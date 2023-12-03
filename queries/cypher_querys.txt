@@ -1,5 +1,5 @@
 match (s1:stops)--(st1:stop_times)--(t:trips)--(cd:calendar_dates) 
-where s1.stop_name starts with 'Gävle' and (s1)--(:stop_times) and cd.date = date('2023-11-28')
+where s1.stop_name starts with 'Borlänge' and (s1)--(:stop_times) and cd.date = date('2023-11-28')
 match (s2:stops)--(st2:stop_times) 
 where s2.stop_name starts with 'Hedemora' and (s2)--(:stop_times)
 MATCH sg=shortestPath((st1)-[r:NEXT_STOP|TRANSFERS*]->(st2))
