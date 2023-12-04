@@ -130,3 +130,16 @@ merge (st1)-[:TRANSFERS]->(st2);
 match (st1:stop_times)
 match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
 merge (st1)-[:NEXT_STOP]->(st2);
+
+// sometimes hours are > 23, so for enable easier calculating with time, lets create correct departure and arrival dates
+match (c:calendar_dates)--(:trips)--(st:stop_times)
+with split(st.arrival_time,':') as arrival_split, split(st.departure_time,':') as departure_split, c, st
+with apoc.date.add(
+    datetime(c.date + 'T00:00').epochMillis, "ms", 
+    (tointeger(arrival_split[0])*60 + tointeger(arrival_split[1])), "m") AS arrival_date,
+ apoc.date.add(
+    datetime(c.date + 'T00:00').epochMillis, "ms", 
+    (tointeger(departure_split[0])*60 + tointeger(departure_split[1])), "m") AS departure_date, st
+set st.arrival_datetime = localdatetime(datetime({epochMillis: arrival_date})),
+st.departure_datetime =  localdatetime(datetime({epochMillis: departure_date}))
+
