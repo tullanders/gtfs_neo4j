@@ -1,6 +1,5 @@
 //CLEAR DATABASE (not the indexes and constraints)
-match ()-[r]-() delete r;
-match (n) delete n;
+match (n) detatch delete n;
 
 
 :param basedir => 'https://raw.githubusercontent.com/tullanders/gtfs_neo4j/main/data/';
