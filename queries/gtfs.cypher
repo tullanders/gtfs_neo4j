@@ -134,8 +134,3 @@ merge (st1)-[:NEXT_STOP]->(st2);
 match (st1:stop_times)
 match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
 merge (st1)-[:NEXT_STOP]->(st2);
-
-// set trafikverket signature for each stop
-LOAD CSV WITH HEADERS FROM $basedir + "trafikverket_stops.txt" as row
-match (s:stops {stop_id:row.stop_id})
-set s.signature = row.trafikverket_signature;
