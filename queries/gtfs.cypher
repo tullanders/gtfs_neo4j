@@ -89,9 +89,6 @@ LOAD CSV WITH HEADERS FROM $basedir + "trips_technical.txt" as row
 match (t:trips {trip_id:row.trip_id})
 set t.technical_trip_number = row.technical_trip_number;
 
-// Sometimes we get null for route_short_name but a value for technical_trip_number. Guess it's the same :)
-match (r:routes)--(t:trips)--(c:calendar_dates {date:date()}) where r.route_short_name is null and t.technical_trip_number is not null
-set r.route_short_name = t.technical_trip_number;
 
 // RELATIONS:
 // agency -> routes
@@ -124,11 +121,6 @@ LOAD CSV WITH HEADERS FROM $basedir + "transfers.txt" as row
 match (st1:stop_times {stop_id:row.from_stop_id, trip_id: row.from_trip_id})
 match (st2:stop_times {stop_id:row.to_stop_id, trip_id: row.to_trip_id})
 merge (st1)-[:TRANSFERS]->(st2);
-
-// next stop mellan alla stationer:
-match (st1:stop_times)
-match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
-merge (st1)-[:NEXT_STOP]->(st2);
 
 // next stop mellan alla stationer:
 match (st1:stop_times)
