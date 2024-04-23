@@ -1,7 +1,5 @@
 :param erabasedir => 'http://127.0.0.1:5500/data/era/';
 
-// RUN THIS AFTER RUNNING gtfs.cypher
-
 // Load Swedish Operational Points from ERA:
 LOAD CSV WITH HEADERS FROM $erabasedir + "operational_point_se.csv" as row
 FIELDTERMINATOR ';'

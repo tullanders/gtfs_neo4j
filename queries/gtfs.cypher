@@ -1,6 +1,3 @@
-//Clear database
-//MATCH(n) DETACH DELETE n;
-
 :param basedir => 'http://127.0.0.1:5500/data/gtfs/';
 
 
