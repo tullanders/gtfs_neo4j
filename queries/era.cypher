@@ -1,6 +1,6 @@
-:param erabasedir => 'https://github.com/tullanders/gtfs_neo4j/tree/main/era/;
+:param erabasedir => 'https://github.com/tullanders/gtfs_neo4j/tree/main/data/era/';
 
-// Load Swedish Operational Points from ERA:
+//Load Swedish Operational Points from ERA:
 LOAD CSV WITH HEADERS FROM $erabasedir + "operational_point_se.csv" as row
 FIELDTERMINATOR ';'
 with row,

@@ -1,5 +1,4 @@
-:param basedir => 'https://github.com/tullanders/gtfs_neo4j/tree/main/gtfs/';
-
+:param basedir => 'https://github.com/tullanders/gtfs_neo4j/tree/main/data/gtfs/';
 
 // load the trafikverket mapping
 // set trafikverket signature for each stop
