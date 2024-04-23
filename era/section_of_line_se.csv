@@ -1,0 +1,1563 @@
+﻿Section Of Line;Infrastructure Manager's Code;National line ID;Length;Name of start Operational Point;Start Unique OP ID;Name of end Operational Point;End Unique OP ID;Track URI;Normal running direction;Load capability line category;Gauging
+Algutsgården-Alingsås;0074;01;10,524 km;Algutsgården;SEAgg;Alingsås;SEA;track:01_SEAgg_N_SEA;B;D2;SEa
+Algutsgården-Alingsås;0074;01;10,524 km;Algutsgården;SEAgg;Alingsås;SEA;track:01_SEAgg_U_SEA;B;D2;SEa
+Brista-Märsta;0074;05;2,112 km;Brista;SEBra;Märsta;SEMr;track:05_SEBra_N_SEMr;B;D2;SEa
+Brista-Märsta;0074;05;2,112 km;Brista;SEBra;Märsta;SEMr;track:05_SEBra_U_SEMr;B;D2;SEa
+Korsnäs-Falun central;0074;10;4,543 km;Korsnäs;SEKoä;Falun central;SEFln;track:10_SEKo%C3%A4_E_SEFln;B;D2;SEa
+Annedal-Hasslarp;0074;13;7,114 km;Annedal;SEAal;Hasslarp;SEHlp;track:13_SEAal_E_SEHlp;B;D2;SEa
+Solum-Harasjön;0074;28;8,243 km;Solum;SESlm;Harasjön;SEHan;track:28_SESlm_E_SEHan;B;E4;SEa
+Falerum-Nelhammar;0074;66;9,33 km;Falerum;SEFal;Nelhammar;SENl;track:66_SEFal_E_SENl;B;C2;SEa
+Kimstad-Norsholm;0074;02;3,427 km;Kimstad;SEKms;Norsholm;SENh;track:02_SEKms_N_SENh;B;D2;SEa
+Kungsbacka-Lekarekulle;0074;03;12,665 km;Kungsbacka;SEKb;Lekarekulle;SELek;track:03_SEKb_N_SELek;B;D2;SEa
+Kungsbacka-Lekarekulle;0074;03;12,665 km;Kungsbacka;SEKb;Lekarekulle;SELek;track:03_SEKb_U_SELek;B;D2;SEa
+Aplared-Hillared;0074;04;6,016 km;Aplared;SEApd;Hillared;SEHil;track:04_SEApd_E_SEHil;B;D2;SEa
+Hamrångefjärden-Kringlan;0074;05;7,922 km;Hamrångefjärden;SEHfj;Kringlan;SEKrl;track:05_SEHfj_E_SEKrl;B;D2;SEa
+Österås-Forsmo;0074;07;6,759 km;Österås;SEÖså;Forsmo;SEFsm;track:07_SE%C3%96s%C3%A5_E_SEFsm;B;E4;SEa
+Gimonäs-Holmsund;0074;43;10,056 km;Gimonäs;SEGim;Holmsund;SEHod;track:43_SEGim_E_SEHod;B;E4;SEa
+Kimstad-Norsholm;0074;02;3,427 km;Kimstad;SEKms;Norsholm;SENh;track:02_SEKms_U_SENh;B;D2;SEa
+Ödåkra-Maria;0074;03;3,892 km;Ödåkra;SEÖda;Maria;SEMia;track:03_SE%C3%96da_E_SEMia;B;D2;SEa
+Björnsjö-Björna;0074;07;9,374 km;Björnsjö;SEBjö;Björna;SEBj;track:07_SEBj%C3%B6_E_SEBj;B;E4;SEa
+Graninge-Helgum;0074;07;10,44 km;Graninge;SEGa;Helgum;SEHlm;track:07_SEGa_E_SEHlm;B;D2;SEa
+Hälsingenybo-Örabäcken;0074;08;6,33 km;Hälsingenybo;SEHnb;Örabäcken;SEÖbn;track:08_SEHnb_E_SE%C3%96bn;B;D2;SEa
+Loster-Hennan;0074;08;10,464 km;Loster;SELtr;Hennan;SEHnn;track:08_SELtr_E_SEHnn;B;D2;SEa
+Daglösen-Geijersdal;0074;10;14,123 km;Daglösen;SEDgö;Geijersdal;SEGdl;track:10_SEDg%C3%B6_E_SEGdl;B;D2;SEa
+Storvik-Granstanda;0074;10;10,381 km;Storvik;SESv;Granstanda;SEGad;track:10_SESv_E_SEGad;B;D2;SEa
+Bäckefors-Ed;0074;11;18,266 km;Bäckefors;SEBäf;Ed;SEEd;track:11_SEB%C3%A4f_E_SEEd;B;D2;SEa
+Norsesund västra-Floda;0074;01;7,293 km;Norsesund västra;SENdv;Floda;SEFd;track:01_SENdv_N_SEFd;B;D2;SEa
+Norsesund västra-Floda;0074;01;7,293 km;Norsesund västra;SENdv;Floda;SEFd;track:01_SENdv_U_SEFd;B;D2;SEa
+Hässleholm-Mellby;0074;02;9,573 km;Hässleholm;SEHm;Mellby;SEMlb;track:02_SEHm_N_SEMlb;B;D2;SEa
+Hässleholm-Mellby;0074;02;9,573 km;Hässleholm;SEHm;Mellby;SEMlb;track:02_SEHm_U_SEMlb;B;D2;SEa
+Stehag-Eslöv;0074;02;9,268 km;Stehag;SESg;Eslöv;SEE;track:02_SESg_N_SEE;B;D2;SEa
+Stehag-Eslöv;0074;02;9,268 km;Stehag;SESg;Eslöv;SEE;track:02_SESg_U_SEE;B;D2;SEa
+Ockelbo-Mo grindar;0074;08;5,882 km;Ockelbo;SEOb;Mo grindar;SEMog;track:08_SEOb_E_SEMog;B;D2;SEa
+Erikstad-Skälebol;0074;11;2,986 km;Erikstad;SEErk;Skälebol;SESkbl;track:11_SEErk_E_SESkbl;B;D2;SEa
+Vallåkra-Tågarp;0074;32;6,791 km;Vallåkra;SEVåk;Tågarp;SETgp;track:32_SEV%C3%A5k_E_SETgp;B;D2;SEa
+Knäred-Markaryd;0074;33;19,692 km;Knäred;SEKnä;Markaryd;SEMrd;track:33_SEKn%C3%A4_E_SEMrd;B;D2;SEa
+Smedjebacken-Hagge;0074;63;6,244 km;Smedjebacken;SESmj;Hagge;SEHge;track:63_SESmj_E_SEHge;B;D2;SEa
+Dals Långed-Långbron;0074;71;2,243 km;Dals Långed;SEDld;Långbron;SELgb;track:71_SEDld_E_SELgb;B;A;SEa
+Ljungskile-Grohed;0074;73;9,154 km;Ljungskile;SELj;Grohed;SEGhd;track:73_SELj_E_SEGhd;B;D2;SEa
+Häggvik-Rotebro;0074;05;3,783 km;Häggvik;SEHgv;Rotebro;SER;track:05_SEHgv_1N_SER;B;D2;SEa
+Häggvik-Rotebro;0074;05;3,783 km;Häggvik;SEHgv;Rotebro;SER;track:05_SEHgv_1U_SER;B;D2;SEa
+Häggvik-Rotebro;0074;05;3,783 km;Häggvik;SEHgv;Rotebro;SER;track:05_SEHgv_2N_SER;B;D2;SEa
+Häggvik-Rotebro;0074;05;3,783 km;Häggvik;SEHgv;Rotebro;SER;track:05_SEHgv_2U_SER;B;D2;SEa
+Via-Stegsskogen;0074;05;4,298 km;Via;SEVia;Stegsskogen;SESten;track:05_SEVia_E_SESten;B;D2;SEa
+Nyåker-Öreälv;0074;07;3,718 km;Nyåker;SENyå;Öreälv;SEÖä;track:07_SENy%C3%A5_N_SE%C3%96%C3%A4;B;E4;SEa
+Stormyran-Aspeå;0074;07;4,275 km;Stormyran;SESom;Aspeå;SEAp;track:07_SESom_E_SEAp;B;E4;SEa
+Nyköping södra-Vrena;0074;18;23,233 km;Nyköping södra;SENks;Vrena;SEVre;track:18_SENks_E_SEVre;B;D2;SEa
+Lovene-Järpås;0074;75;8,174 km;Lovene;SELve;Järpås;SEJps;track:75_SELve_E_SEJps;B;D2;SEa
+Björnkulla-Malmsjö;0074;01;11,985 km;Björnkulla;SEBjn;Malmsjö;SEMsj;track:01_SEBjn_N_SEMsj;B;D2;SEa
+Björnkulla-Malmsjö;0074;01;11,985 km;Björnkulla;SEBjn;Malmsjö;SEMsj;track:01_SEBjn_U_SEMsj;B;D2;SEa
+Stjärnhov-Nyckelsjön;0074;01;8,17 km;Stjärnhov;SESh;Nyckelsjön;SENsj;track:01_SESh_N_SENsj;B;D2;SEa
+Stjärnhov-Nyckelsjön;0074;01;8,17 km;Stjärnhov;SESh;Nyckelsjön;SENsj;track:01_SESh_U_SENsj;B;D2;SEa
+Förslöv-Viarp;0074;03;2,385 km;Förslöv;SEFör;Viarp;SEVip;track:03_SEF%C3%B6r_N_SEVip;B;E4;SEa
+Förslöv-Viarp;0074;03;2,385 km;Förslöv;SEFör;Viarp;SEVip;track:03_SEF%C3%B6r_U_SEVip;B;E4;SEa
+Kistinge-Eldsberga;0074;03;7,401 km;Kistinge;SEKst;Eldsberga;SEEa;track:03_SEKst_N_SEEa;B;D2;SEa
+Kistinge-Eldsberga;0074;03;7,401 km;Kistinge;SEKst;Eldsberga;SEEa;track:03_SEKst_U_SEEa;B;D2;SEa
+Värnamo-Bor;0074;04;11,61 km;Värnamo;SEV;Bor;SEBor;track:04_SEV_E_SEBor;B;D2;SEa
+Hästveda-Mosselund;0074;02;9,758 km;Hästveda;SEHv;Mosselund;SEMud;track:02_SEHv_N_SEMud;B;D2;SEa
+Hästveda-Mosselund;0074;02;9,758 km;Hästveda;SEHv;Mosselund;SEMud;track:02_SEHv_U_SEMud;B;D2;SEa
+Aspeå-Holmån;0074;07;7,028 km;Aspeå;SEAp;Holmån;SEHoå;track:07_SEAp_E_SEHo%C3%A5;B;E4;SEa
+Högbysjön-Gideåbacka;0074;28;10,444 km;Högbysjön;SEHög;Gideåbacka;SEGia;track:28_SEH%C3%B6g_E_SEGia;B;E4;SEa
+Rabbalshede-Tanum;0074;73;16,955 km;Rabbalshede;SERbh;Tanum;SETnu;track:73_SERbh_E_SETnu;B;D2;SEa
+Hova-Lyrestad;0074;75;12,314 km;Hova;SEHova;Lyrestad;SELyd;track:75_SEHova_E_SELyd;B;D2;SEa
+Tumba-Söderby;0074;01;2,653 km;Tumba;SETu;Söderby;SESödy;track:01_SETu_N_SES%C3%B6dy;B;D2;SEa
+Tumba-Söderby;0074;01;2,653 km;Tumba;SETu;Söderby;SESödy;track:01_SETu_U_SES%C3%B6dy;B;D2;SEa
+Losesjön-Myra;0074;05;10,847 km;Losesjön;SELsn;Myra;SEMyra;track:05_SELsn_E_SEMyra;B;D2;SEa
+Röstbo-Kilafors;0074;08;9,611 km;Röstbo;SERbo;Kilafors;SEKls;track:08_SERbo_E_SEKls;B;D2;SEa
+Ängersjö-Hössjön;0074;28;10,586 km;Ängersjö;SEÄnö;Hössjön;SEHös;track:28_SE%C3%84n%C3%B6_E_SEH%C3%B6s;B;E4;SEa
+Frillesås-Värö;0074;03;9,37 km;Frillesås;SEFå;Värö;SEVrö;track:03_SEF%C3%A5_N_SEVr%C3%B6;B;D2;SEa
+Frillesås-Värö;0074;03;9,37 km;Frillesås;SEFå;Värö;SEVrö;track:03_SEF%C3%A5_U_SEVr%C3%B6;B;D2;SEa
+Mölndals nedre-Kållered;0074;03;5,474 km;Mölndals nedre;SEMdn;Kållered;SEKrd;track:03_SEMdn_N_SEKrd;B;D2;SEa
+Mölndals nedre-Kållered;0074;03;5,474 km;Mölndals nedre;SEMdn;Kållered;SEKrd;track:03_SEMdn_U_SEKrd;B;D2;SEa
+Klenshyttan-Grängesberg;0074;10;7,096 km;Klenshyttan;SEKhy;Grängesberg;SEGg;track:10_SEKhy_E_SEGg;B;D2;SEa
+Berga-Oskarshamn;0074;65;28,273 km;Berga;SEBg;Oskarshamn;SEOh;track:65_SEBg_E_SEOh;B;D2;SEa
+Bränninge-Järna;0074;01;6,637 km;Bränninge;SEBre;Järna;SEJn;track:01_SEBre_N_SEJn;B;D2;SEa
+Bränninge-Järna;0074;01;6,637 km;Bränninge;SEBre;Järna;SEJn;track:01_SEBre_U_SEJn;B;D2;SEa
+Falköpings norra-Falköpings central;0074;01;2,164 km;Falköpings norra;SEFn;Falköpings central;SEF;track:01_SEFn_N_SEF;B;D2;SEa
+Falköpings norra-Falköpings central;0074;01;2,164 km;Falköpings norra;SEFn;Falköpings central;SEF;track:01_SEFn_U_SEF;B;D2;SEa
+Säby-Uppsala central;0074;05;4,427 km;Säby;SESäy;Uppsala central;SEU;track:05_SES%C3%A4y_N_SEU;B;D2;SEa
+Säby-Uppsala central;0074;05;4,427 km;Säby;SESäy;Uppsala central;SEU;track:05_SES%C3%A4y_U_SEU;B;D2;SEa
+Brännland-Klockarbäcken;0074;07;5,436 km;Brännland;SEBrd;Klockarbäcken;SEKlbn;track:07_SEBrd_E_SEKlbn;B;E4;SEa
+Bollnäs-Röste;0074;08;3,484 km;Bollnäs;SEBn;Röste;SERte;track:08_SEBn_E_SERte;B;D2;SEa
+Skattkärr-Karlstad Välsviken;0074;12;5,716 km;Skattkärr;SESrr;Karlstad Välsviken;SEKvä;track:12_SESrr_E_SEKv%C3%A4;B;D2;SEa
+Bjuv-Mörarp;0074;13;4,078 km;Bjuv;SEBjuv;Mörarp;SEMör;track:13_SEBjuv_E_SEM%C3%B6r;B;D2;SEa
+Kode-Stora Höga;0074;73;8,74 km;Kode;SEKde;Stora Höga;SESth;track:73_SEKde_E_SESth;B;D2;SEa
+Hestra-Gnosjö;0074;04;13,253 km;Hestra;SEHet;Gnosjö;SEGnö;track:04_SEHet_E_SEGn%C3%B6;B;D2;SEa
+Laduberg-Brännberg;0074;07;9,315 km;Laduberg;SELrg;Brännberg;SEBrg;track:07_SELrg_E_SEBrg;B;E4;SEa
+Simeå-Karsjö;0074;08;8,906 km;Simeå;SESmå;Karsjö;SEKsö;track:08_SESm%C3%A5_E_SEKs%C3%B6;B;D2;SEa
+Åmål-Tösse;0074;11;9,177 km;Åmål;SEÅl;Tösse;SETöe;track:11_SE%C3%85l_E_SET%C3%B6e;B;D2;SEa
+Lycksele-Kattisavan;0074;44;32,655 km;Lycksele;SELy;Kattisavan;SEKat;track:44_SELy_E_SEKat;B;D2;SEa
+Slätte-Töreboda;0074;01;7,931 km;Slätte;SESle;Töreboda;SET;track:01_SESle_N_SET;B;D2;SEa
+Slätte-Töreboda;0074;01;7,931 km;Slätte;SESle;Töreboda;SET;track:01_SESle_U_SET;B;D2;SEa
+Kattarp-Ödåkra;0074;03;4,967 km;Kattarp;SEKa;Ödåkra;SEÖda;track:03_SEKa_E_SE%C3%96da;B;D2;SEa
+Kållered-Lindome;0074;03;4,276 km;Kållered;SEKrd;Lindome;SELdo;track:03_SEKrd_N_SELdo;B;D2;SEa
+Kållered-Lindome;0074;03;4,276 km;Kållered;SEKrd;Lindome;SELdo;track:03_SEKrd_U_SELdo;B;D2;SEa
+Värö-Varberg;0074;03;15,411 km;Värö;SEVrö;Varberg;SEVb;track:03_SEVr%C3%B6_N_SEVb;B;D2;SEa
+Värö-Varberg;0074;03;15,411 km;Värö;SEVrö;Varberg;SEVb;track:03_SEVr%C3%B6_U_SEVb;B;D2;SEa
+Ekträsk-Lubboträsk;0074;07;9,6 km;Ekträsk;SEEtk;Lubboträsk;SELuä;track:07_SEEtk_E_SELu%C3%A4;B;E4;SEa
+Brunsbergstunneln-Edane;0074;12;7,001 km;Brunsbergstunneln;SEBu;Edane;SEEn;track:12_SEBu_E_SEEn;B;D2;SEa
+Rundvik-Nordmaling;0074;28;5,38 km;Rundvik;SERuk;Nordmaling;SENog;track:28_SERuk_E_SENog;B;E4;SEa
+Mönsterås-Blomstermåla;0074;65;13,36 km;Mönsterås;SEMss;Blomstermåla;SEBma;track:65_SEMss_E_SEBma;B;D2;SEa
+Södertälje syd övre-Almnäs;0074;01;8,647 km;Södertälje syd övre;SESöö;Almnäs;SEAlä;track:01_SES%C3%B6%C3%B6_E_SEAl%C3%A4;B;D2;SEa
+Gnosjö-Hillerstorp;0074;04;10,979 km;Gnosjö;SEGnö;Hillerstorp;SEHto;track:04_SEGn%C3%B6_E_SEHto;B;D2;SEa
+Märsta-Myrbacken;0074;05;8,173 km;Märsta;SEMr;Myrbacken;SEMyn;track:05_SEMr_N_SEMyn;B;D2;SEa
+Märsta-Myrbacken;0074;05;8,173 km;Märsta;SEMr;Myrbacken;SEMyn;track:05_SEMr_U_SEMyn;B;D2;SEa
+Nolby-Svartvik;0074;05;3,843 km;Nolby;SENly;Svartvik;SESik;track:05_SENly_E_SESik;B;D2;SEa
+Ludvika-Klenshyttan;0074;10;8,306 km;Ludvika;SELa;Klenshyttan;SEKhy;track:10_SELa_E_SEKhy;B;D2;SEa
+Göteborg Kville-Säve;0074;23;10,457 km;Göteborg Kville;SEGk;Säve;SESve;track:23_SEGk_E_SESve;B;D2;SEa
+Flen-Sköldinge;0074;01;8,276 km;Flen;SEFle;Sköldinge;SESde;track:01_SEFle_N_SESde;B;D2;SEa
+Flen-Sköldinge;0074;01;8,276 km;Flen;SEFle;Sköldinge;SESde;track:01_SEFle_U_SESde;B;D2;SEa
+Vagnhärad-Lästringe;0074;02;12,989 km;Vagnhärad;SEVhd;Lästringe;SELre;track:02_SEVhd_E_SELre;B;D2;SEa
+Landskrona Östra-Kävlinge;0074;03;19,953 km;Landskrona Östra;SELkö;Kävlinge;SEKg;track:03_SELk%C3%B6_N_SEKg;B;D2;SEa
+Landskrona Östra-Kävlinge;0074;03;19,953 km;Landskrona Östra;SELkö;Kävlinge;SEKg;track:03_SELk%C3%B6_U_SEKg;B;D2;SEa
+Oslättfors-Kolforsen;0074;08;11,597 km;Oslättfors;SEOsl;Kolforsen;SEKfn;track:08_SEOsl_E_SEKfn;B;D2;SEa
+Tystberga-Sjösa;0074;02;12,182 km;Tystberga;SETba;Sjösa;SESsa;track:02_SETba_E_SESsa;B;D2;SEa
+Hillerstorp-Värnamo;0074;04;17,35 km;Hillerstorp;SEHto;Värnamo;SEV;track:04_SEHto_E_SEV;B;D2;SEa
+Gårdsjön-Maj;0074;05;3,863 km;Gårdsjön;SEGön;Maj;SEMaj;track:05_SEG%C3%B6n_E_SEMaj;B;D2;SEa
+Svartvik-Stockviksverkens nedre;0074;05;2,897 km;Svartvik;SESik;Stockviksverkens nedre;SESton;track:05_SESik_E_SESton;B;D2;SEa
+Bälgviken-Hållsta;0074;18;4,789 km;Bälgviken;SEBgv;Hållsta;SEHål;track:18_SEBgv_E_SEH%C3%A5l;B;D2;SEa
+Billeberga-Teckomatorp;0074;32;5,991 km;Billeberga;SEBib;Teckomatorp;SETp;track:32_SEBib_E_SETp;B;D2;SEa
+Rossön-Hoting;0074;46;27,851 km;Rossön;SERos;Hoting;SEHtg;track:46_SERos_E_SEHtg;B;D2;SEa
+Storebro-Hultsfred;0074;65;11,165 km;Storebro;SESro;Hultsfred;SEHf;track:65_SESro_E_SEHf;B;D2;SEa
+Dånviken-Östertälje;0074;01;3,563 km;Dånviken;SEDån;Östertälje;SEÖte;track:01_SED%C3%A5n_N_SE%C3%96te;B;D2;SEa
+Dånviken-Östertälje;0074;01;3,563 km;Dånviken;SEDån;Östertälje;SEÖte;track:01_SED%C3%A5n_U_SE%C3%96te;B;D2;SEa
+Högsjö-Kilsmo;0074;01;11,035 km;Högsjö;SEHgö;Kilsmo;SEKm;track:01_SEHg%C3%B6_N_SEKm;B;D2;SEa
+Högsjö-Kilsmo;0074;01;11,035 km;Högsjö;SEHgö;Kilsmo;SEKm;track:01_SEHg%C3%B6_U_SEKm;B;D2;SEa
+Stolpstugan-Katrineholms central;0074;01;7,941 km;Stolpstugan;SESpn;Katrineholms central;SEK;track:01_SESpn_N_SEK;B;D2;SEa
+Stolpstugan-Katrineholms central;0074;01;7,941 km;Stolpstugan;SESpn;Katrineholms central;SEK;track:01_SESpn_U_SEK;B;D2;SEa
+Spjutsbygd-Gullberna;0074;04;13,979 km;Spjutsbygd;SESpj;Gullberna;SEGua;track:04_SESpj_E_SEGua;B;E4;SEa
+Kälarne-Vackernäset;0074;07;3,231 km;Kälarne;SEKln;Vackernäset;SEVnt;track:07_SEKln_E_SEVnt;B;D2;SEa
+Örabäcken-Ramsjö;0074;08;7,273 km;Örabäcken;SEÖbn;Ramsjö;SERsö;track:08_SE%C3%96bn_E_SERs%C3%B6;B;D2;SEa
+Hållsta-Skogstorp;0074;18;4,327 km;Hållsta;SEHål;Skogstorp;SESkrp;track:18_SEH%C3%A5l_E_SESkrp;B;D2;SEa
+Kisa-Gullringen;0074;65;22,365 km;Kisa;SEKisa;Gullringen;SEGng;track:65_SEKisa_E_SEGng;B;D2;SEa
+Gamleby-Västervik;0074;66;24,311 km;Gamleby;SEGal;Västervik;SEVk;track:66_SEGal_E_SEVk;B;C2;SEa
+Frinnaryd-Ralingsås;0074;02;7,154 km;Frinnaryd;SEFrd;Ralingsås;SERas;track:02_SEFrd_N_SERas;B;D2;SEa
+Frinnaryd-Ralingsås;0074;02;7,154 km;Frinnaryd;SEFrd;Ralingsås;SERas;track:02_SEFrd_U_SERas;B;D2;SEa
+Hölö-Vagnhärad;0074;02;10,316 km;Hölö;SEHlö;Vagnhärad;SEVhd;track:02_SEHl%C3%B6_E_SEVhd;B;D2;SEa
+Rödberg-Sandared;0074;04;11,564 km;Rödberg;SERö;Sandared;SESae;track:04_SER%C3%B6_E_SESae;B;D2;SEa
+Bjurhem-Öxnered;0074;11;8,068 km;Bjurhem;SEBjh;Öxnered;SEÖx;track:11_SEBjh_E_SE%C3%96x;B;D2;SEa
+Ed-Mon;0074;11;12,141 km;Ed;SEEd;Mon;SEMon;track:11_SEEd_E_SEMon;B;D2;SEa
+Eneryda-Diö norra;0074;02;10,858 km;Eneryda;SEEra;Diö norra;SEDiö;track:02_SEEra_N_SEDi%C3%B6;B;D2;SEa
+Eneryda-Diö norra;0074;02;10,858 km;Eneryda;SEEra;Diö norra;SEDiö;track:02_SEEra_U_SEDi%C3%B6;B;D2;SEa
+Tornhill-Lund c;0074;02;3,52 km;Tornhill;SEThl;Lund c;SELu;track:02_SEThl_N_SELu;B;D2;SEa
+Tornhill-Lund c;0074;02;3,52 km;Tornhill;SEThl;Lund c;SELu;track:02_SEThl_U_SELu;B;D2;SEa
+Kringlan-Axmarby;0074;05;5,619 km;Kringlan;SEKrl;Axmarby;SEAx;track:05_SEKrl_E_SEAx;B;D2;SEa
+Mo grindar-Döljebro;0074;08;5,988 km;Mo grindar;SEMog;Döljebro;SEDöl;track:08_SEMog_N_SED%C3%B6l;B;D2;SEa
+Mo grindar-Döljebro;0074;08;5,988 km;Mo grindar;SEMog;Döljebro;SEDöl;track:08_SEMog_U_SED%C3%B6l;B;D2;SEa
+Edsvalla-Vålberg;0074;11;4,281 km;Edsvalla;SEEl;Vålberg;SEVåb;track:11_SEEl_E_SEV%C3%A5b;B;D2;SEa
+Örnsköldsvik norra-Arnäsvall;0074;28;3,14 km;Örnsköldsvik norra;SEÖkn;Arnäsvall;SEAra;track:28_SE%C3%96kn_E_SEAra;B;E4;SEa
+Husums norra-Könsa;0074;28;5,096 km;Husums norra;SEHumn;Könsa;SEKöa;track:28_SEHumn_E_SEK%C3%B6a;B;E4;SEa
+Storfors-Nykroppa;0074;69;12,242 km;Storfors;SESf;Nykroppa;SENka;track:69_SESf_E_SENka;B;D2;SEa
+Malmsjö-Södertälje syd övre;0074;01;7,06 km;Malmsjö;SEMsj;Södertälje syd övre;SESöö;track:01_SEMsj_N_SES%C3%B6%C3%B6;B;D2;SEa
+Malmsjö-Södertälje syd övre;0074;01;7,06 km;Malmsjö;SEMsj;Södertälje syd övre;SESöö;track:01_SEMsj_U_SES%C3%B6%C3%B6;B;D2;SEa
+Enstaberga-Jönåker;0074;02;7,492 km;Enstaberga;SEEbg;Jönåker;SEJår;track:02_SEEbg_E_SEJ%C3%A5r;B;D2;SEa
+Järna-Hölö;0074;02;8,245 km;Järna;SEJn;Hölö;SEHlö;track:02_SEJn_E_SEHl%C3%B6;B;D2;SEa
+Laholm västra-Båstad norra;0074;03;10,085 km;Laholm västra;SELaov;Båstad norra;SEBån;track:03_SELaov_N_SEB%C3%A5n;B;D2;SEa
+Laholm västra-Båstad norra;0074;03;10,085 km;Laholm västra;SELaov;Båstad norra;SEBån;track:03_SELaov_U_SEB%C3%A5n;B;D2;SEa
+Rotebro-Upplands Väsby;0074;05;5,351 km;Rotebro;SER;Upplands Väsby;SEUpv;track:05_SER_1N_SEUpv;B;D2;SEa
+Rotebro-Upplands Väsby;0074;05;5,351 km;Rotebro;SER;Upplands Väsby;SEUpv;track:05_SER_1U_SEUpv;B;D2;SEa
+Rotebro-Upplands Väsby;0074;05;5,351 km;Rotebro;SER;Upplands Väsby;SEUpv;track:05_SER_2N_SEUpv;B;D2;SEa
+Rotebro-Upplands Väsby;0074;05;5,351 km;Rotebro;SER;Upplands Väsby;SEUpv;track:05_SER_2U_SEUpv;B;D2;SEa
+Grums-Segmon;0074;11;9,864 km;Grums;SEGms;Segmon;SESgm;track:11_SEGms_E_SESgm;B;D2;SEa
+Arvika-Ottebol;0074;12;9,595 km;Arvika;SEAr;Ottebol;SEOt;track:12_SEAr_E_SEOt;B;D2;SEa
+Överum-Gamleby;0074;66;11,678 km;Överum;SEÖvm;Gamleby;SEGal;track:66_SE%C3%96vm_E_SEGal;B;C2;SEa
+Töreboda-Moholm;0074;01;11,973 km;Töreboda;SET;Moholm;SEMh;track:01_SET_N_SEMh;B;D2;SEa
+Töreboda-Moholm;0074;01;11,973 km;Töreboda;SET;Moholm;SEMh;track:01_SET_U_SEMh;B;D2;SEa
+Örtofta-Tornhill;0074;02;5,961 km;Örtofta;SEÖ;Tornhill;SEThl;track:02_SE%C3%96_N_SEThl;B;D2;SEa
+Örtofta-Tornhill;0074;02;5,961 km;Örtofta;SEÖ;Tornhill;SEThl;track:02_SE%C3%96_U_SEThl;B;D2;SEa
+Grevaryd-Lidnäs;0074;02;9,172 km;Grevaryd;SEGrd;Lidnäs;SELns;track:02_SEGrd_N_SELns;B;D2;SEa
+Grevaryd-Lidnäs;0074;02;9,172 km;Grevaryd;SEGrd;Lidnäs;SELns;track:02_SEGrd_U_SELns;B;D2;SEa
+Mjölby-Lindekullen;0074;02;8,316 km;Mjölby;SEMy;Lindekullen;SELkn;track:02_SEMy_N_SELkn;B;D2;SEa
+Mjölby-Lindekullen;0074;02;8,316 km;Mjölby;SEMy;Lindekullen;SELkn;track:02_SEMy_U_SELkn;B;D2;SEa
+Degermyr-Vännäs;0074;07;9,982 km;Degermyr;SEDgm;Vännäs;SEVns;track:07_SEDgm_E_SEVns;B;E4;SEa
+Selsjön-Backsjön;0074;07;6,132 km;Selsjön;SESlj;Backsjön;SEBaö;track:07_SESlj_E_SEBa%C3%B6;B;E4;SEa
+Storträsk-Träskholm;0074;07;9,14 km;Storträsk;SESto;Träskholm;SEThm;track:07_SESto_E_SEThm;B;E4;SEa
+Vännäs norra-Tväråbäck;0074;07;6,907 km;Vännäs norra;SEVän;Tväråbäck;SETvb;track:07_SEV%C3%A4n_E_SETvb;B;E4;SEa
+Dysjön-Bensjöbacken;0074;08;9,686 km;Dysjön;SEDy;Bensjöbacken;SEBsb;track:08_SEDy_N_SEBsb;B;D2;SEa
+Dysjön-Bensjöbacken;0074;08;9,686 km;Dysjön;SEDy;Bensjöbacken;SEBsb;track:08_SEDy_U_SEBsb;B;D2;SEa
+Norrhög-Mellansjö;0074;08;8,398 km;Norrhög;SENg;Mellansjö;SEMsö;track:08_SENg_N_SEMs%C3%B6;B;D2;SEa
+Norrhög-Mellansjö;0074;08;8,398 km;Norrhög;SENg;Mellansjö;SEMsö;track:08_SENg_U_SEMs%C3%B6;B;D2;SEa
+Singsån-Ragunda;0074;07;7,326 km;Singsån;SESngå;Ragunda;SERu;track:07_SESng%C3%A5_E_SERu;B;D2;SEa
+Ställdalen-Grängesbergs malmbangård;0074;10;15,783 km;Ställdalen;SEStl;Grängesbergs malmbangård;SEGgm;track:10_SEStl_E_SEGgm;B;D2;SEa
+Väse-Skattkärr;0074;12;11,996 km;Väse;SEVe;Skattkärr;SESrr;track:12_SEVe_E_SESrr;B;D2;SEa
+Lycksele timmer-Lyckselesågen;0074;44;1,411 km;Lycksele timmer;SELyt;Lyckselesågen;SELyg;track:44_SELyt_E_SELyg;B;D2;SEa
+Södertälje syd övre-Järna;0074;01;9,576 km;Södertälje syd övre;SESöö;Järna;SEJn;track:01_SES%C3%B6%C3%B6_N_SEJn;B;D2;SEa
+Södertälje syd övre-Järna;0074;01;9,576 km;Södertälje syd övre;SESöö;Järna;SEJn;track:01_SES%C3%B6%C3%B6_U_SEJn;B;D2;SEa
+Aleholm-Stockaryd;0074;02;11,016 km;Aleholm;SEAhm;Stockaryd;SESy;track:02_SEAhm_N_SESy;B;D2;SEa
+Aleholm-Stockaryd;0074;02;11,016 km;Aleholm;SEAhm;Stockaryd;SESy;track:02_SEAhm_U_SESy;B;D2;SEa
+Ulvstorp-Aleholm;0074;02;9,125 km;Ulvstorp;SEUtp;Aleholm;SEAhm;track:02_SEUtp_N_SEAhm;B;D2;SEa
+Ulvstorp-Aleholm;0074;02;9,125 km;Ulvstorp;SEUtp;Aleholm;SEAhm;track:02_SEUtp_U_SEAhm;B;D2;SEa
+Brännarp-Biskopstorp;0074;03;10,369 km;Brännarp;SEBp;Biskopstorp;SEBtp;track:03_SEBp_N_SEBtp;B;D2;SEa
+Brännarp-Biskopstorp;0074;03;10,369 km;Brännarp;SEBp;Biskopstorp;SEBtp;track:03_SEBp_U_SEBtp;B;D2;SEa
+Holmsjö-Spjutsbygd;0074;04;13,35 km;Holmsjö;SEHmö;Spjutsbygd;SESpj;track:04_SEHm%C3%B6_E_SESpj;B;E4;SEa
+Hilleby-Trödje;0074;05;9,792 km;Hilleby;SEHly;Trödje;SETdj;track:05_SEHly_E_SETdj;B;D2;SEa
+Köpmannebro-Mellerud;0074;11;7,924 km;Köpmannebro;SEKpm;Mellerud;SEMl;track:11_SEKpm_E_SEMl;B;D2;SEa
+Edane-Arvika;0074;12;14,911 km;Edane;SEEn;Arvika;SEAr;track:12_SEEn_E_SEAr;B;D2;SEa
+Vrena-Silinge;0074;18;20,168 km;Vrena;SEVre;Silinge;SESii;track:18_SEVre_E_SESii;B;D2;SEa
+Betåsen-Tågsjöberg;0074;46;14,439 km;Betåsen;SEBtå;Tågsjöberg;SETsg;track:46_SEBt%C3%A5_E_SETsg;B;D2;SEa
+Bjärnum-Hässleholm;0074;02;15,907 km;Bjärnum;SEBjm;Hässleholm;SEHm;track:02_SEBjm_E_SEHm;B;D2;SEa
+Dammstorp-Örtofta;0074;02;3,508 km;Dammstorp;SEDat;Örtofta;SEÖ;track:02_SEDat_N_SE%C3%96;B;D2;SEa
+Dammstorp-Örtofta;0074;02;3,508 km;Dammstorp;SEDat;Örtofta;SEÖ;track:02_SEDat_U_SE%C3%96;B;D2;SEa
+Getå-Åby södra;0074;02;5,417 km;Getå;SEGtå;Åby södra;SEÅbs;track:02_SEGt%C3%A5_E_SE%C3%85bs;B;D2;SEa
+Degerbäcken-Hednoret;0074;07;6,428 km;Degerbäcken;SEDbn;Hednoret;SEHt;track:07_SEDbn_E_SEHt;B;E4;SEa
+Skälebol-Brålanda;0074;11;5,789 km;Skälebol;SESkbl;Brålanda;SEBrl;track:11_SESkbl_E_SEBrl;B;D2;SEa
+Kristinehamn-Spjutbäcken;0074;12;2,348 km;Kristinehamn;SEKhn;Spjutbäcken;SESpjb;track:12_SEKhn_E_SESpjb;B;D2;SEa
+Vara-Vedum;0074;15;10,694 km;Vara;SEVaa;Vedum;SEVed;track:15_SEVaa_E_SEVed;B;D2;SEa
+Hjulsbro-Bjärka-Säby;0074;65;12,918 km;Hjulsbro;SEHj;Bjärka-Säby;SEBsä;track:65_SEHj_E_SEBs%C3%A4;B;D2;SEa
+Bjärka-Säby-Viresjö;0074;66;12,968 km;Bjärka-Säby;SEBsä;Viresjö;SEVsö;track:66_SEBs%C3%A4_E_SEVs%C3%B6;B;C2;SEa
+Flemingsberg-Björnkulla;0074;01;2,092 km;Flemingsberg;SEFlb;Björnkulla;SEBjn;track:01_SEFlb_N_SEBjn;B;D2;SEa
+Flemingsberg-Björnkulla;0074;01;2,092 km;Flemingsberg;SEFlb;Björnkulla;SEBjn;track:01_SEFlb_U_SEBjn;B;D2;SEa
+Moholm-Väring;0074;01;11,652 km;Moholm;SEMh;Väring;SEVä;track:01_SEMh_N_SEV%C3%A4;B;D2;SEa
+Moholm-Väring;0074;01;11,652 km;Moholm;SEMh;Väring;SEVä;track:01_SEMh_U_SEV%C3%A4;B;D2;SEa
+Mantorp-Mjölby;0074;02;10,138 km;Mantorp;SEMt;Mjölby;SEMy;track:02_SEMt_N_SEMy;B;D2;SEa
+Mantorp-Mjölby;0074;02;10,138 km;Mantorp;SEMt;Mjölby;SEMy;track:02_SEMt_U_SEMy;B;D2;SEa
+Frändefors-Bjurhem;0074;11;7,455 km;Frändefors;SEFdf;Bjurhem;SEBjh;track:11_SEFdf_E_SEBjh;B;D2;SEa
+Ryr-Öxnered;0074;11;8,956 km;Ryr;SERyr;Öxnered;SEÖx;track:11_SERyr_E_SE%C3%96x;B;D2;SEa
+Vimmerby Hamra-Storebro;0074;65;7,343 km;Vimmerby Hamra;SEVibh;Storebro;SESro;track:65_SEVibh_E_SESro;B;D2;SEa
+Floda-Stenkullen;0074;01;3,512 km;Floda;SEFd;Stenkullen;SESn;track:01_SEFd_N_SESn;B;D2;SEa
+Floda-Stenkullen;0074;01;3,512 km;Floda;SEFd;Stenkullen;SESn;track:01_SEFd_U_SESn;B;D2;SEa
+Myra-Boda;0074;05;10,072 km;Myra;SEMyra;Boda;SEBoda;track:05_SEMyra_E_SEBoda;B;D2;SEa
+Storvreta-Salsta;0074;05;10,319 km;Storvreta;SESrv;Salsta;SESas;track:05_SESrv_N_SESas;B;D2;SEa
+Storvreta-Salsta;0074;05;10,319 km;Storvreta;SESrv;Salsta;SESas;track:05_SESrv_U_SESas;B;D2;SEa
+Vallvik-Gussi;0074;05;5,042 km;Vallvik;SEVv;Gussi;SEGui;track:05_SEVv_E_SEGui;B;D2;SEa
+Forsmo-Selsjön;0074;07;6,155 km;Forsmo;SEFsm;Selsjön;SESlj;track:07_SEFsm_E_SESlj;B;E4;SEa
+Trehörningsjö-Norrfors;0074;07;13,167 km;Trehörningsjö;SEThö;Norrfors;SENrs;track:07_SETh%C3%B6_E_SENrs;B;E4;SEa
+Vackernäset-Roback;0074;07;3,181 km;Vackernäset;SEVnt;Roback;SERob;track:07_SEVnt_E_SERob;B;D2;SEa
+Hällefors-Grythyttans norra;0074;10;4,542 km;Hällefors;SEHlf;Grythyttans norra;SEGhyn;track:10_SEHlf_E_SEGhyn;B;D2;SEa
+Strömtorp-Björneborg;0074;12;11,224 km;Strömtorp;SESrt;Björneborg;SEBjb;track:12_SESrt_E_SEBjb;B;D2;SEa
+Munkedal-Dingle;0074;73;9,76 km;Munkedal;SEMkl;Dingle;SEDl;track:73_SEMkl_E_SEDl;B;D2;SEa
+Garnudden-Dånviken;0074;01;3,411 km;Garnudden;SEGau;Dånviken;SEDån;track:01_SEGau_N_SED%C3%A5n;B;D2;SEa
+Garnudden-Dånviken;0074;01;3,411 km;Garnudden;SEGau;Dånviken;SEDån;track:01_SEGau_U_SED%C3%A5n;B;D2;SEa
+Rörvik-Grevaryd;0074;02;9,011 km;Rörvik;SERk;Grevaryd;SEGrd;track:02_SERk_N_SEGrd;B;D2;SEa
+Rörvik-Grevaryd;0074;02;9,011 km;Rörvik;SERk;Grevaryd;SEGrd;track:02_SERk_U_SEGrd;B;D2;SEa
+Hindås-Rävlanda;0074;04;7,422 km;Hindås;SEHås;Rävlanda;SERd;track:04_SEH%C3%A5s_E_SERd;B;D2;SEa
+Nättraby-Gullberna;0074;04;7,939 km;Nättraby;SENät;Gullberna;SEGua;track:04_SEN%C3%A4t_E_SEGua;B;D2;SEa
+Gottne-Björnsjö;0074;07;10,623 km;Gottne;SEGe;Björnsjö;SEBjö;track:07_SEGe_E_SEBj%C3%B6;B;E4;SEa
+Nyfors-Älvsbyn;0074;07;1,486 km;Nyfors;SENyf;Älvsbyn;SEÄy;track:07_SENyf_E_SE%C3%84y;B;E4;SEa
+Karsjö-Lörstrand;0074;08;5,683 km;Karsjö;SEKsö;Lörstrand;SELö;track:08_SEKs%C3%B6_E_SEL%C3%B6;B;D2;SEa
+Kristinehamn-Ölme;0074;12;8,239 km;Kristinehamn;SEKhn;Ölme;SEÖl;track:12_SEKhn_E_SE%C3%96l;B;D2;SEa
+Håkantorp-Vara;0074;15;5,706 km;Håkantorp;SEHåp;Vara;SEVaa;track:15_SEH%C3%A5p_E_SEVaa;B;D2;SEa
+Lycksele industrispår-Lycksele;0074;44;2,185 km;Lycksele industrispår;SELsp;Lycksele;SELy;track:44_SELsp_E_SELy;B;D2;SEa
+Gårdsjö-Älgarås;0074;01;8,009 km;Gårdsjö;SEGdö;Älgarås;SEÄl;track:01_SEGd%C3%B6_N_SE%C3%84l;B;D2;SEa
+Gårdsjö-Älgarås;0074;01;8,009 km;Gårdsjö;SEGdö;Älgarås;SEÄl;track:01_SEGd%C3%B6_U_SE%C3%84l;B;D2;SEa
+Nässjö central-Ekenässjön;0074;02;28,218 km;Nässjö central;SEN;Ekenässjön;SEEsn;track:02_SEN_E_SEEsn;B;D2;SEa
+Stockaryd-Rörvik;0074;02;8,908 km;Stockaryd;SESy;Rörvik;SERk;track:02_SESy_N_SERk;B;D2;SEa
+Stockaryd-Rörvik;0074;02;8,908 km;Stockaryd;SESy;Rörvik;SERk;track:02_SESy_U_SERk;B;D2;SEa
+Ledsgård-Kungsbacka;0074;03;4,022 km;Ledsgård;SELgd;Kungsbacka;SEKb;track:03_SELgd_N_SEKb;B;D2;SEa
+Ledsgård-Kungsbacka;0074;03;4,022 km;Ledsgård;SELgd;Kungsbacka;SEKb;track:03_SELgd_U_SEKb;B;D2;SEa
+Mellansel-Österalnö;0074;07;14,522 km;Mellansel;SEMsl;Österalnö;SEÖal;track:07_SEMsl_E_SE%C3%96al;B;D2;SEa
+Alby-Ovansjö;0074;08;7,912 km;Alby;SEAy;Ovansjö;SEOsö;track:08_SEAy_N_SEOs%C3%B6;B;D2;SEa
+Järvsö-Skästra;0074;08;3,82 km;Järvsö;SEJr;Skästra;SESkä;track:08_SEJr_E_SESk%C3%A4;B;D2;SEa
+Ramsjö-Norrhög;0074;08;9,937 km;Ramsjö;SERsö;Norrhög;SENg;track:08_SERs%C3%B6_N_SENg;B;D2;SEa
+Ramsjö-Norrhög;0074;08;9,937 km;Ramsjö;SERsö;Norrhög;SENg;track:08_SERs%C3%B6_U_SENg;B;D2;SEa
+Åmotfors-Charlottenberg;0074;12;14,328 km;Åmotfors;SEÅt;Charlottenberg;SECg;track:12_SE%C3%85t_E_SECg;B;D2;SEa
+Norsholm-Gistad;0074;02;4,763 km;Norsholm;SENh;Gistad;SEGi;track:02_SENh_N_SEGi;B;D2;SEa
+Lidlund-Jörn;0074;07;8,407 km;Lidlund;SELdl;Jörn;SEJrn;track:07_SELdl_E_SEJrn;B;E4;SEa
+Roback-Håsjö;0074;07;5,79 km;Roback;SERob;Håsjö;SEHå;track:07_SERob_E_SEH%C3%A5;B;D2;SEa
+Alby-Ovansjö;0074;08;7,912 km;Alby;SEAy;Ovansjö;SEOsö;track:08_SEAy_U_SEOs%C3%B6;B;D2;SEa
+Nykroppa-Daglösen;0074;10;7,829 km;Nykroppa;SENka;Daglösen;SEDgö;track:10_SENka_E_SEDg%C3%B6;B;D2;SEa
+Sandmon-Kil;0074;12;26,45 km;Sandmon;SESdm;Kil;SEKil;track:12_SESdm_E_SEKil;B;D2;SEa
+Helsingborgs godsbangård-Gantofta;0074;32;6,952 km;Helsingborgs godsbangård;SEHbgb;Gantofta;SEGan;track:32_SEHbgb_E_SEGan;B;D2;SEa
+Arvån-Lycksele timmer;0074;44;12,817 km;Arvån;SEAn;Lycksele timmer;SELyt;track:44_SEAn_E_SELyt;B;D2;SEa
+Brattheden-Virsbo;0074;63;11,131 km;Brattheden;SEBrh;Virsbo;SEVso;track:63_SEBrh_E_SEVso;B;D2;SEa
+Virsbo-Ängelsberg;0074;63;10,508 km;Virsbo;SEVso;Ängelsberg;SEÄbg;track:63_SEVso_E_SE%C3%84bg;B;D2;SEa
+Mosselund-Hässleholm;0074;02;8,766 km;Mosselund;SEMud;Hässleholm;SEHm;track:02_SEMud_N_SEHm;B;D2;SEa
+Mosselund-Hässleholm;0074;02;8,766 km;Mosselund;SEMud;Hässleholm;SEHm;track:02_SEMud_U_SEHm;B;D2;SEa
+Norsholm-Gistad;0074;02;4,763 km;Norsholm;SENh;Gistad;SEGi;track:02_SENh_U_SEGi;B;D2;SEa
+Iggesund-Hudiksvall;0074;05;11,076 km;Iggesund;SEId;Hudiksvall;SEHkl;track:05_SEId_E_SEHkl;B;D2;SEa
+Stegsskogen-Harmånger;0074;05;8,174 km;Stegsskogen;SESten;Harmånger;SEHåg;track:05_SESten_E_SEH%C3%A5g;B;D2;SEa
+Vålberg-Grums;0074;11;7,238 km;Vålberg;SEVåb;Grums;SEGms;track:11_SEV%C3%A5b_E_SEGms;B;D2;SEa
+Velanda södra-Varpemossen;0074;11;9,877 km;Velanda södra;SEVeas;Varpemossen;SEVpm;track:11_SEVeas_N_SEVpm;B;E4;SEa
+Velanda södra-Varpemossen;0074;11;9,877 km;Velanda södra;SEVeas;Varpemossen;SEVpm;track:11_SEVeas_U_SEVpm;B;E4;SEa
+Hasselfors-Svartå;0074;12;10,749 km;Hasselfors;SEHs;Svartå;SESvå;track:12_SEHs_E_SESv%C3%A5;B;D2;SEa
+Lerum-Jonsered östra;0074;01;5,465 km;Lerum;SELr;Jonsered östra;SEJ;track:01_SELr_N_SEJ;B;D2;SEa
+Simonstorp-Åby södra;0074;02;14,797 km;Simonstorp;SESmt;Åby södra;SEÅbs;track:02_SESmt_N_SE%C3%85bs;B;D2;SEa
+Simonstorp-Åby södra;0074;02;14,797 km;Simonstorp;SESmt;Åby södra;SEÅbs;track:02_SESmt_U_SE%C3%85bs;B;D2;SEa
+Biskopstorp-Furet;0074;03;7,91 km;Biskopstorp;SEBtp;Furet;SEFur;track:03_SEBtp_N_SEFur;B;D2;SEa
+Biskopstorp-Furet;0074;03;7,91 km;Biskopstorp;SEBtp;Furet;SEFur;track:03_SEBtp_U_SEFur;B;D2;SEa
+Njurundabommen-Nolby;0074;05;2,424 km;Njurundabommen;SENjb;Nolby;SENly;track:05_SENjb_N_SENly;B;D2;SEa
+Njurundabommen-Nolby;0074;05;2,424 km;Njurundabommen;SENjb;Nolby;SENly;track:05_SENjb_U_SENly;B;D2;SEa
+Nyhem-Karlsberg;0074;07;7,444 km;Nyhem;SENy;Karlsberg;SEKsg;track:07_SENy_E_SEKsg;B;D2;SEa
+Kvicksund-Strömsholm;0074;18;5,547 km;Kvicksund;SEKsu;Strömsholm;SESsh;track:18_SEKsu_E_SESsh;B;D2;SEa
+Åmsele-Arvån;0074;44;18,709 km;Åmsele;SEÅm;Arvån;SEAn;track:44_SE%C3%85m_E_SEAn;B;D2;SEa
+Lerum-Jonsered östra;0074;01;5,465 km;Lerum;SELr;Jonsered östra;SEJ;track:01_SELr_U_SEJ;B;D2;SEa
+Lessebo-Skruv;0074;04;11,402 km;Lessebo;SELo;Skruv;SESru;track:04_SELo_E_SESru;B;D2;SEa
+Töva-Nacksta;0074;05;8,012 km;Töva;SETöv;Nacksta;SENta;track:05_SET%C3%B6v_E_SENta;B;D2;SEa
+Helgum-Långsele;0074;07;9,406 km;Helgum;SEHlm;Långsele;SELsl;track:07_SEHlm_E_SELsl;B;D2;SEa
+Storå-Rällså;0074;10;9,788 km;Storå;SESr;Rällså;SERlå;track:10_SESr_E_SERl%C3%A5;B;D2;SEa
+Byälven-Säffle;0074;11;0,841 km;Byälven;SEByä;Säffle;SESfl;track:11_SEBy%C3%A4_E_SESfl;B;D2;SEa
+Varpemossen-Torbacken;0074;11;8,001 km;Varpemossen;SEVpm;Torbacken;SETbn;track:11_SEVpm_N_SETbn;B;E4;SEa
+Varpemossen-Torbacken;0074;11;8,001 km;Varpemossen;SEVpm;Torbacken;SETbn;track:11_SEVpm_U_SETbn;B;E4;SEa
+Åstorp-Billesholm;0074;13;8,96 km;Åstorp;SEÅp;Billesholm;SEBih;track:13_SE%C3%85p_E_SEBih;B;E4;SEa
+Ytterby-Kode;0074;73;10,91 km;Ytterby;SEYb;Kode;SEKde;track:73_SEYb_E_SEKde;B;D2;SEa
+Gävle godsbangård-Strömsbro;0074;05;1,281 km;Gävle godsbangård;SEGäb;Strömsbro;SESmo;track:05_SEG%C3%A4b_122_SESmo;B;D2;SEa
+Järlebo-Örbyhus;0074;05;11,081 km;Järlebo;SEJlo;Örbyhus;SEÖh;track:05_SEJlo_N_SE%C3%96h;B;D2;SEa
+Järlebo-Örbyhus;0074;05;11,081 km;Järlebo;SEJlo;Örbyhus;SEÖh;track:05_SEJlo_U_SE%C3%96h;B;D2;SEa
+Degerfors-Strömtorp;0074;12;3,057 km;Degerfors;SEDg;Strömtorp;SESrt;track:12_SEDg_E_SESrt;B;D2;SEa
+Karlstads central-Skåre;0074;12;7,142 km;Karlstads central;SEKs;Skåre;SESkr;track:12_SEKs_E_SESkr;B;D2;SEa
+Falköpings central-Floby;0074;01;13,716 km;Falköpings central;SEF;Floby;SEFby;track:01_SEF_N_SEFby;B;D2;SEa
+Falköpings central-Floby;0074;01;13,716 km;Falköpings central;SEF;Floby;SEFby;track:01_SEF_U_SEFby;B;D2;SEa
+Tyllered-Torebo;0074;03;8,532 km;Tyllered;SETye;Torebo;SETeo;track:03_SETye_N_SETeo;B;D2;SEa
+Tyllered-Torebo;0074;03;8,532 km;Tyllered;SETye;Torebo;SETeo;track:03_SETye_U_SETeo;B;D2;SEa
+Bomansberget-Gävle central;0074;05;6,151 km;Bomansberget;SEBom;Gävle central;SEGä;track:05_SEBom_N_SEG%C3%A4;B;D2;SEa
+Bomansberget-Gävle central;0074;05;6,151 km;Bomansberget;SEBom;Gävle central;SEGä;track:05_SEBom_U_SEG%C3%A4;B;D2;SEa
+Östra Grevie-Skytts Vemmerlöv;0074;26;6,776 km;Östra Grevie;SEÖg;Skytts Vemmerlöv;SESvö;track:26_SE%C3%96g_E_SESv%C3%B6;B;D2;SEa
+Råsjön-Tisselskog;0074;71;8,049 km;Råsjön;SERån;Tisselskog;SETsl;track:71_SER%C3%A5n_E_SETsl;B;A;SEa
+Lugnås-Forshem;0074;75;13,456 km;Lugnås;SELnå;Forshem;SEFhm;track:75_SELn%C3%A5_E_SEFhm;B;D2;SEa
+Regumatorp-Stenstorp;0074;01;6,752 km;Regumatorp;SERmtp;Stenstorp;SESs;track:01_SERmtp_N_SESs;B;D2;SEa
+Regumatorp-Stenstorp;0074;01;6,752 km;Regumatorp;SERmtp;Stenstorp;SESs;track:01_SERmtp_U_SESs;B;D2;SEa
+Tjörnarp-Höör;0074;02;9,288 km;Tjörnarp;SETö;Höör;SEHö;track:02_SET%C3%B6_N_SEH%C3%B6;B;D2;SEa
+Tjörnarp-Höör;0074;02;9,288 km;Tjörnarp;SETö;Höör;SEHö;track:02_SET%C3%B6_U_SEH%C3%B6;B;D2;SEa
+Hovmantorp-Lessebo;0074;04;8,865 km;Hovmantorp;SEHvp;Lessebo;SELo;track:04_SEHvp_E_SELo;B;D2;SEa
+Bispgården-Fångsjöbacken;0074;07;10,779 km;Bispgården;SEBsg;Fångsjöbacken;SEFgö;track:07_SEBsg_E_SEFg%C3%B6;B;D2;SEa
+Håsjö-Singsån;0074;07;5,408 km;Håsjö;SEHå;Singsån;SESngå;track:07_SEH%C3%A5_E_SESng%C3%A5;B;D2;SEa
+Myrheden-Långträsk;0074;07;10,961 km;Myrheden;SEMhn;Långträsk;SELtk;track:07_SEMhn_E_SELtk;B;E4;SEa
+Holmsveden-Röstbo;0074;08;6,126 km;Holmsveden;SEHdn;Röstbo;SERbo;track:08_SEHdn_E_SERbo;B;D2;SEa
+Norra Valbo-Forsbacka;0074;10;7,307 km;Norra Valbo;SENvl;Forsbacka;SEFb;track:10_SENvl_E_SEFb;B;D2;SEa
+Klingerud-Stenåsen;0074;12;2,313 km;Klingerud;SEKud;Stenåsen;SESån;track:12_SEKud_N_SES%C3%A5n;B;D2;SEa
+Klingerud-Stenåsen;0074;12;2,313 km;Klingerud;SEKud;Stenåsen;SESån;track:12_SEKud_U_SES%C3%A5n;B;D2;SEa
+Huddinge-Flemingsberg;0074;01;2,518 km;Huddinge;SEHu;Flemingsberg;SEFlb;track:01_SEHu_N1_SEFlb;B;D2;SEa
+Huddinge-Flemingsberg;0074;01;2,518 km;Huddinge;SEHu;Flemingsberg;SEFlb;track:01_SEHu_N2_SEFlb;B;D2;SEa
+Huddinge-Flemingsberg;0074;01;2,518 km;Huddinge;SEHu;Flemingsberg;SEFlb;track:01_SEHu_U1_SEFlb;B;D2;SEa
+Huddinge-Flemingsberg;0074;01;2,518 km;Huddinge;SEHu;Flemingsberg;SEFlb;track:01_SEHu_U2_SEFlb;B;D2;SEa
+Gamlarp-Nässjö central;0074;02;3,213 km;Gamlarp;SEGmp;Nässjö central;SEN;track:02_SEGmp_N_SEN;B;D2;SEa
+Gamlarp-Nässjö central;0074;02;3,213 km;Gamlarp;SEGmp;Nässjö central;SEN;track:02_SEGmp_U_SEN;B;D2;SEa
+Tunneby-Osby;0074;02;10,106 km;Tunneby;SETun;Osby;SEO;track:02_SETun_N_SEO;B;D2;SEa
+Tunneby-Osby;0074;02;10,106 km;Tunneby;SETun;Osby;SEO;track:02_SETun_U_SEO;B;D2;SEa
+Åmyran-Gnarp;0074;05;9,429 km;Åmyran;SEÅmy;Gnarp;SEGnp;track:05_SE%C3%85my_E_SEGnp;B;D2;SEa
+Könsa-Saluböle;0074;28;11,29 km;Könsa;SEKöa;Saluböle;SESbe;track:28_SEK%C3%B6a_E_SESbe;B;E4;SEa
+Norrsjön-Ängersjö;0074;28;10,686 km;Norrsjön;SENon;Ängersjö;SEÄnö;track:28_SENon_E_SE%C3%84n%C3%B6;B;E4;SEa
+Rockneby-Blomstermåla;0074;65;21,352 km;Rockneby;SERby;Blomstermåla;SEBma;track:65_SERby_E_SEBma;B;D2;SEa
+Korsträsk-Nyfors;0074;07;4,76 km;Korsträsk;SEKtä;Nyfors;SENyf;track:07_SEKt%C3%A4_E_SENyf;B;E4;SEa
+Gräsberg-Ludvika;0074;10;8,732 km;Gräsberg;SEGäg;Ludvika;SELa;track:10_SEG%C3%A4g_E_SELa;B;D2;SEa
+Brålanda-Frändefors;0074;11;8,395 km;Brålanda;SEBrl;Frändefors;SEFdf;track:11_SEBrl_E_SEFdf;B;D2;SEa
+Flisby-Vimnarp;0074;02;11,548 km;Flisby;SEFls;Vimnarp;SEVim;track:02_SEFls_N_SEVim;B;D2;SEa
+Flisby-Vimnarp;0074;02;11,548 km;Flisby;SEFls;Vimnarp;SEVim;track:02_SEFls_U_SEVim;B;D2;SEa
+Lästringe-Tystberga;0074;02;6,211 km;Lästringe;SELre;Tystberga;SETba;track:02_SELre_E_SETba;B;D2;SEa
+Härryda-Hindås;0074;04;9,129 km;Härryda;SEHäy;Hindås;SEHås;track:04_SEH%C3%A4y_E_SEH%C3%A5s;B;D2;SEa
+Mölnlycke-Härryda;0074;04;12,043 km;Mölnlycke;SEMyk;Härryda;SEHäy;track:04_SEMyk_E_SEH%C3%A4y;B;D2;SEa
+Årskogen-Gårdsjön;0074;05;7,706 km;Årskogen;SEÅkg;Gårdsjön;SEGön;track:05_SE%C3%85kg_E_SEG%C3%B6n;B;D2;SEa
+Långvattnet-Trehörningsjö;0074;07;9,166 km;Långvattnet;SELnv;Trehörningsjö;SEThö;track:07_SELnv_E_SETh%C3%B6;B;E4;SEa
+Dals Rostock-Bäckefors;0074;11;18,056 km;Dals Rostock;SEDrt;Bäckefors;SEBäf;track:11_SEDrt_E_SEB%C3%A4f;B;D2;SEa
+Arnäsvall-Högbysjön;0074;28;5,248 km;Arnäsvall;SEAra;Högbysjön;SEHög;track:28_SEAra_E_SEH%C3%B6g;B;E4;SEa
+Kristianstads central-Kristianstads södra;0074;92;1,419 km;Kristianstads central;SECr;Kristianstads södra;SECrs;track:92_SECr_E_SECrs;B;D2;SEa
+Vissefjärda-Holmsjö;0074;04;14,3 km;Vissefjärda;SEVfa;Holmsjö;SEHmö;track:04_SEVfa_E_SEHm%C3%B6;B;E4;SEa
+Björna-Långviksmon;0074;07;11,839 km;Björna;SEBj;Långviksmon;SELmn;track:07_SEBj_E_SELmn;B;E4;SEa
+Tväråbäck-Tvärålund;0074;07;13,179 km;Tväråbäck;SETvb;Tvärålund;SETvä;track:07_SETvb_E_SETv%C3%A4;B;E4;SEa
+Juån-Östavall;0074;08;8,44 km;Juån;SEJå;Östavall;SEÖv;track:08_SEJ%C3%A5_N_SE%C3%96v;B;D2;SEa
+Juån-Östavall;0074;08;8,44 km;Juån;SEJå;Östavall;SEÖv;track:08_SEJ%C3%A5_U_SE%C3%96v;B;D2;SEa
+Kolforsen-Ockelbo;0074;08;9,972 km;Kolforsen;SEKfn;Ockelbo;SEOb;track:08_SEKfn_E_SEOb;B;D2;SEa
+Herrhult-Nykroppa;0074;10;2,567 km;Herrhult;SEHlt;Nykroppa;SENka;track:10_SEHlt_E_SENka;B;D2;SEa
+Västra Ingelstad-Östra Grevie;0074;26;2,933 km;Västra Ingelstad;SEVid;Östra Grevie;SEÖg;track:26_SEVid_E_SE%C3%96g;B;D2;SEa
+Genevad-Knäred;0074;33;19,117 km;Genevad;SEGnd;Knäred;SEKnä;track:33_SEGnd_E_SEKn%C3%A4;B;D2;SEa
+Hultsfred-Mörlunda;0074;65;19,892 km;Hultsfred;SEHf;Mörlunda;SEMöa;track:65_SEHf_E_SEM%C3%B6a;B;D2;SEa
+Lyrestad-Hasslerör;0074;75;9,692 km;Lyrestad;SELyd;Hasslerör;SEHsr;track:75_SELyd_E_SEHsr;B;D2;SEa
+Älgarås-Slätte;0074;01;6,325 km;Älgarås;SEÄl;Slätte;SESle;track:01_SE%C3%84l_N_SESle;B;D2;SEa
+Älgarås-Slätte;0074;01;6,325 km;Älgarås;SEÄl;Slätte;SESle;track:01_SE%C3%84l_U_SESle;B;D2;SEa
+Kolke-Björnlunda;0074;01;3,67 km;Kolke;SEKoe;Björnlunda;SEB;track:01_SEKoe_N_SEB;B;D2;SEa
+Kolke-Björnlunda;0074;01;3,67 km;Kolke;SEKoe;Björnlunda;SEB;track:01_SEKoe_U_SEB;B;D2;SEa
+Nässjö central-Grimstorp;0074;02;10,761 km;Nässjö central;SEN;Grimstorp;SEGt;track:02_SEN_N_SEGt;B;D2;SEa
+Nässjö central-Grimstorp;0074;02;10,761 km;Nässjö central;SEN;Grimstorp;SEGt;track:02_SEN_U_SEGt;B;D2;SEa
+Bodens södra-Boden central;0074;07;3,349 km;Bodens södra;SEBds;Boden central;SEBdn;track:07_SEBds_E_SEBdn;B;E4;SEa
+Grönåsen-Stormyran;0074;07;7,248 km;Grönåsen;SEGnå;Stormyran;SESom;track:07_SEGn%C3%A5_E_SESom;B;E4;SEa
+Markaryd-Bjärnum;0074;33;20,891 km;Markaryd;SEMrd;Bjärnum;SEBjm;track:33_SEMrd_E_SEBjm;B;D2;SEa
+Södra Vi-Vimmerby;0074;65;9,88 km;Södra Vi;SESvi;Vimmerby;SEVib;track:65_SESvi_E_SEVib;B;D2;SEa
+Åtvidaberg-Falerum;0074;66;16,445 km;Åtvidaberg;SEÅvg;Falerum;SEFal;track:66_SE%C3%85vg_E_SEFal;B;C2;SEa
+Älmhult-Tunneby;0074;02;10,992 km;Älmhult;SEÄh;Tunneby;SETun;track:02_SE%C3%84h_N_SETun;B;D2;SEa
+Vätteryd-Tjörnarp;0074;02;2,481 km;Vätteryd;SEVäd;Tjörnarp;SETö;track:02_SEV%C3%A4d_N_SET%C3%B6;B;D2;SEa
+Vätteryd-Tjörnarp;0074;02;2,481 km;Vätteryd;SEVäd;Tjörnarp;SETö;track:02_SEV%C3%A4d_U_SET%C3%B6;B;D2;SEa
+Bollebygd-Rödberg;0074;04;3,049 km;Bollebygd;SEBoy;Rödberg;SERö;track:04_SEBoy_E_SER%C3%B6;B;D2;SEa
+Skärpan-Tierp;0074;05;5,554 km;Skärpan;SESäp;Tierp;SETip;track:05_SES%C3%A4p_N_SETip;B;D2;SEa
+Skärpan-Tierp;0074;05;5,554 km;Skärpan;SESäp;Tierp;SETip;track:05_SES%C3%A4p_U_SETip;B;D2;SEa
+Stockviksverkens nedre-Sundsvalls central;0074;05;6,158 km;Stockviksverkens nedre;SESton;Sundsvalls central;SESuc;track:05_SESton_E_SESuc;B;D2;SEa
+Långviksmon-Långvattnet;0074;07;4,673 km;Långviksmon;SELmn;Långvattnet;SELnv;track:07_SELmn_E_SELnv;B;E4;SEa
+Ulvshyttan-Rämshyttan;0074;10;9,044 km;Ulvshyttan;SEUly;Rämshyttan;SERmh;track:10_SEUly_E_SERmh;B;D2;SEa
+Karlstad Välsviken-Karlstads central;0074;12;5,155 km;Karlstad Välsviken;SEKvä;Karlstads central;SEKs;track:12_SEKv%C3%A4_E_SEKs;B;D2;SEa
+Gullringen-Södra Vi;0074;65;9,215 km;Gullringen;SEGng;Södra Vi;SESvi;track:65_SEGng_E_SESvi;B;D2;SEa
+Ruda-Berga;0074;65;14,995 km;Ruda;SERud;Berga;SEBg;track:65_SERud_E_SEBg;B;D2;SEa
+Älmhult-Tunneby;0074;02;10,992 km;Älmhult;SEÄh;Tunneby;SETun;track:02_SE%C3%84h_U_SETun;B;D2;SEa
+Vikingstad-Mantorp;0074;02;9,377 km;Vikingstad;SEVsd;Mantorp;SEMt;track:02_SEVsd_N_SEMt;B;D2;SEa
+Vikingstad-Mantorp;0074;02;9,377 km;Vikingstad;SEVsd;Mantorp;SEMt;track:02_SEVsd_U_SEMt;B;D2;SEa
+Gävle central-Strömsbro;0074;05;3,209 km;Gävle central;SEGä;Strömsbro;SESmo;track:05_SEG%C3%A4_E2_SESmo;B;D2;SEa
+Gävle central-Strömsbro;0074;05;3,209 km;Gävle central;SEGä;Strömsbro;SESmo;track:05_SEG%C3%A4_E_SESmo;B;D2;SEa
+Vännäs-Vännäs norra;0074;07;2,119 km;Vännäs;SEVns;Vännäs norra;SEVän;track:07_SEVns_E_SEV%C3%A4n;B;E4;SEa
+Vargön-Grästorp;0074;15;18,572 km;Vargön;SEVag;Grästorp;SEGop;track:15_SEVag_E_SEGop;B;D2;SEa
+Lidköping-Lovene;0074;75;10,76 km;Lidköping;SELkp;Lovene;SELve;track:75_SELkp_E_SELve;B;D2;SEa
+Södertälje syd undre-Bränninge;0074;01;2,696 km;Södertälje syd undre;SESöu;Bränninge;SEBre;track:01_SES%C3%B6u_N_SEBre;B;D2;SEa
+Södertälje syd undre-Bränninge;0074;01;2,696 km;Södertälje syd undre;SESöu;Bränninge;SEBre;track:01_SES%C3%B6u_U_SEBre;B;D2;SEa
+Skövde central-Regumatorp;0074;01;9,156 km;Skövde central;SESk;Regumatorp;SERmtp;track:01_SESk_N_SERmtp;B;D2;SEa
+Skövde central-Regumatorp;0074;01;9,156 km;Skövde central;SESk;Regumatorp;SERmtp;track:01_SESk_U_SERmtp;B;D2;SEa
+Ralingsås-Flisby;0074;02;10,232 km;Ralingsås;SERas;Flisby;SEFls;track:02_SERas_N_SEFls;B;D2;SEa
+Ralingsås-Flisby;0074;02;10,232 km;Ralingsås;SERas;Flisby;SEFls;track:02_SERas_U_SEFls;B;D2;SEa
+Brattsbacka-Oxmyran;0074;07;2,874 km;Brattsbacka;SEBrs;Oxmyran;SEOxm;track:07_SEBrs_E_SEOxm;B;E4;SEa
+Alvhem-Älvängen;0074;11;6,888 km;Alvhem;SEAlh;Älvängen;SEÄn;track:11_SEAlh_N_SE%C3%84n;B;E4;SEa
+Alvhem-Älvängen;0074;11;6,888 km;Alvhem;SEAlh;Älvängen;SEÄn;track:11_SEAlh_U_SE%C3%84n;B;E4;SEa
+Ottebol-Åmotfors;0074;12;10,255 km;Ottebol;SEOt;Åmotfors;SEÅt;track:12_SEOt_E_SE%C3%85t;B;D2;SEa
+Stenåsen-Kil;0074;12;1,593 km;Stenåsen;SESån;Kil;SEKil;track:12_SES%C3%A5n_E_SEKil;B;D2;SEa
+Svartå-Degerfors;0074;12;12,061 km;Svartå;SESvå;Degerfors;SEDg;track:12_SESv%C3%A5_E_SEDg;B;D2;SEa
+Önnestad-Karpalund;0074;13;4,837 km;Önnestad;SEÖnd;Karpalund;SEKap;track:13_SE%C3%96nd_E_SEKap;B;D2;SEa
+Stöcke-Gimonäs;0074;28;6,706 km;Stöcke;SESök;Gimonäs;SEGim;track:28_SES%C3%B6k_E_SEGim;B;E4;SEa
+Järna-Mölnbo;0074;01;10,714 km;Järna;SEJn;Mölnbo;SEMö;track:01_SEJn_N_SEM%C3%B6;B;D2;SEa
+Järna-Mölnbo;0074;01;10,714 km;Järna;SEJn;Mölnbo;SEMö;track:01_SEJn_U_SEM%C3%B6;B;D2;SEa
+Lindome-Ledsgård;0074;03;5,975 km;Lindome;SELdo;Ledsgård;SELgd;track:03_SELdo_N_SELgd;B;D2;SEa
+Järbo-Medskogsheden;0074;08;10,335 km;Järbo;SEJb;Medskogsheden;SEMsn;track:08_SEJb_E_SEMsn;B;D2;SEa
+Kilafors-Bollnäs;0074;08;17,03 km;Kilafors;SEKls;Bollnäs;SEBn;track:08_SEKls_N_SEBn;B;D2;SEa
+Kilafors-Bollnäs;0074;08;17,03 km;Kilafors;SEKls;Bollnäs;SEBn;track:08_SEKls_U_SEBn;B;D2;SEa
+Granstanda-Hofors;0074;10;6,458 km;Granstanda;SEGad;Hofors;SEHfr;track:10_SEGad_E_SEHfr;B;D2;SEa
+Grythyttans norra-Herrhult;0074;10;26,211 km;Grythyttans norra;SEGhyn;Herrhult;SEHlt;track:10_SEGhyn_E_SEHlt;B;D2;SEa
+Linköpings central-Vikingstad;0074;02;12,673 km;Linköpings central;SELp;Vikingstad;SEVsd;track:02_SELp_N_SEVsd;B;D2;SEa
+Linköpings central-Vikingstad;0074;02;12,673 km;Linköpings central;SELp;Vikingstad;SEVsd;track:02_SELp_U_SEVsd;B;D2;SEa
+Lindome-Ledsgård;0074;03;5,975 km;Lindome;SELdo;Ledsgård;SELgd;track:03_SELdo_U_SELgd;B;D2;SEa
+Söderhamns västra-Källene;0074;05;4,434 km;Söderhamns västra;SEShv;Källene;SEKäe;track:05_SEShv_E_SEK%C3%A4e;B;D2;SEa
+Uppsala central-Samnan;0074;05;6,592 km;Uppsala central;SEU;Samnan;SESam;track:05_SEU_U_SESam;B;D2;SEa
+Ånge-Moradal;0074;08;7,683 km;Ånge;SEÅg;Moradal;SEMdl;track:08_SE%C3%85g_N_SEMdl;B;D2;SEa
+Mellansjö-Juån;0074;08;9,527 km;Mellansjö;SEMsö;Juån;SEJå;track:08_SEMs%C3%B6_N_SEJ%C3%A5;B;D2;SEa
+Mellansjö-Juån;0074;08;9,527 km;Mellansjö;SEMsö;Juån;SEJå;track:08_SEMs%C3%B6_U_SEJ%C3%A5;B;D2;SEa
+Ryggen-Korsnäs;0074;10;13,269 km;Ryggen;SERyg;Korsnäs;SEKoä;track:10_SERyg_E_SEKo%C3%A4;B;D2;SEa
+Öxnered-Trollhättan;0074;11;8,805 km;Öxnered;SEÖx;Trollhättan;SEThn;track:11_SE%C3%96x_N_SEThn;B;E4;SEa
+Öxnered-Trollhättan;0074;11;8,805 km;Öxnered;SEÖx;Trollhättan;SEThn;track:11_SE%C3%96x_U_SEThn;B;E4;SEa
+Jonsered östra-Partille;0074;23;5,528 km;Jonsered östra;SEJ;Partille;SEP;track:23_SEJ_N_SEP;B;D2;SEa
+Jonsered östra-Partille;0074;23;5,528 km;Jonsered östra;SEJ;Partille;SEP;track:23_SEJ_U_SEP;B;D2;SEa
+Hallstahammar-Surahammar;0074;63;10,784 km;Hallstahammar;SEHh;Surahammar;SEShr;track:63_SEHh_E_SEShr;B;D2;SEa
+Eldsberga-Laholm västra;0074;03;10,297 km;Eldsberga;SEEa;Laholm västra;SELaov;track:03_SEEa_N_SELaov;B;D2;SEa
+Eldsberga-Laholm västra;0074;03;10,297 km;Eldsberga;SEEa;Laholm västra;SELaov;track:03_SEEa_U_SELaov;B;D2;SEa
+Knivsta-Ekeby;0074;05;6,04 km;Knivsta;SEKn;Ekeby;SEEby;track:05_SEKn_N_SEEby;B;D2;SEa
+Knivsta-Ekeby;0074;05;6,04 km;Knivsta;SEKn;Ekeby;SEEby;track:05_SEKn_U_SEEby;B;D2;SEa
+Sunnäsbruk-Vallvik;0074;05;10,107 km;Sunnäsbruk;SESäu;Vallvik;SEVv;track:05_SES%C3%A4u_E_SEVv;B;D2;SEa
+Hällnäs-Yttersjön;0074;07;13,022 km;Hällnäs;SEHls;Yttersjön;SEYö;track:07_SEHls_E_SEY%C3%B6;B;E4;SEa
+Storblåliden-Koler;0074;07;7,25 km;Storblåliden;SESbi;Koler;SEKlr;track:07_SESbi_E_SEKlr;B;E4;SEa
+Forsbacka-Sandviken;0074;10;6,827 km;Forsbacka;SEFb;Sandviken;SESnv;track:10_SEFb_E_SESnv;B;D2;SEa
+Ånimskog-Köpmannebro;0074;11;12,773 km;Ånimskog;SEÅnm;Köpmannebro;SEKpm;track:11_SE%C3%85nm_E_SEKpm;B;D2;SEa
+Ådalsliden-Betåsen;0074;46;13,717 km;Ådalsliden;SEÅd;Betåsen;SEBtå;track:46_SE%C3%85d_E_SEBt%C3%A5;B;D2;SEa
+Spjutbäcken-Storfors;0074;69;25,617 km;Spjutbäcken;SESpjb;Storfors;SESf;track:69_SESpjb_E_SESf;B;D2;SEa
+Gistad-Linghem;0074;02;9,045 km;Gistad;SEGi;Linghem;SELgm;track:02_SEGi_N_SELgm;B;D2;SEa
+Gistad-Linghem;0074;02;9,045 km;Gistad;SEGi;Linghem;SELgm;track:02_SEGi_U_SELgm;B;D2;SEa
+Gastsjön-Övsjö;0074;07;6,784 km;Gastsjön;SEGsn;Övsjö;SEÖvö;track:07_SEGsn_E_SE%C3%96v%C3%B6;B;D2;SEa
+Vännäs-Brattby;0074;07;7,505 km;Vännäs;SEVns;Brattby;SEBtb;track:07_SEVns_E_SEBtb;B;E4;SEa
+Grängesbergs malmbangård-Grängesberg;0074;10;1,809 km;Grängesbergs malmbangård;SEGgm;Grängesberg;SEGg;track:10_SEGgm_E_SEGg;B;D2;SEa
+Älvängen-Bohus;0074;11;13,442 km;Älvängen;SEÄn;Bohus;SEBhs;track:11_SE%C3%84n_N_SEBhs;B;E4;SEa
+Älvängen-Bohus;0074;11;13,442 km;Älvängen;SEÄn;Bohus;SEBhs;track:11_SE%C3%84n_U_SEBhs;B;E4;SEa
+Skåre-Klingerud;0074;12;8,31 km;Skåre;SESkr;Klingerud;SEKud;track:12_SESkr_E_SEKud;B;D2;SEa
+Lockarp-Västra Ingelstad;0074;24;7,452 km;Lockarp;SELrp;Västra Ingelstad;SEVid;track:24_SELrp_E_SEVid;B;D2;SEa
+Norrmjöle-Stöcke;0074;28;10,042 km;Norrmjöle;SENoe;Stöcke;SESök;track:28_SENoe_E_SES%C3%B6k;B;E4;SEa
+Vingåker-Högsjö;0074;01;8,926 km;Vingåker;SEVr;Högsjö;SEHgö;track:01_SEVr_N_SEHg%C3%B6;B;D2;SEa
+Vingåker-Högsjö;0074;01;8,926 km;Vingåker;SEVr;Högsjö;SEHgö;track:01_SEVr_U_SEHg%C3%B6;B;D2;SEa
+Lekarekulle-Frillesås;0074;03;10,127 km;Lekarekulle;SELek;Frillesås;SEFå;track:03_SELek_N_SEF%C3%A5;B;D2;SEa
+Lekarekulle-Frillesås;0074;03;10,127 km;Lekarekulle;SELek;Frillesås;SEFå;track:03_SELek_U_SEF%C3%A5;B;D2;SEa
+Åshammar-Järbo;0074;08;8,698 km;Åshammar;SEÅh;Järbo;SEJb;track:08_SE%C3%85h_E_SEJb;B;D2;SEa
+Tallåsen-Loster;0074;08;10,059 km;Tallåsen;SETl;Loster;SELtr;track:08_SETl_E_SELtr;B;D2;SEa
+Rällså-Kopparberg;0074;10;11,23 km;Rällså;SERlå;Kopparberg;SEKpg;track:10_SERl%C3%A5_E_SEKpg;B;D2;SEa
+Ängelholm-Åstorp;0074;13;14,276 km;Ängelholm;SEÄ;Åstorp;SEÅp;track:13_SE%C3%84_E_SE%C3%85p;B;D2;SEa
+Kragenäs-Skee;0074;73;15,049 km;Kragenäs;SEKgs;Skee;SESke;track:73_SEKgs_E_SESke;B;D2;SEa
+Åryd-Hovmantorp;0074;04;11,266 km;Åryd;SEÅrd;Hovmantorp;SEHvp;track:04_SE%C3%85rd_E_SEHvp;B;D2;SEa
+Emmaboda-Vissefjärda;0074;04;10,807 km;Emmaboda;SEEm;Vissefjärda;SEVfa;track:04_SEEm_E_SEVfa;B;E4;SEa
+Skruv-Emmaboda;0074;04;11,612 km;Skruv;SESru;Emmaboda;SEEm;track:04_SESru_E_SEEm;B;D2;SEa
+Orrskog-Marma;0074;05;8,708 km;Orrskog;SEOs;Marma;SEMrm;track:05_SEOs_N_SEMrm;B;D2;SEa
+Orrskog-Marma;0074;05;8,708 km;Orrskog;SEOs;Marma;SEMrm;track:05_SEOs_U_SEMrm;B;D2;SEa
+Östavall-Alby;0074;08;8,349 km;Östavall;SEÖv;Alby;SEAy;track:08_SE%C3%96v_N_SEAy;B;D2;SEa
+Östavall-Alby;0074;08;8,349 km;Östavall;SEÖv;Alby;SEAy;track:08_SE%C3%96v_U_SEAy;B;D2;SEa
+Arbrå-Vallsta;0074;08;5,433 km;Arbrå;SEAb;Vallsta;SEVl;track:08_SEAb_E_SEVl;B;D2;SEa
+Högboda-Brunsbergstunneln;0074;12;9,97 km;Högboda;SEHbd;Brunsbergstunneln;SEBu;track:12_SEHbd_E_SEBu;B;D2;SEa
+Attarp-Vinslöv;0074;13;5,629 km;Attarp;SEAtp;Vinslöv;SEVöv;track:13_SEAtp_E_SEV%C3%B6v;B;D2;SEa
+Järpås-Håkantorp;0074;15;9,114 km;Järpås;SEJps;Håkantorp;SEHåp;track:15_SEJps_E_SEH%C3%A5p;B;D2;SEa
+Uddevalla central-Ryr;0074;15;13,66 km;Uddevalla central;SEUv;Ryr;SERyr;track:15_SEUv_E_SERyr;B;D2;SEa
+Håverud-Råsjön;0074;71;0,693 km;Håverud;SEHvr;Råsjön;SERån;track:71_SEHvr_E_SER%C3%A5n;B;A;SEa
+Ekenässjön-Vetlanda;0074;81;8,32 km;Ekenässjön;SEEsn;Vetlanda;SEVta;track:81_SEEsn_E_SEVta;B;D2;SEa
+Floby-Källeryd;0074;01;8,827 km;Floby;SEFby;Källeryd;SEKä;track:01_SEFby_N_SEK%C3%A4;B;D2;SEa
+Floby-Källeryd;0074;01;8,827 km;Floby;SEFby;Källeryd;SEKä;track:01_SEFby_U_SEK%C3%A4;B;D2;SEa
+Stenstorp-Falköpings norra;0074;01;12,37 km;Stenstorp;SESs;Falköpings norra;SEFn;track:01_SESs_N_SEFn;B;D2;SEa
+Stenstorp-Falköpings norra;0074;01;12,37 km;Stenstorp;SESs;Falköpings norra;SEFn;track:01_SESs_U_SEFn;B;D2;SEa
+Mellby-Vätteryd;0074;02;8,124 km;Mellby;SEMlb;Vätteryd;SEVäd;track:02_SEMlb_N_SEV%C3%A4d;B;D2;SEa
+Mellby-Vätteryd;0074;02;8,124 km;Mellby;SEMlb;Vätteryd;SEVäd;track:02_SEMlb_U_SEV%C3%A4d;B;D2;SEa
+Trekanten-Kalmar södra;0074;04;13,746 km;Trekanten;SETre;Kalmar södra;SEKas;track:04_SETre_E_SEKas;B;D2;SEa
+Marmaverken-Söderhamns västra;0074;05;10,384 km;Marmaverken;SEMe;Söderhamns västra;SEShv;track:05_SEMe_E_SEShv;B;E4;SEa
+Mellansel-Gottne;0074;07;4,434 km;Mellansel;SEMsl;Gottne;SEGe;track:07_SEMsl_E_SEGe;B;E4;SEa
+Skästra-Ljusdal;0074;08;10,584 km;Skästra;SESkä;Ljusdal;SELs;track:08_SESk%C3%A4_E_SELs;B;D2;SEa
+Vedevåg-Lindesberg;0074;10;8,85 km;Vedevåg;SEVdv;Lindesberg;SELd;track:10_SEVdv_E_SELd;B;D2;SEa
+Gålnäs-Örnsköldsviks central;0074;28;5,922 km;Gålnäs;SEGån;Örnsköldsviks central;SEÖk;track:28_SEG%C3%A5n_E_SE%C3%96k;B;E4;SEa
+Svalöv-Teckomatorp;0074;32;5,338 km;Svalöv;SESal;Teckomatorp;SETp;track:32_SESal_E_SETp;B;E4;SEa
+Lyckselesågen-Lycksele industrispår;0074;44;1,581 km;Lyckselesågen;SELyg;Lycksele industrispår;SELsp;track:44_SELyg_E_SELsp;B;D2;SEa
+Bryngenäs-Norsesund västra;0074;01;5,447 km;Bryngenäs;SEBgs;Norsesund västra;SENdv;track:01_SEBgs_N_SENdv;B;D2;SEa
+Bryngenäs-Norsesund västra;0074;01;5,447 km;Bryngenäs;SEBgs;Norsesund västra;SENdv;track:01_SEBgs_U_SENdv;B;D2;SEa
+Baggetorp-Vingåker;0074;01;12,224 km;Baggetorp;SEBt;Vingåker;SEVr;track:01_SEBt_N_SEVr;B;D2;SEa
+Laxå-Finnerödja;0074;01;13,301 km;Laxå;SELå;Finnerödja;SEFa;track:01_SEL%C3%A5_N_SEFa;B;D2;SEa
+Laxå-Finnerödja;0074;01;13,301 km;Laxå;SELå;Finnerödja;SEFa;track:01_SEL%C3%A5_U_SEFa;B;D2;SEa
+Gripenberg-Frinnaryd;0074;02;7,348 km;Gripenberg;SEGp;Frinnaryd;SEFrd;track:02_SEGp_N_SEFrd;B;D2;SEa
+Gripenberg-Frinnaryd;0074;02;7,348 km;Gripenberg;SEGp;Frinnaryd;SEFrd;track:02_SEGp_U_SEFrd;B;D2;SEa
+Falkenberg personstation-Heberg;0074;03;10,289 km;Falkenberg personstation;SEFabp;Heberg;SEHe;track:03_SEFabp_N_SEHe;B;E4;SEa
+Falkenberg personstation-Heberg;0074;03;10,289 km;Falkenberg personstation;SEFabp;Heberg;SEHe;track:03_SEFabp_U_SEHe;B;E4;SEa
+Rävlanda-Bollebygd;0074;04;4,429 km;Rävlanda;SERd;Bollebygd;SEBoy;track:04_SERd_E_SEBoy;B;D2;SEa
+Gussi-Söderhamns västra;0074;05;8,51 km;Gussi;SEGui;Söderhamns västra;SEShv;track:05_SEGui_E_SEShv;B;D2;SEa
+Skavstaby-Rosersberg;0074;05;3,905 km;Skavstaby;SESkby;Rosersberg;SERs;track:05_SESkby_N_SERs;B;D2;SEa
+Skavstaby-Rosersberg;0074;05;3,905 km;Skavstaby;SESkby;Rosersberg;SERs;track:05_SESkby_U_SERs;B;D2;SEa
+Skutskär-Bomansberget;0074;05;10,149 km;Skutskär;SESur;Bomansberget;SEBom;track:05_SESur_N_SEBom;B;D2;SEa
+Skutskär-Bomansberget;0074;05;10,149 km;Skutskär;SESur;Bomansberget;SEBom;track:05_SESur_U_SEBom;B;D2;SEa
+Vindeln-Hällnäs;0074;07;12,655 km;Vindeln;SEVdn;Hällnäs;SEHls;track:07_SEVdn_E_SEHls;B;E4;SEa
+Grängesberg-Ställdalen;0074;10;19,973 km;Grängesberg;SEGg;Ställdalen;SEStl;track:10_SEGg_E_SEStl;B;D2;SEa
+Baggetorp-Vingåker;0074;01;12,224 km;Baggetorp;SEBt;Vingåker;SEVr;track:01_SEBt_U_SEVr;B;D2;SEa
+Sköldinge-Stolpstugan;0074;01;6,705 km;Sköldinge;SESde;Stolpstugan;SESpn;track:01_SESde_N_SESpn;B;D2;SEa
+Sköldinge-Stolpstugan;0074;01;6,705 km;Sköldinge;SESde;Stolpstugan;SESpn;track:01_SESde_U_SESpn;B;D2;SEa
+Åby södra-Norrköpings central;0074;02;7,806 km;Åby södra;SEÅbs;Norrköpings central;SENr;track:02_SE%C3%85bs_N_SENr;B;D2;SEa
+Åby södra-Norrköpings central;0074;02;7,806 km;Åby södra;SEÅbs;Norrköpings central;SENr;track:02_SE%C3%85bs_U_SENr;B;D2;SEa
+Blädinge-Vislanda;0074;02;6,564 km;Blädinge;SEBld;Vislanda;SEVs;track:02_SEBld_N_SEVs;B;D2;SEa
+Blädinge-Vislanda;0074;02;6,564 km;Blädinge;SEBld;Vislanda;SEVs;track:02_SEBld_U_SEVs;B;D2;SEa
+Hillared-Limmared;0074;04;17,758 km;Hillared;SEHil;Limmared;SELme;track:04_SEHil_E_SELme;B;D2;SEa
+Bastuträsk-Karsbäcken;0074;07;13,392 km;Bastuträsk;SEBst;Karsbäcken;SEKrb;track:07_SEBst_E_SEKrb;B;E4;SEa
+Brattby-Brännland;0074;07;10,195 km;Brattby;SEBtb;Brännland;SEBrd;track:07_SEBtb_E_SEBrd;B;E4;SEa
+Kattisträsk-Bastuträsk;0074;07;11,187 km;Kattisträsk;SEKaä;Bastuträsk;SEBst;track:07_SEKa%C3%A4_E_SEBst;B;E4;SEa
+Långsele-Österås;0074;07;7,614 km;Långsele;SELsl;Österås;SEÖså;track:07_SELsl_E_SE%C3%96s%C3%A5;B;E4;SEa
+Lubboträsk-Åsträsk;0074;07;7,423 km;Lubboträsk;SELuä;Åsträsk;SEÅst;track:07_SELu%C3%A4_E_SE%C3%85st;B;E4;SEa
+Tvärålund-Vindeln;0074;07;12,356 km;Tvärålund;SETvä;Vindeln;SEVdn;track:07_SETv%C3%A4_E_SEVdn;B;E4;SEa
+Vallsta-Simeå;0074;08;6,636 km;Vallsta;SEVl;Simeå;SESmå;track:08_SEVl_E_SESm%C3%A5;B;D2;SEa
+Tillberga-Ransta;0074;18;14,923 km;Tillberga;SETb;Ransta;SERt;track:18_SETb_E_SERt;B;D2;SEa
+Skebokvarn-Flen;0074;01;7,883 km;Skebokvarn;SESkv;Flen;SEFle;track:01_SESkv_N_SEFle;B;D2;SEa
+Skebokvarn-Flen;0074;01;7,883 km;Skebokvarn;SESkv;Flen;SEFle;track:01_SESkv_U_SEFle;B;D2;SEa
+Hamra-Tyllered;0074;03;8,805 km;Hamra;SEHaa;Tyllered;SETye;track:03_SEHaa_N_SETye;B;D2;SEa
+Hamra-Tyllered;0074;03;8,805 km;Hamra;SEHaa;Tyllered;SETye;track:03_SEHaa_U_SETye;B;D2;SEa
+Fredrikslund-Trekanten;0074;04;11,158 km;Fredrikslund;SEFre;Trekanten;SETre;track:04_SEFre_E_SETre;B;D2;SEa
+Mölndals övre-Mölnlycke;0074;04;5,733 km;Mölndals övre;SEMdö;Mölnlycke;SEMyk;track:04_SEMd%C3%B6_E_SEMyk;B;D2;SEa
+Nybro-Fredrikslund;0074;04;2,65 km;Nybro;SENyb;Fredrikslund;SEFre;track:04_SENyb_E_SEFre;B;D2;SEa
+Samnan-Storvreta;0074;05;5,788 km;Samnan;SESam;Storvreta;SESrv;track:05_SESam_N_SESrv;B;D2;SEa
+Samnan-Storvreta;0074;05;5,788 km;Samnan;SESam;Storvreta;SESrv;track:05_SESam_U_SESrv;B;D2;SEa
+Backsjön-Grönåsen;0074;07;5,324 km;Backsjön;SEBaö;Grönåsen;SEGnå;track:07_SEBa%C3%B6_E_SEGn%C3%A5;B;E4;SEa
+Ragunda-Bispgården;0074;07;12,466 km;Ragunda;SERu;Bispgården;SEBsg;track:07_SERu_E_SEBsg;B;D2;SEa
+Rimforsa-Kisa;0074;65;18,506 km;Rimforsa;SERf;Kisa;SEKisa;track:65_SERf_E_SEKisa;B;C2;SEa
+Alvesta-Blädinge;0074;02;7,098 km;Alvesta;SEAv;Blädinge;SEBld;track:02_SEAv_N_SEBld;B;D2;SEa
+Alvesta-Blädinge;0074;02;7,098 km;Alvesta;SEAv;Blädinge;SEBld;track:02_SEAv_U_SEBld;B;D2;SEa
+Höör-Stehag;0074;02;10,536 km;Höör;SEHö;Stehag;SESg;track:02_SEH%C3%B6_N_SESg;B;D2;SEa
+Höör-Stehag;0074;02;10,536 km;Höör;SEHö;Stehag;SESg;track:02_SEH%C3%B6_U_SESg;B;D2;SEa
+Osby-Hästveda;0074;02;11,258 km;Osby;SEO;Hästveda;SEHv;track:02_SEO_N_SEHv;B;D2;SEa
+Osby-Hästveda;0074;02;11,258 km;Osby;SEO;Hästveda;SEHv;track:02_SEO_U_SEHv;B;D2;SEa
+Båstad norra-Förslöv;0074;03;10,637 km;Båstad norra;SEBån;Förslöv;SEFör;track:03_SEB%C3%A5n_N_SEF%C3%B6r;B;E4;SEa
+Båstad norra-Förslöv;0074;03;10,637 km;Båstad norra;SEBån;Förslöv;SEFör;track:03_SEB%C3%A5n_U_SEF%C3%B6r;B;E4;SEa
+Trödje-Hamrångefjärden;0074;05;12,548 km;Trödje;SETdj;Hamrångefjärden;SEHfj;track:05_SETdj_E_SEHfj;B;D2;SEa
+Ölme-Väse;0074;12;9,049 km;Ölme;SEÖl;Väse;SEVe;track:12_SE%C3%96l_E_SEVe;B;D2;SEa
+Grästorp-Håkantorp;0074;15;13,86 km;Grästorp;SEGop;Håkantorp;SEHåp;track:15_SEGop_E_SEH%C3%A5p;B;D2;SEa
+Bjärka-Säby-Rimforsa;0074;65;20,757 km;Bjärka-Säby;SEBsä;Rimforsa;SERf;track:65_SEBs%C3%A4_E_SERf;B;C2;SEa
+Tisselskog-Dals Långed;0074;71;6,137 km;Tisselskog;SETsl;Dals Långed;SEDld;track:71_SETsl_E_SEDld;B;A;SEa
+Utsikten-Tumba;0074;01;3,49 km;Utsikten;SEUts;Tumba;SETu;track:01_SEUts_N_SETu;B;D2;SEa
+Utsikten-Tumba;0074;01;3,49 km;Utsikten;SEUts;Tumba;SETu;track:01_SEUts_U_SETu;B;D2;SEa
+Fiskeby-Kimstad;0074;02;14,198 km;Fiskeby;SEFi;Kimstad;SEKms;track:02_SEFi_N_SEKms;B;D2;SEa
+Linghem-Linköpings central;0074;02;10,18 km;Linghem;SELgm;Linköpings central;SELp;track:02_SELgm_N_SELp;B;D2;SEa
+Linghem-Linköpings central;0074;02;10,18 km;Linghem;SELgm;Linköpings central;SELp;track:02_SELgm_U_SELp;B;D2;SEa
+Övsjö-Kälarne;0074;07;6,542 km;Övsjö;SEÖvö;Kälarne;SEKln;track:07_SE%C3%96v%C3%B6_E_SEKln;B;D2;SEa
+Hofors-Långsjön;0074;10;10,462 km;Hofors;SEHfr;Långsjön;SELsj;track:10_SEHfr_E_SELsj;B;D2;SEa
+Mellerud-Erikstad;0074;11;8,459 km;Mellerud;SEMl;Erikstad;SEErk;track:11_SEMl_E_SEErk;B;D2;SEa
+Gantofta-Vallåkra;0074;32;4,607 km;Gantofta;SEGan;Vallåkra;SEVåk;track:32_SEGan_E_SEV%C3%A5k;B;D2;SEa
+Söderbärke-Smedjebacken;0074;63;11,157 km;Söderbärke;SESre;Smedjebacken;SESmj;track:63_SESre_E_SESmj;B;D2;SEa
+Nelhammar-Överum;0074;66;15,296 km;Nelhammar;SENl;Överum;SEÖvm;track:66_SENl_E_SE%C3%96vm;B;C2;SEa
+Dingle-Rabbalshede;0074;73;11,907 km;Dingle;SEDl;Rabbalshede;SERbh;track:73_SEDl_E_SERbh;B;D2;SEa
+Skene-Horred;0074;77;19,473 km;Skene;SESee;Horred;SEHre;track:77_SESee_E_SEHre;B;D2;SEa
+Fiskeby-Kimstad;0074;02;14,198 km;Fiskeby;SEFi;Kimstad;SEKms;track:02_SEFi_U_SEKms;B;D2;SEa
+Örbyhus-Dannemora;0074;05;9,282 km;Örbyhus;SEÖh;Dannemora;SEDma;track:05_SE%C3%96h_E1_SEDma;B;D2;SEa
+Örbyhus-Tobo;0074;05;5,163 km;Örbyhus;SEÖh;Tobo;SETbo;track:05_SE%C3%96h_N_SETbo;B;D2;SEa
+Örbyhus-Tobo;0074;05;5,163 km;Örbyhus;SEÖh;Tobo;SETbo;track:05_SE%C3%96h_U_SETbo;B;D2;SEa
+Norrfors-Brattsbacka;0074;07;10,628 km;Norrfors;SENrs;Brattsbacka;SEBrs;track:07_SENrs_E_SEBrs;B;E4;SEa
+Bensjöbacken-Bräcke;0074;08;5,604 km;Bensjöbacken;SEBsb;Bräcke;SEBä;track:08_SEBsb_N_SEB%C3%A4;B;D2;SEa
+Bensjöbacken-Bräcke;0074;08;5,604 km;Bensjöbacken;SEBsb;Bräcke;SEBä;track:08_SEBsb_U_SEB%C3%A4;B;D2;SEa
+Falun central-Hinsnoret;0074;10;8,235 km;Falun central;SEFln;Hinsnoret;SEHno;track:10_SEFln_E_SEHno;B;D2;SEa
+Säffle-Åmål;0074;11;16,277 km;Säffle;SESfl;Åmål;SEÅl;track:11_SESfl_E_SE%C3%85l;B;D2;SEa
+Fagerås-Högboda;0074;12;10,681 km;Fagerås;SEFgå;Högboda;SEHbd;track:12_SEFg%C3%A5_E_SEHbd;B;D2;SEa
+Helsingborgs godsbangård-Landskrona Östra;0074;03;18,638 km;Helsingborgs godsbangård;SEHbgb;Landskrona Östra;SELkö;track:03_SEHbgb_N_SELk%C3%B6;B;D2;SEa
+Helsingborgs godsbangård-Landskrona Östra;0074;03;18,638 km;Helsingborgs godsbangård;SEHbgb;Landskrona Östra;SELkö;track:03_SEHbgb_U_SELk%C3%B6;B;D2;SEa
+Skorped-Kälvattnet;0074;07;10,627 km;Skorped;SESop;Kälvattnet;SEKäv;track:07_SESop_E_SEK%C3%A4v;B;E4;SEa
+Lörstrand-Järvsö;0074;08;6,687 km;Lörstrand;SELö;Järvsö;SEJr;track:08_SEL%C3%B6_E_SEJr;B;D2;SEa
+Gnesta-Kolke;0074;01;5,9 km;Gnesta;SEGn;Kolke;SEKoe;track:01_SEGn_N_SEKoe;B;D2;SEa
+Gnesta-Kolke;0074;01;5,9 km;Gnesta;SEGn;Kolke;SEKoe;track:01_SEGn_U_SEKoe;B;D2;SEa
+Kilsmo-Pålsboda;0074;01;11,253 km;Kilsmo;SEKm;Pålsboda;SEPå;track:01_SEKm_N_SEP%C3%A5;B;D2;SEa
+Kilsmo-Pålsboda;0074;01;11,253 km;Kilsmo;SEKm;Pålsboda;SEPå;track:01_SEKm_U_SEP%C3%A5;B;D2;SEa
+Väring-Skövde central;0074;01;15,011 km;Väring;SEVä;Skövde central;SESk;track:01_SEV%C3%A4_N_SESk;B;D2;SEa
+Väring-Skövde central;0074;01;15,011 km;Väring;SEVä;Skövde central;SESk;track:01_SEV%C3%A4_U_SESk;B;D2;SEa
+Fångsjöbacken-Graninge;0074;07;7,295 km;Fångsjöbacken;SEFgö;Graninge;SEGa;track:07_SEFg%C3%B6_E_SEGa;B;D2;SEa
+Klockarbäcken-Umeå godsbangård;0074;07;5,741 km;Klockarbäcken;SEKlbn;Umeå godsbangård;SEUågb;track:07_SEKlbn_E_SEU%C3%A5gb;B;E4;SEa
+Storsund-Järneträsk;0074;07;9,347 km;Storsund;SESts;Järneträsk;SEJnt;track:07_SESts_E_SEJnt;B;E4;SEa
+Öxnered-Vänersborg central;0074;11;3,578 km;Öxnered;SEÖx;Vänersborg central;SEVg;track:11_SE%C3%96x_E_SEVg;B;D2;SEa
+Flens övre-Mellösa;0074;18;5,788 km;Flens övre;SEFsö;Mellösa;SEMlö;track:18_SEFs%C3%B6_E_SEMl%C3%B6;B;D2;SEa
+Horred-Järlövsby;0074;77;11,018 km;Horred;SEHre;Järlövsby;SEJäy;track:77_SEHre_E_SEJ%C3%A4y;B;D2;SEa
+Björnlunda-Stjärnhov;0074;01;9,752 km;Björnlunda;SEB;Stjärnhov;SESh;track:01_SEB_N_SESh;B;D2;SEa
+Björnlunda-Stjärnhov;0074;01;9,752 km;Björnlunda;SEB;Stjärnhov;SESh;track:01_SEB_U_SESh;B;D2;SEa
+Nyckelsjön-Sparreholm;0074;01;2,845 km;Nyckelsjön;SENsj;Sparreholm;SESp;track:01_SENsj_N_SESp;B;D2;SEa
+Nyckelsjön-Sparreholm;0074;01;2,845 km;Nyckelsjön;SENsj;Sparreholm;SESp;track:01_SENsj_U_SESp;B;D2;SEa
+Grimsås-Hestra;0074;04;5,369 km;Grimsås;SEGrm;Hestra;SEHet;track:04_SEGrm_E_SEHet;B;D2;SEa
+Karlsberg-Dockmyr;0074;07;5,717 km;Karlsberg;SEKsg;Dockmyr;SEDk;track:07_SEKsg_E_SEDk;B;D2;SEa
+Backe-Rossön;0074;46;14,509 km;Backe;SEBe;Rossön;SERos;track:46_SEBe_E_SERos;B;D2;SEa
+Katrineholms central-Baggetorp;0074;01;8,461 km;Katrineholms central;SEK;Baggetorp;SEBt;track:01_SEK_N_SEBt;B;D2;SEa
+Katrineholms central-Baggetorp;0074;01;8,461 km;Katrineholms central;SEK;Baggetorp;SEBt;track:01_SEK_U_SEBt;B;D2;SEa
+Kolmården-Getå;0074;02;6,393 km;Kolmården;SEKon;Getå;SEGtå;track:02_SEKon_E_SEGt%C3%A5;B;D2;SEa
+Tranås-Gripenberg;0074;02;9,281 km;Tranås;SETns;Gripenberg;SEGp;track:02_SETns_N_SEGp;B;D2;SEa
+Tranås-Gripenberg;0074;02;9,281 km;Tranås;SETns;Gripenberg;SEGp;track:02_SETns_U_SEGp;B;D2;SEa
+Vimnarp-Gamlarp;0074;02;3,079 km;Vimnarp;SEVim;Gamlarp;SEGmp;track:02_SEVim_N_SEGmp;B;D2;SEa
+Vimnarp-Gamlarp;0074;02;3,079 km;Vimnarp;SEVim;Gamlarp;SEGmp;track:02_SEVim_U_SEGmp;B;D2;SEa
+Vegeholm-Kattarp;0074;03;7,356 km;Vegeholm;SEVh;Kattarp;SEKa;track:03_SEVh_E_SEKa;B;D2;SEa
+Örsjö-Nybro;0074;04;11,16 km;Örsjö;SEÖrs;Nybro;SENyb;track:04_SE%C3%96rs_E_SENyb;B;D2;SEa
+Växjö-Åryd;0074;04;13,103 km;Växjö;SEVö;Åryd;SEÅrd;track:04_SEV%C3%B6_E_SE%C3%85rd;B;D2;SEa
+Högbränna-Hörnsjö;0074;07;6,034 km;Högbränna;SEHbä;Hörnsjö;SEHsö;track:07_SEHb%C3%A4_N_SEHs%C3%B6;B;E4;SEa
+Högbränna-Hörnsjö;0074;07;6,034 km;Högbränna;SEHbä;Hörnsjö;SEHsö;track:07_SEHb%C3%A4_U_SEHs%C3%B6;B;E4;SEa
+Oxmyran-Nyåker;0074;07;4,784 km;Oxmyran;SEOxm;Nyåker;SENyå;track:07_SEOxm_N_SENy%C3%A5;B;E4;SEa
+Träskholm-Myrheden;0074;07;10,84 km;Träskholm;SEThm;Myrheden;SEMhn;track:07_SEThm_E_SEMhn;B;E4;SEa
+Åstorp-Annedal;0074;13;1,509 km;Åstorp;SEÅp;Annedal;SEAal;track:13_SE%C3%85p_E_SEAal;B;D2;SEa
+Hasslerör-Mariestad;0074;75;8,242 km;Hasslerör;SEHsr;Mariestad;SEMst;track:75_SEHsr_E_SEMst;B;D2;SEa
+Lindekullen-Boxholm;0074;02;8,169 km;Lindekullen;SELkn;Boxholm;SEBx;track:02_SELkn_N_SEBx;B;D2;SEa
+Lindekullen-Boxholm;0074;02;8,169 km;Lindekullen;SELkn;Boxholm;SEBx;track:02_SELkn_U_SEBx;B;D2;SEa
+Hudiksvall-Via;0074;05;11,428 km;Hudiksvall;SEHkl;Via;SEVia;track:05_SEHkl_E_SEVia;B;D2;SEa
+Maj-Njurundabommen;0074;05;4,63 km;Maj;SEMaj;Njurundabommen;SENjb;track:05_SEMaj_E_SENjb;B;D2;SEa
+Rosersberg-Brista;0074;05;3,004 km;Rosersberg;SERs;Brista;SEBra;track:05_SERs_N_SEBra;B;D2;SEa
+Rosersberg-Brista;0074;05;3,004 km;Rosersberg;SERs;Brista;SEBra;track:05_SERs_U_SEBra;B;D2;SEa
+Tjärnvik-Årskogen;0074;05;5,42 km;Tjärnvik;SETjä;Årskogen;SEÅkg;track:05_SETj%C3%A4_E_SE%C3%85kg;B;D2;SEa
+Öreälv-Högbränna;0074;07;5,472 km;Öreälv;SEÖä;Högbränna;SEHbä;track:07_SE%C3%96%C3%A4_E_SEHb%C3%A4;B;E4;SEa
+Dockmyr-Gastsjön;0074;07;6,702 km;Dockmyr;SEDk;Gastsjön;SEGsn;track:07_SEDk_E_SEGsn;B;D2;SEa
+Karsbäcken-Lidlund;0074;07;9,35 km;Karsbäcken;SEKrb;Lidlund;SELdl;track:07_SEKrb_E_SELdl;B;E4;SEa
+Lottefors-Arbrå;0074;08;6,043 km;Lottefors;SELot;Arbrå;SEAb;track:08_SELot_E_SEAb;B;D2;SEa
+Finnerödja-Gårdsjö;0074;01;9,281 km;Finnerödja;SEFa;Gårdsjö;SEGdö;track:01_SEFa_N_SEGd%C3%B6;B;D2;SEa
+Finnerödja-Gårdsjö;0074;01;9,281 km;Finnerödja;SEFa;Gårdsjö;SEGdö;track:01_SEFa_U_SEGd%C3%B6;B;D2;SEa
+Norrköpings central-Fiskeby;0074;02;4,833 km;Norrköpings central;SENr;Fiskeby;SEFi;track:02_SENr_N_SEFi;B;D2;SEa
+Norrköpings central-Fiskeby;0074;02;4,833 km;Norrköpings central;SENr;Fiskeby;SEFi;track:02_SENr_U_SEFi;B;D2;SEa
+Torebo-Falkenberg personstation;0074;03;5,052 km;Torebo;SETeo;Falkenberg personstation;SEFabp;track:03_SETeo_N_SEFabp;B;E4;SEa
+Torebo-Falkenberg personstation;0074;03;5,052 km;Torebo;SETeo;Falkenberg personstation;SEFabp;track:03_SETeo_U_SEFabp;B;E4;SEa
+Koler-Storsund;0074;07;13,295 km;Koler;SEKlr;Storsund;SESts;track:07_SEKlr_E_SESts;B;E4;SEa
+Skälebol-Råskogen;0074;11;4,175 km;Skälebol;SESkbl;Råskogen;SERås;track:11_SESkbl_E_SER%C3%A5s;B;D2;SEa
+Silinge-Flens övre;0074;18;5,906 km;Silinge;SESii;Flens övre;SEFsö;track:18_SESii_E_SEFs%C3%B6;B;D2;SEa
+Nordmaling-Norrsjön;0074;28;5,909 km;Nordmaling;SENog;Norrsjön;SENon;track:28_SENog_E_SENon;B;E4;SEa
+Vimmerby-Vimmerby Hamra;0074;65;3,052 km;Vimmerby;SEVib;Vimmerby Hamra;SEVibh;track:65_SEVib_E_SEVibh;B;D2;SEa
+Skee-Strömstad;0074;73;6,729 km;Skee;SESke;Strömstad;SESmd;track:73_SESke_E_SESmd;B;D2;SEa
+Gemla-Räppe;0074;04;5,764 km;Gemla;SEGm;Räppe;SERäp;track:04_SEGm_E_SER%C3%A4p;B;D2;SEa
+Hällnäs-Åmsele;0074;07;27,73 km;Hällnäs;SEHls;Åmsele;SEÅm;track:07_SEHls_E_SE%C3%85m;B;D2;SEa
+Döljebro-Holmsveden;0074;08;15,321 km;Döljebro;SEDöl;Holmsveden;SEHdn;track:08_SED%C3%B6l_N_SEHdn;B;D2;SEa
+Döljebro-Holmsveden;0074;08;15,321 km;Döljebro;SEDöl;Holmsveden;SEHdn;track:08_SED%C3%B6l_U_SEHdn;B;D2;SEa
+Kopparberg-Ställdalen;0074;10;7,808 km;Kopparberg;SEKpg;Ställdalen;SEStl;track:10_SEKpg_E_SEStl;B;D2;SEa
+Villersmuren-Kungsgården;0074;10;4,288 km;Villersmuren;SEVmu;Kungsgården;SEKgd;track:10_SEVmu_E_SEKgd;B;D2;SEa
+Råskogen-Dals Rostock;0074;11;8,329 km;Råskogen;SERås;Dals Rostock;SEDrt;track:11_SER%C3%A5s_E_SEDrt;B;D2;SEa
+Segmon-Värmlands Bro;0074;11;10,836 km;Segmon;SESgm;Värmlands Bro;SEVdb;track:11_SESgm_E_SEVdb;B;D2;SEa
+Ljung-Borgstena;0074;15;11,877 km;Ljung;SELju;Borgstena;SEBoa;track:15_SELju_E_SEBoa;B;D2;SEa
+Tågarp-Billeberga;0074;32;6,285 km;Tågarp;SETgp;Billeberga;SEBib;track:32_SETgp_E_SEBib;B;D2;SEa
+Sjösa-Nyköpings central;0074;02;6,833 km;Sjösa;SESsa;Nyköpings central;SENk;track:02_SESsa_E_SENk;B;D2;SEa
+Vislanda-Eneryda;0074;02;11,505 km;Vislanda;SEVs;Eneryda;SEEra;track:02_SEVs_N_SEEra;B;D2;SEa
+Vislanda-Eneryda;0074;02;11,505 km;Vislanda;SEVs;Eneryda;SEEra;track:02_SEVs_U_SEEra;B;D2;SEa
+Gävle central-Hagaström;0074;05;5,14 km;Gävle central;SEGä;Hagaström;SEHg;track:05_SEG%C3%A4_N_SEHg;B;D2;SEa
+Gävle central-Hagaström;0074;05;5,14 km;Gävle central;SEGä;Hagaström;SEHg;track:05_SEG%C3%A4_U_SEHg;B;D2;SEa
+Harmånger-Åmyran;0074;05;10,506 km;Harmånger;SEHåg;Åmyran;SEÅmy;track:05_SEH%C3%A5g_E_SE%C3%85my;B;D2;SEa
+Geijersdal-Sandmon;0074;10;20,845 km;Geijersdal;SEGdl;Sandmon;SESdm;track:10_SEGdl_E_SESdm;B;D2;SEa
+Hagaström-Norra Valbo;0074;10;3,221 km;Hagaström;SEHg;Norra Valbo;SENvl;track:10_SEHg_E_SENvl;B;D2;SEa
+Tågsjöberg-Backe;0074;46;22,126 km;Tågsjöberg;SETsg;Backe;SEBe;track:46_SETsg_E_SEBe;B;D2;SEa
+Surahammar-Brattheden;0074;63;9,732 km;Surahammar;SEShr;Brattheden;SEBrh;track:63_SEShr_E_SEBrh;B;D2;SEa
+Bofors-Strömtorp;0074;68;14,739 km;Bofors;SEBof;Strömtorp;SESrt;track:68_SEBof_E_SESrt;B;D2;SEa
+Säve-Ytterby;0074;73;6,658 km;Säve;SESve;Ytterby;SEYb;track:73_SESve_E_SEYb;B;D2;SEa
+Mariestad-Lugnås;0074;75;11,284 km;Mariestad;SEMst;Lugnås;SELnå;track:75_SEMst_E_SELn%C3%A5;B;D2;SEa
+Grimstorp-Ulvstorp;0074;02;8,996 km;Grimstorp;SEGt;Ulvstorp;SEUtp;track:02_SEGt_N_SEUtp;B;D2;SEa
+Grimstorp-Ulvstorp;0074;02;8,996 km;Grimstorp;SEGt;Ulvstorp;SEUtp;track:02_SEGt_U_SEUtp;B;D2;SEa
+Nyköpings central-Enstaberga;0074;02;8,645 km;Nyköpings central;SENk;Enstaberga;SEEbg;track:02_SENk_E_SEEbg;B;D2;SEa
+Myrbacken-Knivsta;0074;05;3,697 km;Myrbacken;SEMyn;Knivsta;SEKn;track:05_SEMyn_N_SEKn;B;D2;SEa
+Myrbacken-Knivsta;0074;05;3,697 km;Myrbacken;SEMyn;Knivsta;SEKn;track:05_SEMyn_U_SEKn;B;D2;SEa
+Oxmyran-Öreälv;0074;07;6,211 km;Oxmyran;SEOxm;Öreälv;SEÖä;track:07_SEOxm_U_SE%C3%96%C3%A4;B;E4;SEa
+Hinsnoret-Ornäs;0074;10;8,538 km;Hinsnoret;SEHno;Ornäs;SEOrn;track:10_SEHno_E_SEOrn;B;D2;SEa
+Kil-Fagerås;0074;12;5,809 km;Kil;SEKil;Fagerås;SEFgå;track:12_SEKil_E_SEFg%C3%A5;B;D2;SEa
+Uddevalla central-Munkedal;0074;15;20,876 km;Uddevalla central;SEUv;Munkedal;SEMkl;track:15_SEUv_E_SEMkl;B;D2;SEa
+Hämrasviken-Drömme;0074;28;9,976 km;Hämrasviken;SEHäb;Drömme;SEDöe;track:28_SEH%C3%A4b_E_SED%C3%B6e;B;E4;SEa
+Kattisavan-Gunnarn;0074;44;37,416 km;Kattisavan;SEKat;Gunnarn;SEGun;track:44_SEKat_E_SEGun;B;D2;SEa
+Åsensbruk-Håverud;0074;71;2,59 km;Åsensbruk;SEÅb;Håverud;SEHvr;track:71_SE%C3%85b_E_SEHvr;B;A;SEa
+Stenkullen-Lerum;0074;01;3,719 km;Stenkullen;SESn;Lerum;SELr;track:01_SESn_N_SELr;B;D2;SEa
+Stenkullen-Lerum;0074;01;3,719 km;Stenkullen;SESn;Lerum;SELr;track:01_SESn_U_SELr;B;D2;SEa
+Sparreholm-Skebokvarn;0074;01;6,843 km;Sparreholm;SESp;Skebokvarn;SESkv;track:01_SESp_N_SESkv;B;D2;SEa
+Sparreholm-Skebokvarn;0074;01;6,843 km;Sparreholm;SESp;Skebokvarn;SESkv;track:01_SESp_U_SESkv;B;D2;SEa
+Boxholm-Sommen;0074;02;7,132 km;Boxholm;SEBx;Sommen;SESmn;track:02_SEBx_N_SESmn;B;D2;SEa
+Boxholm-Sommen;0074;02;7,132 km;Boxholm;SEBx;Sommen;SESmn;track:02_SEBx_U_SESmn;B;D2;SEa
+Jönåker-Ålberga;0074;02;9,244 km;Jönåker;SEJår;Ålberga;SEÅba;track:02_SEJ%C3%A5r_E_SE%C3%85ba;B;D2;SEa
+Lidnäs-Moheda;0074;02;7,816 km;Lidnäs;SELns;Moheda;SEMo;track:02_SELns_N_SEMo;B;D2;SEa
+Lidnäs-Moheda;0074;02;7,816 km;Lidnäs;SELns;Moheda;SEMo;track:02_SELns_U_SEMo;B;D2;SEa
+Viarp-Barkåkra;0074;03;4,524 km;Viarp;SEVip;Barkåkra;SEBaa;track:03_SEVip_N_SEBaa;B;E4;SEa
+Viarp-Barkåkra;0074;03;4,524 km;Viarp;SEVip;Barkåkra;SEBaa;track:03_SEVip_U_SEBaa;B;E4;SEa
+Tierp-Orrskog;0074;05;9,177 km;Tierp;SETip;Orrskog;SEOs;track:05_SETip_N_SEOs;B;D2;SEa
+Tierp-Orrskog;0074;05;9,177 km;Tierp;SETip;Orrskog;SEOs;track:05_SETip_U_SEOs;B;D2;SEa
+Hössjön-Norrmjöle;0074;28;7,863 km;Hössjön;SEHös;Norrmjöle;SENoe;track:28_SEH%C3%B6s_E_SENoe;B;E4;SEa
+Saluböle-Rundvik;0074;28;10,027 km;Saluböle;SESbe;Rundvik;SERuk;track:28_SESbe_E_SERuk;B;E4;SEa
+Östansjö-Vretstorp;0074;01;7,233 km;Östansjö;SEÖj;Vretstorp;SEVt;track:01_SE%C3%96j_N_SEVt;B;D2;SEa
+Eslöv-Dammstorp;0074;02;4,279 km;Eslöv;SEE;Dammstorp;SEDat;track:02_SEE_N_SEDat;B;D2;SEa
+Eslöv-Dammstorp;0074;02;4,279 km;Eslöv;SEE;Dammstorp;SEDat;track:02_SEE_U_SEDat;B;D2;SEa
+Strångsjö-Simonstorp;0074;02;14,869 km;Strångsjö;SEStö;Simonstorp;SESmt;track:02_SESt%C3%B6_N_SESmt;B;D2;SEa
+Strångsjö-Simonstorp;0074;02;14,869 km;Strångsjö;SEStö;Simonstorp;SESmt;track:02_SESt%C3%B6_U_SESmt;B;D2;SEa
+Varberg-Hamra;0074;03;6,825 km;Varberg;SEVb;Hamra;SEHaa;track:03_SEVb_E_SEHaa;B;D2;SEa
+Källene-Losesjön;0074;05;8,692 km;Källene;SEKäe;Losesjön;SELsn;track:05_SEK%C3%A4e_E_SELsn;B;D2;SEa
+Tobo-Skärpan;0074;05;6,554 km;Tobo;SETbo;Skärpan;SESäp;track:05_SETbo_N_SES%C3%A4p;B;D2;SEa
+Tobo-Skärpan;0074;05;6,554 km;Tobo;SETbo;Skärpan;SESäp;track:05_SETbo_U_SES%C3%A4p;B;D2;SEa
+Järneträsk-Korsträsk;0074;07;7,256 km;Järneträsk;SEJnt;Korsträsk;SEKtä;track:07_SEJnt_E_SEKt%C3%A4;B;E4;SEa
+Ovansjö-Ångebyn;0074;08;1,256 km;Ovansjö;SEOsö;Ångebyn;SEÅgy;track:08_SEOs%C3%B6_U_SE%C3%85gy;B;D2;SEa
+Rämshyttan-Gräsberg;0074;10;9,412 km;Rämshyttan;SERmh;Gräsberg;SEGäg;track:10_SERmh_E_SEG%C3%A4g;B;D2;SEa
+Tösse-Ånimskog;0074;11;11,517 km;Tösse;SETöe;Ånimskog;SEÅnm;track:11_SET%C3%B6e_E_SE%C3%85nm;B;D2;SEa
+Trollhättan-Velanda södra;0074;11;8,216 km;Trollhättan;SEThn;Velanda södra;SEVeas;track:11_SEThn_N_SEVeas;B;E4;SEa
+Trollhättan-Velanda södra;0074;11;8,216 km;Trollhättan;SEThn;Velanda södra;SEVeas;track:11_SEThn_U_SEVeas;B;E4;SEa
+Hälleforsnäs-Bälgviken;0074;18;11,949 km;Hälleforsnäs;SEHnä;Bälgviken;SEBgv;track:18_SEHn%C3%A4_E_SEBgv;B;D2;SEa
+Drömme-Bjästa;0074;28;12,484 km;Drömme;SEDöe;Bjästa;SEBja;track:28_SED%C3%B6e_E_SEBja;B;E4;SEa
+Harasjön-Hämrasviken;0074;28;12,506 km;Harasjön;SEHan;Hämrasviken;SEHäb;track:28_SEHan_E_SEH%C3%A4b;B;E4;SEa
+Östansjö-Vretstorp;0074;01;7,233 km;Östansjö;SEÖj;Vretstorp;SEVt;track:01_SE%C3%96j_U_SEVt;B;D2;SEa
+Axmarby-Sunnäsbruk;0074;05;11,874 km;Axmarby;SEAx;Sunnäsbruk;SESäu;track:05_SEAx_E_SES%C3%A4u;B;D2;SEa
+Grötingen-Nyhem;0074;07;8,665 km;Grötingen;SEGrö;Nyhem;SENy;track:07_SEGr%C3%B6_E_SENy;B;D2;SEa
+Hörnsjö-Degermyr;0074;07;12,891 km;Hörnsjö;SEHsö;Degermyr;SEDgm;track:07_SEHs%C3%B6_E_SEDgm;B;E4;SEa
+Yttersjön-Ekträsk;0074;07;13,377 km;Yttersjön;SEYö;Ekträsk;SEEtk;track:07_SEY%C3%B6_E_SEEtk;B;E4;SEa
+Sandviken-Villersmuren;0074;10;4,549 km;Sandviken;SESnv;Villersmuren;SEVmu;track:10_SESnv_E_SEVmu;B;D2;SEa
+Mellösa-Hälleforsnäs;0074;18;8,282 km;Mellösa;SEMlö;Hälleforsnäs;SEHnä;track:18_SEMl%C3%B6_E_SEHn%C3%A4;B;D2;SEa
+Skogstorp-Eskilstuna central;0074;18;5,005 km;Skogstorp;SESkrp;Eskilstuna central;SEEt;track:18_SESkrp_E_SEEt;B;D2;SEa
+Flädie-Lomma;0074;26;5,966 km;Flädie;SEFl;Lomma;SELma;track:26_SEFl_E_SELma;B;D2;SEa
+Stävie-Flädie;0074;26;2,674 km;Stävie;SESie;Flädie;SEFl;track:26_SESie_E_SEFl;B;D2;SEa
+Skytts Vemmerlöv-Trelleborg;0074;26;7,659 km;Skytts Vemmerlöv;SESvö;Trelleborg;SETrg;track:26_SESv%C3%B6_E_SETrg;B;D2;SEa
+Blomstermåla-Ruda;0074;65;20,827 km;Blomstermåla;SEBma;Ruda;SERud;track:65_SEBma_E_SERud;B;D2;SEa
+Forshem-Lidköping;0074;75;29,287 km;Forshem;SEFhm;Lidköping;SELkp;track:75_SEFhm_E_SELkp;B;D2;SEa
+Vretstorp-Linddalen;0074;01;5,693 km;Vretstorp;SEVt;Linddalen;SELln;track:01_SEVt_N_SELln;B;D2;SEa
+Vretstorp-Linddalen;0074;01;5,693 km;Vretstorp;SEVt;Linddalen;SELln;track:01_SEVt_U_SELln;B;D2;SEa
+Strömsbro-Hilleby;0074;05;3,886 km;Strömsbro;SESmo;Hilleby;SEHly;track:05_SESmo_E_SEHly;B;D2;SEa
+Anundsjö-Mellansel;0074;07;8,393 km;Anundsjö;SEAnö;Mellansel;SEMsl;track:07_SEAn%C3%B6_E_SEMsl;B;E4;SEa
+Kälvattnet-Anundsjö;0074;07;10,077 km;Kälvattnet;SEKäv;Anundsjö;SEAnö;track:07_SEK%C3%A4v_E_SEAn%C3%B6;B;E4;SEa
+Bjästa-Gålnäs;0074;28;12,567 km;Bjästa;SEBja;Gålnäs;SEGån;track:28_SEBja_E_SEG%C3%A5n;B;E4;SEa
+Svenshögen-Ljungskile;0074;73;9,43 km;Svenshögen;SESvg;Ljungskile;SELj;track:73_SESvg_E_SELj;B;D2;SEa
+Viskafors-Skene;0074;77;21,173 km;Viskafors;SEVfo;Skene;SESee;track:77_SEVfo_E_SESee;B;D2;SEa
+Barkåkra-Ängelholm;0074;03;5,6 km;Barkåkra;SEBaa;Ängelholm;SEÄ;track:03_SEBaa_N_SE%C3%84;B;E4;SEa
+Barkåkra-Ängelholm;0074;03;5,6 km;Barkåkra;SEBaa;Ängelholm;SEÄ;track:03_SEBaa_U_SE%C3%84;B;E4;SEa
+Bor-Rydaholm;0074;04;17,248 km;Bor;SEBor;Rydaholm;SERym;track:04_SEBor_E_SERym;B;D2;SEa
+Ekeby-Säby;0074;05;6,636 km;Ekeby;SEEby;Säby;SESäy;track:05_SEEby_N_SES%C3%A4y;B;D2;SEa
+Ekeby-Säby;0074;05;6,636 km;Ekeby;SEEby;Säby;SESäy;track:05_SEEby_U_SES%C3%A4y;B;D2;SEa
+Gnarp-Gryttje;0074;05;2,967 km;Gnarp;SEGnp;Gryttje;SEGry;track:05_SEGnp_E_SEGry;B;D2;SEa
+Långträsk-Storblåliden;0074;07;9,643 km;Långträsk;SELtk;Storblåliden;SESbi;track:07_SELtk_E_SESbi;B;E4;SEa
+Kejsarbäcken-Hällefors;0074;10;16,022 km;Kejsarbäcken;SEKeb;Hällefors;SEHlf;track:10_SEKeb_E_SEHlf;B;E4;SEa
+Örnsköldsviks central-Örnsköldsvik norra;0074;28;2,416 km;Örnsköldsviks central;SEÖk;Örnsköldsvik norra;SEÖkn;track:28_SE%C3%96k_E_SE%C3%96kn;B;E4;SEa
+Gideåbacka-Husums norra;0074;28;4,543 km;Gideåbacka;SEGia;Husums norra;SEHumn;track:28_SEGia_E_SEHumn;B;E4;SEa
+Stenungsund-Svenshögen;0074;73;11,832 km;Stenungsund;SESnu;Svenshögen;SESvg;track:73_SESnu_E_SESvg;B;D2;SEa
+Tanum-Kragenäs;0074;73;10,104 km;Tanum;SETnu;Kragenäs;SEKgs;track:73_SETnu_E_SEKgs;B;D2;SEa
+Järlövsby-Veddige;0074;77;1,977 km;Järlövsby;SEJäy;Veddige;SEVdi;track:77_SEJ%C3%A4y_E_SEVdi;B;D2;SEa
+Linddalen-Laxå;0074;01;9,304 km;Linddalen;SELln;Laxå;SELå;track:01_SELln_N_SEL%C3%A5;B;D2;SEa
+Linddalen-Laxå;0074;01;9,304 km;Linddalen;SELln;Laxå;SELå;track:01_SELln_U_SEL%C3%A5;B;D2;SEa
+Vårgårda-Algutsgården;0074;01;10,372 km;Vårgårda;SEVgå;Algutsgården;SEAgg;track:01_SEVg%C3%A5_N_SEAgg;B;D2;SEa
+Vårgårda-Algutsgården;0074;01;10,372 km;Vårgårda;SEVgå;Algutsgården;SEAgg;track:01_SEVg%C3%A5_U_SEAgg;B;D2;SEa
+Limmared-Grimsås;0074;04;14,031 km;Limmared;SELme;Grimsås;SEGrm;track:04_SELme_E_SEGrm;B;D2;SEa
+Salsta-Järlebo;0074;05;9,859 km;Salsta;SESas;Järlebo;SEJlo;track:05_SESas_N_SEJlo;B;D2;SEa
+Salsta-Järlebo;0074;05;9,859 km;Salsta;SESas;Järlebo;SEJlo;track:05_SESas_U_SEJlo;B;D2;SEa
+Holmån-Skorped;0074;07;11,135 km;Holmån;SEHoå;Skorped;SESop;track:07_SEHo%C3%A5_E_SESop;B;E4;SEa
+Ljusdal-Tallåsen;0074;08;6,953 km;Ljusdal;SELs;Tallåsen;SETl;track:08_SELs_E_SETl;B;D2;SEa
+Moradal-Dysjön;0074;08;7,541 km;Moradal;SEMdl;Dysjön;SEDy;track:08_SEMdl_N_SEDy;B;D2;SEa
+Moradal-Dysjön;0074;08;7,541 km;Moradal;SEMdl;Dysjön;SEDy;track:08_SEMdl_U_SEDy;B;D2;SEa
+Röste-Lottefors;0074;08;4,963 km;Röste;SERte;Lottefors;SELot;track:08_SERte_E_SELot;B;D2;SEa
+Sellnäs-Ulvshyttan;0074;10;10,552 km;Sellnäs;SESlnä;Ulvshyttan;SEUly;track:10_SESln%C3%A4_E_SEUly;B;D2;SEa
+Ställdalen-Kejsarbäcken;0074;10;22,168 km;Ställdalen;SEStl;Kejsarbäcken;SEKeb;track:10_SEStl_E_SEKeb;B;E4;SEa
+Flemingsberg-Utsikten;0074;01;3,505 km;Flemingsberg;SEFlb;Utsikten;SEUts;track:01_SEFlb_N_SEUts;B;D2;SEa
+Flemingsberg-Utsikten;0074;01;3,505 km;Flemingsberg;SEFlb;Utsikten;SEUts;track:01_SEFlb_U_SEUts;B;D2;SEa
+Mölnbo-Gnesta;0074;01;6,655 km;Mölnbo;SEMö;Gnesta;SEGn;track:01_SEM%C3%B6_N_SEGn;B;D2;SEa
+Mölnbo-Gnesta;0074;01;6,655 km;Mölnbo;SEMö;Gnesta;SEGn;track:01_SEM%C3%B6_U_SEGn;B;D2;SEa
+Sommen-Tranås;0074;02;12,821 km;Sommen;SESmn;Tranås;SETns;track:02_SESmn_N_SETns;B;D2;SEa
+Sommen-Tranås;0074;02;12,821 km;Sommen;SESmn;Tranås;SETns;track:02_SESmn_U_SETns;B;D2;SEa
+Emmaboda-Örsjö;0074;04;16,491 km;Emmaboda;SEEm;Örsjö;SEÖrs;track:04_SEEm_E_SE%C3%96rs;B;D2;SEa
+Älvsbyn-Laduberg;0074;07;8,35 km;Älvsbyn;SEÄy;Laduberg;SELrg;track:07_SE%C3%84y_E_SELrg;B;E4;SEa
+Kungsgården-Storvik;0074;10;5,842 km;Kungsgården;SEKgd;Storvik;SESv;track:10_SEKgd_E_SESv;B;D2;SEa
+Bohus-Agnesberg;0074;11;8,091 km;Bohus;SEBhs;Agnesberg;SEAgb;track:11_SEBhs_N_SEAgb;B;E4;SEa
+Bohus-Agnesberg;0074;11;8,091 km;Bohus;SEBhs;Agnesberg;SEAgb;track:11_SEBhs_U_SEAgb;B;E4;SEa
+Värmlands Bro-Byälven;0074;11;7,894 km;Värmlands Bro;SEVdb;Byälven;SEByä;track:11_SEVdb_E_SEBy%C3%A4;B;D2;SEa
+Borgstena-Fristad;0074;15;6,25 km;Borgstena;SEBoa;Fristad;SEFra;track:15_SEBoa_E_SEFra;B;D2;SEa
+Långbron-Billingsfors;0074;71;5,977 km;Långbron;SELgb;Billingsfors;SEBfo;track:71_SELgb_E_SEBfo;B;A;SEa
+Alingsås-Bryngenäs;0074;01;5,418 km;Alingsås;SEA;Bryngenäs;SEBgs;track:01_SEA_N_SEBgs;B;D2;SEa
+Alingsås-Bryngenäs;0074;01;5,418 km;Alingsås;SEA;Bryngenäs;SEBgs;track:01_SEA_U_SEBgs;B;D2;SEa
+Gåvetorp-Alvesta;0074;02;5,226 km;Gåvetorp;SEGåp;Alvesta;SEAv;track:02_SEG%C3%A5p_N_SEAv;B;D2;SEa
+Gåvetorp-Alvesta;0074;02;5,226 km;Gåvetorp;SEGåp;Alvesta;SEAv;track:02_SEG%C3%A5p_U_SEAv;B;D2;SEa
+Moheda-Gåvetorp;0074;02;6,831 km;Moheda;SEMo;Gåvetorp;SEGåp;track:02_SEMo_N_SEG%C3%A5p;B;D2;SEa
+Moheda-Gåvetorp;0074;02;6,831 km;Moheda;SEMo;Gåvetorp;SEGåp;track:02_SEMo_U_SEG%C3%A5p;B;D2;SEa
+Heberg-Brännarp;0074;03;11,534 km;Heberg;SEHe;Brännarp;SEBp;track:03_SEHe_N_SEBp;B;D2;SEa
+Heberg-Brännarp;0074;03;11,534 km;Heberg;SEHe;Brännarp;SEBp;track:03_SEHe_U_SEBp;B;D2;SEa
+Gryttje-Tjärnvik;0074;05;3,789 km;Gryttje;SEGry;Tjärnvik;SETjä;track:05_SEGry_E_SETj%C3%A4;B;D2;SEa
+Upplands Väsby-Skavstaby;0074;05;3,401 km;Upplands Väsby;SEUpv;Skavstaby;SESkby;track:05_SEUpv_1N_SESkby;B;D2;SEa
+Upplands Väsby-Skavstaby;0074;05;3,401 km;Upplands Väsby;SEUpv;Skavstaby;SESkby;track:05_SEUpv_1U_SESkby;B;D2;SEa
+Upplands Väsby-Skavstaby;0074;05;3,401 km;Upplands Väsby;SEUpv;Skavstaby;SESkby;track:05_SEUpv_2N_SESkby;B;D2;SEa
+Upplands Väsby-Skavstaby;0074;05;3,401 km;Upplands Väsby;SEUpv;Skavstaby;SESkby;track:05_SEUpv_2U_SESkby;B;D2;SEa
+Bodsjön-Grötingen;0074;07;5,863 km;Bodsjön;SEBön;Grötingen;SEGrö;track:07_SEB%C3%B6n_E_SEGr%C3%B6;B;D2;SEa
+Brännberg-Degerbäcken;0074;07;12,633 km;Brännberg;SEBrg;Degerbäcken;SEDbn;track:07_SEBrg_E_SEDbn;B;E4;SEa
+Hennan-Hälsingenybo;0074;08;6,73 km;Hennan;SEHnn;Hälsingenybo;SEHnb;track:08_SEHnn_E_SEHnb;B;D2;SEa
+Ovansjö-Ånge;0074;08;5,656 km;Ovansjö;SEOsö;Ånge;SEÅg;track:08_SEOs%C3%B6_N_SE%C3%85g;B;D2;SEa
+Lindesberg-Storå;0074;10;15,049 km;Lindesberg;SELd;Storå;SESr;track:10_SELd_E_SESr;B;D2;SEa
+Torbacken-Alvhem;0074;11;8,084 km;Torbacken;SETbn;Alvhem;SEAlh;track:11_SETbn_N_SEAlh;B;E4;SEa
+Torbacken-Alvhem;0074;11;8,084 km;Torbacken;SETbn;Alvhem;SEAlh;track:11_SETbn_U_SEAlh;B;E4;SEa
+Stora Höga-Stenungsund;0074;73;6,575 km;Stora Höga;SESth;Stenungsund;SESnu;track:73_SESth_E_SESnu;B;D2;SEa
+Söderby-Garnudden;0074;01;1,349 km;Söderby;SESödy;Garnudden;SEGau;track:01_SES%C3%B6dy_N_SEGau;B;D2;SEa
+Söderby-Garnudden;0074;01;1,349 km;Söderby;SESödy;Garnudden;SEGau;track:01_SES%C3%B6dy_U_SEGau;B;D2;SEa
+Ålberga-Kolmården;0074;02;14,685 km;Ålberga;SEÅba;Kolmården;SEKon;track:02_SE%C3%85ba_E_SEKon;B;D2;SEa
+Hörle-Värnamo;0074;04;8,258 km;Hörle;SEHrl;Värnamo;SEV;track:04_SEHrl_E_SEV;B;D2;SEa
+Åsträsk-Kattisträsk;0074;07;8,892 km;Åsträsk;SEÅst;Kattisträsk;SEKaä;track:07_SE%C3%85st_E_SEKa%C3%A4;B;E4;SEa
+Hednoret-Bodens södra;0074;07;5,421 km;Hednoret;SEHt;Bodens södra;SEBds;track:07_SEHt_E_SEBds;B;E4;SEa
+Jörn-Storträsk;0074;07;11,882 km;Jörn;SEJrn;Storträsk;SESto;track:07_SEJrn_E_SESto;B;E4;SEa
+Medskogsheden-Ockelbo;0074;08;11,729 km;Medskogsheden;SEMsn;Ockelbo;SEOb;track:08_SEMsn_E_SEOb;B;D2;SEa
+Långsjön-Ryggen;0074;10;8,302 km;Långsjön;SELsj;Ryggen;SERyg;track:10_SELsj_E_SERyg;B;D2;SEa
+Grohed-Uddevalla central;0074;15;10,378 km;Grohed;SEGhd;Uddevalla central;SEUv;track:15_SEGhd_E_SEUv;B;D2;SEa
+Ransta-Sala;0074;18;13,355 km;Ransta;SERt;Sala;SESl;track:18_SERt_E_SESl;B;D2;SEa
+Arnemark-Piteå;0074;42;24,958 km;Arnemark;SEAmk;Piteå;SEPtå;track:42_SEAmk_E_SEPt%C3%A5;B;E4;SEa
+Mörlunda-Berga;0074;65;16,886 km;Mörlunda;SEMöa;Berga;SEBg;track:65_SEM%C3%B6a_E_SEBg;B;D2;SEa
+Viresjö-Åtvidaberg;0074;66;5,622 km;Viresjö;SEVsö;Åtvidaberg;SEÅvg;track:66_SEVs%C3%B6_E_SE%C3%85vg;B;C2;SEa
+Pålsboda-Hallsbergs personbangård;0074;01;13,562 km;Pålsboda;SEPå;Hallsbergs personbangård;SEHpbg;track:01_SEP%C3%A5_N_SEHpbg;B;D2;SEa
+Pålsboda-Hallsbergs personbangård;0074;01;13,562 km;Pålsboda;SEPå;Hallsbergs personbangård;SEHpbg;track:01_SEP%C3%A5_U_SEHpbg;B;D2;SEa
+Diö norra-Älmhult;0074;02;11,109 km;Diö norra;SEDiö;Älmhult;SEÄh;track:02_SEDi%C3%B6_N_SE%C3%84h;B;D2;SEa
+Diö norra-Älmhult;0074;02;11,109 km;Diö norra;SEDiö;Älmhult;SEÄh;track:02_SEDi%C3%B6_U_SE%C3%84h;B;D2;SEa
+Torebo-Falkenbergs godsstation;0074;03;5,825 km;Torebo;SETeo;Falkenbergs godsstation;SEFabg;track:03_SETeo_E_SEFabg;B;D2;SEa
+Boda-Iggesund;0074;05;8,175 km;Boda;SEBoda;Iggesund;SEId;track:05_SEBoda_E_SEId;B;D2;SEa
+Åstorp-Bjuv;0074;13;6,21 km;Åstorp;SEÅp;Bjuv;SEBjuv;track:13_SE%C3%85p_E_SEBjuv;B;D2;SEa
+Vänersborg central-Vargön;0074;15;4,796 km;Vänersborg central;SEVg;Vargön;SEVag;track:15_SEVg_E_SEVag;B;D2;SEa
+Mon-Kornsjö gränsen;0074;11;6,822 km;Mon;SEMon;Kornsjö gränsen;EU00234;track:11_SEMon_E_EU00234;B;D2;SEa
+Charlottenberg-Charlottenberg gränsen;0074;12;6,713 km;Charlottenberg;SECg;Charlottenberg gränsen;EU00235;track:12_SECg_E_EU00235;B;D2;SEa
+Åkarp-Burlöv;0074;24;2,734 km;Åkarp;SEÅk;Burlöv;SEBlv;track:24_SE%C3%85k_N1_SEBlv;B;D2;SEa
+Åkarp-Burlöv;0074;24;2,734 km;Åkarp;SEÅk;Burlöv;SEBlv;track:24_SE%C3%85k_N2_SEBlv;B;D2;SEa
+Hjärup-Åkarp;0074;02;1,888 km;Hjärup;SEHjp;Åkarp;SEÅk;track:02_SEHjp_N2_SE%C3%85k;B;D2;SEa
+Burlöv-Arlöv;0074;24;1,062 km;Burlöv;SEBlv;Arlöv;SEAl;track:24_SEBlv_N2_SEAl;B;D2;SEa
+Burlöv-Arlöv;0074;24;1,062 km;Burlöv;SEBlv;Arlöv;SEAl;track:24_SEBlv_N1_SEAl;B;D2;SEa
+Hjärup-Åkarp;0074;02;1,888 km;Hjärup;SEHjp;Åkarp;SEÅk;track:02_SEHjp_N1_SE%C3%85k;B;D2;SEa
+Östervärn-Fosieby;0074;24;5,103 km;Östervärn;SEÖvn;Fosieby;SEFsb;track:24_SE%C3%96vn_N_SEFsb;B;no data;SEa
+Östervärn-Fosieby;0074;24;5,103 km;Östervärn;SEÖvn;Fosieby;SEFsb;track:24_SE%C3%96vn_U_SEFsb;B;no data;SEa
+Tälle-Östansjö;0074;01;2,39 km;Tälle;SETäl;Östansjö;SEÖj;track:01_SET%C3%A4l_N_SE%C3%96j;B;no data;SEa
+Tälle-Östansjö;0074;01;2,39 km;Tälle;SETäl;Östansjö;SEÖj;track:01_SET%C3%A4l_U_SE%C3%96j;B;no data;SEa
+Boden central-Sävastklinten;0074;07;6,067 km;Boden central;SEBdn;Sävastklinten;SESän;track:07_SEBdn_E_SES%C3%A4n;B;no data;SEa
+Ånge godsbangård-Ångebyn;0074;08;1,938 km;Ånge godsbangård;SEÅggb;Ångebyn;SEÅgy;track:08_SE%C3%85ggb_E_SE%C3%85gy;B;no data;SEa
+Nyköping södra-Nyköpings central;0074;18;3,361 km;Nyköping södra;SENks;Nyköpings central;SENk;track:18_SENks_E1_SENk;B;no data;SEa
+Göteborg Sävenäs-Olskroken;0074;23;1,459 km;Göteborg Sävenäs;SEGsv;Olskroken;SEOr;track:23_SEGsv_N_SEOr;B;no data;SEa
+Göteborg Sävenäs-Olskroken;0074;23;1,459 km;Göteborg Sävenäs;SEGsv;Olskroken;SEOr;track:23_SEGsv_U_SEOr;B;no data;SEa
+Svedje-Mörtsal;0074;31;10,875 km;Svedje;SESvj;Mörtsal;SEMöl;track:31_SESvj_E_SEM%C3%B6l;B;no data;SEa
+Ånge godsbangård-Ångebyn;0074;08;1,938 km;Ånge godsbangård;SEÅggb;Ångebyn;SEÅgy;track:08_SE%C3%85ggb_E1_SE%C3%85gy;B;no data;SEa
+Solna-Ulriksdal;0074;22;1,679 km;Solna;SESo;Ulriksdal;SEUdl;track:22_SESo_91_SEUdl;B;no data;SEa
+Solna-Ulriksdal;0074;22;1,679 km;Solna;SESo;Ulriksdal;SEUdl;track:22_SESo_N1_SEUdl;B;no data;SEa
+Solna-Ulriksdal;0074;22;1,679 km;Solna;SESo;Ulriksdal;SEUdl;track:22_SESo_N2_SEUdl;B;no data;SEa
+Solna-Ulriksdal;0074;22;1,679 km;Solna;SESo;Ulriksdal;SEUdl;track:22_SESo_U1_SEUdl;B;no data;SEa
+Solna-Ulriksdal;0074;22;1,679 km;Solna;SESo;Ulriksdal;SEUdl;track:22_SESo_U2_SEUdl;B;no data;SEa
+Hallsbergs rangerbangård-Skymossen;0074;01;7,286 km;Hallsbergs rangerbangård;SEHrbg;Skymossen;SESkms;track:01_SEHrbg_E_SESkms;B;no data;SEa
+Gubbero-Göteborg Central;0074;23;1,898 km;Gubbero;SEGro;Göteborg Central;SEG;track:23_SEGro_N1_SEG;B;no data;SEa
+Gubbero-Göteborg Central;0074;23;1,898 km;Gubbero;SEGro;Göteborg Central;SEG;track:23_SEGro_U1_SEG;B;no data;SEa
+Tomteboda bangård-Solna;0074;22;2,43 km;Tomteboda bangård;SETm;Solna;SESo;track:22_SETm_42_SESo;B;no data;SEa
+Stockholms central-Karlberg;0074;22;2,077 km;Stockholms central;SECst;Karlberg;SEKe;track:22_SECst_N1_SEKe;B;no data;SEa
+Stockholms central-Karlberg;0074;22;2,077 km;Stockholms central;SECst;Karlberg;SEKe;track:22_SECst_N3_SEKe;B;no data;SEa
+Stockholms central-Karlberg;0074;22;2,077 km;Stockholms central;SECst;Karlberg;SEKe;track:22_SECst_U1_SEKe;B;no data;SEa
+Stockholms central-Karlberg;0074;22;2,077 km;Stockholms central;SECst;Karlberg;SEKe;track:22_SECst_U3_SEKe;B;no data;SEa
+Sundsvalls central-Nacksta;0074;05;3,757 km;Sundsvalls central;SESuc;Nacksta;SENta;track:05_SESuc_E_SENta;B;no data;SEa
+Sunderbyns sjukhus-Gammelstad;0074;07;6,029 km;Sunderbyns sjukhus;SESus;Gammelstad;SEGst;track:07_SESus_E_SEGst;B;no data;SEa
+Timrå-Solbacka;0074;31;2,231 km;Timrå;SETrå;Solbacka;SESlbk;track:31_SETr%C3%A5_E_SESlbk;B;no data;SEa
+Ljusne bruk-Sandarne;0074;52;6,855 km;Ljusne bruk;SELsb;Sandarne;SESne;track:52_SELsb_E_SESne;B;no data;SEa
+Göteborg Marieholm-Olskroken;0074;23;3,334 km;Göteborg Marieholm;SEGbm;Olskroken;SEOr;track:23_SEGbm_ham_SEOr;B;no data;SEa
+Södertälje hamn-Södertälje syd undre;0074;01;1,819 km;Södertälje hamn;SESöd;Södertälje syd undre;SESöu;track:01_SES%C3%B6d_E2_SES%C3%B6u;B;no data;SEa
+Södertälje hamn-Södertälje syd undre;0074;01;1,819 km;Södertälje hamn;SESöd;Södertälje syd undre;SESöu;track:01_SES%C3%B6d_N_SES%C3%B6u;B;no data;SEa
+Södertälje hamn-Södertälje syd undre;0074;01;1,819 km;Södertälje hamn;SESöd;Södertälje syd undre;SESöu;track:01_SES%C3%B6d_U_SES%C3%B6u;B;no data;SEa
+Mörtsal-Sprängsviken;0074;31;11,54 km;Mörtsal;SEMöl;Sprängsviken;SESpk;track:31_SEM%C3%B6l_E_SESpk;B;no data;SEa
+Stockholms central-Stockholms Södra;0074;22;2,326 km;Stockholms central;SECst;Stockholms Södra;SESst;track:22_SECst_N1S_SESst;B;no data;SEa
+Stockholms central-Stockholms Södra;0074;22;2,326 km;Stockholms central;SECst;Stockholms Södra;SESst;track:22_SECst_U1S_SESst;B;no data;SEa
+Huvudsta-Sundbyberg;0074;22;1,842 km;Huvudsta;SEHuv;Sundbyberg;SESub;track:22_SEHuv_N_SESub;B;no data;SEa
+Huvudsta-Sundbyberg;0074;22;1,842 km;Huvudsta;SEHuv;Sundbyberg;SESub;track:22_SEHuv_U_SESub;B;no data;SEa
+Marma-Skutskär;0074;05;16,713 km;Marma;SEMrm;Skutskär;SESur;track:05_SEMrm_N_SESur;B;no data;SEa
+Marma-Skutskär;0074;05;16,713 km;Marma;SEMrm;Skutskär;SESur;track:05_SEMrm_U_SESur;B;no data;SEa
+Sävedalen-Sävenäs rangerbangård;0074;23;1,207 km;Sävedalen;SESel;Sävenäs rangerbangård;SESär;track:23_SESel_51_SES%C3%A4r;B;no data;SEa
+Helsingborgs central-Helsingborgs godsbangård;0074;03;3,015 km;Helsingborgs central;SEHb;Helsingborgs godsbangård;SEHbgb;track:03_SEHb_N_SEHbgb;B;no data;SEa
+Helsingborgs central-Helsingborgs godsbangård;0074;03;3,015 km;Helsingborgs central;SEHb;Helsingborgs godsbangård;SEHbgb;track:03_SEHb_U_SEHbgb;B;no data;SEa
+Stockholms Södra-Årstaberg;0074;22;2,551 km;Stockholms Södra;SESst;Årstaberg;SEÅbe;track:22_SESst_N1S_SE%C3%85be;B;no data;SEa
+Stockholms Södra-Årstaberg;0074;22;2,551 km;Stockholms Södra;SESst;Årstaberg;SEÅbe;track:22_SESst_N2S_SE%C3%85be;B;no data;SEa
+Stockholms Södra-Årstaberg;0074;22;2,551 km;Stockholms Södra;SESst;Årstaberg;SEÅbe;track:22_SESst_U1S_SE%C3%85be;B;no data;SEa
+Stockholms Södra-Årstaberg;0074;22;2,551 km;Stockholms Södra;SESst;Årstaberg;SEÅbe;track:22_SESst_U2S_SE%C3%85be;B;no data;SEa
+Burlöv-Arlöv;0074;24;1,062 km;Burlöv;SEBlv;Arlöv;SEAl;track:24_SEBlv_E2_SEAl;B;no data;SEa
+Umeå godsbangård-Umeå central;0074;07;2,201 km;Umeå godsbangård;SEUågb;Umeå central;SEUå;track:07_SEU%C3%A5gb_E1_SEU%C3%A5;B;no data;SEa
+Umeå godsbangård-Umeå central;0074;07;2,201 km;Umeå godsbangård;SEUågb;Umeå central;SEUå;track:07_SEU%C3%A5gb_E_SEU%C3%A5;B;no data;SEa
+Sävedalen-Göteborg Sävenäs;0074;23;3,027 km;Sävedalen;SESel;Göteborg Sävenäs;SEGsv;track:23_SESel_87_SEGsv;B;no data;SEa
+Sävedalen-Göteborg Sävenäs;0074;23;3,027 km;Sävedalen;SESel;Göteborg Sävenäs;SEGsv;track:23_SESel_N_SEGsv;B;no data;SEa
+Sävedalen-Göteborg Sävenäs;0074;23;3,027 km;Sävedalen;SESel;Göteborg Sävenäs;SEGsv;track:23_SESel_U_SEGsv;B;no data;SEa
+Tomteboda övre-Huvudsta;0074;22;1,092 km;Tomteboda övre;SETmö;Huvudsta;SEHuv;track:22_SETm%C3%B6_N3_SEHuv;B;no data;SEa
+Tomteboda övre-Huvudsta;0074;22;1,092 km;Tomteboda övre;SETmö;Huvudsta;SEHuv;track:22_SETm%C3%B6_N4_SEHuv;B;no data;SEa
+Tomteboda övre-Huvudsta;0074;22;1,092 km;Tomteboda övre;SETmö;Huvudsta;SEHuv;track:22_SETm%C3%B6_U3_SEHuv;B;no data;SEa
+Tomteboda övre-Huvudsta;0074;22;1,092 km;Tomteboda övre;SETmö;Huvudsta;SEHuv;track:22_SETm%C3%B6_U4_SEHuv;B;no data;SEa
+Fosieby-Lockarp;0074;24;1,528 km;Fosieby;SEFsb;Lockarp;SELrp;track:24_SEFsb_N1_SELrp;B;no data;SEa
+Fosieby-Lockarp;0074;24;1,528 km;Fosieby;SEFsb;Lockarp;SELrp;track:24_SEFsb_U1_SELrp;B;no data;SEa
+Stavreviken-Söråkers södra;0074;31;2,09 km;Stavreviken;SESen;Söråkers södra;SESårs;track:31_SESen_E_SES%C3%A5rs;B;no data;SEa
+Årstaberg-Älvsjö;0074;22;2,613 km;Årstaberg;SEÅbe;Älvsjö;SEÄs;track:22_SE%C3%85be_N1S_SE%C3%84s;B;no data;SEa
+Årstaberg-Älvsjö;0074;22;2,613 km;Årstaberg;SEÅbe;Älvsjö;SEÄs;track:22_SE%C3%85be_N2S_SE%C3%84s;B;no data;SEa
+Årstaberg-Älvsjö;0074;22;2,613 km;Årstaberg;SEÅbe;Älvsjö;SEÄs;track:22_SE%C3%85be_U1S_SE%C3%84s;B;no data;SEa
+Årstaberg-Älvsjö;0074;22;2,613 km;Årstaberg;SEÅbe;Älvsjö;SEÄs;track:22_SE%C3%85be_U2S_SE%C3%84s;B;no data;SEa
+Årstaberg-Älvsjö;0074;22;2,613 km;Årstaberg;SEÅbe;Älvsjö;SEÄs;track:22_SE%C3%85be_U3S_SE%C3%84s;B;no data;SEa
+Tomteboda övre-Stockholm Odenplan;0074;22;2,18 km;Tomteboda övre;SETmö;Stockholm Odenplan;SESod;track:22_SETm%C3%B6_N2_SESod;B;no data;SEa
+Tomteboda övre-Stockholm Odenplan;0074;22;2,18 km;Tomteboda övre;SETmö;Stockholm Odenplan;SESod;track:22_SETm%C3%B6_U2_SESod;B;no data;SEa
+Triangeln-Hyllie;0074;24;3,912 km;Triangeln;SETri;Hyllie;SEHie;track:24_SETri_N_SEHie;B;no data;SEa
+Triangeln-Hyllie;0074;24;3,912 km;Triangeln;SETri;Hyllie;SEHie;track:24_SETri_U_SEHie;B;no data;SEa
+Solbacka-Stavreviken;0074;31;6,801 km;Solbacka;SESlbk;Stavreviken;SESen;track:31_SESlbk_E_SESen;B;no data;SEa
+Kågeröd-Svalöv;0074;26;10,157 km;Kågeröd;SEKd;Svalöv;SESal;track:26_SEKd_E_SESal;B;no data;SEa
+Birsta-Skönvik;0074;31;5,087 km;Birsta;SEBia;Skönvik;SESkk;track:31_SEBia_E_SESkk;B;no data;SEa
+Norra Sunderbyn-Sunderbyns sjukhus;0074;07;4,232 km;Norra Sunderbyn;SESby;Sunderbyns sjukhus;SESus;track:07_SESby_E_SESus;B;no data;SEa
+Malmö central-Triangeln;0074;24;2,479 km;Malmö central;SEM;Triangeln;SETri;track:24_SEM_N_SETri;B;no data;SEa
+Malmö central-Triangeln;0074;24;2,479 km;Malmö central;SEM;Triangeln;SETri;track:24_SEM_U_SETri;B;no data;SEa
+Hallsbergs personbangård-Skymossen;0074;01;10,78 km;Hallsbergs personbangård;SEHpbg;Skymossen;SESkms;track:01_SEHpbg_E1_SESkms;B;no data;SEa
+Vallvik-Ljusne bruk;0074;05;2,987 km;Vallvik;SEVv;Ljusne bruk;SELsb;track:05_SEVv_E_SELsb;B;no data;SEa
+Umeå central-Umeå östra;0074;07;2,016 km;Umeå central;SEUå;Umeå östra;SEUåö;track:07_SEU%C3%A5_E_SEU%C3%A5%C3%B6;B;no data;SEa
+Karlberg-Tomteboda övre;0074;22;1,496 km;Karlberg;SEKe;Tomteboda övre;SETmö;track:22_SEKe_N1_SETm%C3%B6;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_75_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_N_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_U_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_zsk%C3%B6th1_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_zsk%C3%B6th2_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_zsk%C3%B6th3_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_zsk%C3%B6th4_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_zsk%C3%B6th5_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_zsk%C3%B6th6_SEG;B;no data;SEa
+Malmö godsbangård-Östervärn;0074;24;1,931 km;Malmö godsbangård;SEMgb;Östervärn;SEÖvn;track:24_SEMgb_E1_SE%C3%96vn;B;no data;SEa
+Malmö godsbangård-Östervärn;0074;24;1,931 km;Malmö godsbangård;SEMgb;Östervärn;SEÖvn;track:24_SEMgb_E_SE%C3%96vn;B;no data;SEa
+Karlberg-Tomteboda övre;0074;22;1,496 km;Karlberg;SEKe;Tomteboda övre;SETmö;track:22_SEKe_N3_SETm%C3%B6;B;no data;SEa
+Karlberg-Tomteboda övre;0074;22;1,496 km;Karlberg;SEKe;Tomteboda övre;SETmö;track:22_SEKe_U1_SETm%C3%B6;B;no data;SEa
+Karlberg-Tomteboda övre;0074;22;1,496 km;Karlberg;SEKe;Tomteboda övre;SETmö;track:22_SEKe_U3_SETm%C3%B6;B;no data;SEa
+Karlberg-Tomteboda övre;0074;22;1,496 km;Karlberg;SEKe;Tomteboda övre;SETmö;track:22_SEKe_d1_SETm%C3%B6;B;no data;SEa
+Hyllie-Svågertorp;0074;24;4,575 km;Hyllie;SEHie;Svågertorp;SEStp;track:24_SEHie_E1_SEStp;B;no data;SEa
+Hyllie-Svågertorp;0074;24;4,575 km;Hyllie;SEHie;Svågertorp;SEStp;track:24_SEHie_E_SEStp;B;no data;SEa
+Svågertorp-Fosieby;0074;24;3,496 km;Svågertorp;SEStp;Fosieby;SEFsb;track:24_SEStp_N_SEFsb;B;no data;SEa
+Svågertorp-Fosieby;0074;24;3,496 km;Svågertorp;SEStp;Fosieby;SEFsb;track:24_SEStp_U_SEFsb;B;no data;SEa
+Räppe-Växjö;0074;04;4,464 km;Räppe;SERäp;Växjö;SEVö;track:04_SER%C3%A4p_E_SEV%C3%B6;B;no data;SEa
+Ångebyn-Moradal;0074;08;4,948 km;Ångebyn;SEÅgy;Moradal;SEMdl;track:08_SE%C3%85gy_U_SEMdl;B;no data;SEa
+Oxelösund-Nyköping södra;0074;18;12,202 km;Oxelösund;SEOxd;Nyköping södra;SENks;track:18_SEOxd_E_SENks;B;no data;SEa
+Gävle godsbangård-Gävle central;0074;05;1,444 km;Gävle godsbangård;SEGäb;Gävle central;SEGä;track:05_SEG%C3%A4b_fi_SEG%C3%A4;B;no data;SEa
+Hussjöby-Häggsjön;0074;31;8,77 km;Hussjöby;SEHsy;Häggsjön;SEHän;track:31_SEHsy_E_SEH%C3%A4n;B;no data;SEa
+Skönvik-Timrå;0074;31;3,072 km;Skönvik;SESkk;Timrå;SETrå;track:31_SESkk_E_SETr%C3%A5;B;no data;SEa
+Furet-Halmstads central;0074;03;2,33 km;Furet;SEFur;Halmstads central;SEHd;track:03_SEFur_N_SEHd;B;no data;SEa
+Furet-Halmstads central;0074;03;2,33 km;Furet;SEFur;Halmstads central;SEHd;track:03_SEFur_U_SEHd;B;no data;SEa
+Gammelstad-Notviken;0074;07;5,028 km;Gammelstad;SEGst;Notviken;SENvn;track:07_SEGst_E_SENvn;B;no data;SEa
+Svågertorp-Lockarp;0074;24;2,602 km;Svågertorp;SEStp;Lockarp;SELrp;track:24_SEStp_E1_SELrp;B;no data;SEa
+Svågertorp-Lockarp;0074;24;2,602 km;Svågertorp;SEStp;Lockarp;SELrp;track:24_SEStp_E_SELrp;B;no data;SEa
+Gullberna-Karlskrona central;0074;04;4,181 km;Gullberna;SEGua;Karlskrona central;SECk;track:04_SEGua_E_SECk;B;no data;SEa
+Partille-Sävedalen;0074;23;2,323 km;Partille;SEP;Sävedalen;SESel;track:23_SEP_N_SESel;B;no data;SEa
+Partille-Sävedalen;0074;23;2,323 km;Partille;SEP;Sävedalen;SESel;track:23_SEP_U_SESel;B;no data;SEa
+Södertälje syd undre-Södertälje syd övre;0074;01;3,061 km;Södertälje syd undre;SESöu;Södertälje syd övre;SESöö;track:01_SES%C3%B6u_E1_SES%C3%B6%C3%B6;B;no data;SEa
+Uppsala central-Samnan;0074;05;6,592 km;Uppsala central;SEU;Samnan;SESam;track:05_SEU_N_SESam;B;no data;SEa
+Lernacken-Svågertorp;0074;24;6,233 km;Lernacken;SELnk;Svågertorp;SEStp;track:24_SELnk_N_SEStp;B;no data;SEa
+Lernacken-Svågertorp;0074;24;6,233 km;Lernacken;SELnk;Svågertorp;SEStp;track:24_SELnk_U_SEStp;B;no data;SEa
+Hyllie-Lernacken;0074;24;4,698 km;Hyllie;SEHie;Lernacken;SELnk;track:24_SEHie_N_SELnk;B;no data;SEa
+Hyllie-Lernacken;0074;24;4,698 km;Hyllie;SEHie;Lernacken;SELnk;track:24_SEHie_U_SELnk;B;no data;SEa
+Ånge-Ånge godsbangård;0074;08;1,012 km;Ånge;SEÅg;Ånge godsbangård;SEÅggb;track:08_SE%C3%85g_106_SE%C3%85ggb;B;no data;SEa
+Halmstads rangerbangård-Kistinge;0074;03;3,61 km;Halmstads rangerbangård;SEHdr;Kistinge;SEKst;track:03_SEHdr_N_SEKst;B;no data;SEa
+Halmstads rangerbangård-Kistinge;0074;03;3,61 km;Halmstads rangerbangård;SEHdr;Kistinge;SEKst;track:03_SEHdr_U_SEKst;B;no data;SEa
+Häggsjön-Hällenyland;0074;31;4,792 km;Häggsjön;SEHän;Hällenyland;SEHnl;track:31_SEH%C3%A4n_E_SEHnl;B;no data;SEa
+Halmstads central-Halmstads rangerbangård;0074;03;1,147 km;Halmstads central;SEHd;Halmstads rangerbangård;SEHdr;track:03_SEHd_1_SEHdr;B;no data;SEa
+Halmstads central-Halmstads rangerbangård;0074;03;1,147 km;Halmstads central;SEHd;Halmstads rangerbangård;SEHdr;track:03_SEHd_61_SEHdr;B;no data;SEa
+Halmstads central-Halmstads rangerbangård;0074;03;1,147 km;Halmstads central;SEHd;Halmstads rangerbangård;SEHdr;track:03_SEHd_N_SEHdr;B;no data;SEa
+Halmstads central-Halmstads rangerbangård;0074;03;1,147 km;Halmstads central;SEHd;Halmstads rangerbangård;SEHdr;track:03_SEHd_U_SEHdr;B;no data;SEa
+Hallsbergs rangerbangård-Tälle;0074;01;2,307 km;Hallsbergs rangerbangård;SEHrbg;Tälle;SETäl;track:01_SEHrbg_E1_SET%C3%A4l;B;no data;SEa
+Hallsbergs rangerbangård-Tälle;0074;01;2,307 km;Hallsbergs rangerbangård;SEHrbg;Tälle;SETäl;track:01_SEHrbg_E2_SET%C3%A4l;B;no data;SEa
+Hallsbergs rangerbangård-Tälle;0074;01;2,307 km;Hallsbergs rangerbangård;SEHrbg;Tälle;SETäl;track:01_SEHrbg_N_SET%C3%A4l;B;no data;SEa
+Hallsbergs rangerbangård-Tälle;0074;01;2,307 km;Hallsbergs rangerbangård;SEHrbg;Tälle;SETäl;track:01_SEHrbg_U_SET%C3%A4l;B;no data;SEa
+Tomteboda övre-Solna;0074;22;1,574 km;Tomteboda övre;SETmö;Solna;SESo;track:22_SETm%C3%B6_N1_SESo;B;no data;SEa
+Tomteboda övre-Solna;0074;22;1,574 km;Tomteboda övre;SETmö;Solna;SESo;track:22_SETm%C3%B6_N2_SESo;B;no data;SEa
+Tomteboda övre-Solna;0074;22;1,574 km;Tomteboda övre;SETmö;Solna;SESo;track:22_SETm%C3%B6_U1_SESo;B;no data;SEa
+Tomteboda övre-Solna;0074;22;1,574 km;Tomteboda övre;SETmö;Solna;SESo;track:22_SETm%C3%B6_U2_SESo;B;no data;SEa
+Tomteboda övre-Solna;0074;22;1,574 km;Tomteboda övre;SETmö;Solna;SESo;track:22_SETm%C3%B6_d1_SESo;B;no data;SEa
+Tomteboda övre-Solna;0074;22;1,574 km;Tomteboda övre;SETmö;Solna;SESo;track:22_SETm%C3%B6_d2_SESo;B;no data;SEa
+Frånö-Kramfors;0074;31;4,061 km;Frånö;SEFnö;Kramfors;SEKrf;track:31_SEFn%C3%B6_E_SEKrf;B;no data;SEa
+Sprängsviken-Frånö;0074;31;5,914 km;Sprängsviken;SESpk;Frånö;SEFnö;track:31_SESpk_E_SEFn%C3%B6;B;no data;SEa
+Hallsbergs personbangård-Hallsbergs rangerbangård;0074;01;3,187 km;Hallsbergs personbangård;SEHpbg;Hallsbergs rangerbangård;SEHrbg;track:01_SEHpbg_N1_SEHrbg;B;no data;SEa
+Hallsbergs personbangård-Hallsbergs rangerbangård;0074;01;3,187 km;Hallsbergs personbangård;SEHpbg;Hallsbergs rangerbangård;SEHrbg;track:01_SEHpbg_N_SEHrbg;B;no data;SEa
+Hallsbergs personbangård-Hallsbergs rangerbangård;0074;01;3,187 km;Hallsbergs personbangård;SEHpbg;Hallsbergs rangerbangård;SEHrbg;track:01_SEHpbg_U1_SEHrbg;B;no data;SEa
+Hallsbergs personbangård-Hallsbergs rangerbangård;0074;01;3,187 km;Hallsbergs personbangård;SEHpbg;Hallsbergs rangerbangård;SEHrbg;track:01_SEHpbg_U_SEHrbg;B;no data;SEa
+Sävastklinten-Sävast;0074;07;1,738 km;Sävastklinten;SESän;Sävast;SESvt;track:07_SES%C3%A4n_E_SESvt;B;no data;SEa
+Kristianstads central-Kristianstad GBG;0074;13;1,27 km;Kristianstads central;SECr;Kristianstad GBG;SECrgb;track:13_SECr_E2_SECrgb;B;no data;SEa
+Kristianstads central-Kristianstad GBG;0074;13;1,27 km;Kristianstads central;SECr;Kristianstad GBG;SECrgb;track:13_SECr_E_SECrgb;B;no data;SEa
+Arlöv-Malmö godsbangård;0074;24;2,682 km;Arlöv;SEAl;Malmö godsbangård;SEMgb;track:24_SEAl_E2_SEMgb;B;no data;SEa
+Arlöv-Malmö godsbangård;0074;24;2,682 km;Arlöv;SEAl;Malmö godsbangård;SEMgb;track:24_SEAl_N1_SEMgb;B;no data;SEa
+Arlöv-Malmö godsbangård;0074;24;2,682 km;Arlöv;SEAl;Malmö godsbangård;SEMgb;track:24_SEAl_N2_SEMgb;B;no data;SEa
+Arlöv-Malmö godsbangård;0074;24;2,682 km;Arlöv;SEAl;Malmö godsbangård;SEMgb;track:24_SEAl_U1_SEMgb;B;no data;SEa
+Arlöv-Malmö godsbangård;0074;24;2,682 km;Arlöv;SEAl;Malmö godsbangård;SEMgb;track:24_SEAl_U2_SEMgb;B;no data;SEa
+Kalmar södra-Kalmar central;0074;04;1,901 km;Kalmar södra;SEKas;Kalmar central;SEKac;track:04_SEKas_E_SEKac;B;no data;SEa
+Östertälje-Södertälje hamn;0074;01;1,874 km;Östertälje;SEÖte;Södertälje hamn;SESöd;track:01_SE%C3%96te_N_SES%C3%B6d;B;no data;SEa
+Östertälje-Södertälje hamn;0074;01;1,874 km;Östertälje;SEÖte;Södertälje hamn;SESöd;track:01_SE%C3%96te_U_SES%C3%B6d;B;no data;SEa
+Billesholm-Kågeröd;0074;26;10,157 km;Billesholm;SEBih;Kågeröd;SEKd;track:26_SEBih_E_SEKd;B;no data;SEa
+Olskroken-Göteborg Kville;0074;23;2,397 km;Olskroken;SEOr;Göteborg Kville;SEGk;track:23_SEOr_91_SEGk;B;no data;SEa
+Olskroken-Göteborg Kville;0074;23;2,397 km;Olskroken;SEOr;Göteborg Kville;SEGk;track:23_SEOr_E_SEGk;B;no data;SEa
+Stockholm City-Stockholms Södra;0074;22;2,411 km;Stockholm City;SESci;Stockholms Södra;SESst;track:22_SESci_N2_SESst;B;no data;SEa
+Stockholm City-Stockholms Södra;0074;22;2,411 km;Stockholm City;SESci;Stockholms Södra;SESst;track:22_SESci_U2_SESst;B;no data;SEa
+Härnösands central-Svedje;0074;31;7,271 km;Härnösands central;SEHsd;Svedje;SESvj;track:31_SEHsd_E_SESvj;B;no data;SEa
+Notviken-Luleå;0074;07;3,788 km;Notviken;SENvn;Luleå;SELe;track:07_SENvn_E_SELe;B;no data;SEa
+Söråkers södra-Hussjöby;0074;31;13,047 km;Söråkers södra;SESårs;Hussjöby;SEHsy;track:31_SES%C3%A5rs_E_SEHsy;B;no data;SEa
+Malmö central-Östervärn;0074;24;2,248 km;Malmö central;SEM;Östervärn;SEÖvn;track:24_SEM_N_SE%C3%96vn;B;no data;SEa
+Malmö central-Östervärn;0074;24;2,248 km;Malmö central;SEM;Östervärn;SEÖvn;track:24_SEM_U_SE%C3%96vn;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_20l_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_21l_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_22l_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_90_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_N1_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_N2_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_U1_SEM;B;no data;SEa
+Malmö godsbangård-Malmö central;0074;24;2,811 km;Malmö godsbangård;SEMgb;Malmö central;SEM;track:24_SEMgb_U2_SEM;B;no data;SEa
+Kramfors-Dynäs;0074;31;5,252 km;Kramfors;SEKrf;Dynäs;SEDns;track:31_SEKrf_E_SEDns;B;no data;SEa
+Flen-Flens övre;0074;18;0,873 km;Flen;SEFle;Flens övre;SEFsö;track:18_SEFle_E1_SEFs%C3%B6;B;no data;SEa
+Uppsala central-Uppsala norra;0074;05;2,384 km;Uppsala central;SEU;Uppsala norra;SEUna;track:05_SEU_E_SEUna;B;no data;SEa
+Stockholm Odenplan-Stockholm City;0074;22;1,611 km;Stockholm Odenplan;SESod;Stockholm City;SESci;track:22_SESod_N2_SESci;B;no data;SEa
+Stockholm Odenplan-Stockholm City;0074;22;1,611 km;Stockholm Odenplan;SESod;Stockholm City;SESci;track:22_SESod_U2_SESci;B;no data;SEa
+Gubbero-Almedal;0074;23;2,922 km;Gubbero;SEGro;Almedal;SEAm;track:23_SEGro_N_SEAm;B;no data;SEa
+Gubbero-Almedal;0074;23;2,922 km;Gubbero;SEGro;Almedal;SEAm;track:23_SEGro_U_SEAm;B;no data;SEa
+Sävast-Norra Sunderbyn;0074;07;8,569 km;Sävast;SESvt;Norra Sunderbyn;SESby;track:07_SESvt_E_SESby;B;no data;SEa
+Sävenäs rangerbangård-Göteborg Sävenäs;0074;23;1,812 km;Sävenäs rangerbangård;SESär;Göteborg Sävenäs;SEGsv;track:23_SES%C3%A4r_51_SEGsv;B;no data;SEa
+Dynäs-Västeraspby;0074;31;12,78 km;Dynäs;SEDns;Västeraspby;SEVäy;track:31_SEDns_E_SEV%C3%A4y;B;no data;SEa
+Boden central-Buddbyn;0074;07;3,8 km;Boden central;SEBdn;Buddbyn;SEBud;track:07_SEBdn_E_SEBud;B;no data;SEa
+Hällenyland-Härnösands central;0074;31;9,742 km;Hällenyland;SEHnl;Härnösands central;SEHsd;track:31_SEHnl_E_SEHsd;B;no data;SEa
+Göteborg Sävenäs-Olskroken;0074;23;1,459 km;Göteborg Sävenäs;SEGsv;Olskroken;SEOr;track:23_SEGsv_87_SEOr;B;no data;SEa
+Göteborg Sävenäs-Olskroken;0074;23;1,459 km;Göteborg Sävenäs;SEGsv;Olskroken;SEOr;track:23_SEGsv_89_SEOr;B;no data;SEa
+Sundsvalls central-Nacksta;0074;05;3,757 km;Sundsvalls central;SESuc;Nacksta;SENta;track:05_SESuc_E1_SENta;B;no data;SEa
+Olskroken-Gubbero;0074;23;1,194 km;Olskroken;SEOr;Gubbero;SEGro;track:23_SEOr_87_SEGro;B;no data;SEa
+Sävedalen-Sävenäs rangerbangård;0074;23;1,207 km;Sävedalen;SESel;Sävenäs rangerbangård;SESär;track:23_SESel_103_SES%C3%A4r;B;no data;SEa
+Göteborg Marieholm-Olskroken;0074;23;3,334 km;Göteborg Marieholm;SEGbm;Olskroken;SEOr;track:23_SEGbm_N3_SEOr;B;no data;SEa
+Göteborg Marieholm-Olskroken;0074;23;3,334 km;Göteborg Marieholm;SEGbm;Olskroken;SEOr;track:23_SEGbm_U3_SEOr;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_N3_SEG;B;no data;SEa
+Olskroken-Göteborg Central;0074;23;1,83 km;Olskroken;SEOr;Göteborg Central;SEG;track:23_SEOr_U3_SEG;B;no data;SEa
+Göteborg Marieholm-Göteborg Kville;0074;23;3,723 km;Göteborg Marieholm;SEGbm;Göteborg Kville;SEGk;track:23_SEGbm_Gbm-Gk%20t_SEGk;B;no data;SEa
+Åkarp-Burlöv;0074;24;2,734 km;Åkarp;SEÅk;Burlöv;SEBlv;track:24_SE%C3%85k_U1_SEBlv;B;no data;SEa
+Åkarp-Burlöv;0074;24;2,734 km;Åkarp;SEÅk;Burlöv;SEBlv;track:24_SE%C3%85k_U2_SEBlv;B;no data;SEa
+Hjärup-Åkarp;0074;02;1,888 km;Hjärup;SEHjp;Åkarp;SEÅk;track:02_SEHjp_U1_SE%C3%85k;B;no data;SEa
+Burlöv-Arlöv;0074;24;1,062 km;Burlöv;SEBlv;Arlöv;SEAl;track:24_SEBlv_U1_SEAl;B;no data;SEa
+Burlöv-Arlöv;0074;24;1,062 km;Burlöv;SEBlv;Arlöv;SEAl;track:24_SEBlv_U2_SEAl;B;no data;SEa
+Hjärup-Åkarp;0074;02;1,888 km;Hjärup;SEHjp;Åkarp;SEÅk;track:02_SEHjp_U2_SE%C3%85k;B;no data;SEa
+Isätra-Sala;0074;06;8,375 km;Isätra;SEIst;Sala;SESl;track:06_SEIst_E_SESl;B;D2;SEa
+Åsbro-Stenkumla;0074;09;4,322 km;Åsbro;SEÅ;Stenkumla;SESkm;track:09_SE%C3%85_E_SESkm;B;D2;SEa
+Degerön-Önaskogen;0074;09;9,748 km;Degerön;SED;Önaskogen;SEÖna;track:09_SED_N_SE%C3%96na;B;D2;SEa
+Degerön-Önaskogen;0074;09;9,748 km;Degerön;SED;Önaskogen;SEÖna;track:09_SED_U_SE%C3%96na;B;D2;SEa
+Duved-Ånn;0074;20;23,747 km;Duved;SEDu;Ånn;SEÅnn;track:20_SEDu_E_SE%C3%85nn;B;D2;SEa
+Kosjärv-Rian;0074;29;8,357 km;Kosjärv;SEKoj;Rian;SERan;track:29_SEKoj_E_SERan;B;E4;SEa
+Klevshult-Hörle;0074;84;10,798 km;Klevshult;SEKvh;Hörle;SEHrl;track:84_SEKvh_E_SEHrl;B;D2;SEa
+Ånn-Enafors;0074;20;11,456 km;Ånn;SEÅnn;Enafors;SEEns;track:20_SE%C3%85nn_E_SEEns;B;D2;SEa
+Enafors-Storlien;0074;20;13,076 km;Enafors;SEEns;Storlien;SEStr;track:20_SEEns_E_SEStr;B;D2;SEa
+Önaskogen-Motala central;0074;09;10,699 km;Önaskogen;SEÖna;Motala central;SEMot;track:09_SE%C3%96na_N_SEMot;B;D2;SEa
+Önaskogen-Motala central;0074;09;10,699 km;Önaskogen;SEÖna;Motala central;SEMot;track:09_SE%C3%96na_U_SEMot;B;D2;SEa
+Dalgränsen-Hästbo;0074;09;7,557 km;Dalgränsen;SEDgn;Hästbo;SEHä;track:09_SEDgn_E_SEH%C3%A4;B;D2;SEa
+Vuonoskogen-Keräsjoki;0074;29;8,689 km;Vuonoskogen;SEVsk;Keräsjoki;SEKei;track:29_SEVsk_E_SEKei;B;E4;SEa
+Kvarnängen-Ösmo;0074;19;6,852 km;Kvarnängen;SEKng;Ösmo;SEÖso;track:19_SEKng_E_SE%C3%96so;B;D2;SEa
+Nälden-Trångsviken;0074;20;14,76 km;Nälden;SENä;Trångsviken;SETåv;track:20_SEN%C3%A4_E_SET%C3%A5v;B;D2;SEa
+Stöde-Nedansjö;0074;20;14,766 km;Stöde;SEStd;Nedansjö;SENsö;track:20_SEStd_E_SENs%C3%B6;B;D2;SEa
+Rydsgård-Rynge;0074;90;5,424 km;Rydsgård;SERdg;Rynge;SERye;track:90_SERdg_E_SERye;B;D2;SEa
+Skanlog-VME;0074;56;0,05 km;Skanlog;SESnl;VME;SEVme;track:56_SESnl_E_SEVme;B;C2;SEa
+Reftele-Smålandsstenar;0074;84;11,526 km;Reftele;SERft;Smålandsstenar;SESdr;track:84_SERft_E_SESdr;B;D2;SEa
+Säter-Gustafs;0074;06;11,291 km;Säter;SESt;Gustafs;SEGtf;track:06_SESt_E_SEGtf;B;D2;SEa
+Stolpen-Malmbäck;0074;84;6,868 km;Stolpen;SESoe;Malmbäck;SEMbä;track:84_SESoe_E_SEMb%C3%A4;B;D2;SEa
+Repbäcken-Gagnef;0074;06;19,371 km;Repbäcken;SERbä;Gagnef;SEGnf;track:06_SERb%C3%A4_E_SEGnf;B;D2;SEa
+Fågelsta-Skänninge;0074;09;8,733 km;Fågelsta;SEFgl;Skänninge;SESkn;track:09_SEFgl_N_SESkn;B;D2;SEa
+Fågelsta-Skänninge;0074;09;8,733 km;Fågelsta;SEFgl;Skänninge;SESkn;track:09_SEFgl_U_SESkn;B;D2;SEa
+Bjurå-Gåsträsken;0074;29;12,554 km;Bjurå;SEBrå;Gåsträsken;SEGen;track:29_SEBr%C3%A5_E_SEGen;B;E4;SEa
+Månsarp-Vaggeryd;0074;84;18,587 km;Månsarp;SEMåp;Vaggeryd;SEVgd;track:84_SEM%C3%A5p_E_SEVgd;B;D2;SEa
+Hässleholm-Finja;0074;13;5,211 km;Hässleholm;SEHm;Finja;SEFin;track:13_SEHm_E_SEFin;B;D2;SEa
+Motala central-Fågelsta;0074;09;9,374 km;Motala central;SEMot;Fågelsta;SEFgl;track:09_SEMot_N_SEFgl;B;D2;SEa
+Motala central-Fågelsta;0074;09;9,374 km;Motala central;SEMot;Fågelsta;SEFgl;track:09_SEMot_U_SEFgl;B;D2;SEa
+Mobodarne-Marmaverken;0074;49;9,685 km;Mobodarne;SEMb;Marmaverken;SEMe;track:49_SEMb_E_SEMe;B;E4;SEa
+Skeppshult-Landeryd;0074;84;8,106 km;Skeppshult;SESph;Landeryd;SELrd;track:84_SESph_E_SELrd;B;D2;SEa
+Skogås-Farsta strand;0074;19;3,581 km;Skogås;SESkg;Farsta strand;SEFas;track:19_SESkg_N_SEFas;B;D2;SEa
+Skogås-Farsta strand;0074;19;3,581 km;Skogås;SESkg;Farsta strand;SEFas;track:19_SESkg_U_SEFas;B;D2;SEa
+Västra Torup-Perstorp;0074;13;7,023 km;Västra Torup;SEVto;Perstorp;SEPt;track:13_SEVto_E_SEPt;B;D2;SEa
+Sala-Broddbo;0074;06;9,997 km;Sala;SESl;Broddbo;SEBdo;track:06_SESl_E_SEBdo;B;D2;SEa
+Trångsviken-Mattmar;0074;20;10,529 km;Trångsviken;SETåv;Mattmar;SEMa;track:20_SET%C3%A5v_E_SEMa;B;D2;SEa
+Gärsnäs-Simrishamn;0074;90;11,219 km;Gärsnäs;SEGss;Simrishamn;SESi;track:90_SEGss_E_SESi;B;D2;SEa
+Karbenning-Snyten;0074;09;5,996 km;Karbenning;SEKbn;Snyten;SESnt;track:09_SEKbn_E_SESnt;B;D2;SEa
+Ösmo-Segersäng;0074;19;5,306 km;Ösmo;SEÖso;Segersäng;SESsä;track:19_SE%C3%96so_E_SESs%C3%A4;B;D2;SEa
+Åre-Duved;0074;20;8,254 km;Åre;SEÅre;Duved;SEDu;track:20_SE%C3%85re_E_SEDu;B;D2;SEa
+Fors-Morshyttan;0074;09;7,654 km;Fors;SEFs;Morshyttan;SEMrs;track:09_SEFs_E_SEMrs;B;D2;SEa
+Godegård-Degerön;0074;09;5,031 km;Godegård;SEGo;Degerön;SED;track:09_SEGo_E_SED;B;D2;SEa
+Bredviken-Stensundberget;0074;29;7,995 km;Bredviken;SEBen;Stensundberget;SESet;track:29_SEBen_E_SESet;B;E4;SEa
+Fjälkinge-Bromölla;0074;88;13,192 km;Fjälkinge;SEFki;Bromölla;SEBml;track:88_SEFki_E_SEBml;B;D2;SEa
+Tyringe-Västra Torup;0074;13;5,981 km;Tyringe;SETy;Västra Torup;SEVto;track:13_SETy_E_SEVto;B;D2;SEa
+Morgongåva-Heby;0074;06;6,202 km;Morgongåva;SEMå;Heby;SEHy;track:06_SEM%C3%A5_E_SEHy;B;D2;SEa
+Sölvesborg-Sandbäck;0074;88;13,667 km;Sölvesborg;SESög;Sandbäck;SESak;track:88_SES%C3%B6g_E_SESak;B;D2;SEa
+Handen-Skogås;0074;19;6,51 km;Handen;SEHnd;Skogås;SESkg;track:19_SEHnd_N_SESkg;B;D2;SEa
+Handen-Skogås;0074;19;6,51 km;Handen;SEHnd;Skogås;SESkg;track:19_SEHnd_U_SESkg;B;D2;SEa
+Hissmofors-Krokom OJ;0074;20;3,253 km;Hissmofors;SEHmfs;Krokom OJ;SEKroj;track:20_SEHmfs_E_SEKroj;B;D2;SEa
+Klippan-Kvidinge;0074;13;5,344 km;Klippan;SEKl;Kvidinge;SEKvi;track:13_SEKl_E_SEKvi;B;D2;SEa
+Brunflo-Ope;0074;20;7,92 km;Brunflo;SEBf;Ope;SEOpe;track:20_SEBf_E_SEOpe;B;D2;SEa
+Torpshammar-Viskan;0074;20;5,783 km;Torpshammar;SETo;Viskan;SEVisk;track:20_SETo_E_SEVisk;B;D2;SEa
+Örebro central-Hovsta;0074;09;8,023 km;Örebro central;SEÖr;Hovsta;SEHsa;track:09_SE%C3%96r_N_SEHsa;B;D2;SEa
+Örebro central-Hovsta;0074;09;8,023 km;Örebro central;SEÖr;Hovsta;SEHsa;track:09_SE%C3%96r_U_SEHsa;B;D2;SEa
+Horndal-Byvalla;0074;09;4,921 km;Horndal;SEHl;Byvalla;SEBy;track:09_SEHl_E_SEBy;B;D2;SEa
+Östersunds central-Hissmofors;0074;20;20,58 km;Östersunds central;SEÖs;Hissmofors;SEHmfs;track:20_SE%C3%96s_E_SEHmfs;B;D2;SEa
+Stavre-Gällö;0074;20;12,657 km;Stavre;SEStv;Gällö;SEGö;track:20_SEStv_E_SEG%C3%B6;B;D2;SEa
+Hökön-Olofström;0074;89;32,121 km;Hökön;SEHkö;Olofström;SEOf;track:89_SEHk%C3%B6_E_SEOf;B;D2;SEa
+Nynäshamns centrum-Kvarnängen;0074;19;5,181 km;Nynäshamns centrum;SENyc;Kvarnängen;SEKng;track:19_SENyc_E_SEKng;B;D2;SEa
+Kalix Östra-Bredviken;0074;29;3,546 km;Kalix Östra;SEKlx;Bredviken;SEBen;track:29_SEKlx_E_SEBen;B;E4;SEa
+Niemisel-Bjurå;0074;29;7,533 km;Niemisel;SENml;Bjurå;SEBrå;track:29_SENml_E_SEBr%C3%A5;B;E4;SEa
+Avesta Krylbo-Hökmora;0074;09;10,487 km;Avesta Krylbo;SEAvky;Hökmora;SEHma;track:09_SEAvky_E3_SEHma;B;D2;SEa
+Hallsbergs personbangård-Kumla;0074;09;7,179 km;Hallsbergs personbangård;SEHpbg;Kumla;SEKla;track:09_SEHpbg_N_SEKla;B;D2;SEa
+Hallsbergs personbangård-Kumla;0074;09;7,179 km;Hallsbergs personbangård;SEHpbg;Kumla;SEKla;track:09_SEHpbg_U_SEKla;B;D2;SEa
+Hemfosa-Tungelsta;0074;19;5,634 km;Hemfosa;SEHfa;Tungelsta;SETs;track:19_SEHfa_N_SETs;B;D2;SEa
+Hemfosa-Tungelsta;0074;19;5,634 km;Hemfosa;SEHfa;Tungelsta;SETs;track:19_SEHfa_U_SETs;B;D2;SEa
+Vinslöv-Önnestad;0074;13;8,692 km;Vinslöv;SEVöv;Önnestad;SEÖnd;track:13_SEV%C3%B6v_E_SE%C3%96nd;B;D2;SEa
+Skärblacka-Finspång;0074;64;16,391 km;Skärblacka;SESbl;Finspång;SEFg;track:64_SESbl_E_SEFg;B;D2;SEa
+Fränsta-Torpshammar;0074;20;9,348 km;Fränsta;SEFt;Torpshammar;SETo;track:20_SEFt_E_SETo;B;D2;SEa
+Karlshamn-Ångsågsmossen;0074;88;9,875 km;Karlshamn;SEKh;Ångsågsmossen;SEÅmn;track:88_SEKh_E_SE%C3%85mn;B;D2;SEa
+Rättvik-Garsås;0074;06;21,672 km;Rättvik;SERv;Garsås;SEGså;track:06_SERv_E_SEGs%C3%A5;B;D2;SEa
+Pilgrimstad-Brunflo;0074;20;17,815 km;Pilgrimstad;SEPl;Brunflo;SEBf;track:20_SEPl_E_SEBf;B;D2;SEa
+Smålandsstenar-Skeppshult;0074;84;5,428 km;Smålandsstenar;SESdr;Skeppshult;SESph;track:84_SESdr_E_SESph;B;D2;SEa
+Tomelilla-Gärsnäs;0074;90;15,339 km;Tomelilla;SETli;Gärsnäs;SEGss;track:90_SETli_E_SEGss;B;D2;SEa
+Vikmanshyttan-Säter;0074;06;8,715 km;Vikmanshyttan;SEVhy;Säter;SESt;track:06_SEVhy_E_SESt;B;D2;SEa
+Gåsträsken-Sågbäcken;0074;29;15,323 km;Gåsträsken;SEGen;Sågbäcken;SESbä;track:29_SEGen_E_SESb%C3%A4;B;E4;SEa
+Kimstad-Skärblacka;0074;64;6,386 km;Kimstad;SEKms;Skärblacka;SESbl;track:64_SEKms_E_SESbl;B;D2;SEa
+Vaggeryd-Båramo;0074;84;6,966 km;Vaggeryd;SEVgd;Båramo;SEBmo;track:84_SEVgd_E_SEBmo;B;D2;SEa
+Storflon-Nälden;0074;20;7,042 km;Storflon;SESfn;Nälden;SENä;track:20_SESfn_E_SEN%C3%A4;B;D2;SEa
+Tomelilla-Ystad;0074;90;19,22 km;Tomelilla;SETli;Ystad;SEY;track:90_SETli_E1_SEY;B;D2;SEa
+Byvalla-Dalgränsen;0074;09;4,525 km;Byvalla;SEBy;Dalgränsen;SEDgn;track:09_SEBy_E_SEDgn;B;D2;SEa
+Jakobshyttan-Godegård;0074;09;7,021 km;Jakobshyttan;SEJho;Godegård;SEGo;track:09_SEJho_E_SEGo;B;D2;SEa
+Johannisberg-Ljungaverks lastplats;0074;20;2,808 km;Johannisberg;SEJbg;Ljungaverks lastplats;SELjun;track:20_SEJbg_E_SELjun;B;D2;SEa
+Hökmora-Karbenning;0074;09;5,898 km;Hökmora;SEHma;Karbenning;SEKbn;track:09_SEHma_E_SEKbn;B;D2;SEa
+Järpen-Undersåker;0074;20;13,208 km;Järpen;SEJpn;Undersåker;SEUn;track:20_SEJpn_E_SEUn;B;D2;SEa
+Morjärv-Bruksberget;0074;29;8,307 km;Morjärv;SEMjv;Bruksberget;SEBet;track:29_SEMjv_E_SEBet;B;E4;SEa
+Hovsta-Ervalla;0074;09;7,941 km;Hovsta;SEHsa;Ervalla;SEEr;track:09_SEHsa_N_SEEr;B;D2;SEa
+Hovsta-Ervalla;0074;09;7,941 km;Hovsta;SEHsa;Ervalla;SEEr;track:09_SEHsa_U_SEEr;B;D2;SEa
+Västerhaninge-Jordbro;0074;19;2,629 km;Västerhaninge;SEVhe;Jordbro;SEJbo;track:19_SEVhe_N_SEJbo;B;D2;SEa
+Hedemora-Vikmanshyttan;0074;06;7,26 km;Hedemora;SEHdm;Vikmanshyttan;SEVhy;track:06_SEHdm_E_SEVhy;B;D2;SEa
+Västerhaninge-Jordbro;0074;19;2,629 km;Västerhaninge;SEVhe;Jordbro;SEJbo;track:19_SEVhe_U_SEJbo;B;D2;SEa
+Keräsjoki-Haparanda;0074;29;10,97 km;Keräsjoki;SEKei;Haparanda;SEHp;track:29_SEKei_E_SEHp;B;E4;SEa
+Ängelsberg-Snyten;0074;09;4,252 km;Ängelsberg;SEÄbg;Snyten;SESnt;track:09_SE%C3%84bg_E_SESnt;B;D2;SEa
+Jularbo-Fors;0074;09;6,336 km;Jularbo;SEJu;Fors;SEFs;track:09_SEJu_E_SEFs;B;D2;SEa
+Ljungaverks lastplats-Fränsta;0074;20;4,689 km;Ljungaverks lastplats;SELjun;Fränsta;SEFt;track:20_SELjun_E_SEFt;B;D2;SEa
+Gustafs-Stora Tuna;0074;06;7,06 km;Gustafs;SEGtf;Stora Tuna;SESau;track:06_SEGtf_E_SESau;B;D2;SEa
+Äggfors-Mörsil;0074;20;3,042 km;Äggfors;SEÄfs;Mörsil;SEMi;track:20_SE%C3%84fs_E_SEMi;B;D2;SEa
+Nedansjö-Vattjom;0074;20;8,466 km;Nedansjö;SENsö;Vattjom;SEVm;track:20_SENs%C3%B6_E_SEVm;B;D2;SEa
+Vekerum-Karlshamn;0074;88;5,944 km;Vekerum;SEVru;Karlshamn;SEKh;track:88_SEVru_E_SEKh;B;D2;SEa
+Påarp-Ättekulla;0074;13;3,241 km;Påarp;SEPåa;Ättekulla;SEÄtk;track:13_SEP%C3%A5a_E_SE%C3%84tk;B;D2;SEa
+Värnamo-Forsheda;0074;84;15,695 km;Värnamo;SEV;Forsheda;SEFod;track:84_SEV_E_SEFod;B;D2;SEa
+Segersäng-Hemfosa;0074;19;5,278 km;Segersäng;SESsä;Hemfosa;SEHfa;track:19_SESs%C3%A4_E_SEHfa;B;D2;SEa
+Tungelsta-Västerhaninge;0074;19;3,968 km;Tungelsta;SETs;Västerhaninge;SEVhe;track:19_SETs_N_SEVhe;B;D2;SEa
+Tungelsta-Västerhaninge;0074;19;3,968 km;Tungelsta;SETs;Västerhaninge;SEVhe;track:19_SETs_U_SEVhe;B;D2;SEa
+Heby-Isätra;0074;06;6,867 km;Heby;SEHy;Isätra;SEIst;track:06_SEHy_E_SEIst;B;D2;SEa
+Ronneby-Nättraby;0074;88;17,493 km;Ronneby;SERb;Nättraby;SENät;track:88_SERb_E_SEN%C3%A4t;B;D2;SEa
+Ope-Östersunds central;0074;20;6,944 km;Ope;SEOpe;Östersunds central;SEÖs;track:20_SEOpe_E_SE%C3%96s;B;D2;SEa
+Farsta strand-Högdalen;0074;19;4,32 km;Farsta strand;SEFas;Högdalen;SEHön;track:19_SEFas_N_SEH%C3%B6n;B;D2;SEa
+Farsta strand-Högdalen;0074;19;4,32 km;Farsta strand;SEFas;Högdalen;SEHön;track:19_SEFas_U_SEH%C3%B6n;B;D2;SEa
+Ånge-Erikslund;0074;20;13,817 km;Ånge;SEÅg;Erikslund;SEEi;track:20_SE%C3%85g_E_SEEi;B;D2;SEa
+Callans såg-Johannisberg;0074;20;2,147 km;Callans såg;SECas;Johannisberg;SEJbg;track:20_SECas_E_SEJbg;B;D2;SEa
+Gällö-Pilgrimstad;0074;20;14,603 km;Gällö;SEGö;Pilgrimstad;SEPl;track:20_SEG%C3%B6_E_SEPl;B;D2;SEa
+Rian-Kalix Östra;0074;29;10,454 km;Rian;SERan;Kalix Östra;SEKlx;track:29_SERan_E_SEKlx;B;E4;SEa
+Gagnef-Insjön;0074;06;9,27 km;Gagnef;SEGnf;Insjön;SEIn;track:06_SEGnf_E_SEIn;B;D2;SEa
+Krampen-Näverkärret;0074;09;9,889 km;Krampen;SEKrn;Näverkärret;SENkt;track:09_SEKrn_E_SENkt;B;D2;SEa
+Kärreberga-Åstorp;0074;13;2,27 km;Kärreberga;SEKäb;Åstorp;SEÅp;track:13_SEK%C3%A4b_E_SE%C3%85p;B;D2;SEa
+Hundsjön-Niemisel;0074;29;13,035 km;Hundsjön;SEHuö;Niemisel;SENml;track:29_SEHu%C3%B6_E_SENml;B;E4;SEa
+Landeryd-Brännögård;0074;84;13,925 km;Landeryd;SELrd;Brännögård;SEBög;track:84_SELrd_E_SEB%C3%B6g;B;D2;SEa
+Broddbo-Rosshyttan;0074;06;12,019 km;Broddbo;SEBdo;Rosshyttan;SERy;track:06_SEBdo_E_SERy;B;D2;SEa
+Avesta Krylbo-Jularbo;0074;09;4,22 km;Avesta Krylbo;SEAvky;Jularbo;SEJu;track:09_SEAvky_E_SEJu;B;D2;SEa
+Dagarn-Skinnskatteberg;0074;09;9,212 km;Dagarn;SEDn;Skinnskatteberg;SESkb;track:09_SEDn_E_SESkb;B;D2;SEa
+Jordbro-Handen;0074;19;2,709 km;Jordbro;SEJbo;Handen;SEHnd;track:19_SEJbo_N_SEHnd;B;D2;SEa
+Jordbro-Handen;0074;19;2,709 km;Jordbro;SEJbo;Handen;SEHnd;track:19_SEJbo_U_SEHnd;B;D2;SEa
+Undersåker-Åre;0074;20;13,104 km;Undersåker;SEUn;Åre;SEÅre;track:20_SEUn_E_SE%C3%85re;B;D2;SEa
+Mörrum-Vekerum;0074;88;2,864 km;Mörrum;SEMru;Vekerum;SEVru;track:88_SEMru_E_SEVru;B;D2;SEa
+Tällberg-Rättvik;0074;06;10,382 km;Tällberg;SETlg;Rättvik;SERv;track:06_SETlg_E_SERv;B;D2;SEa
+Hästbo-Torsåker;0074;09;7,615 km;Hästbo;SEHä;Torsåker;SETså;track:09_SEH%C3%A4_E_SETs%C3%A5;B;D2;SEa
+Bruksberget-Kosjärv;0074;29;11,374 km;Bruksberget;SEBet;Kosjärv;SEKoj;track:29_SEBet_E_SEKoj;B;E4;SEa
+Vattjom-Töva;0074;20;5,804 km;Vattjom;SEVm;Töva;SETöv;track:20_SEVm_E_SET%C3%B6v;B;D2;SEa
+Repbäcken-Mockfjärd;0074;06;23,123 km;Repbäcken;SERbä;Mockfjärd;SEMfj;track:06_SERb%C3%A4_E_SEMfj;B;D2;SEa
+Kumla-Mosås;0074;09;7,944 km;Kumla;SEKla;Mosås;SEMs;track:09_SEKla_N_SEMs;B;D2;SEa
+Kumla-Mosås;0074;09;7,944 km;Kumla;SEKla;Mosås;SEMs;track:09_SEKla_U_SEMs;B;D2;SEa
+Lemmeströ-Skurup;0074;90;8,761 km;Lemmeströ;SELmm;Skurup;SESrp;track:90_SELmm_E_SESrp;B;D2;SEa
+Mörarp-Påarp;0074;13;4,879 km;Mörarp;SEMör;Påarp;SEPåa;track:13_SEM%C3%B6r_E_SEP%C3%A5a;B;D2;SEa
+Båramo-Skillingaryd;0074;84;2,167 km;Båramo;SEBmo;Skillingaryd;SESyd;track:84_SEBmo_E_SESyd;B;D2;SEa
+Leksboda-Tällberg;0074;06;5,09 km;Leksboda;SELea;Tällberg;SETlg;track:06_SELea_E_SETlg;B;D2;SEa
+Hyllstofta-Klippan;0074;13;9,716 km;Hyllstofta;SEHyl;Klippan;SEKl;track:13_SEHyl_E_SEKl;B;D2;SEa
+Brännögård-Torup;0074;84;5,904 km;Brännögård;SEBög;Torup;SETou;track:84_SEB%C3%B6g_E_SETou;B;D2;SEa
+Mörsil-Järpen;0074;20;10,447 km;Mörsil;SEMi;Järpen;SEJpn;track:20_SEMi_E_SEJpn;B;D2;SEa
+Skurup-Rydsgård;0074;90;5,763 km;Skurup;SESrp;Rydsgård;SERdg;track:90_SESrp_E_SERdg;B;D2;SEa
+Vilhelmsborg-Ystad;0074;90;5,904 km;Vilhelmsborg;SEVlb;Ystad;SEY;track:90_SEVlb_E_SEY;B;D2;SEa
+Brunna-Järlåsa;0074;06;13,13 km;Brunna;SEBna;Järlåsa;SEJla;track:06_SEBna_E_SEJla;B;D2;SEa
+Torup-Oskarström;0074;84;20,474 km;Torup;SETou;Oskarström;SEOm;track:84_SETou_E_SEOm;B;E4;SEa
+Bromölla-Sölvesborg;0074;88;7,745 km;Bromölla;SEBml;Sölvesborg;SESög;track:88_SEBml_E_SES%C3%B6g;B;D2;SEa
+Kvidinge-Kärreberga;0074;13;3,897 km;Kvidinge;SEKvi;Kärreberga;SEKäb;track:13_SEKvi_E_SEK%C3%A4b;B;D2;SEa
+Erikslund-Callans såg;0074;20;4,837 km;Erikslund;SEEi;Callans såg;SECas;track:20_SEEi_E_SECas;B;D2;SEa
+Malmbäck-Vaggeryd;0074;84;24,664 km;Malmbäck;SEMbä;Vaggeryd;SEVgd;track:84_SEMb%C3%A4_E_SEVgd;B;D2;SEa
+Bräkne-Hoby-Ronneby;0074;88;16,875 km;Bräkne-Hoby;SEBhb;Ronneby;SERb;track:88_SEBhb_E_SERb;B;D2;SEa
+Svedala-Lemmeströ;0074;90;8,656 km;Svedala;SESea;Lemmeströ;SELmm;track:90_SESea_E_SELmm;B;D2;SEa
+Insjön-Leksand;0074;06;8,316 km;Insjön;SEIn;Leksand;SELsd;track:06_SEIn_E_SELsd;B;D2;SEa
+Leksand-Leksboda;0074;06;5,129 km;Leksand;SELsd;Leksboda;SELea;track:06_SELsd_E_SELea;B;D2;SEa
+Krokom OJ-Storflon;0074;20;1,872 km;Krokom OJ;SEKroj;Storflon;SESfn;track:20_SEKroj_E_SESfn;B;D2;SEa
+Viskan-Stöde;0074;20;10,198 km;Viskan;SEVisk;Stöde;SEStd;track:20_SEVisk_E_SEStd;B;D2;SEa
+Sågbäcken-Morjärv;0074;29;5,979 km;Sågbäcken;SESbä;Morjärv;SEMjv;track:29_SESb%C3%A4_E_SEMjv;B;E4;SEa
+Stensundberget-Vuonoskogen;0074;29;16,007 km;Stensundberget;SESet;Vuonoskogen;SEVsk;track:29_SESet_E_SEVsk;B;E4;SEa
+Järlåsa-Morgongåva;0074;06;14,798 km;Järlåsa;SEJla;Morgongåva;SEMå;track:06_SEJla_E_SEM%C3%A5;B;D2;SEa
+Ervalla-Frövi;0074;09;9,428 km;Ervalla;SEEr;Frövi;SEFv;track:09_SEEr_N_SEFv;B;D2;SEa
+Ervalla-Frövi;0074;09;9,428 km;Ervalla;SEEr;Frövi;SEFv;track:09_SEEr_U_SEFv;B;D2;SEa
+Finja-Tyringe;0074;13;6,573 km;Finja;SEFin;Tyringe;SETy;track:13_SEFin_E_SETy;B;D2;SEa
+Ångsågsmossen-Bräkne-Hoby;0074;88;11,335 km;Ångsågsmossen;SEÅmn;Bräkne-Hoby;SEBhb;track:88_SE%C3%85mn_E_SEBhb;B;D2;SEa
+Fagersta central-Dagarn;0074;09;12,913 km;Fagersta central;SEFgc;Dagarn;SEDn;track:09_SEFgc_E_SEDn;B;D2;SEa
+Forsheda-Reftele;0074;84;15,136 km;Forsheda;SEFod;Reftele;SERft;track:84_SEFod_E_SERft;B;D2;SEa
+Sandbäck-Mörrum;0074;88;8,582 km;Sandbäck;SESak;Mörrum;SEMru;track:88_SESak_E_SEMru;B;D2;SEa
+Rynge-Vilhelmsborg;0074;90;7,346 km;Rynge;SERye;Vilhelmsborg;SEVlb;track:90_SERye_E_SEVlb;B;D2;SEa
+Skabersjö-Svedala;0074;90;5,927 km;Skabersjö;SESaö;Svedala;SESea;track:90_SESa%C3%B6_E_SESea;B;D2;SEa
+Mattmar-Äggfors;0074;20;7,963 km;Mattmar;SEMa;Äggfors;SEÄfs;track:20_SEMa_E_SE%C3%84fs;B;D2;SEa
+Skillingaryd-Klevshult;0074;84;8,679 km;Skillingaryd;SESyd;Klevshult;SEKvh;track:84_SESyd_E_SEKvh;B;D2;SEa
+Storlien-Storlien gränsen;0074;20;3,747 km;Storlien;SEStr;Storlien gränsen;EU00236;track:20_SEStr_E_EU00236;B;D2;SEa
+Haparanda-Riksgräns Haparanda - Tornio;0074;29;0,895 km;Haparanda;SEHp;Riksgräns Haparanda - Tornio;EU00239;track:29_SEHp_sv_EU00239;B;E4;SEa
+Rensjön-Bergfors;0074;21;9,363 km;Rensjön;SERsn;Bergfors;SEBfs;track:21_SERsn_E_SEBfs;B;no data;SEa
+Rautas-Rensjön;0074;21;10,255 km;Rautas;SERut;Rensjön;SERsn;track:21_SERut_E_SERsn;B;no data;SEa
+Kopparåsen-Vassijaure;0074;21;10,624 km;Kopparåsen;SEKå;Vassijaure;SEVj;track:21_SEK%C3%A5_E_SEVj;B;no data;SEa
+Ursviken-Skelleftehamns övre;0074;45;3,742 km;Ursviken;SEUvn;Skelleftehamns övre;SESöv;track:45_SEUvn_E_SES%C3%B6v;B;no data;SEa
+Abisko östra-Björkliden;0074;21;9,563 km;Abisko östra;SEAk;Björkliden;SEBln;track:21_SEAk_E_SEBln;B;no data;SEa
+Finnforsfallet-Skellefteå;0074;45;32,17 km;Finnforsfallet;SEFfs;Skellefteå;SESkl;track:45_SEFfs_E_SESkl;B;no data;SEa
+Östersunds central-Åskott;0074;20;12,674 km;Östersunds central;SEÖs;Åskott;SEÅkt;track:20_SE%C3%96s_E_SE%C3%85kt;B;no data;SEa
+Holmfors-Ljuså;0074;21;9,75 km;Holmfors;SEHfs;Ljuså;SELså;track:21_SEHfs_E_SELs%C3%A5;B;no data;SEa
+Arlanda nedre-Arlanda södra;0074;30;1,26 km;Arlanda nedre;SEArne;Arlanda södra;SEArns;track:30_SEArne_N2_SEArns;B;no data;SEa
+Arlanda nedre-Arlanda södra;0074;30;1,26 km;Arlanda nedre;SEArne;Arlanda södra;SEArns;track:30_SEArne_U2_SEArns;B;no data;SEa
+Håmojåkk-Harrå;0074;21;11,852 km;Håmojåkk;SEHåk;Harrå;SEHar;track:21_SEH%C3%A5k_E_SEHar;B;no data;SEa
+Ljuså-Gransjö;0074;21;13,086 km;Ljuså;SELså;Gransjö;SEGrs;track:21_SELs%C3%A5_E_SEGrs;B;no data;SEa
+Hedensbyn-Gunsen;0074;45;5,151 km;Hedensbyn;SEHsb;Gunsen;SEGse;track:45_SEHsb_E_SEGse;B;no data;SEa
+Peuravaara-Krokvik;0074;21;7,67 km;Peuravaara;SEPea;Krokvik;SEKv;track:21_SEPea_E_SEKv;B;no data;SEa
+Gällivare-Sikträsk;0074;21;10,685 km;Gällivare;SEGv;Sikträsk;SEStk;track:21_SEGv_E_SEStk;B;no data;SEa
+Rottneros-Sunne;0074;70;4,903 km;Rottneros;SERts;Sunne;SESun;track:70_SERts_E_SESun;B;no data;SEa
+Nattavaara-Kilvo;0074;21;9,688 km;Nattavaara;SENtv;Kilvo;SEKlv;track:21_SENtv_E_SEKlv;B;no data;SEa
+Tolikberget-Murjek;0074;21;8,574 km;Tolikberget;SETet;Murjek;SEMk;track:21_SETet_E_SEMk;B;no data;SEa
+Buddbyn-Holmfors;0074;21;4,611 km;Buddbyn;SEBud;Holmfors;SEHfs;track:21_SEBud_E_SEHfs;B;no data;SEa
+Sikträsk-Linaälv;0074;21;12,956 km;Sikträsk;SEStk;Linaälv;SELin;track:21_SEStk_E_SELin;B;no data;SEa
+Gäddmyr-Kalixfors;0074;21;7,713 km;Gäddmyr;SEGy;Kalixfors;SEKx;track:21_SEGy_E_SEKx;B;no data;SEa
+Stordalen-Abisko östra;0074;21;10,315 km;Stordalen;SESoa;Abisko östra;SEAk;track:21_SESoa_E_SEAk;B;no data;SEa
+Årstaberg-Älvsjö godsbangård;0074;27;2,643 km;Årstaberg;SEÅbe;Älvsjö godsbangård;SEÄsg;track:27_SE%C3%85be_E_SE%C3%84sg;B;no data;SEa
+Stockholms norra-Värtan;0074;27;3,829 km;Stockholms norra;SENst;Värtan;SEVn;track:27_SENst_E_SEVn;B;no data;SEa
+Koskivaara-Nattavaara;0074;21;12,466 km;Koskivaara;SEKva;Nattavaara;SENtv;track:21_SEKva_E_SENtv;B;no data;SEa
+Skellefteå-Hedensbyn;0074;45;2,874 km;Skellefteå;SESkl;Hedensbyn;SEHsb;track:45_SESkl_E_SEHsb;B;no data;SEa
+Lappberg-Gäddmyr;0074;21;10,66 km;Lappberg;SELab;Gäddmyr;SEGy;track:21_SELab_E_SEGy;B;no data;SEa
+Gunsen-Ursviken;0074;45;3,688 km;Gunsen;SEGse;Ursviken;SEUvn;track:45_SEGse_E_SEUvn;B;no data;SEa
+Murjek-Polcirkeln;0074;21;11,837 km;Murjek;SEMk;Polcirkeln;SEPc;track:21_SEMk_E_SEPc;B;no data;SEa
+Kiruna malmbangård-Peuravaara;0074;21;2,035 km;Kiruna malmbangård;SEKmb;Peuravaara;SEPea;track:21_SEKmb_E2_SEPea;B;no data;SEa
+Kalixfors-Råtsi;0074;21;5,987 km;Kalixfors;SEKx;Råtsi;SERsi;track:21_SEKx_E_SERsi;B;no data;SEa
+Kirunavaara-Peuravaara;0074;21;9,22 km;Kirunavaara;SEKia;Peuravaara;SEPea;track:21_SEKia_E_SEPea;B;no data;SEa
+Kilvo-Nuortikon;0074;21;6,849 km;Kilvo;SEKlv;Nuortikon;SENrt;track:21_SEKlv_E_SENrt;B;no data;SEa
+Björkliden-Kopparåsen;0074;21;9,129 km;Björkliden;SEBln;Kopparåsen;SEKå;track:21_SEBln_E_SEK%C3%A5;B;no data;SEa
+Arlanda södra-Arlanda norra;0074;30;0,64 km;Arlanda södra;SEArns;Arlanda norra;SEArnn;track:30_SEArns_N2_SEArnn;B;no data;SEa
+Arlanda södra-Arlanda norra;0074;30;0,64 km;Arlanda södra;SEArns;Arlanda norra;SEArnn;track:30_SEArns_U2_SEArnn;B;no data;SEa
+Näsberg-Tolikberget;0074;21;7,182 km;Näsberg;SENb;Tolikberget;SETet;track:21_SENb_E_SETet;B;no data;SEa
+Arlanda central-Myrbacken;0074;30;10,35 km;Arlanda central;SEArnc;Myrbacken;SEMyn;track:30_SEArnc_N1_SEMyn;B;no data;SEa
+Arlanda central-Myrbacken;0074;30;10,35 km;Arlanda central;SEArnc;Myrbacken;SEMyn;track:30_SEArnc_U1_SEMyn;B;no data;SEa
+Mertainen-Pitkäjärvi;0074;21;5,447 km;Mertainen;SEMtn;Pitkäjärvi;SEPii;track:21_SEMtn_E_SEPii;B;no data;SEa
+Harrå-Fjällåsen;0074;21;13,264 km;Harrå;SEHar;Fjällåsen;SEFjå;track:21_SEHar_E_SEFj%C3%A5;B;no data;SEa
+Torneträsk-Stenbacken;0074;21;9,73 km;Torneträsk;SETnk;Stenbacken;SESbk;track:21_SETnk_E_SESbk;B;no data;SEa
+Harrträsk-Koijuvaara;0074;21;2,814 km;Harrträsk;SEHrt;Koijuvaara;SEKaa;track:21_SEHrt_E_SEKaa;B;no data;SEa
+Polcirkeln-Koskivaara;0074;21;9,497 km;Polcirkeln;SEPc;Koskivaara;SEKva;track:21_SEPc_E_SEKva;B;no data;SEa
+Tomteboda bangård-Stockholms norra;0074;27;0,892 km;Tomteboda bangård;SETm;Stockholms norra;SENst;track:27_SETm_E_SENst;B;no data;SEa
+Bäckebron-Rottneros;0074;70;15,675 km;Bäckebron;SEBäb;Rottneros;SERts;track:70_SEB%C3%A4b_E_SERts;B;no data;SEa
+Krokvik-Rautas;0074;21;10,396 km;Krokvik;SEKv;Rautas;SERut;track:21_SEKv_E_SERut;B;no data;SEa
+Sandträsk-Gullträsk;0074;21;10,024 km;Sandträsk;SEStä;Gullträsk;SEGlt;track:21_SESt%C3%A4_E_SEGlt;B;no data;SEa
+Bergfors-Torneträsk;0074;21;10,527 km;Bergfors;SEBfs;Torneträsk;SETnk;track:21_SEBfs_E_SETnk;B;no data;SEa
+Karlberg-Stockholms norra;0074;27;1,026 km;Karlberg;SEKe;Stockholms norra;SENst;track:27_SEKe_E1_SENst;B;no data;SEa
+Kaisepakte-Stordalen;0074;21;12,167 km;Kaisepakte;SEKpe;Stordalen;SESoa;track:21_SEKpe_E_SESoa;B;no data;SEa
+Ripats-Harrträsk;0074;21;7,219 km;Ripats;SERps;Harrträsk;SEHrt;track:21_SERps_E_SEHrt;B;no data;SEa
+Koijuvaara-Gällivare;0074;21;10,031 km;Koijuvaara;SEKaa;Gällivare;SEGv;track:21_SEKaa_E_SEGv;B;no data;SEa
+Råtsi-Aptas;0074;21;9,82 km;Råtsi;SERsi;Aptas;SEApt;track:21_SERsi_E_SEApt;B;no data;SEa
+Lakaträsk-Näsberg;0074;21;11,624 km;Lakaträsk;SELkä;Näsberg;SENb;track:21_SELk%C3%A4_E_SENb;B;no data;SEa
+Gransjö-Sandträsk;0074;21;8,345 km;Gransjö;SEGrs;Sandträsk;SEStä;track:21_SEGrs_E_SESt%C3%A4;B;no data;SEa
+Linaälv-Håmojåkk;0074;21;9,444 km;Linaälv;SELin;Håmojåkk;SEHåk;track:21_SELin_E_SEH%C3%A5k;B;no data;SEa
+Stenbacken-Kaisepakte;0074;21;9,346 km;Stenbacken;SESbk;Kaisepakte;SEKpe;track:21_SESbk_E_SEKpe;B;no data;SEa
+Aptas-Mertainen;0074;21;20,543 km;Aptas;SEApt;Mertainen;SEMtn;track:21_SEApt_E_SEMtn;B;no data;SEa
+Lysvik-Torsby;0074;70;20,359 km;Lysvik;SELyv;Torsby;SEToy;track:70_SELyv_E_SEToy;B;no data;SEa
+Gällivare-Koskullskulle;0074;21;8,9 km;Gällivare;SEGv;Koskullskulle;SEKos;track:21_SEGv_E1_SEKos;B;no data;SEa
+Nuortikon-Ripats;0074;21;10,816 km;Nuortikon;SENrt;Ripats;SERps;track:21_SENrt_E_SERps;B;no data;SEa
+Karlberg-Tomteboda bangård;0074;27;0,524 km;Karlberg;SEKe;Tomteboda bangård;SETm;track:27_SEKe_v1_SETm;B;no data;SEa
+Karlberg-Tomteboda bangård;0074;27;0,524 km;Karlberg;SEKe;Tomteboda bangård;SETm;track:27_SEKe_v2_SETm;B;no data;SEa
+Arlanda nedre-Arlanda central;0074;30;1,85 km;Arlanda nedre;SEArne;Arlanda central;SEArnc;track:30_SEArne_N1_SEArnc;B;no data;SEa
+Arlanda nedre-Arlanda central;0074;30;1,85 km;Arlanda nedre;SEArne;Arlanda central;SEArnc;track:30_SEArne_U1_SEArnc;B;no data;SEa
+Fjällåsen-Lappberg;0074;21;10,011 km;Fjällåsen;SEFjå;Lappberg;SELab;track:21_SEFj%C3%A5_E_SELab;B;no data;SEa
+Råtsi-Kirunavaara;0074;21;2,221 km;Råtsi;SERsi;Kirunavaara;SEKia;track:21_SERsi_E_SEKia;B;no data;SEa
+Karpalund-Kristianstads central;0074;13;4,069 km;Karpalund;SEKap;Kristianstads central;SECr;track:13_SEKap_E_SECr;B;no data;SEa
+Gullträsk-Lakaträsk;0074;21;9,584 km;Gullträsk;SEGlt;Lakaträsk;SELkä;track:21_SEGlt_E_SELk%C3%A4;B;no data;SEa
+Blackvreten-Arlanda nedre;0074;30;3,002 km;Blackvreten;SEBvr;Arlanda nedre;SEArne;track:30_SEBvr_N1_SEArne;B;no data;SEa
+Blackvreten-Arlanda nedre;0074;30;3,002 km;Blackvreten;SEBvr;Arlanda nedre;SEArne;track:30_SEBvr_U1_SEArne;B;no data;SEa
+Sunne-Lysvik;0074;70;20,991 km;Sunne;SESun;Lysvik;SELyv;track:70_SESun_E_SELyv;B;no data;SEa
+Vassijaure-Riksgränsen Vj-Bjf;0074;21;7,431 km;Vassijaure;SEVj;Riksgränsen Vj-Bjf;EU00237;track:21_SEVj_E_EU00237;B;no data;SEa
+Munktorp-Köping;0074;16;8,807 km;Munktorp;SEMorp;Köping;SEKp;track:16_SEMorp_E_SEKp;B;D2;SEa
+Eksjö-Hult;0074;80;10,087 km;Eksjö;SEEk;Hult;SEHul;track:80_SEEk_E_SEHul;B;D2;SEa
+Silverdalens bruk-Hulingsryd;0074;80;6,084 km;Silverdalens bruk;SESid;Hulingsryd;SEHud;track:80_SESid_E_SEHud;B;D2;SEa
+Näverkärret-Spannarboda;0074;09;10,506 km;Näverkärret;SENkt;Spannarboda;SESba;track:09_SENkt_E_SESba;B;D2;SEa
+Lundby-Tortuna;0074;16;11,911 km;Lundby;SELub;Tortuna;SETtu;track:16_SELub_N_SETtu;B;D2;SEa
+Lundby-Tortuna;0074;16;11,911 km;Lundby;SELub;Tortuna;SETtu;track:16_SELub_U_SETtu;B;D2;SEa
+Ormaryd-Eksjö;0074;80;9,734 km;Ormaryd;SEOry;Eksjö;SEEk;track:80_SEOry_E_SEEk;B;D2;SEa
+Kallhäll-Kungsängen;0074;16;5,203 km;Kallhäll;SEKhä;Kungsängen;SEKän;track:16_SEKh%C3%A4_N_SEK%C3%A4n;B;D2;SEa
+Kallhäll-Kungsängen;0074;16;5,203 km;Kallhäll;SEKhä;Kungsängen;SEKän;track:16_SEKh%C3%A4_U_SEK%C3%A4n;B;D2;SEa
+Gimo-Hargshamn;0074;55;16,667 km;Gimo;SEGmo;Hargshamn;SEHrm;track:55_SEGmo_E_SEHrm;B;D2;SEa
+Ryssjöbrink-Läggesta;0074;17;10,659 km;Ryssjöbrink;SERyb;Läggesta;SELg;track:17_SERyb_N_SELg;B;D2;SEa
+Ryssjöbrink-Läggesta;0074;17;10,659 km;Ryssjöbrink;SERyb;Läggesta;SELg;track:17_SERyb_U_SELg;B;D2;SEa
+Duvbo-Spånga;0074;16;2,501 km;Duvbo;SEDuo;Spånga;SESpå;track:16_SEDuo_N_SESp%C3%A5;B;D2;SEa
+Duvbo-Spånga;0074;16;2,501 km;Duvbo;SEDuo;Spånga;SESpå;track:16_SEDuo_U_SESp%C3%A5;B;D2;SEa
+Björbo-Dala-Järna;0074;53;26,252 km;Björbo;SEBöo;Dala-Järna;SEDj;track:53_SEB%C3%B6o_E_SEDj;B;D2;SEa
+Jädersbruk-Ökna;0074;16;4,489 km;Jädersbruk;SEJbk;Ökna;SEÖa;track:16_SEJbk_E_SE%C3%96a;B;D2;SEa
+Strömsholm-Kolbäck;0074;16;7,936 km;Strömsholm;SESsh;Kolbäck;SEKbä;track:16_SESsh_E_SEKb%C3%A4;B;D2;SEa
+Grundbro-Malmby;0074;17;6,67 km;Grundbro;SEGru;Malmby;SEMby;track:17_SEGru_E_SEMby;B;D2;SEa
+Malmby-Strängnäs;0074;17;3,498 km;Malmby;SEMby;Strängnäs;SESgs;track:17_SEMby_E_SESgs;B;D2;SEa
+Skymossen-Åsbro;0074;09;2,964 km;Skymossen;SESkms;Åsbro;SEÅ;track:09_SESkms_E_SE%C3%85;B;D2;SEa
+Rosshyttan-Avesta Krylbo;0074;09;10,625 km;Rosshyttan;SERy;Avesta Krylbo;SEAvky;track:09_SERy_E_SEAvky;B;D2;SEa
+Bålsta-Ekolsund;0074;16;10,597 km;Bålsta;SEBål;Ekolsund;SEEko;track:16_SEB%C3%A5l_N_SEEko;B;D2;SEa
+Bålsta-Ekolsund;0074;16;10,597 km;Bålsta;SEBål;Ekolsund;SEEko;track:16_SEB%C3%A5l_U_SEEko;B;D2;SEa
+Brunnsgård-Holsbybrunn;0074;82;5,853 km;Brunnsgård;SEBsd;Holsbybrunn;SEHbr;track:82_SEBsd_E_SEHbr;B;D2;SEa
+Spannarboda-Sällinge;0074;09;6,918 km;Spannarboda;SESba;Sällinge;SESlg;track:09_SESba_E_SESlg;B;D2;SEa
+Ökna-Alväng;0074;16;9,733 km;Ökna;SEÖa;Alväng;SEAä;track:16_SE%C3%96a_N_SEA%C3%A4;B;D2;SEa
+Ökna-Alväng;0074;16;9,733 km;Ökna;SEÖa;Alväng;SEAä;track:16_SE%C3%96a_U_SEA%C3%A4;B;D2;SEa
+Dannemora-Gimo;0074;55;21,217 km;Dannemora;SEDma;Gimo;SEGmo;track:55_SEDma_E_SEGmo;B;D2;SEa
+Strängnäs-Härad;0074;17;6,931 km;Strängnäs;SESgs;Härad;SEHäd;track:17_SESgs_N_SEH%C3%A4d;B;D2;SEa
+Strängnäs-Härad;0074;17;6,931 km;Strängnäs;SESgs;Härad;SEHäd;track:17_SESgs_U_SEH%C3%A4d;B;D2;SEa
+Mockfjärd-Björbo;0074;53;18,028 km;Mockfjärd;SEMfj;Björbo;SEBöo;track:53_SEMfj_E_SEB%C3%B6o;B;D2;SEa
+Hjältevad-Vallnäs;0074;80;8,541 km;Hjältevad;SEHvd;Vallnäs;SEVln;track:80_SEHvd_E_SEVln;B;D2;SEa
+Kungsör-Valskog;0074;16;9,254 km;Kungsör;SEKör;Valskog;SEVsg;track:16_SEK%C3%B6r_E_SEVsg;B;D2;SEa
+Hargshamn-Hallstavik;0074;55;16,062 km;Hargshamn;SEHrm;Hallstavik;SEHak;track:55_SEHrm_E_SEHak;B;D2;SEa
+Ombenning-Fagersta central;0074;09;6,596 km;Ombenning;SEOmb;Fagersta central;SEFgc;track:09_SEOmb_E_SEFgc;B;D2;SEa
+Sällinge-Frövi;0074;09;9,869 km;Sällinge;SESlg;Frövi;SEFv;track:09_SESlg_E_SEFv;B;D2;SEa
+Barva-Kjula;0074;17;7,701 km;Barva;SEBva;Kjula;SEKju;track:17_SEBva_E_SEKju;B;D2;SEa
+Nykvarn-Ryssjöbrink;0074;17;6,613 km;Nykvarn;SENkv;Ryssjöbrink;SERyb;track:17_SENkv_N_SERyb;B;D2;SEa
+Nykvarn-Ryssjöbrink;0074;17;6,613 km;Nykvarn;SENkv;Ryssjöbrink;SERyb;track:17_SENkv_U_SERyb;B;D2;SEa
+Jädersbruk-Arboga;0074;16;2,752 km;Jädersbruk;SEJbk;Arboga;SEArb;track:16_SEJbk_E_SEArb;B;D2;SEa
+Västerås västra-Dingtuna;0074;16;7,263 km;Västerås västra;SEVåv;Dingtuna;SEDt;track:16_SEV%C3%A5v_N_SEDt;B;D2;SEa
+Västerås västra-Dingtuna;0074;16;7,263 km;Västerås västra;SEVåv;Dingtuna;SEDt;track:16_SEV%C3%A5v_U_SEDt;B;D2;SEa
+Rågsveden-Malung;0074;53;33,479 km;Rågsveden;SERåg;Malung;SEMlg;track:53_SER%C3%A5g_E_SEMlg;B;D2;SEa
+Spånga-Barkarby;0074;16;3,08 km;Spånga;SESpå;Barkarby;SEBkb;track:16_SESp%C3%A5_1N_SEBkb;B;D2;SEa
+Spånga-Barkarby;0074;16;3,08 km;Spånga;SESpå;Barkarby;SEBkb;track:16_SESp%C3%A5_2N_SEBkb;B;D2;SEa
+Nässjö central-Ormaryd;0074;80;11,801 km;Nässjö central;SEN;Ormaryd;SEOry;track:80_SEN_E_SEOry;B;D2;SEa
+Enköping-Lundby;0074;16;9,203 km;Enköping;SEEp;Lundby;SELub;track:16_SEEp_N_SELub;B;D2;SEa
+Enköping-Lundby;0074;16;9,203 km;Enköping;SEEp;Lundby;SELub;track:16_SEEp_U_SELub;B;D2;SEa
+Valskog-Köping;0074;16;8,908 km;Valskog;SEVsg;Köping;SEKp;track:16_SEVsg_E_SEKp;B;D2;SEa
+Sundbyberg-Duvbo;0074;16;2,516 km;Sundbyberg;SESub;Duvbo;SEDuo;track:16_SESub_N_SEDuo;B;D2;SEa
+Sundbyberg-Duvbo;0074;16;2,516 km;Sundbyberg;SESub;Duvbo;SEDuo;track:16_SESub_U_SEDuo;B;D2;SEa
+Mosås-Örebro central;0074;09;9,602 km;Mosås;SEMs;Örebro central;SEÖr;track:09_SEMs_N_SE%C3%96r;B;D2;SEa
+Eskilstuna central-Folkesta;0074;17;6,471 km;Eskilstuna central;SEEt;Folkesta;SEFok;track:17_SEEt_N_SEFok;B;D2;SEa
+Eskilstuna central-Folkesta;0074;17;6,471 km;Eskilstuna central;SEEt;Folkesta;SEFok;track:17_SEEt_U_SEFok;B;D2;SEa
+Mosås-Örebro central;0074;09;9,602 km;Mosås;SEMs;Örebro central;SEÖr;track:09_SEMs_U_SE%C3%96r;B;D2;SEa
+Bro-Toresta;0074;16;4,144 km;Bro;SEBro;Toresta;SETot;track:16_SEBro_N_SETot;B;D2;SEa
+Bro-Toresta;0074;16;4,144 km;Bro;SEBro;Toresta;SETot;track:16_SEBro_U_SETot;B;D2;SEa
+Läggesta-Grundbro;0074;17;6,178 km;Läggesta;SELg;Grundbro;SEGru;track:17_SELg_E_SEGru;B;D2;SEa
+Holsbybrunn-Kvillsfors;0074;82;20,955 km;Holsbybrunn;SEHbr;Kvillsfors;SEKvf;track:82_SEHbr_E_SEKvf;B;D2;SEa
+Stenkumla-Löcknamon;0074;09;6,019 km;Stenkumla;SESkm;Löcknamon;SELmo;track:09_SESkm_N_SELmo;B;D2;SEa
+Stenkumla-Löcknamon;0074;09;6,019 km;Stenkumla;SESkm;Löcknamon;SELmo;track:09_SESkm_U_SELmo;B;D2;SEa
+Vansbro-Rågsveden;0074;53;11,265 km;Vansbro;SEVo;Rågsveden;SERåg;track:53_SEVo_E_SER%C3%A5g;B;D2;SEa
+Arboga-Valskog;0074;16;8,346 km;Arboga;SEArb;Valskog;SEVsg;track:16_SEArb_N_SEVsg;B;D2;SEa
+Arboga-Valskog;0074;16;8,346 km;Arboga;SEArb;Valskog;SEVsg;track:16_SEArb_U_SEVsg;B;D2;SEa
+Kjula-Eskilstuna central;0074;17;10,103 km;Kjula;SEKju;Eskilstuna central;SEEt;track:17_SEKju_E_SEEt;B;D2;SEa
+Dala-Järna-Vansbro;0074;53;11,085 km;Dala-Järna;SEDj;Vansbro;SEVo;track:53_SEDj_E_SEVo;B;D2;SEa
+Mariannelund-Silverdalens bruk;0074;80;14,405 km;Mariannelund;SEMnd;Silverdalens bruk;SESid;track:80_SEMnd_E_SESid;B;D2;SEa
+Dingtuna-Kolbäck;0074;16;9,091 km;Dingtuna;SEDt;Kolbäck;SEKbä;track:16_SEDt_N_SEKb%C3%A4;B;D2;SEa
+Dingtuna-Kolbäck;0074;16;9,091 km;Dingtuna;SEDt;Kolbäck;SEKbä;track:16_SEDt_U_SEKb%C3%A4;B;D2;SEa
+Ekolsund-Grillby;0074;16;7,901 km;Ekolsund;SEEko;Grillby;SEGib;track:16_SEEko_N_SEGib;B;D2;SEa
+Ekolsund-Grillby;0074;16;7,901 km;Ekolsund;SEEko;Grillby;SEGib;track:16_SEEko_U_SEGib;B;D2;SEa
+Kolbäck-Munktorp;0074;16;6,645 km;Kolbäck;SEKbä;Munktorp;SEMorp;track:16_SEKb%C3%A4_E_SEMorp;B;D2;SEa
+Toresta-Bålsta;0074;16;4,733 km;Toresta;SETot;Bålsta;SEBål;track:16_SETot_N_SEB%C3%A5l;B;D2;SEa
+Toresta-Bålsta;0074;16;4,733 km;Toresta;SETot;Bålsta;SEBål;track:16_SETot_U_SEB%C3%A5l;B;D2;SEa
+Fellingsbro-Ålsäng;0074;16;6,838 km;Fellingsbro;SEFeb;Ålsäng;SEÅlg;track:16_SEFeb_E_SE%C3%85lg;B;D2;SEa
+Kungsängen-Bro Nygård;0074;16;5,568 km;Kungsängen;SEKän;Bro Nygård;SEBrny;track:16_SEK%C3%A4n_N_SEBrny;B;D2;SEa
+Kungsängen-Bro Nygård;0074;16;5,568 km;Kungsängen;SEKän;Bro Nygård;SEBrny;track:16_SEK%C3%A4n_U_SEBrny;B;D2;SEa
+Folkesta-Rekarne;0074;17;5,173 km;Folkesta;SEFok;Rekarne;SERke;track:17_SEFok_E_SERke;B;D2;SEa
+Ålsäng-Jädersbruk;0074;16;5,177 km;Ålsäng;SEÅlg;Jädersbruk;SEJbk;track:16_SE%C3%85lg_E_SEJbk;B;D2;SEa
+Gunnarn-Storuman;0074;99;32,514 km;Gunnarn;SEGun;Storuman;SESum;track:99_SEGun_E_SESum;B;D2;SEa
+Skinnskatteberg-Krampen;0074;09;12,789 km;Skinnskatteberg;SESkb;Krampen;SEKrn;track:09_SESkb_E_SEKrn;B;D2;SEa
+Grillby-Enköping;0074;16;8,386 km;Grillby;SEGib;Enköping;SEEp;track:16_SEGib_N_SEEp;B;D2;SEa
+Grillby-Enköping;0074;16;8,386 km;Grillby;SEGib;Enköping;SEEp;track:16_SEGib_U_SEEp;B;D2;SEa
+Almnäs-Nykvarn;0074;17;4,598 km;Almnäs;SEAlä;Nykvarn;SENkv;track:17_SEAl%C3%A4_E_SENkv;B;D2;SEa
+Vallnäs-Mariannelund;0074;80;7,147 km;Vallnäs;SEVln;Mariannelund;SEMnd;track:80_SEVln_E_SEMnd;B;D2;SEa
+Morshyttan-Horndal;0074;09;5,792 km;Morshyttan;SEMrs;Horndal;SEHl;track:09_SEMrs_E_SEHl;B;D2;SEa
+Härad-Barva;0074;17;7,118 km;Härad;SEHäd;Barva;SEBva;track:17_SEH%C3%A4d_E_SEBva;B;D2;SEa
+Snyten-Ombenning;0074;09;5,885 km;Snyten;SESnt;Ombenning;SEOmb;track:09_SESnt_E_SEOmb;B;D2;SEa
+Tortuna-Västerås norra;0074;16;8,59 km;Tortuna;SETtu;Västerås norra;SEVån;track:16_SETtu_N_SEV%C3%A5n;B;D2;SEa
+Tortuna-Västerås norra;0074;16;8,59 km;Tortuna;SETtu;Västerås norra;SEVån;track:16_SETtu_U_SEV%C3%A5n;B;D2;SEa
+Rekarne-Kungsör;0074;17;14,53 km;Rekarne;SERke;Kungsör;SEKör;track:17_SERke_E_SEK%C3%B6r;B;D2;SEa
+Hult-Hjältevad;0074;80;13,837 km;Hult;SEHul;Hjältevad;SEHvd;track:80_SEHul_E_SEHvd;B;D2;SEa
+Peberholm gränsen-Peberholm;3872;98;0,904 km;Peberholm gränsen;EU00141;Peberholm;SEPhm;track:98_EU00141_N_SEPhm;B;E4;SEa
+Peberholm gränsen-Peberholm;3872;98;0,904 km;Peberholm gränsen;EU00141;Peberholm;SEPhm;track:98_EU00141_N_SEPhm;B;E4;GC
+Peberholm gränsen-Peberholm;3872;98;0,904 km;Peberholm gränsen;EU00141;Peberholm;SEPhm;track:98_EU00141_U_SEPhm;B;E4;SEa
+Peberholm gränsen-Peberholm;3872;98;0,904 km;Peberholm gränsen;EU00141;Peberholm;SEPhm;track:98_EU00141_U_SEPhm;B;E4;GC
+Teckomatorp-Kävlinge;0074;32;9,322 km;Teckomatorp;SETp;Kävlinge;SEKg;track:32_SETp_E_SEKg;B;E4;SEa
+Frövi-Fellingsbro;0074;09;13,799 km;Frövi;SEFv;Fellingsbro;SEFeb;track:09_SEFv_E_SEFeb;B;D2;SEa
+Skänninge-Mjölby;0074;09;9,068 km;Skänninge;SESkn;Mjölby;SEMy;track:09_SESkn_N_SEMy;B;D2;SEa
+Skänninge-Mjölby;0074;09;9,068 km;Skänninge;SESkn;Mjölby;SEMy;track:09_SESkn_U_SEMy;B;D2;SEa
+Alväng-Hovsta;0074;16;21,204 km;Alväng;SEAä;Hovsta;SEHsa;track:16_SEA%C3%A4_E_SEHsa;B;D2;SEa
+Agnesberg-Göteborg Marieholm;0074;23;3,754 km;Agnesberg;SEAgb;Göteborg Marieholm;SEGbm;track:23_SEAgb_N_SEGbm;B;E4;SEa
+Agnesberg-Göteborg Marieholm;0074;23;3,754 km;Agnesberg;SEAgb;Göteborg Marieholm;SEGbm;track:23_SEAgb_U_SEGbm;B;E4;SEa
+Hagge-Ludvika;0074;10;9,971 km;Hagge;SEHge;Ludvika;SELa;track:10_SEHge_E_SELa;B;D2;SEa
+Kilafors-Mobodarne;0074;08;11,192 km;Kilafors;SEKls;Mobodarne;SEMb;track:08_SEKls_E_SEMb;B;E4;SEa
+Linköpings central-Hjulsbro;0074;02;7,502 km;Linköpings central;SELp;Hjulsbro;SEHj;track:02_SELp_E_SEHj;B;D2;SEa
+Sollefteå-Långsele;0074;31;13,823 km;Sollefteå;SEStå;Långsele;SELsl;track:31_SESt%C3%A5_E_SELsl;B;D2;SEa
+Torsåker-Storvik;0074;09;8,862 km;Torsåker;SETså;Storvik;SESv;track:09_SETs%C3%A5_E_SESv;B;D2;SEa
+Rekarne-Kvicksund;0074;17;4,121 km;Rekarne;SERke;Kvicksund;SEKsu;track:17_SERke_E_SEKsu;B;D2;SEa
+Forsmo-Ådalsliden;0074;07;28,4 km;Forsmo;SEFsm;Ådalsliden;SEÅd;track:07_SEFsm_E_SE%C3%85d;B;D2;SEa
+Avesta Krylbo-Snickarbo;0074;09;11,666 km;Avesta Krylbo;SEAvky;Snickarbo;SESnb;track:09_SEAvky_E_SESnb;B;D2;SEa
+Älmhult-Hökön;0074;02;10,12 km;Älmhult;SEÄh;Hökön;SEHkö;track:02_SE%C3%84h_E_SEHk%C3%B6;B;D2;SEa
+Veddige-Varberg;0074;77;18,647 km;Veddige;SEVdi;Varberg;SEVb;track:77_SEVdi_E_SEVb;B;D2;SEa
+Högdalen-Älvsjö;0074;19;3,388 km;Högdalen;SEHön;Älvsjö;SEÄs;track:19_SEH%C3%B6n_N_SE%C3%84s;B;D2;SEa
+Högdalen-Älvsjö;0074;19;3,388 km;Högdalen;SEHön;Älvsjö;SEÄs;track:19_SEH%C3%B6n_U_SE%C3%84s;B;D2;SEa
+Älvsjö-Huddinge;0074;22;5,364 km;Älvsjö;SEÄs;Huddinge;SEHu;track:22_SE%C3%84s_N1_SEHu;B;D2;SEa
+Älvsjö-Huddinge;0074;22;5,364 km;Älvsjö;SEÄs;Huddinge;SEHu;track:22_SE%C3%84s_N2_SEHu;B;D2;SEa
+Älvsjö-Huddinge;0074;22;5,364 km;Älvsjö;SEÄs;Huddinge;SEHu;track:22_SE%C3%84s_U1_SEHu;B;D2;SEa
+Älvsjö-Huddinge;0074;22;5,364 km;Älvsjö;SEÄs;Huddinge;SEHu;track:22_SE%C3%84s_U2_SEHu;B;D2;SEa
+Bräcke-Bodsjön;0074;08;7,608 km;Bräcke;SEBä;Bodsjön;SEBön;track:08_SEB%C3%A4_E_SEB%C3%B6n;B;D2;SEa
+Laxå-Hasselfors;0074;01;11,499 km;Laxå;SELå;Hasselfors;SEHs;track:01_SEL%C3%A5_E_SEHs;B;D2;SEa
+Gårdsjö-Hova;0074;01;8,762 km;Gårdsjö;SEGdö;Hova;SEHova;track:01_SEGd%C3%B6_E_SEHova;B;D2;SEa
+Lomma-Arlöv;0074;26;4,262 km;Lomma;SELma;Arlöv;SEAl;track:26_SELma_E_SEAl;B;D2;SEa
+Nyfors-Arnemark;0074;07;27,567 km;Nyfors;SENyf;Arnemark;SEAmk;track:07_SENyf_E_SEAmk;B;E4;SEa
+Folkesta-Skanlog;0074;17;4,687 km;Folkesta;SEFok;Skanlog;SESnl;track:17_SEFok_E_SESnl;B;C2;SEa
+Alvesta-Gemla;0074;02;7,48 km;Alvesta;SEAv;Gemla;SEGm;track:02_SEAv_E_SEGm;B;D2;SEa
+Bräcke-Stavre;0074;08;11,048 km;Bräcke;SEBä;Stavre;SEStv;track:08_SEB%C3%A4_E_SEStv;B;D2;SEa
+Hässleholm-Attarp;0074;02;6,314 km;Hässleholm;SEHm;Attarp;SEAtp;track:02_SEHm_E_SEAtp;B;D2;SEa
+Lund c-Klostergården;0074;02;1,159 km;Lund c;SELu;Klostergården;SEKgå;track:02_SELu_N_SEKg%C3%A5;B;D2;SEa
+Lund c-Klostergården;0074;02;1,159 km;Lund c;SELu;Klostergården;SEKgå;track:02_SELu_U_SEKg%C3%A5;B;D2;SEa
+Teckomatorp-Eslöv;0074;32;14,96 km;Teckomatorp;SETp;Eslöv;SEE;track:32_SETp_E_SEE;B;E4;SEa
+Tillberga-Västerås norra;0074;16;5,508 km;Tillberga;SETb;Västerås norra;SEVån;track:16_SETb_E_SEV%C3%A5n;B;D2;SEa
+Ängelholm-Södra utmarken;0074;03;1,433 km;Ängelholm;SEÄ;Södra utmarken;SESöt;track:03_SE%C3%84_E_SES%C3%B6t;B;D2;SEa
+Umeå östra-Gimonäs;0074;43;3,642 km;Umeå östra;SEUåö;Gimonäs;SEGim;track:43_SEU%C3%A5%C3%B6_E_SEGim;B;E4;SEa
+Södra utmarken-Vegeholm;0074;03;4,379 km;Södra utmarken;SESöt;Vegeholm;SEVh;track:03_SES%C3%B6t_E_SEVh;B;D2;SEa
+Katrineholms central-Strångsjö;0074;01;10,928 km;Katrineholms central;SEK;Strångsjö;SEStö;track:01_SEK_N_SESt%C3%B6;B;D2;SEa
+Katrineholms central-Strångsjö;0074;01;10,928 km;Katrineholms central;SEK;Strångsjö;SEStö;track:01_SEK_U_SESt%C3%B6;B;D2;SEa
+Hulingsryd-Hultsfred;0074;80;1,759 km;Hulingsryd;SEHud;Hultsfred;SEHf;track:80_SEHud_E_SEHf;B;D2;SEa
+Kil-Edsvalla;0074;11;10,348 km;Kil;SEKil;Edsvalla;SEEl;track:11_SEKil_E_SEEl;B;D2;SEa
+Kävlinge-Lund c;0074;02;11,034 km;Kävlinge;SEKg;Lund c;SELu;track:02_SEKg_N_SELu;B;D2;SEa
+Kävlinge-Lund c;0074;02;11,034 km;Kävlinge;SEKg;Lund c;SELu;track:02_SEKg_U_SELu;B;D2;SEa
+Jönköpings godsbangård-Månsarp;0074;83;15,455 km;Jönköpings godsbangård;SEJögb;Månsarp;SEMåp;track:83_SEJ%C3%B6gb_E_SEM%C3%A5p;B;D2;SEa
+Kävlinge-Stävie;0074;03;5,912 km;Kävlinge;SEKg;Stävie;SESie;track:03_SEKg_E_SESie;B;D2;SEa
+Almedal-Mölndals övre;0074;23;3,632 km;Almedal;SEAm;Mölndals övre;SEMdö;track:23_SEAm_E_SEMd%C3%B6;B;D2;SEa
+Uppsala norra-Brunna;0074;05;10,474 km;Uppsala norra;SEUna;Brunna;SEBna;track:05_SEUna_E_SEBna;B;D2;SEa
+Kristianstads södra-Åhus;0074;92;15,808 km;Kristianstads södra;SECrs;Åhus;SEÅhus;track:92_SECrs_E_SE%C3%85hus;B;D2;SEa
+Kalmar södra-Rockneby;0074;04;18,384 km;Kalmar södra;SEKas;Rockneby;SERby;track:04_SEKas_E_SERby;B;D2;SEa
+Ättekulla-Helsingborgs godsbangård;0074;13;2,797 km;Ättekulla;SEÄtk;Helsingborgs godsbangård;SEHbgb;track:13_SE%C3%84tk_E_SEHbgb;B;D2;SEa
+Almedal-Mölndals nedre;0074;23;3,189 km;Almedal;SEAm;Mölndals nedre;SEMdn;track:23_SEAm_N_SEMdn;B;D2;SEa
+Almedal-Mölndals nedre;0074;23;3,189 km;Almedal;SEAm;Mölndals nedre;SEMdn;track:23_SEAm_U_SEMdn;B;D2;SEa
+Borås central-Aplared;0074;04;15,364 km;Borås central;SEBsc;Aplared;SEApd;track:04_SEBsc_E_SEApd;B;D2;SEa
+Pålsjö-Helsingborgs central;0074;03;3,639 km;Pålsjö;SEPö;Helsingborgs central;SEHb;track:03_SEP%C3%B6_E_SEHb;B;D2;SEa
+Sandared-Borås central;0074;04;10,12 km;Sandared;SESae;Borås central;SEBsc;track:04_SESae_E_SEBsc;B;D2;SEa
+Ornäs-Domnarvet;0074;10;5,387 km;Ornäs;SEOrn;Domnarvet;SEDmn;track:10_SEOrn_E_SEDmn;B;D2;SEa
+Strömsbro-Oslättfors;0074;05;13,359 km;Strömsbro;SESmo;Oslättfors;SEOsl;track:05_SESmo_E_SEOsl;B;D2;SEa
+Nässjö central-Stolpen;0074;02;12,391 km;Nässjö central;SEN;Stolpen;SESoe;track:02_SEN_E_SESoe;B;D2;SEa
+Österalnö-Örnsköldsviks central;0074;47;13,782 km;Österalnö;SEÖal;Örnsköldsviks central;SEÖk;track:47_SE%C3%96al_E_SE%C3%96k;B;D2;SEa
+Kristianstad GBG-Fjälkinge;0074;13;8,317 km;Kristianstad GBG;SECrgb;Fjälkinge;SEFki;track:13_SECrgb_E_SEFki;B;D2;SEa
+Oskarström-Furet;0074;84;16,578 km;Oskarström;SEOm;Furet;SEFur;track:84_SEOm_E_SEFur;B;E4;SEa
+Maria-Pålsjö;0074;03;1,257 km;Maria;SEMia;Pålsjö;SEPö;track:03_SEMia_E_SEP%C3%B6;B;D2;SEa
+Peberholm-Öresundsbro Konsortiet - Trafikverket km 281+810;3872;98;10,657 km;Peberholm;SEPhm;Öresundsbro Konsortiet - Trafikverket km 281+810;SE00100;track:98_SEPhm_N_SE00100;B;E4;SEa
+Peberholm-Öresundsbro Konsortiet - Trafikverket km 281+810;3872;98;10,657 km;Peberholm;SEPhm;Öresundsbro Konsortiet - Trafikverket km 281+810;SE00100;track:98_SEPhm_N_SE00100;B;E4;GC
+Peberholm-Öresundsbro Konsortiet - Trafikverket km 281+810;3872;98;10,657 km;Peberholm;SEPhm;Öresundsbro Konsortiet - Trafikverket km 281+810;SE00100;track:98_SEPhm_U_SE00100;B;E4;SEa
+Peberholm-Öresundsbro Konsortiet - Trafikverket km 281+810;3872;98;10,657 km;Peberholm;SEPhm;Öresundsbro Konsortiet - Trafikverket km 281+810;SE00100;track:98_SEPhm_U_SE00100;B;E4;GC
+Borås central-Viskafors;0074;04;12,06 km;Borås central;SEBsc;Viskafors;SEVfo;track:04_SEBsc_E_SEVfo;B;D2;SEa
+Lustån-Hedemora;0074;06;5,181 km;Lustån;SELuå;Hedemora;SEHdm;track:06_SELu%C3%A5_E_SEHdm;B;D2;SEa
+Snickarbo-Lustån;0074;06;6,179 km;Snickarbo;SESnb;Lustån;SELuå;track:06_SESnb_E_SELu%C3%A5;B;D2;SEa
+Perstorp-Hyllstofta;0074;13;7,155 km;Perstorp;SEPt;Hyllstofta;SEHyl;track:13_SEPt_E_SEHyl;B;D2;SEa
+Helenelund-Sollentuna;0074;05;2,29 km;Helenelund;SEHel;Sollentuna;SESol;track:05_SEHel_1N_SESol;B;D2;SEa
+Helenelund-Sollentuna;0074;05;2,29 km;Helenelund;SEHel;Sollentuna;SESol;track:05_SEHel_1U_SESol;B;D2;SEa
+Helenelund-Sollentuna;0074;05;2,29 km;Helenelund;SEHel;Sollentuna;SESol;track:05_SEHel_2N_SESol;B;D2;SEa
+Helenelund-Sollentuna;0074;05;2,29 km;Helenelund;SEHel;Sollentuna;SESol;track:05_SEHel_2U_SESol;B;D2;SEa
+Ulriksdal-Helenelund;0074;05;3,932 km;Ulriksdal;SEUdl;Helenelund;SEHel;track:05_SEUdl_1N_SEHel;B;D2;SEa
+Ulriksdal-Helenelund;0074;05;3,932 km;Ulriksdal;SEUdl;Helenelund;SEHel;track:05_SEUdl_1U_SEHel;B;D2;SEa
+Ulriksdal-Helenelund;0074;05;3,932 km;Ulriksdal;SEUdl;Helenelund;SEHel;track:05_SEUdl_2N_SEHel;B;D2;SEa
+Ulriksdal-Helenelund;0074;05;3,932 km;Ulriksdal;SEUdl;Helenelund;SEHel;track:05_SEUdl_2U_SEHel;B;D2;SEa
+Frövi-Vedevåg;0074;09;10,384 km;Frövi;SEFv;Vedevåg;SEVdv;track:09_SEFv_E_SEVdv;B;D2;SEa
+Storvik-Åshammar;0074;10;7,651 km;Storvik;SESv;Åshammar;SEÅh;track:10_SESv_E_SE%C3%85h;B;D2;SEa
+Kolbäck-Hallstahammar;0074;16;6,221 km;Kolbäck;SEKbä;Hallstahammar;SEHh;track:16_SEKb%C3%A4_E_SEHh;B;D2;SEa
+Sollentuna-Häggvik;0074;05;1,922 km;Sollentuna;SESol;Häggvik;SEHgv;track:05_SESol_1N_SEHgv;B;D2;SEa
+Sollentuna-Häggvik;0074;05;1,922 km;Sollentuna;SESol;Häggvik;SEHgv;track:05_SESol_1U_SEHgv;B;D2;SEa
+Sollentuna-Häggvik;0074;05;1,922 km;Sollentuna;SESol;Häggvik;SEHgv;track:05_SESol_2N_SEHgv;B;D2;SEa
+Sollentuna-Häggvik;0074;05;1,922 km;Sollentuna;SESol;Häggvik;SEHgv;track:05_SESol_2U_SEHgv;B;D2;SEa
+Lockarp-Skabersjö;0074;24;7,974 km;Lockarp;SELrp;Skabersjö;SESaö;track:24_SELrp_E_SESa%C3%B6;B;D2;SEa
+Fagersta central-Söderbärke;0074;09;21,498 km;Fagersta central;SEFgc;Söderbärke;SESre;track:09_SEFgc_E_SESre;B;D2;SEa
+Mellerud-Åsensbruk;0074;11;12,477 km;Mellerud;SEMl;Åsensbruk;SEÅb;track:11_SEMl_E_SE%C3%85b;B;A;SEa
+Västeraspby-Solum;0074;28;7,58 km;Västeraspby;SEVäy;Solum;SESlm;track:28_SEV%C3%A4y_E_SESlm;B;E4;SEa
+Rydaholm-Alvesta;0074;04;19,58 km;Rydaholm;SERym;Alvesta;SEAv;track:04_SERym_E_SEAv;B;D2;SEa
+Fristad-Nordskogen;0074;15;9,786 km;Fristad;SEFra;Nordskogen;SENosk;track:15_SEFra_E_SENosk;B;D2;SEa
+Eldsberga-Genevad;0074;03;3,071 km;Eldsberga;SEEa;Genevad;SEGnd;track:03_SEEa_E_SEGnd;B;D2;SEa
+Buddbyn-Hundsjön;0074;07;14,996 km;Buddbyn;SEBud;Hundsjön;SEHuö;track:07_SEBud_E_SEHu%C3%B6;B;E4;SEa
+Ängelsberg-Fagersta central;0074;63;12,758 km;Ängelsberg;SEÄbg;Fagersta central;SEFgc;track:63_SE%C3%84bg_E_SEFgc;B;D2;SEa
+Stora Tuna-Borlänge central;0074;06;7,501 km;Stora Tuna;SESau;Borlänge central;SEBlgc;track:06_SESau_E_SEBlgc;B;D2;SEa
+Borlänge central-Sellnäs;0074;10;8,633 km;Borlänge central;SEBlgc;Sellnäs;SESlnä;track:10_SEBlgc_E_SESln%C3%A4;B;D2;SEa
+Garsås-Mora central;0074;06;17,968 km;Garsås;SEGså;Mora central;SEMrc;track:06_SEGs%C3%A5_E_SEMrc;B;D2;SEa
+Hasslarp-Kattarp;0074;13;2,981 km;Hasslarp;SEHlp;Kattarp;SEKa;track:13_SEHlp_E_SEKa;B;D2;SEa
+Borlänge central-Repbäcken;0074;06;7,331 km;Borlänge central;SEBlgc;Repbäcken;SERbä;track:06_SEBlgc_E_SERb%C3%A4;B;D2;SEa
+Vetlanda-Brunnsgård;0074;81;1,763 km;Vetlanda;SEVta;Brunnsgård;SEBsd;track:81_SEVta_E_SEBsd;B;D2;SEa
+Nordskogen-Knalleland;0074;15;1,871 km;Nordskogen;SENosk;Knalleland;SEKnl;track:15_SENosk_E_SEKnl;B;D2;SEa
+Lökom-Sollefteå;0074;31;18,283 km;Lökom;SELkm;Sollefteå;SEStå;track:31_SELkm_E_SESt%C3%A5;B;D2;SEa
+Herrljunga västra-Vårgårda;0074;01;10,125 km;Herrljunga västra;SEHrv;Vårgårda;SEVgå;track:01_SEHrv_N_SEVg%C3%A5;B;D2;SEa
+Herrljunga västra-Vårgårda;0074;01;10,125 km;Herrljunga västra;SEHrv;Vårgårda;SEVgå;track:01_SEHrv_U_SEVg%C3%A5;B;D2;SEa
+Västeraspby-Lökom;0074;31;15,831 km;Västeraspby;SEVäy;Lökom;SELkm;track:31_SEV%C3%A4y_E_SELkm;B;D2;SEa
+Björneborg-Kristinehamn;0074;12;12,081 km;Björneborg;SEBjb;Kristinehamn;SEKhn;track:12_SEBjb_E_SEKhn;B;D2;SEa
+Vedum-Herrljunga central;0074;15;10,728 km;Vedum;SEVed;Herrljunga central;SEHrc;track:15_SEVed_E_SEHrc;B;D2;SEa
+Klostergården-Hjärup;0074;02;4,417 km;Klostergården;SEKgå;Hjärup;SEHjp;track:02_SEKg%C3%A5_N1_SEHjp;B;D2;SEa
+Klostergården-Hjärup;0074;02;4,417 km;Klostergården;SEKgå;Hjärup;SEHjp;track:02_SEKg%C3%A5_N2_SEHjp;B;D2;SEa
+Klostergården-Hjärup;0074;02;4,417 km;Klostergården;SEKgå;Hjärup;SEHjp;track:02_SEKg%C3%A5_U1_SEHjp;B;D2;SEa
+Klostergården-Hjärup;0074;02;4,417 km;Klostergården;SEKgå;Hjärup;SEHjp;track:02_SEKg%C3%A5_U2_SEHjp;B;D2;SEa
+Löcknamon-Jakobshyttan;0074;09;13,845 km;Löcknamon;SELmo;Jakobshyttan;SEJho;track:09_SELmo_U_SEJho;B;D2;SEa
+Källeryd-Herrljunga central;0074;01;11,355 km;Källeryd;SEKä;Herrljunga central;SEHrc;track:01_SEK%C3%A4_U_SEHrc;B;D2;SEa
+Löcknamon-Jakobshyttan;0074;09;13,845 km;Löcknamon;SELmo;Jakobshyttan;SEJho;track:09_SELmo_N_SEJho;B;D2;SEa
+Birsta-Fillan;0074;31;6,22 km;Birsta;SEBia;Fillan;SEFil;track:31_SEBia_E_SEFil;B;E4;SEa
+Herrljunga central-Ljung;0074;01;11,274 km;Herrljunga central;SEHrc;Ljung;SELju;track:01_SEHrc_E_SELju;B;D2;SEa
+Källeryd-Herrljunga central;0074;01;11,355 km;Källeryd;SEKä;Herrljunga central;SEHrc;track:01_SEK%C3%A4_N_SEHrc;B;D2;SEa
+Herrljunga central-Herrljunga västra;0074;01;3,611 km;Herrljunga central;SEHrc;Herrljunga västra;SEHrv;track:01_SEHrc_N_SEHrv;B;D2;SEa
+Herrljunga central-Herrljunga västra;0074;01;3,611 km;Herrljunga central;SEHrc;Herrljunga västra;SEHrv;track:01_SEHrc_U_SEHrv;B;D2;SEa
+Krökesbo-Äng;0074;14;4,803 km;Krökesbo;SEKröb;Äng;SEÄng;track:14_SEKr%C3%B6b_E_SE%C3%84ng;B;no data;SEa
+Svenstavik-Fåker;0074;99;29,444 km;Svenstavik;SESvk;Fåker;SEFkr;track:99_SESvk_E_SEFkr;B;no data;SEa
+Sandhem-Mullsjö;0074;14;11,807 km;Sandhem;SESm;Mullsjö;SEMu;track:14_SESm_E_SEMu;B;no data;SEa
+Moskosel-Varjisträsk;0074;99;23,809 km;Moskosel;SEMos;Varjisträsk;SEVaj;track:99_SEMos_E_SEVaj;B;no data;SEa
+Varjisträsk-Kåbdalis;0074;99;38,319 km;Varjisträsk;SEVaj;Kåbdalis;SEKåb;track:99_SEVaj_E_SEK%C3%A5b;B;no data;SEa
+Kallholsfors-Born;0074;99;4,922 km;Kallholsfors;SEKlh;Born;SEBorn;track:99_SEKlh_E_SEBorn;B;no data;SEa
+Forserum-Krökesbo;0074;14;2,375 km;Forserum;SEFm;Krökesbo;SEKröb;track:14_SEFm_E_SEKr%C3%B6b;B;no data;SEa
+Barkarby-Jakobsberg;0074;16;3,004 km;Barkarby;SEBkb;Jakobsberg;SEJkb;track:16_SEBkb_1N_SEJkb;B;no data;SEa
+Barkarby-Jakobsberg;0074;16;3,004 km;Barkarby;SEBkb;Jakobsberg;SEJkb;track:16_SEBkb_1U_SEJkb;B;no data;SEa
+Barkarby-Jakobsberg;0074;16;3,004 km;Barkarby;SEBkb;Jakobsberg;SEJkb;track:16_SEBkb_2N_SEJkb;B;no data;SEa
+Barkarby-Jakobsberg;0074;16;3,004 km;Barkarby;SEBkb;Jakobsberg;SEJkb;track:16_SEBkb_2U_SEJkb;B;no data;SEa
+Avaviken-Arvidsjaur;0074;99;25,34 km;Avaviken;SEAva;Arvidsjaur;SEAjr;track:99_SEAva_E_SEAjr;B;no data;SEa
+Älvho-Fågelsjö;0074;99;37,346 km;Älvho;SEÄlo;Fågelsjö;SEFeö;track:99_SE%C3%84lo_E_SEFe%C3%B6;B;no data;SEa
+Jakobsberg-Kallhäll;0074;16;3,499 km;Jakobsberg;SEJkb;Kallhäll;SEKhä;track:16_SEJkb_1N_SEKh%C3%A4;B;no data;SEa
+Jakobsberg-Kallhäll;0074;16;3,499 km;Jakobsberg;SEJkb;Kallhäll;SEKhä;track:16_SEJkb_1U_SEKh%C3%A4;B;no data;SEa
+Jakobsberg-Kallhäll;0074;16;3,499 km;Jakobsberg;SEJkb;Kallhäll;SEKhä;track:16_SEJkb_2N_SEKh%C3%A4;B;no data;SEa
+Jakobsberg-Kallhäll;0074;16;3,499 km;Jakobsberg;SEJkb;Kallhäll;SEKhä;track:16_SEJkb_2U_SEKh%C3%A4;B;no data;SEa
+Dorotea-Storbergets industrispår;0074;99;2,25 km;Dorotea;SEDta;Storbergets industrispår;SESti;track:99_SEDta_E_SESti;B;no data;SEa
+Tenhult-Forserum;0074;14;11,095 km;Tenhult;SETh;Forserum;SEFm;track:14_SETh_E_SEFm;B;no data;SEa
+Kåbdalis-Maitum;0074;99;31,428 km;Kåbdalis;SEKåb;Maitum;SEMtm;track:99_SEK%C3%A5b_E_SEMtm;B;no data;SEa
+Västerås central-Västerås västra;0074;16;2,955 km;Västerås central;SEVå;Västerås västra;SEVåv;track:16_SEV%C3%A5_N_SEV%C3%A5v;B;no data;SEa
+Västerås central-Västerås västra;0074;16;2,955 km;Västerås central;SEVå;Västerås västra;SEVåv;track:16_SEV%C3%A5_U_SEV%C3%A5v;B;no data;SEa
+Slagnäs-Avaviken;0074;99;27,902 km;Slagnäs;SESgä;Avaviken;SEAva;track:99_SESg%C3%A4_E_SEAva;B;no data;SEa
+Åsarna central-Brånan;0074;99;5,746 km;Åsarna central;SEÅsal;Brånan;SEBrn;track:99_SE%C3%85sal_E_SEBrn;B;no data;SEa
+Vojmån-Vinlidsberg;0074;99;31,271 km;Vojmån;SEVjm;Vinlidsberg;SEVld;track:99_SEVjm_E_SEVld;B;no data;SEa
+Maitum-Jokkmokk;0074;99;31,801 km;Maitum;SEMtm;Jokkmokk;SEJk;track:99_SEMtm_E_SEJk;B;no data;SEa
+Sveg-Ytterhogdal;0074;99;39,556 km;Sveg;SES;Ytterhogdal;SEYl;track:99_SES_E_SEYl;B;no data;SEa
+Lövliden-Vojmån;0074;99;22,115 km;Lövliden;SELvd;Vojmån;SEVjm;track:99_SELvd_E_SEVjm;B;no data;SEa
+Arvidsjaur-Norra Kikkejaur;0074;99;6,203 km;Arvidsjaur;SEAjr;Norra Kikkejaur;SENkr;track:99_SEAjr_E_SENkr;B;no data;SEa
+Jokkmokk-Porjus;0074;99;47,484 km;Jokkmokk;SEJk;Porjus;SEPj;track:99_SEJk_E_SEPj;B;no data;SEa
+Lomselenäs-Sorsele;0074;99;38,554 km;Lomselenäs;SELms;Sorsele;SESrs;track:99_SELms_E_SESrs;B;no data;SEa
+Fåker-Brunflo;0074;99;22,596 km;Fåker;SEFkr;Brunflo;SEBf;track:99_SEFkr_E_SEBf;B;no data;SEa
+Sorsele industrispår-Slagnäs;0074;99;31,637 km;Sorsele industrispår;SESir;Slagnäs;SESgä;track:99_SESir_E_SESg%C3%A4;B;no data;SEa
+Falköpings central-Vartofta;0074;14;11,347 km;Falköpings central;SEF;Vartofta;SEVf;track:14_SEF_E_SEVf;B;no data;SEa
+Hoting-Dorotea;0074;99;21,16 km;Hoting;SEHtg;Dorotea;SEDta;track:99_SEHtg_E_SEDta;B;no data;SEa
+Orsa-Tallhed;0074;99;11,307 km;Orsa;SEOrs;Tallhed;SEThd;track:99_SEOrs_E_SEThd;B;no data;SEa
+Vilhelmina timmer-Lövliden;0074;99;0,573 km;Vilhelmina timmer;SEVmat;Lövliden;SELvd;track:99_SEVmat_E_SELvd;B;no data;SEa
+Röjan-Åsarna central;0074;99;19,469 km;Röjan;SERjn;Åsarna central;SEÅsal;track:99_SERjn_E_SE%C3%85sal;B;no data;SEa
+Åskott-Lit;0074;99;15,752 km;Åskott;SEÅkt;Lit;SELit;track:99_SE%C3%85kt_E_SELit;B;no data;SEa
+Lövberga-Hoting;0074;99;31,679 km;Lövberga;SELöb;Hoting;SEHtg;track:99_SEL%C3%B6b_E_SEHtg;B;no data;SEa
+Porjus-Gällivare;0074;99;52,965 km;Porjus;SEPj;Gällivare;SEGv;track:99_SEPj_E_SEGv;B;no data;SEa
+Bro Nygård-Bro;0074;16;2,782 km;Bro Nygård;SEBrny;Bro;SEBro;track:16_SEBrny_N_SEBro;B;no data;SEa
+Bro Nygård-Bro;0074;16;2,782 km;Bro Nygård;SEBrny;Bro;SEBro;track:16_SEBrny_U_SEBro;B;no data;SEa
+Vilhelmina-Vilhelmina timmer;0074;99;3,871 km;Vilhelmina;SEVma;Vilhelmina timmer;SEVmat;track:99_SEVma_E_SEVmat;B;no data;SEa
+Västerås norra-Västerås central;0074;16;4,662 km;Västerås norra;SEVån;Västerås central;SEVå;track:16_SEV%C3%A5n_N_SEV%C3%A5;B;no data;SEa
+Västerås norra-Västerås central;0074;16;4,662 km;Västerås norra;SEVån;Västerås central;SEVå;track:16_SEV%C3%A5n_U_SEV%C3%A5;B;no data;SEa
+Jönköpings central-Jönköpings godsbangård;0074;14;4,505 km;Jönköpings central;SEJö;Jönköpings godsbangård;SEJögb;track:14_SEJ%C3%B6_E_SEJ%C3%B6gb;B;no data;SEa
+Spånga-Barkarby;0074;16;3,08 km;Spånga;SESpå;Barkarby;SEBkb;track:16_SESp%C3%A5_1U_SEBkb;B;no data;SEa
+Spånga-Barkarby;0074;16;3,08 km;Spånga;SESpå;Barkarby;SEBkb;track:16_SESp%C3%A5_2U_SEBkb;B;no data;SEa
+Habo-Bankeryd;0074;14;8,336 km;Habo;SEHo;Bankeryd;SEBry;track:14_SEHo_E_SEBry;B;no data;SEa
+Ytterhogdal-Överhogdals grusgrop;0074;99;4,431 km;Ytterhogdal;SEYl;Överhogdals grusgrop;SEÖhlg;track:99_SEYl_E_SE%C3%96hlg;B;no data;SEa
+Överhogdals grusgrop-Röjan;0074;99;38,745 km;Överhogdals grusgrop;SEÖhlg;Röjan;SERjn;track:99_SE%C3%96hlg_E_SERjn;B;no data;SEa
+Ulriksfors-Lövberga;0074;99;19,691 km;Ulriksfors;SEUf;Lövberga;SELöb;track:99_SEUf_E_SEL%C3%B6b;B;no data;SEa
+Born-Orsa;0074;99;2,239 km;Born;SEBorn;Orsa;SEOrs;track:99_SEBorn_E_SEOrs;B;no data;SEa
+Fågelsjö-Sveg;0074;99;34,184 km;Fågelsjö;SEFeö;Sveg;SES;track:99_SEFe%C3%B6_E_SES;B;no data;SEa
+Storbergets industrispår-Meselefors;0074;99;31,73 km;Storbergets industrispår;SESti;Meselefors;SEMlf;track:99_SESti_E_SEMlf;B;no data;SEa
+Storuman-Lomselenäs;0074;99;33,284 km;Storuman;SESum;Lomselenäs;SELms;track:99_SESum_E_SELms;B;no data;SEa
+Jönköpings central-Huskvarna;0074;14;6,428 km;Jönköpings central;SEJö;Huskvarna;SEHka;track:14_SEJ%C3%B6_E_SEHka;B;no data;SEa
+Vartofta-Sandhem;0074;14;14,525 km;Vartofta;SEVf;Sandhem;SESm;track:14_SEVf_E_SESm;B;no data;SEa
+Brånan-Svenstavik;0074;99;9,6 km;Brånan;SEBrn;Svenstavik;SESvk;track:99_SEBrn_E_SESvk;B;no data;SEa
+Meselefors-Vilhelmina;0074;99;22,236 km;Meselefors;SEMlf;Vilhelmina;SEVma;track:99_SEMlf_E_SEVma;B;no data;SEa
+Huskvarna-Tenhult;0074;14;9,526 km;Huskvarna;SEHka;Tenhult;SETh;track:14_SEHka_E_SETh;B;no data;SEa
+Mullsjö-Habo;0074;14;12,719 km;Mullsjö;SEMu;Habo;SEHo;track:14_SEMu_E_SEHo;B;no data;SEa
+Bankeryd-Jönköpings central;0074;14;10,682 km;Bankeryd;SEBry;Jönköpings central;SEJö;track:14_SEBry_E_SEJ%C3%B6;B;no data;SEa
+Jämtlands Sikås-Ulriksfors;0074;99;35,336 km;Jämtlands Sikås;SEJs;Ulriksfors;SEUf;track:99_SEJs_E_SEUf;B;no data;SEa
+Munkflohögen-Jämtlands Sikås;0074;99;17,746 km;Munkflohögen;SEMfn;Jämtlands Sikås;SEJs;track:99_SEMfn_E_SEJs;B;no data;SEa
+Norra Kikkejaur-Moskosel;0074;99;41,904 km;Norra Kikkejaur;SENkr;Moskosel;SEMos;track:99_SENkr_E_SEMos;B;no data;SEa
+Lit-Munkflohögen;0074;99;33,754 km;Lit;SELit;Munkflohögen;SEMfn;track:99_SELit_E_SEMfn;B;no data;SEa
+Sorsele-Sorsele industrispår;0074;99;3,459 km;Sorsele;SESrs;Sorsele industrispår;SESir;track:99_SESrs_E_SESir;B;no data;SEa
+Vinlidsberg-Storuman;0074;99;10,188 km;Vinlidsberg;SEVld;Storuman;SESum;track:99_SEVld_E_SESum;B;no data;SEa
+Tallhed-Älvho;0074;99;40,077 km;Tallhed;SEThd;Älvho;SEÄlo;track:99_SEThd_E_SE%C3%84lo;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_16_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_17_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_18a_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_18b_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_19a_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_19b_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_So%2020_SEHgl;B;no data;SEa
+Solna-Hagalund;0074;27;0,841 km;Solna;SESo;Hagalund;SEHgl;track:27_SESo_b1_SEHgl;B;no data;SEa
+Mora central-Orsa;0074;99;13,692 km;Mora central;SEMrc;Orsa;SEOrs;track:99_SEMrc_E_SEOrs;B;no data;SEa
+Skavstaby-Blackvreten;0074;05;6,511 km;Skavstaby;SESkby;Blackvreten;SEBvr;track:05_SESkby_N1_SEBvr;B;no data;SEa
+Skavstaby-Blackvreten;0074;05;6,511 km;Skavstaby;SESkby;Blackvreten;SEBvr;track:05_SESkby_U1_SEBvr;B;no data;SEa
+Morastrand-Blyberg;0074;06;30,263 km;Morastrand;SEMras;Blyberg;SEBbe;track:06_SEMras_E_SEBbe;B;no data;SEa
+Bastuträsk-Finnforsfallet;0074;07;15,501 km;Bastuträsk;SEBst;Finnforsfallet;SEFfs;track:07_SEBst_E_SEFfs;B;no data;SEa
+Äng-Nässjö central;0074;14;8,925 km;Äng;SEÄng;Nässjö central;SEN;track:14_SE%C3%84ng_E_SEN;B;no data;SEa
+Nacksta-Birsta;0074;05;7,786 km;Nacksta;SENta;Birsta;SEBia;track:05_SENta_E_SEBia;B;no data;SEa
+Gävle central-Fliskär;0074;51;6,877 km;Gävle central;SEGä;Fliskär;SEFär;track:51_SEG%C3%A4_E_SEF%C3%A4r;B;no data;SEa
+Älvsjö godsbangård-Älvsjö;0074;27;1,549 km;Älvsjö godsbangård;SEÄsg;Älvsjö;SEÄs;track:27_SE%C3%84sg_E_SE%C3%84s;B;no data;SEa
+Alvhem-Lödöse;0074;74;2,105 km;Alvhem;SEAlh;Lödöse;SELöö;track:74_SEAlh_E_SEL%C3%B6%C3%B6;B;no data;SEa
+Kil-Bäckebron;0074;70;20,29 km;Kil;SEKil;Bäckebron;SEBäb;track:70_SEKil_E_SEB%C3%A4b;B;no data;SEa
+Knalleland-Borås central;0074;04;1,664 km;Knalleland;SEKnl;Borås central;SEBsc;track:04_SEKnl_E_SEBsc;B;no data;SEa
+Öresundsbro Konsortiet - Trafikverket km 281+810-Lernacken;0074;24;0,186 km;Öresundsbro Konsortiet - Trafikverket km 281+810;SE00100;Lernacken;SELnk;track:24_SE00100_N_SELnk;B;no data;SEa
+Öresundsbro Konsortiet - Trafikverket km 281+810-Lernacken;0074;24;0,186 km;Öresundsbro Konsortiet - Trafikverket km 281+810;SE00100;Lernacken;SELnk;track:24_SE00100_U_SELnk;B;no data;SEa
+Södertälje hamn-Södertälje centrum;0074;59;1,943 km;Södertälje hamn;SESöd;Södertälje centrum;SESöc;track:59_SES%C3%B6d_N2_SES%C3%B6c;B;no data;SEa
+Södertälje hamn-Södertälje centrum;0074;59;1,943 km;Södertälje hamn;SESöd;Södertälje centrum;SESöc;track:59_SES%C3%B6d_U2_SES%C3%B6c;B;no data;SEa
+Mora central-Morastrand;0074;06;1,119 km;Mora central;SEMrc;Morastrand;SEMras;track:06_SEMrc_E_SEMras;B;no data;SEa
+Domnarvet-Borlänge central;0074;06;1,664 km;Domnarvet;SEDmn;Borlänge central;SEBlgc;track:06_SEDmn_102_SEBlgc;B;no data;SEa
+Domnarvet-Borlänge central;0074;06;1,664 km;Domnarvet;SEDmn;Borlänge central;SEBlgc;track:06_SEDmn_E_SEBlgc;B;no data;SEa
+Göteborg Kville-Göteborg Lindholmen;0074;23;4,408 km;Göteborg Kville;SEGk;Göteborg Lindholmen;SEGli;track:23_SEGk_E_SEGli;B;no data;SEa
+Pölsebo-Göteborg Skandiahamnen;0074;23;1,672 km;Pölsebo;SEPöb;Göteborg Skandiahamnen;SEGsh;track:23_SEP%C3%B6b_1a_SEGsh;B;no data;SEa
+Göteborg Lindholmen-Pölsebo;0074;23;1,595 km;Göteborg Lindholmen;SEGli;Pölsebo;SEPöb;track:23_SEGli_E_SEP%C3%B6b;B;no data;SEa

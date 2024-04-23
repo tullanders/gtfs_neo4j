@@ -1,0 +1,1524 @@
+﻿Operational Point;Type of operational point;Name of Operational point;OP TAF TAP primary code;Geographical location of Operational Point;Validity start date;Validity end date
+Helsinki asema;station;Helsinki asema;FI00001;60,1721, 24,9413;1970-01-01;3100-12-31
+Ilmala asema;passenger stop;Ilmala asema;FI00009;60,2081, 24,9206;1970-01-01;3100-12-31
+Kauklahti asema;passenger stop;Kauklahti asema;FI00065;60,1895, 24,6004;1970-01-01;3100-12-31
+Espoo;passenger terminal;Espoo;FI00066;60,2051, 24,656;1970-01-01;3100-12-31
+Kauniainen;small station;Kauniainen;FI00067;60,2119, 24,7309;1970-01-01;3100-12-31
+Leppävaara;passenger stop;Leppävaara;FI00068;60,2195, 24,8135;1970-01-01;3100-12-31
+Pitäjänmäki;passenger stop;Pitäjänmäki;FI00069;60,2234, 24,8596;1970-01-01;3100-12-31
+Huopalahti;passenger stop;Huopalahti;FI00072;60,2184, 24,8935;1970-01-01;3100-12-31
+Tuomarila;passenger stop;Tuomarila;FI00579;60,2061, 24,6818;1970-01-01;3100-12-31
+Kilo;passenger stop;Kilo;FI00580;60,2179, 24,7824;1970-01-01;3100-12-31
+Kera;passenger stop;Kera;FI00621;60,2166, 24,7556;1970-01-01;3100-12-31
+Koivuhovi;passenger stop;Koivuhovi;FI00675;60,2072, 24,7013;1970-01-01;3100-12-31
+Mäkkylä;passenger stop;Mäkkylä;FI00693;60,2213, 24,843;1970-01-01;3100-12-31
+Valimo;passenger stop;Valimo;FI00847;60,2222, 24,8758;1970-01-01;3100-12-31
+Salo;small station;Salo;FI00055;60,3848, 23,1215;1970-01-01;3100-12-31
+Pohjankuru;freight terminal;Pohjankuru;FI00059;60,0982, 23,5519;1970-01-01;3100-12-31
+Karjaa;small station;Karjaa;FI00060;60,0687, 23,6613;1970-01-01;3100-12-31
+Inkoo;passenger stop;Inkoo;FI00062;60,0615, 23,9359;1970-01-01;3100-12-31
+Kirkkonummi;passenger terminal;Kirkkonummi;FI00063;60,1197, 24,4388;1970-01-01;3100-12-31
+Masala;passenger stop;Masala;FI00064;60,1587, 24,5391;1970-01-01;3100-12-31
+Kupittaa;passenger terminal;Kupittaa;FI00126;60,4503, 22,2971;1970-01-01;3100-12-31
+Piikkiö;freight terminal;Piikkiö;FI00127;60,4231, 22,5159;1970-01-01;3100-12-31
+Paimio;junction;Paimio;FI00128;60,4595, 22,6859;1970-01-01;3100-12-31
+Turku asema;station;Turku asema;FI00130;60,454, 22,2526;1970-01-01;3100-12-31
+Turku satama;station;Turku satama;FI00135;60,4343, 22,2269;1970-01-01;3100-12-31
+Vammala;small station;Vammala;FI00176;61,3495, 22,8877;1970-01-01;3100-12-31
+Karkku;passenger stop;Karkku;FI00178;61,4433, 23,0491;1970-01-01;3100-12-31
+Siuro;junction;Siuro;FI00179;61,4745, 23,3391;1970-01-01;3100-12-31
+Nokia;small station;Nokia;FI00181;61,4811, 23,4992;1970-01-01;3100-12-31
+Siuntio;passenger stop;Siuntio;FI00576;60,1406, 24,2217;1970-01-01;3100-12-31
+Jorvas;passenger stop;Jorvas;FI00578;60,1379, 24,5128;1970-01-01;3100-12-31
+Suoniemi;junction;Suoniemi;FI00638;61,4653, 23,21;1970-01-01;3100-12-31
+Kalkku;junction;Kalkku;FI00639;61,4966, 23,5723;1970-01-01;3100-12-31
+Tolsa;passenger stop;Tolsa;FI00830;60,1176, 24,4702;1970-01-01;3100-12-31
+Ervelä;junction;Ervelä;FI01004;60,2034, 23,2223;1970-01-01;3100-12-31
+Heinoo;junction;Heinoo;FI01025;61,3943, 22,9711;1970-01-01;3100-12-31
+Turku tavara;shunting yard;Turku tavara;FI01285;60,452, 22,2405;1970-01-01;3100-12-31
+Pasila asema;station;Pasila asema;FI00010;60,1987, 24,9335;1970-01-01;3100-12-31
+Kokemäki;small station;Kokemäki;FI00170;61,2542, 22,3034;1970-01-01;3100-12-31
+Äetsä;junction;Äetsä;FI00174;61,2967, 22,7065;1970-01-01;3100-12-31
+Harjavalta;small station;Harjavalta;FI00218;61,3097, 22,1333;1970-01-01;3100-12-31
+Pori;small station;Pori;FI00220;61,4772, 21,7866;1970-01-01;3100-12-31
+Mäntyluoto;freight terminal;Mäntyluoto;FI00223;61,59, 21,512;1970-01-01;3100-12-31
+Nakkila;junction;Nakkila;FI00672;61,387, 21,9696;1970-01-01;3100-12-31
+Ahvenus;junction;Ahvenus;FI01000;61,2919, 22,4982;1970-01-01;3100-12-31
+Ilmala ratapiha;train technical services;Ilmala ratapiha;FI01030;60,2131, 24,9282;1970-01-01;3100-12-31
+Pasila tavara;shunting yard;Pasila tavara;FI01034;60,2121, 24,9344;1970-01-01;3100-12-31
+Pasila autojuna-asema;passenger terminal;Pasila autojuna-asema;FI01328;60,2083, 24,9332;1970-01-01;3100-12-31
+Oulunkylä;passenger stop;Oulunkylä;FI00015;60,229, 24,9677;1970-01-01;3100-12-31
+Malmi;passenger stop;Malmi;FI00017;60,2517, 25,0115;1970-01-01;3100-12-31
+Tikkurila asema;station;Tikkurila asema;FI00018;60,2922, 25,0441;1970-01-01;3100-12-31
+Korso;passenger stop;Korso;FI00019;60,3513, 25,0783;1970-01-01;3100-12-31
+Kerava asema;small station;Kerava asema;FI00020;60,4043, 25,106;1970-01-01;3100-12-31
+Järvenpää asema;small station;Järvenpää asema;FI00025;60,4737, 25,0908;1970-01-01;3100-12-31
+Jokela;passenger stop;Jokela;FI00028;60,5528, 24,9707;1970-01-01;3100-12-31
+Hyvinkää;small station;Hyvinkää;FI00030;60,6313, 24,8577;1970-01-01;3100-12-31
+Riihimäki asema;small station;Riihimäki asema;FI00040;60,7361, 24,7813;1970-01-01;3100-12-31
+Ryttylä;small station;Ryttylä;FI00042;60,818, 24,7582;1970-01-01;3100-12-31
+Turenki;small station;Turenki;FI00044;60,9184, 24,6387;1970-01-01;3100-12-31
+Hämeenlinna;small station;Hämeenlinna;FI00047;61,0024, 24,4789;1970-01-01;3100-12-31
+Parola;small station;Parola;FI00049;61,0499, 24,3665;1970-01-01;3100-12-31
+Pukinmäki;passenger stop;Pukinmäki;FI00551;60,2422, 24,9933;1970-01-01;3100-12-31
+Tapanila;passenger stop;Tapanila;FI00552;60,2639, 25,03;1970-01-01;3100-12-31
+Puistola;passenger stop;Puistola;FI00553;60,2763, 25,0367;1970-01-01;3100-12-31
+Rekola;passenger stop;Rekola;FI00554;60,3329, 25,0687;1970-01-01;3100-12-31
+Savio;passenger stop;Savio;FI00555;60,3813, 25,0978;1970-01-01;3100-12-31
+Hiekkaharju;passenger stop;Hiekkaharju;FI00556;60,3031, 25,0491;1970-01-01;3100-12-31
+Koivukylä;passenger stop;Koivukylä;FI00559;60,3233, 25,0598;1970-01-01;3100-12-31
+Purola;junction;Purola;FI00564;60,5003, 25,0502;1970-01-01;3100-12-31
+Ainola;passenger stop;Ainola;FI00628;60,4569, 25,1015;1970-01-01;3100-12-31
+Saunakallio;small station;Saunakallio;FI00806;60,4873, 25,0656;1970-01-01;3100-12-31
+Käpylä;passenger stop;Käpylä;FI00977;60,2202, 24,946;1970-01-01;3100-12-31
+Kytömaa;junction;Kytömaa;FI01111;60,4256, 25,11;1970-01-01;3100-12-31
+Riihimäki lajittelu;shunting yard;Riihimäki lajittelu;FI01238;60,7254, 24,7929;1970-01-01;3100-12-31
+Riihimäki tavara;shunting yard;Riihimäki tavara;FI01240;60,7147, 24,8023;1970-01-01;3100-12-31
+Toijala;small station;Toijala;FI00150;61,1706, 23,8609;1970-01-01;3100-12-31
+Iittala;passenger stop;Iittala;FI00154;61,0906, 24,1408;1970-01-01;3100-12-31
+Viiala;small station;Viiala;FI00155;61,2118, 23,7707;1970-01-01;3100-12-31
+Lempäälä;passenger terminal;Lempäälä;FI00156;61,3142, 23,7551;1970-01-01;3100-12-31
+Tampere asema;station;Tampere asema;FI00160;61,4982, 23,7735;1970-01-01;3100-12-31
+Lielahti;junction;Lielahti;FI00183;61,5103, 23,6817;1970-01-01;3100-12-31
+Ylöjärvi;freight terminal;Ylöjärvi;FI00211;61,5565, 23,586;1970-01-01;3100-12-31
+Lakiala;junction;Lakiala;FI00212;61,6259, 23,527;1970-01-01;3100-12-31
+Vahojärvi;junction;Vahojärvi;FI00214;61,913, 23,2322;1970-01-01;3100-12-31
+Parkano;small station;Parkano;FI00215;62,052, 23,0785;1970-01-01;3100-12-31
+Madesjärvi;junction;Madesjärvi;FI00217;62,3116, 22,9875;1970-01-01;3100-12-31
+Laukaa;junction;Laukaa;FI00249;62,4228, 25,9244;1970-01-01;3100-12-31
+Suolahti;freight terminal;Suolahti;FI00251;62,5614, 25,8515;1970-01-01;3100-12-31
+Äänekoski;freight terminal;Äänekoski;FI00252;62,5969, 25,7476;1970-01-01;3100-12-31
+Saarijärvi;freight terminal;Saarijärvi;FI00254;62,7001, 25,2831;1970-01-01;3100-12-31
+Kannonkoski;freight terminal;Kannonkoski;FI00256;62,9836, 25,27;1970-01-01;3100-12-31
+Keitelepohja;freight terminal;Keitelepohja;FI00257;63,1928, 25,548;1970-01-01;3100-12-31
+Pihtipudas;freight terminal;Pihtipudas;FI00258;63,3718, 25,5563;1970-01-01;3100-12-31
+Jalasjärvi;junction;Jalasjärvi;FI00276;62,4725, 22,9543;1970-01-01;3100-12-31
+Seinäjoki asema;small station;Seinäjoki asema;FI00280;62,792, 22,8442;1970-01-01;3100-12-31
+Selänpää;junction;Selänpää;FI00539;61,0077, 26,7141;1970-01-01;3100-12-31
+Vuohijärvi;freight terminal;Vuohijärvi;FI00541;61,0959, 26,7962;1970-01-01;3100-12-31
+Ratikylä;freight terminal;Ratikylä;FI00596;62,2454, 23,0112;1970-01-01;3100-12-31
+Ylivalli;junction;Ylivalli;FI00654;62,4021, 22,9588;1970-01-01;3100-12-31
+Peräseinäjoki;freight terminal;Peräseinäjoki;FI00687;62,5496, 22,942;1970-01-01;3100-12-31
+Harju;junction;Harju;FI00985;60,9406, 26,6772;1970-01-01;3100-12-31
+Hillosensalmi;junction;Hillosensalmi;FI00988;61,1931, 26,7892;1970-01-01;3100-12-31
+Karhejärvi;junction;Karhejärvi;FI01095;61,75, 23,3904;1970-01-01;3100-12-31
+Kuivasjärvi;junction;Kuivasjärvi;FI01137;62,1745, 23,0364;1970-01-01;3100-12-31
+Lamminkoski;junction;Lamminkoski;FI01151;62,1078, 23,0612;1970-01-01;3100-12-31
+Larvakytö;junction;Larvakytö;FI01153;62,6802, 22,9359;1970-01-01;3100-12-31
+Majajärvi;junction;Majajärvi;FI01168;61,683, 23,4695;1970-01-01;3100-12-31
+Poikkeus;junction;Poikkeus;FI01216;61,9891, 23,138;1970-01-01;3100-12-31
+Seinäjoki tavara;shunting yard;Seinäjoki tavara;FI01252;62,7848, 22,8663;1970-01-01;3100-12-31
+Sisättö;junction;Sisättö;FI01257;61,8381, 23,311;1970-01-01;3100-12-31
+Tampere tavara;shunting yard;Tampere tavara;FI01273;61,4699, 23,764;1970-01-01;3100-12-31
+Tampere Viinikka;shunting yard;Tampere Viinikka;FI01274;61,4803, 23,7736;1970-01-01;3100-12-31
+Murtomäki;junction;Murtomäki;FI00386;64,0644, 27,5796;1970-01-01;3100-12-31
+Kajaani;small station;Kajaani;FI00387;64,2197, 27,7384;1970-01-01;3100-12-31
+Pieksämäki asema;small station;Pieksämäki asema;FI00400;62,3013, 27,1675;1970-01-01;3100-12-31
+Haapakoski;junction;Haapakoski;FI00402;62,4524, 27,1755;1970-01-01;3100-12-31
+Suonenjoki;small station;Suonenjoki;FI00404;62,6237, 27,1245;1970-01-01;3100-12-31
+Salminen;junction;Salminen;FI00405;62,6762, 27,2861;1970-01-01;3100-12-31
+Kurkimäki;freight terminal;Kurkimäki;FI00406;62,7719, 27,5176;1970-01-01;3100-12-31
+Kuopio asema;small station;Kuopio asema;FI00408;62,8972, 27,6796;1970-01-01;3100-12-31
+Toivala;freight terminal;Toivala;FI00412;62,996, 27,7236;1970-01-01;3100-12-31
+Siilinjärvi asema;small station;Siilinjärvi asema;FI00413;63,075, 27,6666;1970-01-01;3100-12-31
+Alapitkä;freight terminal;Alapitkä;FI00415;63,2008, 27,5354;1970-01-01;3100-12-31
+Lapinlahti;small station;Lapinlahti;FI00416;63,3607, 27,3936;1970-01-01;3100-12-31
+Iisalmi;small station;Iisalmi;FI00420;63,5601, 27,2011;1970-01-01;3100-12-31
+Soinlahti;freight terminal;Soinlahti;FI00422;63,6342, 27,2045;1970-01-01;3100-12-31
+Kauppilanmäki;freight terminal;Kauppilanmäki;FI00423;63,7096, 27,2279;1970-01-01;3100-12-31
+Sukeva;small station;Sukeva;FI00424;63,8646, 27,4223;1970-01-01;3100-12-31
+Mäntyharju;small station;Mäntyharju;FI00544;61,4211, 26,8818;1970-01-01;3100-12-31
+Otava;freight terminal;Otava;FI00545;61,6408, 27,0716;1970-01-01;3100-12-31
+Mikkeli;small station;Mikkeli;FI00546;61,6878, 27,278;1970-01-01;3100-12-31
+Kalvitsa;freight terminal;Kalvitsa;FI00548;61,9106, 27,2851;1970-01-01;3100-12-31
+Haukivuori;small station;Haukivuori;FI00549;62,0257, 27,2026;1970-01-01;3100-12-31
+Loukolampi;junction;Loukolampi;FI00861;62,1627, 27,2035;1970-01-01;3100-12-31
+Airaksela;freight terminal;Airaksela;FI00869;62,7244, 27,4295;1970-01-01;3100-12-31
+Sorsasalo;junction;Sorsasalo;FI00870;62,9534, 27,6831;1970-01-01;3100-12-31
+Peltosalmi;freight terminal;Peltosalmi;FI00882;63,5208, 27,2462;1970-01-01;3100-12-31
+Markkala;junction;Markkala;FI00896;62,54, 27,1905;1970-01-01;3100-12-31
+Lelkola;junction;Lelkola;FI00993;61,5268, 26,9665;1970-01-01;3100-12-31
+Hiirola;junction;Hiirola;FI00997;61,8081, 27,3158;1970-01-01;3100-12-31
+Iisalmen teollisuusraiteet;junction;Iisalmen teollisuusraiteet;FI01049;63,5458, 27,2139;1970-01-01;3100-12-31
+Kinni;junction;Kinni;FI01120;61,3063, 26,8467;1970-01-01;3100-12-31
+Kuopio tavara;shunting yard;Kuopio tavara;FI01139;62,8978, 27,6973;1970-01-01;3100-12-31
+Ohenmäki;freight terminal;Ohenmäki;FI01190;63,495, 27,2666;1970-01-01;3100-12-31
+Pieksämäki lajittelu;shunting yard;Pieksämäki lajittelu;FI01210;62,3245, 27,1753;1970-01-01;3100-12-31
+Pieksämäki tavara;shunting yard;Pieksämäki tavara;FI01211;62,3359, 27,1824;1970-01-01;3100-12-31
+Pieksämäki Temu;shunting yard;Pieksämäki Temu;FI01212;62,3132, 27,1699;1970-01-01;3100-12-31
+Taipale;junction;Taipale;FI01268;63,4595, 27,3118;1970-01-01;3100-12-31
+Hikiä;passenger stop;Hikiä;FI00091;60,7526, 24,9192;1970-01-01;3100-12-31
+Oitti;passenger stop;Oitti;FI00092;60,7898, 25,0213;1970-01-01;3100-12-31
+Mommila;passenger stop;Mommila;FI00093;60,8212, 25,0751;1970-01-01;3100-12-31
+Lappila;passenger stop;Lappila;FI00094;60,849, 25,1742;1970-01-01;3100-12-31
+Järvelä;small station;Järvelä;FI00095;60,8673, 25,2747;1970-01-01;3100-12-31
+Herrala;passenger stop;Herrala;FI00096;60,8969, 25,4756;1970-01-01;3100-12-31
+Lahti;station;Lahti;FI00100;60,9765, 25,6574;1970-01-01;3100-12-31
+Villähde;passenger stop;Villähde;FI00104;60,9464, 25,8337;1970-01-01;3100-12-31
+Uusikylä;small station;Uusikylä;FI00105;60,9278, 26,0169;1970-01-01;3100-12-31
+Hausjärvi tavara;shunting yard;Hausjärvi tavara;FI00340;60,7854, 25,015;1970-01-01;3100-12-31
+Kontiomäki;small station;Kontiomäki;FI00390;64,3382, 28,1147;1970-01-01;3100-12-31
+Kausala;passenger stop;Kausala;FI00477;60,8854, 26,3294;1970-01-01;3100-12-31
+Koria;passenger stop;Koria;FI00478;60,8471, 26,6013;1970-01-01;3100-12-31
+Kouvola asema;station;Kouvola asema;FI00480;60,8656, 26,7046;1970-01-01;3100-12-31
+Utti;junction;Utti;FI00484;60,8777, 26,9333;1970-01-01;3100-12-31
+Kaipiainen;freight terminal;Kaipiainen;FI00485;60,9001, 27,1177;1970-01-01;3100-12-31
+Taavetti;junction;Taavetti;FI00486;60,9131, 27,5596;1970-01-01;3100-12-31
+Luumäki;shunting yard;Luumäki;FI00487;60,9444, 27,7618;1970-01-01;3100-12-31
+Lappeenranta;small station;Lappeenranta;FI00495;61,048, 28,1953;1970-01-01;3100-12-31
+Lauritsala;freight terminal;Lauritsala;FI00498;61,0664, 28,2596;1970-01-01;3100-12-31
+Joutseno;small station;Joutseno;FI00499;61,1203, 28,4883;1970-01-01;3100-12-31
+Nastola;passenger stop;Nastola;FI00595;60,9356, 25,9355;1970-01-01;3100-12-31
+Kaitjärvi;junction;Kaitjärvi;FI00944;60,9108, 27,3463;1970-01-01;3100-12-31
+Kalliovarasto;switch;Kalliovarasto;FI01090;64,2812, 27,9092;1970-01-01;3100-12-31
+Kouvola lajittelu;shunting yard;Kouvola lajittelu;FI01132;60,8657, 26,7237;1970-01-01;3100-12-31
+Kouvola tavara;shunting yard;Kouvola tavara;FI01134;60,8686, 26,7504;1970-01-01;3100-12-31
+Muukko;junction;Muukko;FI01180;61,0882, 28,3416;1970-01-01;3100-12-31
+Rasinsuo;junction;Rasinsuo;FI01222;60,9762, 27,8921;1970-01-01;3100-12-31
+Tapavainola;junction;Tapavainola;FI01276;61,0174, 28,0894;1970-01-01;3100-12-31
+Törölä;junction;Törölä;FI01290;61,0078, 27,9905;1970-01-01;3100-12-31
+Kullasvaara;shunting yard;Kullasvaara;FI01320;60,8723, 26,8099;1970-01-01;3100-12-31
+Niinimäki;junction;Niinimäki;FI01324;60,8779, 26,3844;1970-01-01;3100-12-31
+Haarajoki;passenger stop;Haarajoki;FI00013;60,4963, 25,1338;1970-01-01;3100-12-31
+Mäntsälä;passenger stop;Mäntsälä;FI00027;60,6473, 25,3075;1970-01-01;3100-12-31
+Orivesi;small station;Orivesi;FI00190;61,6501, 24,3681;1970-01-01;3100-12-31
+Länkipohja;junction;Länkipohja;FI00203;61,7408, 24,8131;1970-01-01;3100-12-31
+Jämsä;small station;Jämsä;FI00204;61,8656, 25,1733;1970-01-01;3100-12-31
+Jämsänkoski;shunting yard;Jämsänkoski;FI00205;61,8961, 25,1712;1970-01-01;3100-12-31
+Jyväskylä;small station;Jyväskylä;FI00240;62,2415, 25,755;1970-01-01;3100-12-31
+Lapua;small station;Lapua;FI00298;62,9713, 23,0151;1970-01-01;3100-12-31
+Kauhava;small station;Kauhava;FI00299;63,0996, 23,0353;1970-01-01;3100-12-31
+Härmä;freight terminal;Härmä;FI00300;63,2343, 22,8766;1970-01-01;3100-12-31
+Voltti;junction;Voltti;FI00302;63,2862, 22,8244;1970-01-01;3100-12-31
+Jepua;junction;Jepua;FI00303;63,4084, 22,6553;1970-01-01;3100-12-31
+Pännäinen;small station;Pännäinen;FI00305;63,5954, 22,7904;1970-01-01;3100-12-31
+Kolppi;junction;Kolppi;FI00309;63,6276, 22,8983;1970-01-01;3100-12-31
+Kruunupyy;junction;Kruunupyy;FI00311;63,7216, 23,0341;1970-01-01;3100-12-31
+Kokkola;small station;Kokkola;FI00312;63,8344, 23,1311;1970-01-01;3100-12-31
+Kälviä;junction;Kälviä;FI00316;63,864, 23,4932;1970-01-01;3100-12-31
+Kannus;passenger terminal;Kannus;FI00317;63,8984, 23,9154;1970-01-01;3100-12-31
+Eskola;junction;Eskola;FI00318;63,9149, 24,1514;1970-01-01;3100-12-31
+Sievi;junction;Sievi;FI00319;63,9781, 24,2787;1970-01-01;3100-12-31
+Ylivieska;small station;Ylivieska;FI00320;64,0719, 24,5406;1970-01-01;3100-12-31
+Oulainen;small station;Oulainen;FI00322;64,2695, 24,821;1970-01-01;3100-12-31
+Vihanti;small station;Vihanti;FI00334;64,4845, 24,9936;1970-01-01;3100-12-31
+Tuomioja;junction;Tuomioja;FI00336;64,6083, 25,0279;1970-01-01;3100-12-31
+Ruukki;small station;Ruukki;FI00337;64,6604, 25,0982;1970-01-01;3100-12-31
+Liminka;junction;Liminka;FI00338;64,8102, 25,4239;1970-01-01;3100-12-31
+Oulu Tuira;shunting yard;Oulu Tuira;FI00339;65,0287, 25,475;1970-01-01;3100-12-31
+Haukipudas;junction;Haukipudas;FI00342;65,1956, 25,4071;1970-01-01;3100-12-31
+Ii;junction;Ii;FI00343;65,3188, 25,4419;1970-01-01;3100-12-31
+Simo;junction;Simo;FI00346;65,6631, 25,0608;1970-01-01;3100-12-31
+Kemi;small station;Kemi;FI00347;65,7367, 24,5744;1970-01-01;3100-12-31
+Laurila;junction;Laurila;FI00360;65,7968, 24,5341;1970-01-01;3100-12-31
+Tervola;passenger stop;Tervola;FI00361;66,0818, 24,7723;1970-01-01;3100-12-31
+Koivu;freight terminal;Koivu;FI00362;66,1698, 25,2068;1970-01-01;3100-12-31
+Muurola;passenger stop;Muurola;FI00363;66,3709, 25,3751;1970-01-01;3100-12-31
+Rovaniemi;small station;Rovaniemi;FI00364;66,4977, 25,7053;1970-01-01;3100-12-31
+Misi;small station;Misi;FI00366;66,6179, 26,6872;1970-01-01;3100-12-31
+Kemijärvi;small station;Kemijärvi;FI00367;66,7243, 27,4037;1970-01-01;3100-12-31
+Oulu asema;station;Oulu asema;FI00370;65,0124, 25,4861;1970-01-01;3100-12-31
+Maanselkä;freight terminal;Maanselkä;FI00382;63,8822, 28,4994;1970-01-01;3100-12-31
+Vuokatti;freight terminal;Vuokatti;FI00383;64,1475, 28,2739;1970-01-01;3100-12-31
+Muurame;junction;Muurame;FI00433;62,1109, 25,6514;1970-01-01;3100-12-31
+Hammaslahti;freight terminal;Hammaslahti;FI00451;62,4302, 29,9684;1970-01-01;3100-12-31
+Kitee;small station;Kitee;FI00453;62,1428, 30,049;1970-01-01;3100-12-31
+Joensuu asema;small station;Joensuu asema;FI00460;62,5995, 29,777;1970-01-01;3100-12-31
+Kontiolahti;junction;Kontiolahti;FI00463;62,7323, 29,857;1970-01-01;3100-12-31
+Eno;small station;Eno;FI00464;62,8064, 30,1417;1970-01-01;3100-12-31
+Uimaharju;small station;Uimaharju;FI00465;62,9125, 30,2415;1970-01-01;3100-12-31
+Vuonislahti;passenger stop;Vuonislahti;FI00467;63,1526, 29,9933;1970-01-01;3100-12-31
+Lieksa;small station;Lieksa;FI00468;63,3182, 30,0164;1970-01-01;3100-12-31
+Viekki;junction;Viekki;FI00471;63,4216, 29,6118;1970-01-01;3100-12-31
+Nurmes;small station;Nurmes;FI00472;63,5411, 29,1372;1970-01-01;3100-12-31
+Valtimo;freight terminal;Valtimo;FI00475;63,6864, 28,8009;1970-01-01;3100-12-31
+Rauha;junction;Rauha;FI00501;61,1783, 28,6876;1970-01-01;3100-12-31
+Imatra tavara;shunting yard;Imatra tavara;FI00502;61,2081, 28,8121;1970-01-01;3100-12-31
+Rautjärvi;junction;Rautjärvi;FI00506;61,3008, 29,0851;1970-01-01;3100-12-31
+Simpele;small station;Simpele;FI00507;61,4248, 29,3717;1970-01-01;3100-12-31
+Parikkala;passenger terminal;Parikkala;FI00510;61,5586, 29,5029;1970-01-01;3100-12-31
+Imatra asema;small station;Imatra asema;FI00603;61,1959, 28,776;1970-01-01;3100-12-31
+Saakoski;junction;Saakoski;FI00668;61,9904, 25,4106;1970-01-01;3100-12-31
+Ruha;junction;Ruha;FI00742;62,8875, 22,9785;1970-01-01;3100-12-31
+Kovjoki;junction;Kovjoki;FI00745;63,5212, 22,6925;1970-01-01;3100-12-31
+Riippa;junction;Riippa;FI00747;63,8684, 23,637;1970-01-01;3100-12-31
+Kempele;junction;Kempele;FI00769;64,9129, 25,5145;1970-01-01;3100-12-31
+Vaarala;freight terminal;Vaarala;FI00807;66,5181, 25,8801;1970-01-01;3100-12-31
+Hanhikoski;freight terminal;Hanhikoski;FI00812;66,6958, 27,2199;1970-01-01;3100-12-31
+Kohtavaara;passenger stop;Kohtavaara;FI00848;63,5148, 29,287;1970-01-01;3100-12-31
+Tikkala;junction;Tikkala;FI00916;62,365, 30,0836;1970-01-01;3100-12-31
+Niittylahti;junction;Niittylahti;FI00917;62,5122, 29,8459;1970-01-01;3100-12-31
+Puhos;freight terminal;Puhos;FI00919;62,0886, 29,9761;1970-01-01;3100-12-31
+Kylänlahti;passenger stop;Kylänlahti;FI00937;63,3614, 29,7524;1970-01-01;3100-12-31
+Höljäkkä;small station;Höljäkkä;FI00938;63,4549, 29,4441;1970-01-01;3100-12-31
+Saari;junction;Saari;FI00964;61,6951, 29,6609;1970-01-01;3100-12-31
+Poiksilta;freight terminal;Poiksilta;FI00965;61,7906, 29,7419;1970-01-01;3100-12-31
+Kesälahti;small station;Kesälahti;FI00966;61,8875, 29,8029;1970-01-01;3100-12-31
+Hirvineva;junction;Hirvineva;FI01041;64,734, 25,2275;1970-01-01;3100-12-31
+Joensuu Peltola;shunting yard;Joensuu Peltola;FI01070;62,5935, 29,7717;1970-01-01;3100-12-31
+Joensuu Sulkulahti;shunting yard;Joensuu Sulkulahti;FI01071;62,5857, 29,7754;1970-01-01;3100-12-31
+Kangas;junction;Kangas;FI01092;64,1436, 24,7128;1970-01-01;3100-12-31
+Karhukangas;junction;Karhukangas;FI01097;64,0244, 24,4396;1970-01-01;3100-12-31
+Kilpua;junction;Kilpua;FI01115;64,3466, 24,9615;1970-01-01;3100-12-31
+Köykkäri;junction;Köykkäri;FI01144;63,3438, 22,7723;1970-01-01;3100-12-31
+Lahdenperä;junction;Lahdenperä;FI01149;61,8118, 24,9447;1970-01-01;3100-12-31
+Henna;junction;Henna;FI01164;60,7991, 25,4944;1970-01-01;3100-12-31
+Matkaneva;junction;Matkaneva;FI01171;63,8409, 23,349;1970-01-01;3100-12-31
+Myllykangas;junction;Myllykangas;FI01183;65,5358, 25,2726;1970-01-01;3100-12-31
+Oulu Nokela;shunting yard;Oulu Nokela;FI01195;64,9893, 25,4757;1970-01-01;3100-12-31
+Oulu Oritkari;freight terminal;Oulu Oritkari;FI01196;64,9893, 25,4524;1970-01-01;3100-12-31
+Oulu tavara;shunting yard;Oulu tavara;FI01197;65,0009, 25,4703;1970-01-01;3100-12-31
+Rajaperkiö;junction;Rajaperkiö;FI01220;63,0363, 23,0134;1970-01-01;3100-12-31
+Raunio;junction;Raunio;FI01227;63,1715, 22,9552;1970-01-01;3100-12-31
+Talviainen;junction;Talviainen;FI01270;61,7247, 24,6589;1970-01-01;3100-12-31
+Tampere Järvensivu;junction;Tampere Järvensivu;FI01272;61,4915, 23,7852;1970-01-01;3100-12-31
+Torkkeli;junction;Torkkeli;FI01283;61,7006, 24,5489;1970-01-01;3100-12-31
+Törmä;junction;Törmä;FI01287;65,8947, 24,6257;1970-01-01;3100-12-31
+Riijärvi;junction;Riijärvi;FI01327;63,4659, 22,6653;1970-01-01;3100-12-31
+Nikkilä;junction;Nikkilä;FI00022;60,3824, 25,2666;1970-01-01;3100-12-31
+Hanko asema;small station;Hanko asema;FI00073;59,8269, 22,9683;1970-01-01;3100-12-31
+Lappohja;small station;Lappohja;FI00075;59,9041, 23,2369;1970-01-01;3100-12-31
+Tammisaari;passenger stop;Tammisaari;FI00076;59,9796, 23,4435;1970-01-01;3100-12-31
+Mustio;freight terminal;Mustio;FI00078;60,1404, 23,8684;1970-01-01;3100-12-31
+Kirkniemi;freight terminal;Kirkniemi;FI00079;60,1758, 23,9635;1970-01-01;3100-12-31
+Lohja;freight terminal;Lohja;FI00081;60,2654, 24,1164;1970-01-01;3100-12-31
+Nummela;freight terminal;Nummela;FI00084;60,3288, 24,3169;1970-01-01;3100-12-31
+Rajamäki;freight terminal;Rajamäki;FI00088;60,5327, 24,7616;1970-01-01;3100-12-31
+Dragsvik;passenger stop;Dragsvik;FI00167;59,9902, 23,4886;1970-01-01;3100-12-31
+Korkeakoski;junction;Korkeakoski;FI00193;61,8077, 24,3755;1970-01-01;3100-12-31
+Vilppula;small station;Vilppula;FI00196;62,0259, 24,507;1970-01-01;3100-12-31
+Kolho;passenger stop;Kolho;FI00199;62,1281, 24,5075;1970-01-01;3100-12-31
+Haapamäki;small station;Haapamäki;FI00200;62,2465, 24,4551;1970-01-01;3100-12-31
+Keuruu;small station;Keuruu;FI00235;62,2553, 24,7073;1970-01-01;3100-12-31
+Petäjävesi;small station;Petäjävesi;FI00237;62,257, 25,1893;1970-01-01;3100-12-31
+Vesanka;junction;Vesanka;FI00239;62,2694, 25,5571;1970-01-01;3100-12-31
+Vaajakoski;freight terminal;Vaajakoski;FI00245;62,2476, 25,8793;1970-01-01;3100-12-31
+Lievestuore;small station;Lievestuore;FI00246;62,2599, 26,1959;1970-01-01;3100-12-31
+Pihlajavesi;passenger stop;Pihlajavesi;FI00261;62,3462, 24,3956;1970-01-01;3100-12-31
+Myllymäki;small station;Myllymäki;FI00263;62,5248, 24,281;1970-01-01;3100-12-31
+Inha;freight terminal;Inha;FI00264;62,5507, 24,1461;1970-01-01;3100-12-31
+Ähtäri;passenger stop;Ähtäri;FI00265;62,5533, 24,064;1970-01-01;3100-12-31
+Tuuri;passenger stop;Tuuri;FI00283;62,6054, 23,7223;1970-01-01;3100-12-31
+Alavus;small station;Alavus;FI00284;62,6178, 23,6004;1970-01-01;3100-12-31
+Niinimaa;freight terminal;Niinimaa;FI00285;62,6423, 23,4206;1970-01-01;3100-12-31
+Nivala;small station;Nivala;FI00328;63,9364, 24,9608;1970-01-01;3100-12-31
+Haapajärvi;small station;Haapajärvi;FI00330;63,7545, 25,3344;1970-01-01;3100-12-31
+Pyhäsalmi;small station;Pyhäsalmi;FI00331;63,6829, 25,9826;1970-01-01;3100-12-31
+Luikonlahti;freight terminal;Luikonlahti;FI00411;62,9277, 28,6752;1970-01-01;3100-12-31
+Juankoski;freight terminal;Juankoski;FI00414;63,0632, 28,3181;1970-01-01;3100-12-31
+Kiuruvesi;small station;Kiuruvesi;FI00417;63,6409, 26,6113;2015-11-30;3100-12-31
+Hankasalmi;small station;Hankasalmi;FI00427;62,3028, 26,4781;1970-01-01;3100-12-31
+Venetmäki;junction;Venetmäki;FI00428;62,3092, 26,7529;1970-01-01;3100-12-31
+Huutokoski;junction;Huutokoski;FI00430;62,2101, 27,6889;1970-01-01;3100-12-31
+Joroinen;freight terminal;Joroinen;FI00431;62,1748, 27,8087;1970-01-01;3100-12-31
+Varkaus;small station;Varkaus;FI00432;62,3124, 27,8734;1970-01-01;3100-12-31
+Syrjä;freight terminal;Syrjä;FI00435;62,3562, 28,3666;1970-01-01;3100-12-31
+Heinävesi;small station;Heinävesi;FI00437;62,3825, 28,6434;1970-01-01;3100-12-31
+Vihtari;small station;Vihtari;FI00438;62,3807, 29,0293;1970-01-01;3100-12-31
+Viinijärvi;passenger stop;Viinijärvi;FI00440;62,6417, 29,2372;1970-01-01;3100-12-31
+Raippo;junction;Raippo;FI00490;60,9121, 28,1061;1970-01-01;3100-12-31
+Vainikkala asema;station;Vainikkala asema;FI00492;60,8638, 28,3032;1970-01-01;3100-12-31
+Punkaharju;small station;Punkaharju;FI00517;61,7612, 29,3824;1970-01-01;3100-12-31
+Pääskylahti;small station;Pääskylahti;FI00519;61,8623, 28,9245;1970-01-01;3100-12-31
+Savonlinna asema;passenger stop;Savonlinna asema;FI00521;61,8689, 28,8883;1970-01-01;3100-12-31
+Kerimäki;small station;Kerimäki;FI00522;61,8614, 29,1141;1970-01-01;3100-12-31
+Rantasalmi;freight terminal;Rantasalmi;FI00524;62,0144, 28,2766;1970-01-01;3100-12-31
+Hamina;shunting yard;Hamina;FI00527;60,5523, 27,1665;1970-01-01;3100-12-31
+Inkeroinen;small station;Inkeroinen;FI00530;60,6967, 26,8392;1970-01-01;3100-12-31
+Kotka asema;passenger stop;Kotka asema;FI00532;60,4644, 26,9286;1970-01-01;3100-12-31
+Kymi;small station;Kymi;FI00534;60,5392, 26,9071;1970-01-01;3100-12-31
+Juurikorpi;junction;Juurikorpi;FI00535;60,6042, 26,9381;1970-01-01;3100-12-31
+Myllykoski;passenger stop;Myllykoski;FI00536;60,771, 26,7866;1970-01-01;3100-12-31
+Sköldvik;shunting yard;Sköldvik;FI00560;60,306, 25,4818;1970-01-01;3100-12-31
+Dynamiittivaihde;junction;Dynamiittivaihde;FI00581;59,8664, 23,0841;1970-01-01;3100-12-31
+Eläinpuisto-Zoo;passenger stop;Eläinpuisto-Zoo;FI00623;62,541, 24,1903;1970-01-01;3100-12-31
+Juupajoki;passenger stop;Juupajoki;FI00627;61,7968, 24,365;1970-01-01;3100-12-31
+Kotkan satama;small station;Kotkan satama;FI00644;60,4665, 26,935;1970-01-01;3100-12-31
+Pohjois-Haaga;passenger stop;Pohjois-Haaga;FI00657;60,2301, 24,8833;1970-01-01;3100-12-31
+Kannelmäki;passenger stop;Kannelmäki;FI00658;60,2396, 24,877;1970-01-01;3100-12-31
+Malminkartano;passenger stop;Malminkartano;FI00659;60,2493, 24,8613;1970-01-01;3100-12-31
+Myyrmäki;passenger stop;Myyrmäki;FI00660;60,2613, 24,8548;1970-01-01;3100-12-31
+Louhela;passenger stop;Louhela;FI00661;60,2708, 24,8533;1970-01-01;3100-12-31
+Martinlaakso;passenger stop;Martinlaakso;FI00662;60,2781, 24,8526;1970-01-01;3100-12-31
+Lusto;passenger stop;Lusto;FI00690;61,8006, 29,3223;1970-01-01;3100-12-31
+Kaleton;switch;Kaleton;FI00697;62,2397, 24,7917;1970-01-01;3100-12-31
+Komu;freight terminal;Komu;FI00758;63,6635, 26,1539;2015-11-30;3100-12-31
+Paimenportti;passenger stop;Paimenportti;FI00768;60,4759, 26,9194;1970-01-01;3100-12-31
+Retretti;passenger stop;Retretti;FI00793;61,8033, 29,2943;1970-01-01;3100-12-31
+Skogby;passenger stop;Skogby;FI00817;59,9266, 23,3123;1970-01-01;3100-12-31
+Santala;passenger stop;Santala;FI00827;59,875, 23,1211;1970-01-01;3100-12-31
+Tavastila;passenger stop;Tavastila;FI00837;60,573, 26,9543;1970-01-01;3100-12-31
+Vantaankoski;passenger stop;Vantaankoski;FI00839;60,2857, 24,8483;1970-01-01;3100-12-31
+Sänkimäki;freight terminal;Sänkimäki;FI00872;63,1509, 27,8749;1970-01-01;3100-12-31
+Hanko-Pohjoinen;passenger stop;Hanko-Pohjoinen;FI00879;59,8301, 22,9884;1970-01-01;3100-12-31
+Runni;passenger stop;Runni;FI00886;63,6021, 26,8865;1970-01-01;3100-12-31
+Naarajärvi;freight terminal;Naarajärvi;FI00895;62,2831, 27,0456;1970-01-01;3100-12-31
+Sysmäjärvi;freight terminal;Sysmäjärvi;FI00912;62,7169, 29,0608;1970-01-01;3100-12-31
+Kotka Hovinsaari;shunting yard;Kotka Hovinsaari;FI00980;60,483, 26,9193;1970-01-01;3100-12-31
+Kyminlinna;passenger stop;Kyminlinna;FI00981;60,5084, 26,8954;1970-01-01;3100-12-31
+Kotka tavara;shunting yard;Kotka tavara;FI01130;60,4788, 26,9194;1970-01-01;3100-12-31
+Kouvola oikoraide;junction;Kouvola oikoraide;FI01133;60,8672, 26,7647;1970-01-01;3100-12-31
+Pulsa;junction;Pulsa;FI01217;60,9273, 27,9727;1970-01-01;3100-12-31
+Rauhalahti;junction;Rauhalahti;FI01225;62,24, 25,801;1970-01-01;3100-12-31
+Vainikkala tavara;shunting yard;Vainikkala tavara;FI01292;60,8682, 28,2857;1970-01-01;3100-12-31
+Orivesi keskusta;passenger stop;Orivesi keskusta;FI01316;61,6739, 24,3698;1970-01-01;3100-12-31
+Hanko tavara;shunting yard;Hanko tavara;FI01317;59,8286, 22,9815;1970-01-01;3100-12-31
+Vuosaari;freight terminal;Vuosaari;FI01321;60,2275, 25,168;1970-01-01;3100-12-31
+Oslo S (delstr.) stasjon;station;Oslo S (delstr.) stasjon;NO00100;59,9103, 10,7562;2018-10-01;2025-04-01
+Alnabru skiftestasjon (delstr.) stasjon;station;Alnabru skiftestasjon (delstr.) stasjon;NO00201;59,9355, 10,8409;2018-10-01;2025-04-01
+Loenga stasjon;station;Loenga stasjon;NO00105;59,9021, 10,7629;2018-10-01;2025-04-01
+Bryn stasjon;station;Bryn stasjon;NO00200;59,9082, 10,8187;2018-10-01;2025-04-01
+Grorud stasjon;station;Grorud stasjon;NO00202;59,9499, 10,8878;2018-10-01;2025-04-01
+Lørenskog stasjon;station;Lørenskog stasjon;NO00204;59,9449, 10,9455;2018-10-01;2025-04-01
+Strømmen stasjon;station;Strømmen stasjon;NO00206;59,9494, 11,0019;2018-10-01;2025-04-01
+Frogner stasjon;station;Frogner stasjon;NO00209;60,0233, 11,1038;2018-10-01;2025-04-01
+Lindeberg stasjon;station;Lindeberg stasjon;NO00210;60,0404, 11,1291;2018-10-01;2025-04-01
+Jessheim stasjon;station;Jessheim stasjon;NO00212;60,1417, 11,1769;2018-10-01;2025-04-01
+Hauerseter stasjon;station;Hauerseter stasjon;NO00213;60,1853, 11,195;2018-10-01;2025-04-01
+Dal stasjon;station;Dal stasjon;NO00214;60,2491, 11,2029;2018-10-01;2025-04-01
+Bøn stasjon;station;Bøn stasjon;NO00215;60,2923, 11,2126;2018-10-01;2025-04-01
+Lillestrøm stasjon;station;Lillestrøm stasjon;NO00207;59,9536, 11,0458;2018-10-01;2025-04-01
+Kløfta stasjon;station;Kløfta stasjon;NO00211;60,0753, 11,1395;2018-10-01;2025-04-01
+Gardermoen stasjon;station;Gardermoen stasjon;NO00226;60,1938, 11,0976;2018-10-01;2025-04-01
+Eidsvoll stasjon;station;Eidsvoll stasjon;NO00216;60,3299, 11,2484;2018-10-01;2025-04-01
+Bekkedalshøgda stasjon;station;Bekkedalshøgda stasjon;NO00227;60,2807, 11,1608;2018-10-01;2025-04-01
+Venjar stasjon;station;Venjar stasjon;NO00228;60,3019, 11,2032;2018-10-01;2025-04-01
+Fetsund stasjon;station;Fetsund stasjon;NO00303;59,9272, 11,1631;2018-10-01;2025-04-01
+Sørumsand stasjon;station;Sørumsand stasjon;NO00305;59,9857, 11,2403;2018-10-01;2025-04-01
+Blaker stasjon;station;Blaker stasjon;NO00307;60,0049, 11,3012;2018-10-01;2025-04-01
+RÕnÕsfoss stasjon;station;RÕnÕsfoss stasjon;NO00308;60,0292, 11,3277;2018-10-01;2025-04-01
+Haga stasjon;station;Haga stasjon;NO00309;60,0538, 11,373;2018-10-01;2025-04-01
+┼rnes stasjon;station;┼rnes stasjon;NO00311;60,124, 11,465;2018-10-01;2025-04-01
+ Seterstøa stasjon;station; Seterstøa stasjon;NO00313;60,171, 11,5672;2018-10-01;2025-04-01
+DisenÕ stasjon;station;DisenÕ stasjon;NO00314;60,209, 11,6423;2018-10-01;2025-04-01
+Skarnes stasjon;station;Skarnes stasjon;NO00315;60,2538, 11,6806;2018-10-01;2025-04-01
+Sander stasjon;station;Sander stasjon;NO00316;60,2263, 11,8097;2018-10-01;2025-04-01
+Galterud stasjon;station;Galterud stasjon;NO00317;60,1972, 11,8811;2018-10-01;2025-04-01
+Kongsvinger stasjon;station;Kongsvinger stasjon;NO00318;60,1876, 12,0036;2018-10-01;2025-04-01
+Åbogen stasjon;station;Åbogen stasjon;NO00320;60,111, 12,1146;2018-10-01;2025-04-01
+Matrand stasjon;station;Matrand stasjon;NO00321;60,0274, 12,1245;2018-10-01;2025-04-01
+Skotterud stasjon;station;Skotterud stasjon;NO00322;59,9833, 12,1206;2018-10-01;2025-04-01
+Magnor stasjon;station;Magnor stasjon;NO00323;59,9514, 12,2018;2018-10-01;2025-04-01
+Bryn - Godstogsporet st.;station;Bryn - Godstogsporet st.;NO00200;59,9082, 10,8187;2018-10-01;2025-04-01
+Bekkelaget stasjon;station;Bekkelaget stasjon;NO00500;59,8777, 10,7765;2018-10-01;2025-04-01
+Ljan stasjon;station;Ljan stasjon;NO00502;59,8533, 10,7848;2018-10-01;2025-04-01
+Kolbotn stasjon;station;Kolbotn stasjon;NO00504;59,811, 10,8006;2018-10-01;2025-04-01
+Myrvoll stasjon;station;Myrvoll stasjon;NO00505;59,7865, 10,8004;2018-10-01;2025-04-01
+OppegÕrd stasjon;station;OppegÕrd stasjon;NO00506;59,7651, 10,813;2018-10-01;2025-04-01
+Langhus stasjon;station;Langhus stasjon;NO00507;59,7501, 10,8368;2018-10-01;2025-04-01
+Ski stasjon;station;Ski stasjon;NO00508;59,7193, 10,8347;2018-10-01;2025-04-01
+┼s stasjon;station;┼s stasjon;NO00510;59,6586, 10,797;2018-10-01;2025-04-01
+Vestby stasjon;station;Vestby stasjon;NO00511;59,6037, 10,7484;2018-10-01;2025-04-01
+Kambo stasjon;station;Kambo stasjon;NO00513;59,4752, 10,6898;2018-10-01;2025-04-01
+Moss stasjon;station;Moss stasjon;NO00516;59,432, 10,657;2018-10-01;2025-04-01
+Rygge stasjon;station;Rygge stasjon;NO00518;59,3776, 10,7483;2018-10-01;2025-04-01
+RÕde stasjon;station;RÕde stasjon;NO00519;59,3476, 10,8652;2018-10-01;2025-04-01
+Fredrikstad stasjon;station;Fredrikstad stasjon;NO00522;59,2091, 10,9503;2018-10-01;2025-04-01
+Rolvsøy stasjon;station;Rolvsøy stasjon;NO00524;59,259, 11,0094;2018-10-01;2025-04-01
+Sandesund stasjon;station;Sandesund stasjon;NO00526;59,2764, 11,0903;2018-10-01;2025-04-01
+Sarpsborg stasjon;station;Sarpsborg stasjon;NO00527;59,2861, 11,1183;2018-10-01;2025-04-01
+Berg stasjon;station;Berg stasjon;NO00545;59,1256, 11,2916;2018-10-01;2028-10-01
+Halden stasjon;station;Halden stasjon;NO00546;59,1203, 11,3839;2018-10-01;2028-10-01
+Aspedammen stasjon;station;Aspedammen stasjon;NO00548;59,059, 11,4831;2018-10-01;2028-10-01
+Kornsjø stasjon;station;Kornsjø stasjon;NO00551;58,9413, 11,6592;2018-10-01;2025-04-01
+Tomter stasjon;station;Tomter stasjon;NO00530;59,66, 11,0024;2018-10-01;2025-04-01
+Spydeberg stasjon;station;Spydeberg stasjon;NO00532;59,6208, 11,079;2018-10-01;2025-04-01
+Askim stasjon;station;Askim stasjon;NO00533;59,5818, 11,1631;2018-10-01;2025-04-01
+Mysen stasjon;station;Mysen stasjon;NO00536;59,5543, 11,3238;2018-10-01;2025-04-01
+Grefsen stasjon;station;Grefsen stasjon;NO00601;59,9428, 10,7797;2018-10-01;2025-04-01
+KjelsÕs stasjon;station;KjelsÕs stasjon;NO00603;59,9662, 10,7832;2018-10-01;2025-04-01
+Sandermosen stasjon;station;Sandermosen stasjon;NO00604;60,009, 10,8046;2018-10-01;2025-04-01
+Movatn stasjon;station;Movatn stasjon;NO00605;60,0377, 10,8131;2018-10-01;2025-04-01
+Nittedal stasjon;station;Nittedal stasjon;NO00606;60,0581, 10,8648;2018-10-01;2025-04-01
+┼neby stasjon;station;┼neby stasjon;NO00607;60,0856, 10,8625;2018-10-01;2025-04-01
+Hakadal stasjon;station;Hakadal stasjon;NO00608;60,1175, 10,8291;2018-10-01;2025-04-01
+Stryken stasjon;station;Stryken stasjon;NO00609;60,1657, 10,7201;2018-10-01;2025-04-01
+Bjørgeseter stasjon;station;Bjørgeseter stasjon;NO00611;60,2335, 10,7134;2018-10-01;2025-04-01
+Grua stasjon;station;Grua stasjon;NO00612;60,2591, 10,6648;2018-10-01;2025-04-01
+Roa stasjon;station;Roa stasjon;NO00613;60,2835, 10,6206;2018-10-01;2025-04-01
+Jaren stasjon;station;Jaren stasjon;NO00616;60,393, 10,556;2018-10-01;2025-04-01
+Gjøvik stasjon;station;Gjøvik stasjon;NO00626;60,7973, 10,6946;2018-10-01;2025-04-01
+Hønefoss stasjon;station;Hønefoss stasjon;NO01617;60,1695, 10,2496;2018-10-01;2025-04-01
+Minnesund stasjon;station;Minnesund stasjon;NO00702;60,3951, 11,2309;2018-10-01;2025-04-01
+Espa stasjon;station;Espa stasjon;NO00705;60,5816, 11,2709;2018-10-01;2025-04-01
+Tangen stasjon;station;Tangen stasjon;NO00706;60,6159, 11,27;2018-10-01;2025-04-01
+Stange stasjon;station;Stange stasjon;NO00708;60,7179, 11,1949;2018-10-01;2025-04-01
+Loviisan satama;freight terminal;Loviisan satama;FI00106;60,4183, 26,2476;1970-01-01;3100-12-31
+Lapinjärvi;freight terminal;Lapinjärvi;FI00108;60,5991, 26,1279;1970-01-01;3100-12-31
+Orimattila;freight terminal;Orimattila;FI00109;60,8145, 25,7487;1970-01-01;3100-12-31
+Vierumäki;freight terminal;Vierumäki;FI00112;61,1019, 25,9329;1970-01-01;3100-12-31
+Heinola;freight terminal;Heinola;FI00113;61,2032, 26,047;1970-01-01;3100-12-31
+Uusikaupunki;shunting yard;Uusikaupunki;FI00121;60,7974, 21,4257;1970-01-01;3100-12-31
+Mynämäki;junction;Mynämäki;FI00123;60,6504, 21,9641;1970-01-01;3100-12-31
+Naantali;freight terminal;Naantali;FI00124;60,4699, 22,04;1970-01-01;3100-12-31
+Raisio;freight terminal;Raisio;FI00125;60,4855, 22,1302;1970-01-01;3100-12-31
+Kyrö;junction;Kyrö;FI00139;60,7027, 22,7489;1970-01-01;3100-12-31
+Loimaa;small station;Loimaa;FI00142;60,8474, 23,0604;1970-01-01;3100-12-31
+Humppila;small station;Humppila;FI00144;60,9195, 23,3625;1970-01-01;3100-12-31
+Urjala;junction;Urjala;FI00148;61,0635, 23,6263;1970-01-01;3100-12-31
+Valkeakoski;freight terminal;Valkeakoski;FI00153;61,2739, 24,0171;1970-01-01;3100-12-31
+Rauma;freight terminal;Rauma;FI00165;61,1324, 21,4924;1970-01-01;3100-12-31
+Kiukainen;junction;Kiukainen;FI00169;61,2097, 22,0892;1970-01-01;3100-12-31
+Mänttä;freight terminal;Mänttä;FI00198;62,029, 24,6469;1970-01-01;3100-12-31
+Niinisalo;freight terminal;Niinisalo;FI00227;61,8447, 22,4819;1970-01-01;3100-12-31
+Kaskinen;freight terminal;Kaskinen;FI00267;62,3811, 21,23;1970-01-01;3100-12-31
+Närpiö;switch;Närpiö;FI00268;62,4682, 21,364;1970-01-01;3100-12-31
+Teuva;freight terminal;Teuva;FI00271;62,475, 21,7423;1970-01-01;3100-12-31
+Koskenkorva;freight terminal;Koskenkorva;FI00274;62,688, 22,4624;1970-01-01;3100-12-31
+Vaskiluoto;freight terminal;Vaskiluoto;FI00291;63,0891, 21,5642;1970-01-01;3100-12-31
+Pietarsaari;freight terminal;Pietarsaari;FI00306;63,6743, 22,7147;1970-01-01;3100-12-31
+Alholma;freight terminal;Alholma;FI00308;63,7068, 22,6953;1970-01-01;3100-12-31
+Ykspihlaja tavara;shunting yard;Ykspihlaja tavara;FI00315;63,8386, 23,0831;1970-01-01;3100-12-31
+Raahe;junction;Raahe;FI00335;64,6834, 24,4906;1970-01-01;3100-12-31
+Tornio asema;shunting yard;Tornio asema;FI00351;65,8458, 24,1639;1970-01-01;3100-12-31
+Imatrankoski;shunting yard;Imatrankoski;FI00504;61,1704, 28,7881;1970-01-01;3100-12-31
+Kuusankoski;freight terminal;Kuusankoski;FI00537;60,921, 26,6563;1970-01-01;3100-12-31
+Kotka Mussalo;shunting yard;Kotka Mussalo;FI00557;60,4318, 26,8975;1970-01-01;3100-12-31
+Metsäkansa;freight terminal;Metsäkansa;FI00558;61,2343, 23,8846;1970-01-01;3100-12-31
+Mukkula;freight terminal;Mukkula;FI00594;61,0058, 25,6578;1970-01-01;3100-12-31
+Myllyoja;freight terminal;Myllyoja;FI00606;61,1637, 25,9897;1970-01-01;3100-12-31
+Kaipola;freight terminal;Kaipola;FI00656;61,8167, 25,2147;1970-01-01;3100-12-31
+Rautaruukki;freight terminal;Rautaruukki;FI00750;64,6587, 24,4435;1970-01-01;3100-12-31
+Ajos;freight terminal;Ajos;FI00767;65,6737, 24,5417;1970-01-01;3100-12-31
+Röyttä;freight terminal;Röyttä;FI00833;65,7658, 24,1629;1970-01-01;3100-12-31
+Pelkola;freight terminal;Pelkola;FI01055;61,1343, 28,8137;1970-01-01;3100-12-31
+Karviainen;junction;Karviainen;FI01100;60,6232, 22,5587;1970-01-01;3100-12-31
+Lohiluoma;switch;Lohiluoma;FI01159;62,5336, 22,281;1970-01-01;3100-12-31
+Maaria;junction;Maaria;FI01166;60,5385, 22,3656;1970-01-01;3100-12-31
+Vuojoki;junction;Vuojoki;FI01310;61,1794, 21,7099;1970-01-01;3100-12-31
+Tornio-Itäinen;passenger stop;Tornio-Itäinen;FI01318;65,8508, 24,1851;1970-01-01;3100-12-31
+Ykspihlaja väliratapiha;shunting yard;Ykspihlaja väliratapiha;FI01326;63,8504, 23,0583;1970-01-01;3100-12-31
+Kotolahti;shunting yard;Kotolahti;FI01329;60,4453, 26,8985;1970-01-01;3100-12-31
+Hamar stasjon;station;Hamar stasjon;NO00711;60,7914, 11,077;2018-10-01;2025-04-01
+Brumunddal stasjon;station;Brumunddal stasjon;NO00716;60,8802, 10,9379;2018-10-01;2025-04-01
+Rudshøgda stasjon;station;Rudshøgda stasjon;NO00718;60,9157, 10,8172;2018-10-01;2025-04-01
+Moelv stasjon;station;Moelv stasjon;NO00720;60,9293, 10,6992;2018-10-01;2025-04-01
+Bergsvika kr.spor stasjon;station;Bergsvika kr.spor stasjon;NO00721;60,9822, 10,6423;2018-10-01;2025-04-01
+Brøttum stasjon;station;Brøttum stasjon;NO00722;61,0076, 10,5599;2018-10-01;2025-04-01
+Bergseng stasjon;station;Bergseng stasjon;NO00723;61,0363, 10,486;2018-10-01;2025-04-01
+Lillehammer stasjon;station;Lillehammer stasjon;NO00725;61,1143, 10,4613;2018-10-01;2025-04-01
+FÕberg stasjon;station;FÕberg stasjon;NO00728;61,1709, 10,4053;2018-10-01;2025-04-01
+Ïyer stasjon;station;Ïyer stasjon;NO00730;61,2636, 10,4069;2018-10-01;2025-04-01
+Tretten stasjon;station;Tretten stasjon;NO00731;61,3121, 10,2954;2018-10-01;2025-04-01
+Losna stasjon;station;Losna stasjon;NO00732;61,3849, 10,2259;2018-10-01;2025-04-01
+Fåvang stasjon;station;Fåvang stasjon;NO00733;61,449, 10,1852;2018-10-01;2025-04-01
+Ringebu stasjon;station;Ringebu stasjon;NO00734;61,5291, 10,1391;2018-10-01;2025-04-01
+Hundorp stasjon;station;Hundorp stasjon;NO00736;61,5472, 9,9682;2018-10-01;2025-04-01
+Fron stasjon;station;Fron stasjon;NO00737;61,5737, 9,8687;2018-10-01;2025-04-01
+Vinstra stasjon;station;Vinstra stasjon;NO00739;61,5954, 9,7469;2018-10-01;2025-04-01
+Kvam stasjon;station;Kvam stasjon;NO00740;61,6648, 9,7014;2018-10-01;2025-04-01
+Sjoa stasjon;station;Sjoa stasjon;NO00741;61,6824, 9,5417;2018-10-01;2025-04-01
+Otta stasjon;station;Otta stasjon;NO00743;61,7723, 9,5371;2018-10-01;2025-04-01
+Dovre stasjon;station;Dovre stasjon;NO00746;61,9844, 9,2572;2018-10-01;2025-04-01
+DombÕs stasjon;station;DombÕs stasjon;NO00747;62,0687, 9,126;2018-10-01;2025-04-01
+Bjorli stasjon;station;Bjorli stasjon;NO00805;62,2584, 8,2015;2018-10-01;2025-04-01
+┼ndalsnes stasjon;station;┼ndalsnes stasjon;NO00810;62,5672, 7,6903;2018-10-01;2025-04-01
+Løten stasjon;station;Løten stasjon;NO00907;60,8188, 11,3425;2018-10-01;2025-04-01
+Elverum stasjon;station;Elverum stasjon;NO00909;60,883, 11,546;2018-10-01;2025-04-01
+Rena stasjon;station;Rena stasjon;NO00914;61,1346, 11,3695;2018-10-01;2025-04-01
+Opphus stasjon;station;Opphus stasjon;NO00916;61,3318, 11,2607;2018-10-01;2025-04-01
+Koppang stasjon;station;Koppang stasjon;NO00920;61,5726, 11,0447;2018-10-01;2025-04-01
+Atna stasjon;station;Atna stasjon;NO00922;61,7325, 10,8348;2018-10-01;2025-04-01
+Hanestad stasjon;station;Hanestad stasjon;NO00923;61,8382, 10,879;2018-10-01;2025-04-01
+Alvdal stasjon;station;Alvdal stasjon;NO00926;62,1088, 10,6332;2018-10-01;2025-04-01
+Tynset stasjon;station;Tynset stasjon;NO00928;62,2748, 10,7762;2018-10-01;2025-04-01
+Tolga stasjon;station;Tolga stasjon;NO01002;62,4088, 10,9981;2018-10-01;2025-04-01
+Os stasjon;station;Os stasjon;NO01004;62,4974, 11,2271;2018-10-01;2025-04-01
+Røros stasjon;station;Røros stasjon;NO01006;62,5746, 11,379;2018-10-01;2025-04-01
+Fokstua stasjon;station;Fokstua stasjon;NO01100;62,1189, 9,2763;2018-10-01;2025-04-01
+Vålåsjø stasjon;station;Vålåsjø stasjon;NO01101;62,1762, 9,426;2018-10-01;2025-04-01
+Hjerkinn stasjon;station;Hjerkinn stasjon;NO01102;62,22, 9,5409;2018-10-01;2025-04-01
+Kongsvoll stasjon;station;Kongsvoll stasjon;NO01103;62,3071, 9,6058;2018-10-01;2025-04-01
+Drivstua stasjon;station;Drivstua stasjon;NO01104;62,4244, 9,6252;2018-10-01;2025-04-01
+Oppdal stasjon;station;Oppdal stasjon;NO01107;62,593, 9,6942;2018-10-01;2025-04-01
+Fagerhaug stasjon;station;Fagerhaug stasjon;NO01108;62,6529, 9,8828;2018-10-01;2025-04-01
+Ulsberg stasjon;station;Ulsberg stasjon;NO01109;62,7492, 9,9849;2018-10-01;2025-04-01
+Berkåk stasjon;station;Berkåk stasjon;NO01110;62,823, 10,0145;2018-10-01;2025-04-01
+Garli stasjon;station;Garli stasjon;NO01111;62,8892, 10,1057;2018-10-01;2025-04-01
+Soknedal stasjon;station;Soknedal stasjon;NO01112;62,955, 10,1775;2018-10-01;2025-04-01
+Støren stasjon;station;Støren stasjon;NO01114;63,0515, 10,2851;2018-10-01;2025-04-01
+Hovin stasjon;station;Hovin stasjon;NO01115;63,0989, 10,2306;2018-10-01;2025-04-01
+Lundamo stasjon;station;Lundamo stasjon;NO01116;63,152, 10,2798;2018-10-01;2025-04-01
+Ler stasjon;station;Ler stasjon;NO01117;63,1977, 10,2978;2018-10-01;2025-04-01
+Søberg stasjon;station;Søberg stasjon;NO01119;63,2624, 10,2892;2018-10-01;2025-04-01
+Heimdal stasjon;station;Heimdal stasjon;NO01122;63,3509, 10,3576;2018-10-01;2025-04-01
+Selsbakk stasjon;station;Selsbakk stasjon;NO01123;63,3895, 10,3731;2018-10-01;2025-04-01
+Trondheim stasjon;station;Trondheim stasjon;NO01126;63,4365, 10,3981;2018-10-01;2025-04-01
+Leangen stasjon;station;Leangen stasjon;NO01201;63,4369, 10,4644;2018-10-01;2025-04-01
+Ranheim stasjon;station;Ranheim stasjon;NO01203;63,428, 10,5351;2018-10-01;2025-04-01
+Midtsandan stasjon;station;Midtsandan stasjon;NO01206;63,4318, 10,7303;2018-10-01;2025-04-01
+Hommelvik stasjon;station;Hommelvik stasjon;NO01207;63,4117, 10,7934;2018-10-01;2025-04-01
+Hell stasjon;station;Hell stasjon;NO01208;63,4463, 10,8989;2018-10-01;2025-04-01
+Kopperå stasjon;station;Kopperå stasjon;NO01215;63,3922, 11,8484;2018-10-01;2025-04-01
+Stjørdal stasjon;station;Stjørdal stasjon;NO01300;63,4704, 10,9134;2018-10-01;2025-04-01
+Skatval stasjon;station;Skatval stasjon;NO01301;63,5086, 10,8233;2018-10-01;2025-04-01
+Langstein stasjon;station;Langstein stasjon;NO01302;63,5475, 10,9015;2018-10-01;2025-04-01
+┼sen stasjon;station;┼sen stasjon;NO01303;63,6093, 11,0521;2018-10-01;2025-04-01
+Ronglan stasjon;station;Ronglan stasjon;NO01304;63,6663, 11,113;2018-10-01;2025-04-01
+Skogn stasjon;station;Skogn stasjon;NO01305;63,7051, 11,1943;2018-10-01;2025-04-01
+Levanger stasjon;station;Levanger stasjon;NO01306;63,7447, 11,3007;2018-10-01;2025-04-01
+Verdal stasjon;station;Verdal stasjon;NO01308;63,7911, 11,4843;2018-10-01;2025-04-01
+Røra stasjon;station;Røra stasjon;NO01310;63,8569, 11,4018;2018-10-01;2025-04-01
+Steinkjer stasjon;station;Steinkjer stasjon;NO01314;64,0127, 11,4942;2018-10-01;2025-04-01
+Snåsa stasjon;station;Snåsa stasjon;NO01321;64,2459, 12,3799;2018-10-01;2025-04-01
+Agle stasjon;station;Agle stasjon;NO01322;64,2831, 12,5313;2018-10-01;2025-04-01
+Grong stasjon;station;Grong stasjon;NO01325;64,4584, 12,3371;2018-10-01;2025-04-01
+Harran stasjon;station;Harran stasjon;NO01335;64,5686, 12,4936;2018-10-01;2025-04-01
+Lassemoen stasjon;station;Lassemoen stasjon;NO01337;64,6963, 12,7147;2018-10-01;2025-04-01
+Namsskogan stasjon;station;Namsskogan stasjon;NO01341;64,9257, 13,1521;2018-10-01;2025-04-01
+Majavatn stasjon;station;Majavatn stasjon;NO01344;65,1644, 13,3675;2018-10-01;2025-04-01
+Svenningdal stasjon;station;Svenningdal stasjon;NO01347;65,4342, 13,395;2018-10-01;2025-04-01
+Trofors stasjon;station;Trofors stasjon;NO01348;65,538, 13,3826;2018-10-01;2025-04-01
+Mosjøen stasjon;station;Mosjøen stasjon;NO01352;65,8448, 13,1998;2018-10-01;2025-04-01
+Drevvatn stasjon;station;Drevvatn stasjon;NO01357;66,0712, 13,4558;2018-10-01;2025-04-01
+Mo i Rana stasjon;station;Mo i Rana stasjon;NO01364;66,311, 14,1323;2018-10-01;2025-04-01
+Dunderland stasjon;station;Dunderland stasjon;NO01370;66,446, 14,8381;2018-10-01;2025-04-01
+Lønsdal stasjon;station;Lønsdal stasjon;NO01376;66,7427, 15,4628;2018-10-01;2025-04-01
+Rognan stasjon;station;Rognan stasjon;NO01382;67,0934, 15,3987;2018-10-01;2025-04-01
+Fauske stasjon;station;Fauske stasjon;NO01385;67,2642, 15,3993;2018-10-01;2025-04-01
+Bodø stasjon;station;Bodø stasjon;NO01388;67,2864, 14,3919;2018-10-01;2025-04-01
+Skøyen stasjon;station;Skøyen stasjon;NO01402;59,9225, 10,6785;2018-10-01;2025-04-01
+Lysaker stasjon Drammenbanen;station;Lysaker stasjon Drammenbanen;NO01404;59,9135, 10,6377;2018-10-01;2025-04-01
+Høvik stasjon;station;Høvik stasjon;NO01406;59,9006, 10,5803;2018-10-01;2025-04-01
+Sandvika stasjon Drammenbanen;station;Sandvika stasjon Drammenbanen;NO01408;59,8927, 10,5247;2018-10-01;2025-04-01
+Billingstad stasjon;station;Billingstad stasjon;NO01410;59,875, 10,4836;2018-10-01;2025-04-01
+Hvalstad stasjon;station;Hvalstad stasjon;NO01411;59,8584, 10,4619;2018-10-01;2025-04-01
+Asker stasjon Drammenbanen;station;Asker stasjon Drammenbanen;NO01413;59,8343, 10,4353;2018-10-01;2025-04-01
+Lysaker stasjon Askerbanen;station;Lysaker stasjon Askerbanen;NO01404;59,9135, 10,6378;2018-10-01;2025-04-01
+Sandvika stasjon Askerbanen;station;Sandvika stasjon Askerbanen;NO01408;59,8927, 10,5246;2018-10-01;2025-04-01
+Asker stasjon Askerbanen;station;Asker stasjon Askerbanen;NO01413;59,8343, 10,4355;2018-10-01;2025-04-01
+Brakerøya stasjon;station;Brakerøya stasjon;NO01419;59,7438, 10,2328;2018-10-01;2025-04-01
+Drammen stasjon;station;Drammen stasjon;NO01421;59,7407, 10,2034;2018-10-01;2025-04-01
+Gulskogen stasjon;station;Gulskogen stasjon;NO01600;59,7438, 10,1609;2018-10-01;2025-04-01
+Filipstad stasjon (delstr.) stasjon;station;Filipstad stasjon (delstr.) stasjon;NO01400;59,9112, 10,714;2018-10-01;2025-04-01
+Heggedal stasjon;station;Heggedal stasjon;NO01414;59,7868, 10,4312;2018-10-01;2025-04-01
+Spikkestad stasjon;station;Spikkestad stasjon;NO01416;59,7453, 10,3421;2018-10-01;2025-04-01
+Galleberg stasjon;station;Galleberg stasjon;NO01501;59,6264, 10,2222;2018-10-01;2025-04-01
+Nykirke (kryssingsspor) stasjon;station;Nykirke (kryssingsspor) stasjon;NO01506;59,4442, 10,3495;2018-10-01;2025-04-01
+Skoppum stasjon;station;Skoppum stasjon;NO01507;59,3912, 10,411;2018-10-01;2025-04-01
+Barkåker stasjon;station;Barkåker stasjon;NO01509;59,3073, 10,3872;2018-10-01;2025-04-01
+Tønsberg stasjon;station;Tønsberg stasjon;NO01510;59,2721, 10,4094;2018-10-01;2025-04-01
+Sem stasjon;station;Sem stasjon;NO01511;59,281, 10,3333;2018-10-01;2025-04-01
+Sandefjord stasjon;station;Sandefjord stasjon;NO01514;59,1353, 10,2229;2018-10-01;2025-04-01
+Lauve stasjon;station;Lauve stasjon;NO01516;59,0614, 10,151;2018-10-01;2025-04-01
+Larvik stasjon;station;Larvik stasjon;NO01519;59,05, 10,0317;2018-10-01;2025-04-01
+Porvoo;small station;Porvoo;FI00023;60,4004, 25,6364;1970-01-01;3100-12-31
+Leppäkoski;junction;Leppäkoski;FI00043;60,8729, 24,6959;1970-01-01;3100-12-31
+Mustolan satama;freight terminal;Mustolan satama;FI00077;61,0592, 28,3126;1970-01-01;3100-12-31
+Sääksjärvi;junction;Sääksjärvi;FI00157;61,4187, 23,7522;1970-01-01;3100-12-31
+Vihtavuori;junction;Vihtavuori;FI00248;62,3746, 25,8924;1970-01-01;3100-12-31
+Kauhajoki;junction;Kauhajoki;FI00272;62,4599, 22,2116;1970-01-01;3100-12-31
+Vaasa;small station;Vaasa;FI00288;63,0978, 21,6218;1970-01-01;3100-12-31
+Laihia;small station;Laihia;FI00293;62,9901, 22,0034;1970-01-01;3100-12-31
+Tervajoki;passenger stop;Tervajoki;FI00294;63,0008, 22,1715;1970-01-01;3100-12-31
+Isokyrö;small station;Isokyrö;FI00295;62,9511, 22,3948;1970-01-01;3100-12-31
+Ylistaro;passenger stop;Ylistaro;FI00296;62,9178, 22,5327;1970-01-01;3100-12-31
+Pello;small station;Pello;FI00356;66,7847, 23,9934;1970-01-01;3100-12-31
+Kolari;small station;Kolari;FI00358;67,3487, 23,8363;1970-01-01;3100-12-31
+Muhos;passenger stop;Muhos;FI00375;64,8054, 25,992;1970-01-01;3100-12-31
+Utajärvi;small station;Utajärvi;FI00376;64,7589, 26,4136;1970-01-01;3100-12-31
+Vaala;passenger stop;Vaala;FI00377;64,558, 26,8427;1970-01-01;3100-12-31
+Kivesjärvi;junction;Kivesjärvi;FI00378;64,4689, 27,4715;1970-01-01;3100-12-31
+Paltamo;small station;Paltamo;FI00379;64,4006, 27,8222;1970-01-01;3100-12-31
+Otanmäki;freight terminal;Otanmäki;FI00385;64,112, 27,0924;1970-01-01;3100-12-31
+Ristijärvi;junction;Ristijärvi;FI00391;64,4884, 28,1859;1970-01-01;3100-12-31
+Hyrynsalmi;freight terminal;Hyrynsalmi;FI00392;64,6838, 28,4627;1970-01-01;3100-12-31
+Pesiökylä;junction;Pesiökylä;FI00393;64,9262, 28,5695;1970-01-01;3100-12-31
+Ämmänsaari;freight terminal;Ämmänsaari;FI00394;64,887, 28,8905;1970-01-01;3100-12-31
+Siikamäki;junction;Siikamäki;FI00429;62,2892, 27,4077;1970-01-01;3100-12-31
+Onttola;freight terminal;Onttola;FI00443;62,6355, 29,7005;1970-01-01;3100-12-31
+Niirala-raja;technical change;Niirala-raja;FI00445;62,1704, 30,632;1970-01-01;3100-12-31
+Niirala;freight terminal;Niirala;FI00446;62,175, 30,6003;1970-01-01;3100-12-31
+Tohmajärvi;freight terminal;Tohmajärvi;FI00448;62,2435, 30,3562;1970-01-01;3100-12-31
+Valkeasuo;freight terminal;Valkeasuo;FI00450;62,3048, 30,164;1970-01-01;3100-12-31
+Tuupovaara;freight terminal;Tuupovaara;FI00458;62,5231, 30,5589;1970-01-01;3100-12-31
+Ilomantsi;freight terminal;Ilomantsi;FI00459;62,6664, 30,9416;1970-01-01;3100-12-31
+Vainikkala-raja;technical change;Vainikkala-raja;FI00493;60,8555, 28,3372;1970-01-01;3100-12-31
+Kommila;freight terminal;Kommila;FI00500;62,3254, 27,8877;1970-01-01;3100-12-31
+Imatrankoski-raja;technical change;Imatrankoski-raja;FI00503;61,125, 28,8318;1970-01-01;3100-12-31
+Mynttilä;junction;Mynttilä;FI00543;61,4873, 26,9239;1970-01-01;3100-12-31
+Hinthaara;passenger stop;Hinthaara;FI00561;60,3993, 25,4765;1970-01-01;3100-12-31
+Palopuro;junction;Palopuro;FI00562;60,6015, 24,9062;1970-01-01;3100-12-31
+Olli;junction;Olli;FI00570;60,3828, 25,3742;1970-01-01;3100-12-31
+Harviala;junction;Harviala;FI00622;60,9537, 24,5769;1970-01-01;3100-12-31
+Kuurila;junction;Kuurila;FI00626;61,1337, 23,9949;1970-01-01;3100-12-31
+Aittaluoto;freight terminal;Aittaluoto;FI00676;61,4763, 21,8455;1970-01-01;3100-12-31
+Tahkoluoto;freight terminal;Tahkoluoto;FI00702;61,6339, 21,4173;1970-01-01;3100-12-31
+Pyhäkumpu;freight terminal;Pyhäkumpu;FI00757;63,6621, 26,0423;1970-01-01;3100-12-31
+Ristiina;freight terminal;Ristiina;FI00770;61,4616, 27,2643;1970-01-01;3100-12-31
+Ylitornio;passenger stop;Ylitornio;FI00789;66,3244, 23,6825;1970-01-01;3100-12-31
+Kaulinranta;junction;Kaulinranta;FI00790;66,4669, 23,7128;1970-01-01;3100-12-31
+Sieppijärvi;freight terminal;Sieppijärvi;FI00796;67,1595, 23,8674;1970-01-01;3100-12-31
+Pikkarala;junction;Pikkarala;FI00819;64,9127, 25,7541;1970-01-01;3100-12-31
+Lautiosaari;junction;Lautiosaari;FI00829;65,7791, 24,5652;1970-01-01;3100-12-31
+Lamminniemi;freight terminal;Lamminniemi;FI00845;64,2321, 27,7025;1970-01-01;3100-12-31
+Vuonos;freight terminal;Vuonos;FI00863;62,7564, 29,0805;1970-01-01;3100-12-31
+Yläkoski;freight terminal;Yläkoski;FI00867;62,644, 27,086;1970-01-01;3100-12-31
+Lahnaslampi;freight terminal;Lahnaslampi;FI00871;64,1242, 28,074;1970-01-01;3100-12-31
+Kinahmi;switch;Kinahmi;FI00873;63,1427, 27,9514;1970-01-01;3100-12-31
+Ylämylly;freight terminal;Ylämylly;FI00913;62,6206, 29,5645;1970-01-01;3100-12-31
+Säkäniemi;switch;Säkäniemi;FI00918;62,3177, 30,1209;1970-01-01;3100-12-31
+Heinävaara;freight terminal;Heinävaara;FI00924;62,5558, 30,1902;1970-01-01;3100-12-31
+Pankakoski;freight terminal;Pankakoski;FI00935;63,3215, 30,1255;1970-01-01;3100-12-31
+Arola;freight terminal;Arola;FI00939;64,4508, 29,0225;1970-01-01;3100-12-31
+Ypykkävaara;freight terminal;Ypykkävaara;FI00940;64,4799, 29,4749;1970-01-01;3100-12-31
+Vartius;shunting yard;Vartius;FI00941;64,5402, 29,9481;1970-01-01;3100-12-31
+Vartius-raja;technical change;Vartius-raja;FI00949;64,5459, 29,9897;1970-01-01;3100-12-31
+Hakosilta;junction;Hakosilta;FI01014;60,925, 25,5134;1970-01-01;3100-12-31
+Haksi;passenger stop;Haksi;FI01015;60,4082, 25,555;1970-01-01;3100-12-31
+Hanala;junction;Hanala;FI01018;60,3396, 25,0724;1970-01-01;3100-12-31
+Hangonsaari;freight terminal;Hangonsaari;FI01020;60,7992, 21,361;1970-01-01;3100-12-31
+Haviseva;junction;Haviseva;FI01021;61,5507, 24,0874;1970-01-01;3100-12-31
+Heikkilä;junction;Heikkilä;FI01023;60,122, 24,4809;1970-01-01;3100-12-31
+Helsinki Kivihaka;junction;Helsinki Kivihaka;FI01028;60,2098, 24,9172;1970-01-01;3100-12-31
+Jutila;junction;Jutila;FI01085;60,8371, 25,1237;1970-01-01;3100-12-31
+Kekomäki;junction;Kekomäki;FI01101;60,7505, 24,912;1970-01-01;3100-12-31
+Kiiala;passenger stop;Kiiala;FI01113;60,4068, 25,6127;1970-01-01;3100-12-31
+Kirjola;switch;Kirjola;FI01123;61,5364, 29,5201;1970-01-01;3100-12-31
+Korvensuo;junction;Korvensuo;FI01128;60,5827, 25,2182;1970-01-01;3100-12-31
+Leteensuo;junction;Leteensuo;FI01154;61,0655, 24,2325;1970-01-01;3100-12-31
+Lieksan teollisuuskylä;freight terminal;Lieksan teollisuuskylä;FI01157;63,3142, 30,0647;1970-01-01;3100-12-31
+Mattila;junction;Mattila;FI01172;61,2611, 23,759;1970-01-01;3100-12-31
+Niemenpää;junction;Niemenpää;FI01185;66,1656, 23,9211;1970-01-01;3100-12-31
+Pohjois-Louko;junction;Pohjois-Louko;FI01214;62,6468, 22,9412;1970-01-01;3100-12-31
+Pyhäkumpu erkanemisvaihde;junction;Pyhäkumpu erkanemisvaihde;FI01218;63,6776, 26,0302;1970-01-01;3100-12-31
+Rautpohja;switch;Rautpohja;FI01232;62,2325, 25,6904;1970-01-01;3100-12-31
+Riihimäki Arolampi;junction;Riihimäki Arolampi;FI01235;60,6971, 24,8186;1970-01-01;3100-12-31
+Sammalisto;junction;Sammalisto;FI01246;60,7637, 24,7837;1970-01-01;3100-12-31
+Sipilä;junction;Sipilä;FI01254;60,7111, 25,4204;1970-01-01;3100-12-31
+Syrjämäki;junction;Syrjämäki;FI01265;62,7562, 22,9124;1970-01-01;3100-12-31
+Tommola;junction;Tommola;FI01280;60,9067, 25,4922;1970-01-01;3100-12-31
+Vanattara;junction;Vanattara;FI01295;61,3707, 23,7595;1970-01-01;3100-12-31
+Vasikkahaka;junction;Vasikkahaka;FI01300;60,1461, 24,5248;1970-01-01;3100-12-31
+Vinnilä;junction;Vinnilä;FI01305;61,1, 24,1109;1970-01-01;3100-12-31
+Kattilaharju;junction;Kattilaharju;FI01319;60,8801, 26,9597;1970-01-01;3100-12-31
+Talvivaara;freight terminal;Talvivaara;FI01323;63,9793, 27,9954;1970-01-01;3100-12-31
+Saunamäki;junction;Saunamäki;FI01325;60,8523, 26,5191;1970-01-01;3100-12-31
+Kivistö;passenger stop;Kivistö;FI01330;60,3146, 24,8469;1970-01-01;3100-12-31
+Aviapolis;passenger stop;Aviapolis;FI01331;60,3044, 24,9562;1970-01-01;3100-12-31
+Lentoasema;passenger stop;Lentoasema;FI01332;60,3157, 24,9683;1970-01-01;3100-12-31
+Leinelä;passenger stop;Leinelä;FI01333;60,3226, 25,0398;1970-01-01;3100-12-31
+Havukoski;junction;Havukoski;FI01334;60,3084, 25,0518;1970-01-01;3100-12-31
+Tikkaperä;junction;Tikkaperä;FI01335;64,7712, 25,2919;1970-01-01;3100-12-31
+Mankala;junction;Mankala;FI01336;60,9164, 26,1829;1970-01-01;3100-12-31
+Vehkala;passenger stop;Vehkala;FI01337;60,295, 24,8437;1970-01-01;3100-12-31
+Ruusumäki;junction;Ruusumäki;FI01338;60,3157, 24,8783;1970-01-01;3100-12-31
+Virkamies;junction;Virkamies;FI01339;60,3105, 24,9633;1970-01-01;3100-12-31
+Asola;junction;Asola;FI01340;60,321, 25,0473;1970-01-01;3100-12-31
+Laajavuori;junction;Laajavuori;FI01341;60,2825, 24,8511;1970-01-01;3100-12-31
+Ruokosuo;junction;Ruokosuo;FI01342;63,1007, 27,7275;1970-01-01;3100-12-31
+Ahonpää;junction;Ahonpää;FI01343;64,5371, 25,0068;1970-01-01;3100-12-31
+Ilola;passenger stop;Ilola;FI01345;61,2299, 23,8751;1970-01-01;3100-12-31
+Patokangas;freight terminal;Patokangas;FI01346;66,725, 27,5206;1970-01-01;3100-12-31
+Hyrkäs;small station;Hyrkäs;FI01348;64,789, 26,22;2019-05-16;3100-12-31
+Pitkämäki;small station;Pitkämäki;FI01350;63,571, 29,061;2019-05-16;3100-12-31
+Oulunlahti;small station;Oulunlahti;FI01351;64,963, 25,504;2019-03-31;3100-12-31
+Immola;shunting yard;Immola;FI01352;61,246, 28,883;1970-01-01;3100-12-31
+Niska;small station;Niska;FI01353;64,631, 26,544;2019-05-16;3100-12-31
+Liminpuro;small station;Liminpuro;FI01354;64,543, 27,231;2019-05-16;3100-12-31
+Melalahti;small station;Melalahti;FI01355;64,413, 27,661;2019-05-16;3100-12-31
+Pitkäkallio;junction;Pitkäkallio;FI01358;60,7653, 26,7927;1970-01-01;3100-12-31
+Siilinjärvi_V655;switch;Siilinjärvi_V655;FI99975;63,0978, 27,7312;1970-01-01;3100-12-31
+Siilinjärvi_V642;switch;Siilinjärvi_V642;FI99976;63,1023, 27,7336;1970-01-01;3100-12-31
+Siilinjärvi_V640;switch;Siilinjärvi_V640;FI99977;63,1018, 27,723;1970-01-01;3100-12-31
+Murtomäki_V525;switch;Murtomäki_V525;FI99978;64,0755, 27,5928;1970-01-01;3100-12-31
+Murtomäki_V527;switch;Murtomäki_V527;FI99979;64,0707, 27,5994;1970-01-01;3100-12-31
+Tornio_V701;switch;Tornio_V701;FI99980;65,8509, 24,1769;1970-01-01;3100-12-31
+Kemijärvi_V937;switch;Kemijärvi_V937;FI99981;66,7174, 27,4125;1970-01-01;3100-12-31
+Kemijärvi_V934;switch;Kemijärvi_V934;FI99982;66,7159, 27,4011;1970-01-01;3100-12-31
+Seinäjoki_V603;switch;Seinäjoki_V603;FI99983;62,7723, 22,893;1970-01-01;3100-12-31
+Tampere_V450;switch;Tampere_V450;FI99984;61,4621, 23,754;1970-01-01;3100-12-31
+Karjaa_V102;switch;Karjaa_V102;FI99985;60,0778, 23,7105;1970-01-01;3100-12-31
+Tornio_V711;switch;Tornio_V711;FI99986;65,8542, 24,168;1970-01-01;3100-12-31
+Pieksämäki_V612;switch;Pieksämäki_V612;FI99987;62,3122, 27,1821;1970-01-01;3100-12-31
+Siilinjärvi_V632;switch;Siilinjärvi_V632;FI99988;63,0878, 27,6534;1970-01-01;3100-12-31
+Siilinjärvi_V638;switch;Siilinjärvi_V638;FI99989;63,087, 27,6669;1970-01-01;3100-12-31
+Kerava_V661;switch;Kerava_V661;FI99990;60,4075, 25,117;1970-01-01;3100-12-31
+Pännäinen_V819;switch;Pännäinen_V819;FI99991;63,5868, 22,775;1970-01-01;3100-12-31
+Pännäinen_V817;switch;Pännäinen_V817;FI99992;63,5959, 22,7768;1970-01-01;3100-12-31
+Riihimäki_V593;switch;Riihimäki_V593;FI99993;60,7457, 24,7817;1970-01-01;3100-12-31
+Riihimäki_V592;switch;Riihimäki_V592;FI99994;60,7424, 24,7992;1970-01-01;3100-12-31
+Kontiomäki_V961;switch;Kontiomäki_V961;FI99995;64,3652, 28,1089;1970-01-01;3100-12-31
+Kontiomäki_V971;switch;Kontiomäki_V971;FI99996;64,3648, 28,084;1970-01-01;3100-12-31
+Oulu_V330;switch;Oulu_V330;FI99997;64,981, 25,4857;1970-01-01;3100-12-31
+Tuomioja_V526;switch;Tuomioja_V526;FI99998;64,6046, 25,016;1970-01-01;3100-12-31
+Tuomioja_V525;switch;Tuomioja_V525;FI99999;64,602, 25,023;1970-01-01;3100-12-31
+Holmestrand stasjon;station;Holmestrand stasjon;NO01505;59,4886, 10,3122;2018-10-01;2025-04-01
+Oklungen stasjon;station;Oklungen stasjon;NO01522;59,1791, 9,8076;2018-10-01;2025-04-01
+Mjøndalen stasjon;station;Mjøndalen stasjon;NO01603;59,751, 10,0115;2018-10-01;2025-04-01
+Steinberg stasjon;station;Steinberg stasjon;NO01604;59,7594, 9,9617;2018-10-01;2025-04-01
+Hokksund stasjon;station;Hokksund stasjon;NO01605;59,7671, 9,9108;2018-10-01;2025-04-01
+Skotselv stasjon;station;Skotselv stasjon;NO01608;59,8462, 9,896;2018-10-01;2025-04-01
+┼mot stasjon;station;┼mot stasjon;NO01609;59,8913, 9,9134;2018-10-01;2025-04-01
+Geithus stasjon;station;Geithus stasjon;NO01611;59,9332, 9,9699;2018-10-01;2025-04-01
+Vikersund stasjon;station;Vikersund stasjon;NO01612;59,9693, 9,9982;2018-10-01;2025-04-01
+Tyristrand stasjon;station;Tyristrand stasjon;NO01615;60,0841, 10,1064;2018-10-01;2025-04-01
+Vestfossen stasjon;station;Vestfossen stasjon;NO01627;59,7344, 9,8672;2018-10-01;2025-04-01
+Darbu stasjon;station;Darbu stasjon;NO01628;59,7017, 9,8;2018-10-01;2025-04-01
+Skollenborg stasjon;station;Skollenborg stasjon;NO01630;59,6223, 9,6952;2018-10-01;2025-04-01
+Kongsberg stasjon;station;Kongsberg stasjon;NO01631;59,672, 9,6512;2018-10-01;2025-04-01
+Hjuksebø stasjon;station;Hjuksebø stasjon;NO01808;59,4924, 9,3341;2018-10-01;2025-04-01
+Nordagutu stasjon;station;Nordagutu stasjon;NO01810;59,4181, 9,3228;2018-10-01;2025-04-01
+Sokna stasjon;station;Sokna stasjon;NO01681;60,2412, 9,9262;2018-10-01;2025-04-01
+Notodden stasjon;station;Notodden stasjon;NO01806;59,5594, 9,2669;2018-10-01;2025-04-01
+ Vebø stasjon;station; Vebø stasjon;NO01812;59,3418, 9,3469;2018-10-01;2025-04-01
+Eidanger stasjon;station;Eidanger stasjon;NO01524;59,1244, 9,6972;2018-10-01;2025-04-01
+Skien stasjon;station;Skien stasjon;NO01815;59,2188, 9,6033;2018-10-01;2025-04-01
+Borgestad stasjon;station;Borgestad stasjon;NO01819;59,167, 9,6449;2018-10-01;2025-04-01
+Porsgrunn stasjon;station;Porsgrunn stasjon;NO01821;59,1392, 9,6591;2018-10-01;2025-04-01
+Gvarv stasjon;station;Gvarv stasjon;NO02001;59,3893, 9,1778;2018-10-01;2025-04-01
+Bø stasjon;station;Bø stasjon;NO02002;59,4092, 9,0695;2018-10-01;2025-04-01
+Lunde stasjon;station;Lunde stasjon;NO02005;59,2989, 9,1009;2018-10-01;2025-04-01
+Nakksjø stasjon;station;Nakksjø stasjon;NO02101;59,186, 9,0879;2018-10-01;2025-04-01
+Drangedal stasjon;station;Drangedal stasjon;NO02103;59,0962, 9,0646;2018-10-01;2025-04-01
+Lodalen (delstr.) stasjon;station;Lodalen (delstr.) stasjon;no data;59,905, 10,7695;2018-10-01;2025-04-01
+Brobekk stasjon;station;Brobekk stasjon;no data;59,9249, 10,8343;2018-10-01;2025-04-01
+Aker stasjon;station;Aker stasjon;no data;59,941, 10,8617;2018-10-01;2025-04-01
+Asper stasjon;station;Asper stasjon;no data;60,1121, 11,1399;2018-10-01;2025-04-01
+Sand stasjon;station;Sand stasjon;no data;60,2188, 11,1813;2018-10-01;2025-04-01
+Langeland stasjon;station;Langeland stasjon;no data;60,123, 11,159;2018-10-01;2025-04-01
+Hellerud stasjon;station;Hellerud stasjon;no data;59,9122, 10,8569;2018-10-01;2025-04-01
+Roven stasjon;station;Roven stasjon;no data;59,9586, 11,1969;2018-10-01;2025-04-01
+Kirkenær stasjon;station;Kirkenær stasjon;no data;60,4563, 12,0608;2018-10-01;2025-04-01
+Flisa stasjon;station;Flisa stasjon;no data;60,5988, 12,0201;2018-10-01;2025-04-01
+Braskereidfoss stasjon;station;Braskereidfoss stasjon;no data;60,7231, 11,7933;2018-10-01;2025-04-01
+Holmlia stasjon;station;Holmlia stasjon;no data;59,8375, 10,7973;2018-10-01;2025-04-01
+Hølen stasjon;station;Hølen stasjon;no data;59,5488, 10,7241;2018-10-01;2025-04-01
+Sandbukta stasjon;station;Sandbukta stasjon;no data;59,4472, 10,6693;2018-10-01;2025-04-01
+Dilling stasjon;station;Dilling stasjon;no data;59,3982, 10,6936;2018-10-01;2025-04-01
+Haug stasjon;station;Haug stasjon;no data;59,3536, 10,8157;2018-10-01;2025-04-01
+Onsøy stasjon;station;Onsøy stasjon;no data;59,2693, 10,9066;2018-10-01;2025-04-01
+Lisleby stasjon;station;Lisleby stasjon;no data;59,2341, 10,9786;2018-10-01;2025-04-01
+Skjeberg stasjon;station;Skjeberg stasjon;no data;59,1587, 11,2396;2018-10-01;2025-04-01
+Ingedal stasjon;station;Ingedal stasjon;no data;59,1587, 11,2396;2018-10-01;2028-10-01
+Kråkstad stasjon;station;Kråkstad stasjon;no data;59,6836, 10,8908;2018-10-01;2025-04-01
+Rakkestad stasjon;station;Rakkestad stasjon;no data;59,4272, 11,3392;2018-10-01;2025-04-01
+Ise stasjon;station;Ise stasjon;no data;59,3002, 11,2194;2018-10-01;2025-04-01
+Jensrud stasjon;station;Jensrud stasjon;no data;60,1465, 10,7711;2018-10-01;2025-04-01
+Monsrud stasjon;station;Monsrud stasjon;no data;60,1928, 10,7235;2018-10-01;2025-04-01
+Gran stasjon;station;Gran stasjon;no data;60,3592, 10,5696;2018-10-01;2025-04-01
+Eina stasjon;station;Eina stasjon;no data;60,6305, 10,5974;2018-10-01;2025-04-01
+Grindvoll stasjon;station;Grindvoll stasjon;no data;60,2961, 10,4891;2018-10-01;2025-04-01
+Jevnaker stasjon;station;Jevnaker stasjon;no data;60,2402, 10,4049;2018-10-01;2025-04-01
+Hval stasjon;station;Hval stasjon;no data;60,1885, 10,3063;2018-10-01;2025-04-01
+Langset stasjon;station;Langset stasjon;no data;60,4285, 11,2393;2018-10-01;2025-04-01
+Strandlykkja stasjon;station;Strandlykkja stasjon;no data;60,5323, 11,2421;2018-10-01;2025-04-01
+Steinsrud stasjon;station;Steinsrud stasjon;no data;60,6582, 11,224;2018-10-01;2025-04-01
+Sørli stasjon;station;Sørli stasjon;no data;60,6868, 11,2131;2018-10-01;2025-04-01
+Ottestad stasjon;station;Ottestad stasjon;no data;60,7467, 11,1403;2018-10-01;2025-04-01
+Riksgrensen (riksgrense);border point;Riksgrensen (riksgrense);no data;59,9318, 12,2434;2018-10-01;2025-04-01
+Storlien (riksgrense);border point;Storlien (riksgrense);no data;63,337, 12,0605;2018-10-01;2025-04-01
+Vassijaure(riksgrense);border point;Vassijaure(riksgrense);no data;68,43, 18,1057;2018-10-01;2025-04-01
+Jessnes stasjon;station;Jessnes stasjon;no data;60,8286, 10,9855;2018-10-01;2025-04-01
+Hove stasjon;station;Hove stasjon;no data;61,1393, 10,4224;2018-10-01;2025-04-01
+Sel stasjon;station;Sel stasjon;no data;61,8354, 9,4381;2018-10-01;2025-04-01
+Brennhaug stasjon;station;Brennhaug stasjon;no data;61,9211, 9,3325;2018-10-01;2025-04-01
+Lesja stasjon;station;Lesja stasjon;no data;62,1187, 8,8539;2018-10-01;2025-04-01
+Verma stasjon;station;Verma stasjon;no data;62,347, 8,0586;2018-10-01;2025-04-01
+Marstein stasjon;station;Marstein stasjon;no data;62,4475, 7,8335;2018-10-01;2025-04-01
+Rudstad stasjon;station;Rudstad stasjon;no data;61,0131, 11,3972;2018-10-01;2025-04-01
+GlÕmos stasjon;station;GlÕmos stasjon;no data;62,6745, 11,4164;2018-10-01;2025-04-01
+Haltdalen stasjon;station;Haltdalen stasjon;no data;62,9285, 11,1443;2018-10-01;2025-04-01
+SingsÕs stasjon;station;SingsÕs stasjon;no data;62,9562, 10,7289;2018-10-01;2025-04-01
+Melhus stasjon;station;Melhus stasjon;no data;63,2895, 10,273;2018-10-01;2025-04-01
+Nypan stasjon;station;Nypan stasjon;no data;63,3166, 10,3369;2018-10-01;2025-04-01
+Vikhammer stasjon;station;Vikhammer stasjon;no data;63,4389, 10,6235;2018-10-01;2025-04-01
+Gudå stasjon;station;Gudå stasjon;no data;63,4438, 11,618;2018-10-01;2025-04-01
+Bergsgrav stasjon;station;Bergsgrav stasjon;no data;63,7713, 11,4713;2018-10-01;2025-04-01
+Mære stasjon;station;Mære stasjon;no data;63,9356, 11,4208;2018-10-01;2025-04-01
+Stod stasjon;station;Stod stasjon;no data;64,1201, 11,7338;2018-10-01;2025-04-01
+Starrgrasmyra stasjon;station;Starrgrasmyra stasjon;no data;64,1889, 12,1921;2018-10-01;2025-04-01
+Eiterstraum stasjon;station;Eiterstraum stasjon;no data;65,7024, 13,2419;2018-10-01;2025-04-01
+Bjerka stasjon;station;Bjerka stasjon;no data;66,1497, 13,8319;2018-10-01;2025-04-01
+Skonseng stasjon;station;Skonseng stasjon;no data;66,3619, 14,3448;2018-10-01;2025-04-01
+Ïrtfjell stasjon;station;Ïrtfjell stasjon;no data;66,399, 14,6986;2018-10-01;2025-04-01
+Bolna stasjon;station;Bolna stasjon;no data;66,4937, 15,2388;2018-10-01;2025-04-01
+Oteråga stasjon;station;Oteråga stasjon;no data;67,2993, 14,8713;2018-10-01;2025-04-01
+Stabekk stasjon;station;Stabekk stasjon;no data;59,9081, 10,6071;2018-10-01;2025-04-01
+Kobbervik stasjon;station;Kobbervik stasjon;no data;59,6884, 10,243;2018-10-01;2025-04-01
+Smørstein stasjon;station;Smørstein stasjon;no data;59,5268, 10,2635;2018-10-01;2025-04-01
+Stokke stasjon;station;Stokke stasjon;no data;59,2214, 10,3003;2018-10-01;2025-04-01
+Brevik stasjon (NEDLAGT);station;Brevik stasjon (NEDLAGT);no data;59,0568, 9,6884;2018-10-01;2025-04-01
+Daler stasjon;station;Daler stasjon;no data;59,7481, 10,0797;2018-10-01;2025-04-01
+Krekling stasjon;station;Krekling stasjon;no data;59,6693, 9,767;2018-10-01;2025-04-01
+Saggrenda stasjon;station;Saggrenda stasjon;no data;59,633, 9,6051;2018-10-01;2025-04-01
+Meheia stasjon;station;Meheia stasjon;no data;59,6301, 9,501;2018-10-01;2025-04-01
+Ïysteinstul stasjon;station;Ïysteinstul stasjon;no data;59,5659, 9,3849;2018-10-01;2025-04-01
+Veme stasjon;station;Veme stasjon;no data;60,2066, 10,0926;2018-10-01;2025-04-01
+Neslandsvatn stasjon;station;Neslandsvatn stasjon;NO02105;58,9713, 9,1561;2018-10-01;2025-04-01
+Gjerstad stasjon;station;Gjerstad stasjon;NO02107;58,8701, 9,0231;2018-10-01;2025-04-01
+Vegårshei stasjon;station;Vegårshei stasjon;NO02110;58,7609, 8,8554;2018-10-01;2025-04-01
+Selåsvatn stasjon;station;Selåsvatn stasjon;NO02112;58,6912, 8,7263;2018-10-01;2025-04-01
+Nelaug stasjon;station;Nelaug stasjon;NO02113;58,6576, 8,6301;2018-10-01;2025-04-01
+Helldalsmo stasjon;station;Helldalsmo stasjon;NO02114;58,6286, 8,5235;2018-10-01;2025-04-01
+Herefoss stasjon;station;Herefoss stasjon;NO02117;58,5359, 8,3522;2018-10-01;2025-04-01
+Fidjetun stasjon;station;Fidjetun stasjon;NO02118;58,5227, 8,2342;2018-10-01;2025-04-01
+Oggevatn stasjon;station;Oggevatn stasjon;NO02119;58,4441, 8,1113;2018-10-01;2025-04-01
+Vennesla stasjon;station;Vennesla stasjon;NO02124;58,253, 7,9678;2018-10-01;2025-04-01
+Langemyr stasjon;station;Langemyr stasjon;NO02126;58,1795, 7,9388;2018-10-01;2025-04-01
+Kristiansand stasjon;station;Kristiansand stasjon;NO02130;58,1457, 7,9882;2018-10-01;2025-04-01
+Nodeland stasjon;station;Nodeland stasjon;NO02175;58,1572, 7,8351;2018-10-01;2025-04-01
+Breland stasjon;station;Breland stasjon;NO02176;58,1996, 7,7196;2018-10-01;2025-04-01
+Marnardal stasjon;station;Marnardal stasjon;NO02178;58,2128, 7,5123;2018-10-01;2025-04-01
+Audnedal stasjon;station;Audnedal stasjon;NO02180;58,3189, 7,3671;2018-10-01;2025-04-01
+Snartemo stasjon;station;Snartemo stasjon;NO02181;58,3316, 7,2111;2018-10-01;2025-04-01
+Sandvatn stasjon;station;Sandvatn stasjon;NO02182;58,3678, 7,0179;2018-10-01;2025-04-01
+Gyland stasjon;station;Gyland stasjon;NO02184;58,3842, 6,8375;2018-10-01;2025-04-01
+Bjørkevoll stasjon;station;Bjørkevoll stasjon;NO02185;58,4095, 6,7367;2018-10-01;2025-04-01
+Sira stasjon;station;Sira stasjon;NO02203;58,4176, 6,6607;2018-10-01;2025-04-01
+Moi stasjon;station;Moi stasjon;NO02204;58,4582, 6,5514;2018-10-01;2025-04-01
+Helleland stasjon;station;Helleland stasjon;NO02209;58,5337, 6,155;2018-10-01;2025-04-01
+Egersund stasjon;station;Egersund stasjon;NO02212;58,4614, 6,0024;2018-10-01;2025-04-01
+Arendal stasjon;station;Arendal stasjon;NO02146;58,465, 8,7696;2018-10-01;2025-04-01
+Hellvik stasjon;station;Hellvik stasjon;NO02214;58,4859, 5,8974;2018-10-01;2025-04-01
+Ogna stasjon;station;Ogna stasjon;NO02217;58,5197, 5,8033;2018-10-01;2025-04-01
+Brusand stasjon;station;Brusand stasjon;NO02218;58,5405, 5,7489;2018-10-01;2025-04-01
+Vigrestad stasjon;station;Vigrestad stasjon;NO02219;58,5703, 5,6873;2018-10-01;2025-04-01
+Varhaug stasjon;station;Varhaug stasjon;NO02220;58,6182, 5,6465;2018-10-01;2025-04-01
+Nærbø stasjon;station;Nærbø stasjon;NO02221;58,6655, 5,6403;2018-10-01;2025-04-01
+Bryne stasjon;station;Bryne stasjon;NO02223;58,7348, 5,6494;2018-10-01;2025-04-01
+Klepp stasjon;station;Klepp stasjon;NO02224;58,7716, 5,678;2018-10-01;2025-04-01
+Ganddal stasjon;station;Ganddal stasjon;NO02225;58,8232, 5,717;2018-10-01;2025-04-01
+Stavanger stasjon;station;Stavanger stasjon;NO02234;58,9662, 5,7328;2018-10-01;2025-04-01
+Gulsvik stasjon;station;Gulsvik stasjon;NO02306;60,3831, 9,6058;2018-10-01;2025-04-01
+Flå stasjon;station;Flå stasjon;NO02307;60,4321, 9,4734;2018-10-01;2025-04-01
+Nesbyen stasjon;station;Nesbyen stasjon;NO02313;60,5768, 9,1132;2018-10-01;2025-04-01
+Gol stasjon;station;Gol stasjon;NO02315;60,6991, 8,9714;2018-10-01;2025-04-01
+Torpo stasjon;station;Torpo stasjon;NO02316;60,6597, 8,7161;2018-10-01;2025-04-01
+┼l stasjon;station;┼l stasjon;NO02317;60,6263, 8,5624;2018-10-01;2025-04-01
+Geilo stasjon;station;Geilo stasjon;NO02319;60,5347, 8,2066;2018-10-01;2025-04-01
+Ustaoset stasjon;station;Ustaoset stasjon;NO02320;60,4964, 8,0451;2018-10-01;2025-04-01
+Haugastøl stasjon;station;Haugastøl stasjon;NO02321;60,5114, 7,87;2018-10-01;2025-04-01
+Finse stasjon;station;Finse stasjon;NO02322;60,6019, 7,504;2018-10-01;2025-04-01
+Hallingskeid stasjon;station;Hallingskeid stasjon;NO02323;60,668, 7,2523;2018-10-01;2025-04-01
+Myrdal stasjon;station;Myrdal stasjon;NO02324;60,7353, 7,123;2018-10-01;2025-04-01
+Mjølfjell stasjon;station;Mjølfjell stasjon;NO02326;60,6941, 6,8404;2018-10-01;2025-04-01
+Reimegrend stasjon;station;Reimegrend stasjon;NO02327;60,6781, 6,7308;2018-10-01;2025-04-01
+Berekvam stasjon;station;Berekvam stasjon;NO02359;60,7882, 7,0958;2018-10-01;2025-04-01
+Urdland stasjon;station;Urdland stasjon;NO02328;60,6795, 6,5931;2018-10-01;2025-04-01
+Voss stasjon;station;Voss stasjon;NO02330;60,6292, 6,4104;2018-10-01;2025-04-01
+Bulken stasjon;station;Bulken stasjon;NO02331;60,6306, 6,2844;2018-10-01;2025-04-01
+Evanger stasjon;station;Evanger stasjon;NO02333;60,647, 6,1095;2018-10-01;2025-04-01
+Bolstadøyri stasjon;station;Bolstadøyri stasjon;NO02334;60,6378, 5,9579;2018-10-01;2025-04-01
+Dale stasjon;station;Dale stasjon;NO02335;60,5863, 5,8161;2018-10-01;2025-04-01
+Stanghelle stasjon;station;Stanghelle stasjon;NO02336;60,5489, 5,7331;2018-10-01;2025-04-01
+Vaksdal stasjon;station;Vaksdal stasjon;NO02337;60,4787, 5,7355;2018-10-01;2025-04-01
+Trengereid stasjon;station;Trengereid stasjon;NO02339;60,4291, 5,6246;2018-10-01;2025-04-01
+Tesoma;passenger stop;Tesoma;FI01359;61,5034, 23,6303;1970-01-01;3100-12-31
+Varkaus_V140;switch;Varkaus_V140;FI99949;62,3275, 27,8345;1970-01-01;3100-12-31
+Varkaus_V141;switch;Varkaus_V141;FI99951;62,3087, 27,8587;1970-01-01;3100-12-31
+Siilinjärvi_R662;junction;Siilinjärvi_R662;FI99952;63,085, 27,6631;1970-01-01;3100-12-31
+Siilinjärvi_R683;junction;Siilinjärvi_R683;FI99953;63,1018, 27,7294;1970-01-01;3100-12-31
+Kerava_R660;junction;Kerava_R660;FI99954;60,4158, 25,1147;1970-01-01;3100-12-31
+Riihimäki_R702;junction;Riihimäki_R702;FI99955;60,7592, 24,7832;1970-01-01;3100-12-31
+Kokkola_V561;switch;Kokkola_V561;FI99957;63,8127, 23,1038;1970-01-01;3100-12-31
+Kotka_V257;switch;Kotka_V257;FI99958;60,4683, 26,92;1970-01-01;3100-12-31
+Kotka_V001;switch;Kotka_V001;FI99959;60,494, 26,9124;1970-01-01;3100-12-31
+Kouvola_V644;switch;Kouvola_V644;FI99960;60,8493, 26,7615;1970-01-01;3100-12-31
+Kouvola_V464;switch;Kouvola_V464;FI99961;60,8683, 26,7479;1970-01-01;3100-12-31
+Pieksämäki_R453;junction;Pieksämäki_R453;FI99962;62,3336, 27,1821;1970-01-01;3100-12-31
+Pieksämäki_V460;switch;Pieksämäki_V460;FI99963;62,3418, 27,1879;1970-01-01;3100-12-31
+Pieksämäki_V431;switch;Pieksämäki_V431;FI99964;62,3221, 27,1752;1970-01-01;3100-12-31
+Pieksämäki_V415;switch;Pieksämäki_V415;FI99965;62,3174, 27,1727;1970-01-01;3100-12-31
+Joensuu_V101;switch;Joensuu_V101;FI99966;62,6092, 29,7787;1970-01-01;3100-12-31
+Murtomäki_R962;junction;Murtomäki_R962;FI99967;64,0725, 27,5927;1970-01-01;3100-12-31
+Kontiomäki_R934;junction;Kontiomäki_R934;FI99968;64,3616, 28,102;1970-01-01;3100-12-31
+Kemijärvi_R936;junction;Kemijärvi_R936;FI99969;66,7171, 27,4063;1970-01-01;3100-12-31
+Tornio_R742;junction;Tornio_R742;FI99970;65,852, 24,1695;1970-01-01;3100-12-31
+Tuomioja_R530;junction;Tuomioja_R530;FI99971;64,6041, 25,0205;1970-01-01;3100-12-31
+Pännäinen_R855;junction;Pännäinen_R855;FI99972;63,5924, 22,7772;1970-01-01;3100-12-31
+Riihimäki_R060;junction;Riihimäki_R060;FI99973;60,7437, 24,7833;1970-01-01;3100-12-31
+Mäntyluoto_V911;switch;Mäntyluoto_V911;FI99974;61,5773, 21,5438;1970-01-01;3100-12-31
+Arna stasjon;station;Arna stasjon;NO02342;60,4202, 5,466;2018-10-01;2025-04-01
+Bergen stasjon;station;Bergen stasjon;NO02351;60,3902, 5,3333;2018-10-01;2025-04-01
+Narvik stasjon;station;Narvik stasjon;NO02402;68,4418, 17,441;2018-10-01;2025-04-01
+Straumsnes stasjon;station;Straumsnes stasjon;NO02403;68,4338, 17,6563;2018-10-01;2025-04-01
+Rombak stasjon;station;Rombak stasjon;NO02404;68,4036, 17,7908;2018-10-01;2025-04-01
+Katterat stasjon;station;Katterat stasjon;NO02405;68,3974, 17,9651;2018-10-01;2025-04-01
+Bjørnfjell stasjon;station;Bjørnfjell stasjon;NO02406;68,4321, 18,0709;2018-10-01;2025-04-01
+Lyser stasjon;station;Lyser stasjon;no data;58,9141, 9,1057;2018-10-01;2025-04-01
+Skorstøl stasjon;station;Skorstøl stasjon;no data;58,7884, 9,0209;2018-10-01;2025-04-01
+Grovane stasjon;station;Grovane stasjon;no data;58,2951, 7,9803;2018-10-01;2025-04-01
+Dalane stasjon;station;Dalane stasjon;no data;58,1626, 7,9519;2018-10-01;2025-04-01
+Heskestad stasjon;station;Heskestad stasjon;no data;58,4736, 6,3637;2018-10-01;2025-04-01
+Ualand stasjon;station;Ualand stasjon;no data;58,5287, 6,3433;2018-10-01;2025-04-01
+Sandnes stasjon;station;Sandnes stasjon;no data;58,8475, 5,7339;2018-10-01;2025-04-01
+Ganddal godsterminal;station;Ganddal godsterminal;no data;58,8001, 5,7047;2018-10-01;2025-04-01
+Trolldalen stasjon;station;Trolldalen stasjon;no data;60,303, 9,6834;2018-10-01;2025-04-01
+Bergheim stasjon;station;Bergheim stasjon;no data;60,4761, 9,2482;2018-10-01;2025-04-01
+Hol stasjon;station;Hol stasjon;no data;60,5759, 8,3669;2018-10-01;2025-04-01
+Tunga stasjon;station;Tunga stasjon;no data;60,5514, 7,692;2018-10-01;2025-04-01
+Fagernut stasjon;station;Fagernut stasjon;no data;60,6321, 7,3838;2018-10-01;2025-04-01
+Flåm stasjon;station;Flåm stasjon;no data;60,8629, 7,1132;2018-10-01;2025-04-01
+København H;station;København H;no data;55,6727, 12,5657;2022-01-04;2032-01-04
+Valby;passenger stop;Valby;no data;55,6637, 12,5145;2022-01-04;2032-01-04
+Hvidovre Fjern;junction;Hvidovre Fjern;no data;55,6646, 12,4609;2022-01-04;2032-01-04
+Glostrup;station;Glostrup;no data;55,6629, 12,399;2022-01-04;2032-01-04
+Høje Taastrup;station;Høje Taastrup;no data;55,6485, 12,2698;2022-01-04;2032-01-04
+Hedehusene;passenger stop;Hedehusene;no data;55,6486, 12,1971;2022-01-04;2032-01-04
+Trekroner;passenger stop;Trekroner;no data;55,6478, 12,1325;2022-01-04;2032-01-04
+Høje Taastrup kombiterminal;freight terminal;Høje Taastrup kombiterminal;no data;55,6393, 12,2503;2022-01-04;2032-01-04
+Roskilde;station;Roskilde;no data;55,6391, 12,089;2022-01-04;2032-01-04
+Viby Sjælland;station;Viby Sjælland;no data;55,5497, 12,0244;2022-01-04;2032-01-04
+Borup;station;Borup;no data;55,4947, 11,9723;2022-01-04;2032-01-04
+Kværkeby;junction;Kværkeby;no data;55,4512, 11,8993;2022-01-04;2032-01-04
+Ringsted;station;Ringsted;no data;55,4382, 11,7866;2022-01-04;2032-01-04
+Fjenneslev;junction;Fjenneslev;no data;55,4421, 11,6692;2022-01-04;2032-01-04
+Sorø;station;Sorø;no data;55,4191, 11,5693;2022-01-04;2032-01-04
+Slagelse;station;Slagelse;no data;55,4074, 11,3489;2022-01-04;2032-01-04
+Forlev;junction;Forlev;no data;55,3749, 11,2578;2022-01-04;2032-01-04
+Korsør;station;Korsør;no data;55,3571, 11,1352;2022-01-04;2032-01-04
+Sprogø;junction;Sprogø;no data;55,3311, 10,9601;2022-01-04;2032-01-04
+Nyborg;station;Nyborg;no data;55,3138, 10,8031;2022-01-04;2032-01-04
+Næstved;station;Næstved;no data;55,2313, 11,7673;2022-01-04;2032-01-04
+Lundby;station;Lundby;no data;55,1096, 11,8703;2022-01-04;2032-01-04
+Vordingborg;station;Vordingborg;no data;55,0127, 11,9;2022-01-04;2032-01-04
+Masnedø;junction;Masnedø;no data;54,9824, 11,8945;2022-01-04;2032-01-04
+Orehoved;junction;Orehoved;no data;54,939, 11,8681;2022-01-04;2032-01-04
+Nørre Alslev;passenger stop;Nørre Alslev;no data;54,8967, 11,8857;2022-01-04;2032-01-04
+Eskilstrup;station;Eskilstrup;no data;54,8562, 11,8854;2022-01-04;2032-01-04
+Tingsted;junction;Tingsted;no data;54,8196, 11,8855;2021-07-01;2031-07-01
+Nykøbing Falster;station;Nykøbing Falster;no data;54,767, 11,8777;2022-01-04;2032-01-04
+Kildebrønde;junction;Kildebrønde;no data;55,6023, 12,2855;2022-01-04;2032-01-04
+Jersie Fjern;junction;Jersie Fjern;no data;55,5216, 12,186;2022-01-04;2032-01-04
+Køge Nord;station;Køge Nord;no data;55,5, 12,1725;2022-01-04;2032-01-04
+Lellinge;junction;Lellinge;no data;55,4805, 12,124;2022-01-04;2032-01-04
+Bjæverskov;junction;Bjæverskov;no data;55,4637, 12,0265;2022-01-04;2032-01-04
+Avedøre Havnevej;junction;Avedøre Havnevej;no data;55,648, 12,45;2022-01-04;2032-01-04
+Glumsø;passenger stop;Glumsø;no data;55,3513, 11,6973;2022-01-04;2032-01-04
+Djupvik stasjon;station;Djupvik stasjon;no data;68,4489, 17,5438;2018-10-01;2025-04-01
+Nykøbing Falster Vest;junction;Nykøbing Falster Vest;no data;54,7565, 11,8571;2022-01-04;2032-01-04
+Rødby Øst;junction;Rødby Øst;no data;54,6657, 11,3807;2022-01-04;2032-01-04
+Rødby Færge;station;Rødby Færge;no data;54,6551, 11,3556;2022-01-04;2032-01-04
+Væggerløse;junction;Væggerløse;no data;54,7165, 11,9143;2022-01-04;2032-01-04
+Fiskebæk;junction;Fiskebæk;no data;54,6433, 11,9026;2022-01-04;2032-01-04
+Gedser;station;Gedser;no data;54,5791, 11,9253;2022-01-04;2032-01-04
+Gadstrup;station;Gadstrup;no data;55,5729, 12,0996;2022-01-04;2032-01-04
+Havdrup;station;Havdrup;no data;55,5436, 12,1172;2022-01-04;2032-01-04
+Lille Skensved;station;Lille Skensved;no data;55,5115, 12,1405;2022-01-04;2032-01-04
+Ølby;passenger stop;Ølby;no data;55,4806, 12,1748;2022-01-04;2032-01-04
+Køge;station;Køge;no data;55,4573, 12,1869;2022-01-04;2032-01-04
+Herfølge;station;Herfølge;no data;55,4177, 12,1371;2022-01-04;2032-01-04
+Tureby;station;Tureby;no data;55,3733, 12,076;2022-01-04;2032-01-04
+Haslev;station;Haslev;no data;55,3295, 11,961;2022-01-04;2032-01-04
+Holme-Olstrup;station;Holme-Olstrup;no data;55,2611, 11,8487;2022-01-04;2032-01-04
+Næstved Nord;passenger stop;Næstved Nord;no data;55,2482, 11,7867;2022-01-04;2032-01-04
+Lejre;station;Lejre;no data;55,6045, 11,9712;2022-01-04;2032-01-04
+Hvalsø;station;Hvalsø;no data;55,5953, 11,8598;2022-01-04;2032-01-04
+Tølløse;station;Tølløse;no data;55,612, 11,7731;2022-01-04;2032-01-04
+Vipperød;station;Vipperød;no data;55,6669, 11,7388;2022-01-04;2032-01-04
+Holbæk;station;Holbæk;no data;55,7156, 11,7082;2022-01-04;2032-01-04
+Regstrup;station;Regstrup;no data;55,6776, 11,6127;2022-01-04;2032-01-04
+Knabstrup;passenger stop;Knabstrup;no data;55,6648, 11,5533;2022-01-04;2032-01-04
+Mørkøv;station;Mørkøv;no data;55,6545, 11,5018;2022-01-04;2032-01-04
+Jyderup;station;Jyderup;no data;55,6603, 11,3979;2022-01-04;2032-01-04
+Svebølle;station;Svebølle;no data;55,6521, 11,2925;2022-01-04;2032-01-04
+Værslev;junction;Værslev;no data;55,6699, 11,2074;2022-01-04;2032-01-04
+Kalundborg;station;Kalundborg;no data;55,6777, 11,0893;2022-01-04;2032-01-04
+København G;junction;København G;no data;55,6533, 12,535;2022-01-04;2032-01-04
+Vigerslev;junction;Vigerslev;no data;55,6616, 12,494;2022-01-04;2032-01-04
+Ny Ellebjerg;passenger stop;Ny Ellebjerg;no data;55,653, 12,515;2022-01-04;2032-01-04
+Svanemøllen;junction;Svanemøllen;no data;55,717, 12,5705;2022-01-04;2032-01-04
+Østerport;junction;Østerport;no data;55,6999, 12,5923;2022-01-04;2032-01-04
+Fredensborg;station;Fredensborg;no data;55,9771, 12,4069;2022-01-04;2032-01-04
+Langerød;passenger stop;Langerød;no data;55,9813, 12,4522;2022-01-04;2032-01-04
+Kvistgård;passenger stop;Kvistgård;no data;55,9905, 12,5026;2022-01-04;2032-01-04
+Mørdrup;passenger stop;Mørdrup;no data;56,002, 12,5321;2022-01-04;2032-01-04
+København H;station;København H;no data;55,6727, 12,5657;2022-01-04;2032-01-04
+Østerport;station;Østerport;no data;55,6937, 12,5899;2022-01-04;2032-01-04
+Helgoland;junction;Helgoland;no data;55,7121, 12,587;2022-01-04;2032-01-04
+Nørreport;passenger stop;Nørreport;no data;55,6837, 12,5726;2022-01-04;2032-01-04
+Hellerup;station;Hellerup;no data;55,7311, 12,5673;2022-01-04;2032-01-04
+Klampenborg;station;Klampenborg;no data;55,7767, 12,5888;2022-01-04;2032-01-04
+Skodsborg;station;Skodsborg;no data;55,8235, 12,5717;2022-01-04;2032-01-04
+Vedbæk;passenger stop;Vedbæk;no data;55,8527, 12,5625;2022-01-04;2032-01-04
+Rungsted Kyst;station;Rungsted Kyst;no data;55,8823, 12,5317;2022-01-04;2032-01-04
+Kokkedal;passenger stop;Kokkedal;no data;55,9036, 12,5023;2022-01-04;2032-01-04
+Nivå;station;Nivå;no data;55,9334, 12,5064;2022-01-04;2032-01-04
+Humlebæk;passenger stop;Humlebæk;no data;55,9635, 12,5328;2022-01-04;2032-01-04
+Espergærde;passenger stop;Espergærde;no data;55,9959, 12,5498;2022-01-04;2032-01-04
+Snekkersten;station;Snekkersten;no data;56,0094, 12,5839;2022-01-04;2032-01-04
+Helsingør;station;Helsingør;no data;56,0333, 12,6141;2022-01-04;2032-01-04
+Bavnehøj;junction;Bavnehøj;no data;55,6573, 12,5394;2022-01-04;2032-01-04
+Kalvebod;junction;Kalvebod;no data;55,64, 12,5498;2022-01-04;2032-01-04
+Ørestad;passenger stop;Ørestad;no data;55,6284, 12,5792;2022-01-04;2032-01-04
+Tårnby;passenger stop;Tårnby;no data;55,6297, 12,6018;2022-01-04;2032-01-04
+Københavns Lufthavn Kastrup;station;Københavns Lufthavn Kastrup;no data;55,6296, 12,6522;2022-01-04;2032-01-04
+Fruens Bøge;station;Fruens Bøge;no data;55,3697, 10,3775;2022-01-04;2032-01-04
+Hjallese;passenger stop;Hjallese;no data;55,3582, 10,3927;2022-01-04;2032-01-04
+Højby;station;Højby;no data;55,3302, 10,434;2022-01-04;2032-01-04
+Årslev;station;Årslev;no data;55,3013, 10,466;2022-01-04;2032-01-04
+Kalundborg Øst;passenger stop;Kalundborg Øst;no data;55,676, 11,124;2022-01-04;2032-01-04
+Pederstrup;passenger stop;Pederstrup;no data;55,2838, 10,486;2022-01-04;2032-01-04
+Ringe;station;Ringe;no data;55,2395, 10,4818;2022-01-04;2032-01-04
+Rudme;passenger stop;Rudme;no data;55,1983, 10,4875;2022-01-04;2032-01-04
+Kværndrup;station;Kværndrup;no data;55,1781, 10,5188;2022-01-04;2032-01-04
+Stenstrup;station;Stenstrup;no data;55,1322, 10,509;2022-01-04;2032-01-04
+Stenstrup Syd;passenger stop;Stenstrup Syd;no data;55,1201, 10,5152;2022-01-04;2032-01-04
+Svendborg Vest;passenger stop;Svendborg Vest;no data;55,0559, 10,5819;2022-01-04;2032-01-04
+Svendborg;station;Svendborg;no data;55,0589, 10,612;2022-01-04;2032-01-04
+Hjulby;junction;Hjulby;no data;55,3378, 10,7366;2022-01-04;2032-01-04
+Ullerslev;junction;Ullerslev;no data;55,3544, 10,6655;2022-01-04;2032-01-04
+Langeskov;passenger stop;Langeskov;no data;55,3617, 10,5869;2022-01-04;2032-01-04
+Marslev;junction;Marslev;no data;55,3785, 10,5238;2022-01-04;2032-01-04
+Odense;station;Odense;no data;55,4025, 10,3853;2022-01-04;2032-01-04
+Holmstrup;station;Holmstrup;no data;55,3624, 10,273;2022-01-04;2032-01-04
+Tommerup;station;Tommerup;no data;55,3496, 10,1825;2022-01-04;2032-01-04
+Skalbjerg;passenger stop;Skalbjerg;no data;55,3661, 10,1412;2022-01-04;2032-01-04
+Bred;passenger stop;Bred;no data;55,3734, 10,1056;2022-01-04;2032-01-04
+Aarup;station;Aarup;no data;55,383, 10,0511;2022-01-04;2032-01-04
+Gelsted;passenger stop;Gelsted;no data;55,3965, 9,9741;2022-01-04;2032-01-04
+Ejby;station;Ejby;no data;55,4287, 9,9299;2022-01-04;2032-01-04
+Nørre Aaby;passenger stop;Nørre Aaby;no data;55,4603, 9,8704;2022-01-04;2032-01-04
+Kavslunde;station;Kavslunde;no data;55,476, 9,8105;2022-01-04;2032-01-04
+Middelfart;station;Middelfart;no data;55,5017, 9,7344;2022-01-04;2032-01-04
+Snoghøj;junction;Snoghøj;no data;55,5368, 9,7082;2022-01-04;2032-01-04
+Fredericia;station;Fredericia;no data;55,5683, 9,7402;2022-01-04;2032-01-04
+Fredericia godsstation;junction;Fredericia godsstation;no data;55,5625, 9,7427;2022-01-04;2032-01-04
+Børkop;station;Børkop;no data;55,6421, 9,652;2022-01-04;2032-01-04
+Brejning;passenger stop;Brejning;no data;55,6669, 9,6595;2022-01-04;2032-01-04
+Vejle;station;Vejle;no data;55,7067, 9,5368;2022-01-04;2032-01-04
+Hedensted;station;Hedensted;no data;55,7677, 9,6988;2022-01-04;2032-01-04
+Horsens;station;Horsens;no data;55,8623, 9,8358;2022-01-04;2032-01-04
+Hovedgård;junction;Hovedgård;no data;55,9459, 9,9629;2022-01-04;2032-01-04
+Skanderborg;station;Skanderborg;no data;56,0435, 9,9249;2022-01-04;2032-01-04
+Hørning;station;Hørning;no data;56,0821, 10,0378;2022-01-04;2032-01-04
+Viby Jylland;passenger stop;Viby Jylland;no data;56,1219, 10,1595;2022-01-04;2032-01-04
+Aarhus H;station;Aarhus H;no data;56,1501, 10,2048;2022-01-04;2032-01-04
+Brabrand;junction;Brabrand;no data;56,1543, 10,1043;2022-01-04;2032-01-04
+Mundelstrup;junction;Mundelstrup;no data;56,1926, 10,0835;2022-01-04;2032-01-04
+Hinnerup;station;Hinnerup;no data;56,2632, 10,0596;2022-01-04;2032-01-04
+Hadsten;station;Hadsten;no data;56,3268, 10,0485;2022-01-04;2032-01-04
+Langå;station;Langå;no data;56,3869, 9,8966;2022-01-04;2032-01-04
+Stevnstrup;junction;Stevnstrup;no data;56,433, 9,9573;2022-01-04;2032-01-04
+Randers;station;Randers;no data;56,4617, 10,022;2022-01-04;2032-01-04
+Fårup;junction;Fårup;no data;56,5464, 9,8453;2022-01-04;2032-01-04
+Hobro;station;Hobro;no data;56,6433, 9,7826;2022-01-04;2032-01-04
+Arden;passenger stop;Arden;no data;56,769, 9,8598;2022-01-04;2032-01-04
+Skørping;station;Skørping;no data;56,8358, 9,8873;2022-01-04;2032-01-04
+Støvring;passenger stop;Støvring;no data;56,8924, 9,8439;2022-01-04;2032-01-04
+Ellidshøj;junction;Ellidshøj;no data;56,9293, 9,8702;2022-01-04;2032-01-04
+Svenstrup Jylland;passenger stop;Svenstrup Jylland;no data;56,9724, 9,8563;2022-01-04;2032-01-04
+Skalborg;passenger stop;Skalborg;no data;57,0084, 9,8988;2022-01-04;2032-01-04
+Aalborg;station;Aalborg;no data;57,0429, 9,9169;2022-01-04;2032-01-04
+Aalborg Vestby;passenger stop;Aalborg Vestby;no data;57,0531, 9,9085;2022-01-04;2032-01-04
+Lindholm;station;Lindholm;no data;57,0648, 9,9085;2022-01-04;2032-01-04
+Sulsted;junction;Sulsted;no data;57,1676, 9,9462;2022-01-04;2032-01-04
+Brønderslev;station;Brønderslev;no data;57,2702, 9,9426;2022-01-04;2032-01-04
+Vrå;station;Vrå;no data;57,3547, 9,9422;2022-01-04;2032-01-04
+Hjørring;station;Hjørring;no data;57,4564, 9,986;2022-01-04;2032-01-04
+Sindal;station;Sindal;no data;57,4702, 10,2033;2022-01-04;2032-01-04
+Tolne;passenger stop;Tolne;no data;57,4858, 10,3121;2022-01-04;2032-01-04
+Kvissel;station;Kvissel;no data;57,472, 10,4127;2022-01-04;2032-01-04
+Frederikshavn;station;Frederikshavn;no data;57,4411, 10,5404;2022-01-04;2032-01-04
+Taulov;station;Taulov;no data;55,545, 9,6158;2022-01-04;2032-01-04
+Kolding;station;Kolding;no data;55,4906, 9,4814;2022-01-04;2032-01-04
+Taulov kombiterminal;freight terminal;Taulov kombiterminal;no data;55,5475, 9,6403;2022-01-04;2032-01-04
+Lunderskov;station;Lunderskov;no data;55,48, 9,3037;2022-01-04;2032-01-04
+Vamdrup;station;Vamdrup;no data;55,4281, 9,2866;2022-01-04;2032-01-04
+Farris;junction;Farris;no data;55,3855, 9,2702;2022-01-04;2032-01-04
+Sommersted;junction;Sommersted;no data;55,3139, 9,2872;2022-01-04;2032-01-04
+Vojens;station;Vojens;no data;55,2484, 9,3051;2022-01-04;2032-01-04
+Rødekro;station;Rødekro;no data;55,0692, 9,3328;2022-01-04;2032-01-04
+Tinglev;station;Tinglev;no data;54,9363, 9,2582;2022-01-04;2032-01-04
+Vejbæk;junction;Vejbæk;no data;54,8753, 9,3069;2022-01-04;2032-01-04
+Padborg;station;Padborg;no data;54,8235, 9,3592;2022-01-04;2032-01-04
+Padborg kombiterminal;freight terminal;Padborg kombiterminal;no data;54,8353, 9,3525;2022-01-04;2032-01-04
+Sønderborg;station;Sønderborg;no data;54,9145, 9,7722;2022-01-04;2032-01-04
+Gråsten;station;Gråsten;no data;54,9189, 9,5941;2022-01-04;2032-01-04
+Kliplev;passenger stop;Kliplev;no data;54,9351, 9,3988;2022-01-04;2032-01-04
+Vejen;station;Vejen;no data;55,4758, 9,1361;2022-01-04;2032-01-04
+Brørup;passenger stop;Brørup;no data;55,4828, 9,017;2022-01-04;2032-01-04
+Holsted;station;Holsted;no data;55,4848, 8,9142;2022-01-04;2032-01-04
+Gørding;passenger stop;Gørding;no data;55,4695, 8,7999;2022-01-04;2032-01-04
+Bramming;station;Bramming;no data;55,4645, 8,7067;2022-01-04;2032-01-04
+Tjæreborg;station;Tjæreborg;no data;55,4665, 8,5794;2022-01-04;2032-01-04
+Esbjerg;station;Esbjerg;no data;55,4672, 8,4585;2022-01-04;2032-01-04
+Esbjerg Havn;junction;Esbjerg Havn;no data;55,4637, 8,4464;2022-01-04;2032-01-04
+Sejstrup;passenger stop;Sejstrup;no data;55,4352, 8,7334;2022-01-04;2032-01-04
+Gredstedbro;station;Gredstedbro;no data;55,3974, 8,7412;2022-01-04;2032-01-04
+Ribe Nørremark;passenger stop;Ribe Nørremark;no data;55,3399, 8,7759;2022-01-04;2032-01-04
+Ribe;station;Ribe;no data;55,3276, 8,7702;2022-01-04;2032-01-04
+Hviding;passenger stop;Hviding;no data;55,2745, 8,7303;2022-01-04;2032-01-04
+Rejsby;passenger stop;Rejsby;no data;55,2301, 8,7321;2022-01-04;2032-01-04
+Brøns;passenger stop;Brøns;no data;55,1953, 8,7407;2022-01-04;2032-01-04
+Skærbæk;station;Skærbæk;no data;55,1588, 8,7714;2022-01-04;2032-01-04
+Døstrup Sønderjylland;passenger stop;Døstrup Sønderjylland;no data;55,1173, 8,808;2022-01-04;2032-01-04
+Bredebro;station;Bredebro;no data;55,0573, 8,8233;2022-01-04;2032-01-04
+Visby;passenger stop;Visby;no data;55,0088, 8,802;2022-01-04;2032-01-04
+Tønder Nord;passenger stop;Tønder Nord;no data;54,9391, 8,8611;2022-01-04;2032-01-04
+Tønder;station;Tønder;no data;54,9334, 8,8606;2022-01-04;2032-01-04
+Spangsbjerg;passenger stop;Spangsbjerg;no data;55,4926, 8,4608;2022-01-04;2032-01-04
+Gjesing;passenger stop;Gjesing;no data;55,5095, 8,4574;2022-01-04;2032-01-04
+Guldager;station;Guldager;no data;55,5361, 8,4403;2022-01-04;2032-01-04
+Varde Kaserne;passenger stop;Varde Kaserne;no data;55,6121, 8,4722;2022-01-04;2032-01-04
+Varde;station;Varde;no data;55,616, 8,4844;2022-01-04;2032-01-04
+Varde Nord;passenger stop;Varde Nord;no data;55,6309, 8,4999;2022-01-04;2032-01-04
+Sig;passenger stop;Sig;no data;55,6654, 8,577;2022-01-04;2032-01-04
+Tistrup;station;Tistrup;no data;55,7168, 8,5982;2022-01-04;2032-01-04
+Gårde;passenger stop;Gårde;no data;55,7655, 8,6116;2022-01-04;2032-01-04
+Ølgod;station;Ølgod;no data;55,811, 8,6227;2022-01-04;2032-01-04
+Tarm;passenger stop;Tarm;no data;55,9106, 8,52;2022-01-04;2032-01-04
+Skjern;station;Skjern;no data;55,9449, 8,4947;2022-01-04;2032-01-04
+Lem;station;Lem;no data;56,0251, 8,3859;2022-01-04;2032-01-04
+Ringkøbing;station;Ringkøbing;no data;56,093, 8,2501;2022-01-04;2032-01-04
+Hee;passenger stop;Hee;no data;56,1447, 8,287;2022-01-04;2032-01-04
+Tim;passenger stop;Tim;no data;56,1958, 8,3061;2022-01-04;2032-01-04
+Ulfborg;station;Ulfborg;no data;56,2717, 8,3251;2022-01-04;2032-01-04
+Vemb;station;Vemb;no data;56,3436, 8,3452;2022-01-04;2032-01-04
+Bur;passenger stop;Bur;no data;56,3677, 8,4274;2022-01-04;2032-01-04
+Holstebro;station;Holstebro;no data;56,3654, 8,6205;2022-01-04;2032-01-04
+Hjerm;station;Hjerm;no data;56,4388, 8,64;2022-01-04;2032-01-04
+Struer;station;Struer;no data;56,4918, 8,6007;2022-01-04;2032-01-04
+Ulstrup;station;Ulstrup;no data;56,3955, 9,7937;2022-01-04;2032-01-04
+Bjerringbro;station;Bjerringbro;no data;56,3742, 9,6582;2022-01-04;2032-01-04
+Rødkærsbro;station;Rødkærsbro;no data;56,3533, 9,498;2022-01-04;2032-01-04
+Rindsholm;junction;Rindsholm;no data;56,4028, 9,4319;2022-01-04;2032-01-04
+Viborg;station;Viborg;no data;56,4474, 9,3984;2022-01-04;2032-01-04
+Ravnstrup;junction;Ravnstrup;no data;56,4543, 9,2849;2022-01-04;2032-01-04
+Stoholm;station;Stoholm;no data;56,4874, 9,1503;2022-01-04;2032-01-04
+Højslev;station;Højslev;no data;56,5495, 9,1102;2022-01-04;2032-01-04
+Skive;station;Skive;no data;56,5615, 9,0254;2022-01-04;2032-01-04
+Rønbjerg;junction;Rønbjerg;no data;56,5349, 8,9319;2022-01-04;2032-01-04
+Vinderup;station;Vinderup;no data;56,4824, 8,7816;2022-01-04;2032-01-04
+Tvis;junction;Tvis;no data;56,3219, 8,7086;2022-01-04;2032-01-04
+Aulum;station;Aulum;no data;56,2652, 8,7882;2022-01-04;2032-01-04
+Vildbjerg;station;Vildbjerg;no data;56,1983, 8,7691;2022-01-04;2032-01-04
+Skibbild;junction;Skibbild;no data;56,1695, 8,8451;2022-01-04;2032-01-04
+Herning;station;Herning;no data;56,1327, 8,9789;2022-01-04;2032-01-04
+Kølkær;junction;Kølkær;no data;56,0671, 9,0822;2022-01-04;2032-01-04
+Fasterholt;junction;Fasterholt;no data;56,0121, 9,1119;2022-01-04;2032-01-04
+Brande;station;Brande;no data;55,9447, 9,1299;2022-01-04;2032-01-04
+Thyregod;station;Thyregod;no data;55,9087, 9,2523;2022-01-04;2032-01-04
+Give;station;Give;no data;55,8431, 9,2357;2022-01-04;2032-01-04
+Gadbjerg;junction;Gadbjerg;no data;55,7741, 9,3249;2022-01-04;2032-01-04
+Jelling;station;Jelling;no data;55,754, 9,4201;2022-01-04;2032-01-04
+Grejsdal;junction;Grejsdal;no data;55,746, 9,5373;2022-01-04;2032-01-04
+Vejle Sygehus;passenger stop;Vejle Sygehus;no data;55,715, 9,5368;2022-01-04;2032-01-04
+Humlum;passenger stop;Humlum;no data;56,5401, 8,5523;2022-01-04;2032-01-04
+Oddesund Nord;passenger stop;Oddesund Nord;no data;56,5826, 8,5469;2022-01-04;2032-01-04
+Uglev;passenger stop;Uglev;no data;56,6122, 8,5415;2022-01-04;2032-01-04
+Hvidbjerg;station;Hvidbjerg;no data;56,65, 8,5262;2022-01-04;2032-01-04
+Lyngs;passenger stop;Lyngs;no data;56,6643, 8,4508;2022-01-04;2032-01-04
+Ydby;passenger stop;Ydby;no data;56,7141, 8,3987;2022-01-04;2032-01-04
+Hurup Thy;station;Hurup Thy;no data;56,7512, 8,418;2022-01-04;2032-01-04
+Bedsted Thy;station;Bedsted Thy;no data;56,8066, 8,4076;2022-01-04;2032-01-04
+Hørdum;passenger stop;Hørdum;no data;56,8513, 8,4908;2022-01-04;2032-01-04
+Snedsted;station;Snedsted;no data;56,8923, 8,5272;2022-01-04;2032-01-04
+Sjørring;passenger stop;Sjørring;no data;56,9518, 8,5881;2022-01-04;2032-01-04
+Thisted;station;Thisted;no data;56,9527, 8,6882;2022-01-04;2032-01-04
+Alken;passenger stop;Alken;no data;56,0526, 9,8455;2022-01-04;2032-01-04
+Ry;station;Ry;no data;56,0912, 9,7586;2022-01-04;2032-01-04
+Laven;station;Laven;no data;56,1249, 9,7187;2022-01-04;2032-01-04
+Svejbæk;station;Svejbæk;no data;56,1328, 9,6365;2022-01-04;2032-01-04
+Silkeborg;station;Silkeborg;no data;56,164, 9,5442;2022-01-04;2032-01-04
+Funder;junction;Funder;no data;56,1363, 9,4659;2022-01-04;2032-01-04
+Engesvang;station;Engesvang;no data;56,1678, 9,3516;2022-01-04;2032-01-04
+Bording;station;Bording;no data;56,1468, 9,2785;2022-01-04;2032-01-04
+Ikast;station;Ikast;no data;56,1448, 9,1553;2022-01-04;2032-01-04
+Hammerum;station;Hammerum;no data;56,1318, 9,0632;2022-01-04;2032-01-04
+Birk Centerpark;passenger stop;Birk Centerpark;no data;56,1253, 9,0298;2022-01-04;2032-01-04
+Herning Messecenter;passenger stop;Herning Messecenter;no data;56,1236, 8,9444;2022-01-04;2032-01-04
+Studsgård;passenger stop;Studsgård;no data;56,0917, 8,9107;2022-01-04;2032-01-04
+Kibæk;station;Kibæk;no data;56,0326, 8,8534;2022-01-04;2032-01-04
+Troldhede;passenger stop;Troldhede;no data;55,9907, 8,7451;2022-01-04;2032-01-04
+Borris;station;Borris;no data;55,9584, 8,6444;2022-01-04;2032-01-04
+Østbanetorvet;station;Østbanetorvet;no data;56,1632, 10,2166;2022-01-04;2032-01-04
+Torsøvej;station;Torsøvej;no data;56,2051, 10,2287;2022-01-04;2032-01-04
+Lystrup;station;Lystrup;no data;56,231, 10,2349;2022-01-04;2032-01-04
+Hjortshøj;passenger stop;Hjortshøj;no data;56,2448, 10,269;2022-01-04;2032-01-04
+Skødstrup;station;Skødstrup;no data;56,2619, 10,3032;2022-01-04;2032-01-04
+Løgten;passenger stop;Løgten;no data;56,2759, 10,3175;2022-01-04;2032-01-04
+Hornslet;station;Hornslet;no data;56,3208, 10,3137;2022-01-04;2032-01-04
+Skolebakken;passenger stop;Skolebakken;no data;56,1572, 10,2132;2022-01-04;2032-01-04
+Mørke;passenger stop;Mørke;no data;56,3396, 10,3767;2022-01-04;2032-01-04
+Den Permanente;passenger stop;Den Permanente;no data;56,1772, 10,2312;2022-01-04;2032-01-04
+Ryomgård;station;Ryomgård;no data;56,3801, 10,5006;2022-01-04;2032-01-04
+Kolind;passenger stop;Kolind;no data;56,3628, 10,5886;2022-01-04;2032-01-04
+Vestre Strandallé;passenger stop;Vestre Strandallé;no data;56,195, 10,2368;2022-01-04;2032-01-04
+Trustrup;passenger stop;Trustrup;no data;56,3507, 10,7716;2022-01-04;2032-01-04
+Hovmarken;passenger stop;Hovmarken;no data;56,2341, 10,2554;2022-01-04;2032-01-04
+Grenaa;station;Grenaa;no data;56,4126, 10,8795;2022-01-04;2032-01-04
+Grenaa Havn;junction;Grenaa Havn;no data;56,4128, 10,906;2022-01-04;2032-01-04
+København H;station;København H;no data;55,6723, 12,5645;2022-01-04;2032-01-04
+Dybbølsbro;passenger stop;Dybbølsbro;no data;55,6656, 12,5599;2022-01-04;2032-01-04
+Skelbæk;junction;Skelbæk;no data;55,6644, 12,554;2022-01-04;2032-01-04
+Carlsberg;passenger stop;Carlsberg;no data;55,6634, 12,5359;2022-01-04;2032-01-04
+Valby;station;Valby;no data;55,6637, 12,5144;2022-01-04;2032-01-04
+Danshøj;passenger stop;Danshøj;no data;55,6643, 12,4936;2022-01-04;2032-01-04
+Glostrup;station;Glostrup;no data;55,6631, 12,3989;2022-01-04;2032-01-04
+Hvidovre Nær;passenger stop;Hvidovre Nær;no data;55,6645, 12,4765;2022-01-04;2032-01-04
+Rødovre;passenger stop;Rødovre;no data;55,6649, 12,4595;2022-01-04;2032-01-04
+Brøndbyøster;passenger stop;Brøndbyøster;no data;55,6651, 12,4416;2022-01-04;2032-01-04
+Albertslund;passenger stop;Albertslund;no data;55,6582, 12,3538;2022-01-04;2032-01-04
+Taastrup;station;Taastrup;no data;55,6525, 12,3025;2022-01-04;2032-01-04
+Høje Taastrup;station;Høje Taastrup;no data;55,649, 12,2697;2022-01-04;2032-01-04
+København H;station;København H;no data;55,6723, 12,5645;2022-01-04;2032-01-04
+Østerport;station;Østerport;no data;55,6938, 12,5892;2022-01-04;2032-01-04
+Vesterport;passenger stop;Vesterport;no data;55,6767, 12,5626;2022-01-04;2032-01-04
+Gødstrup;passenger stop;Gødstrup;no data;56,1588, 8,8935;2022-01-04;2032-01-04
+Hjørring Øst;passenger stop;Hjørring Øst;no data;57,4548, 10,0059;2022-01-04;2032-01-04
+Jægersborg;station;Jægersborg;no data;55,7618, 12,5217;2022-01-04;2032-01-04
+Fuglevad;station;Fuglevad;no data;55,7846, 12,4972;2022-01-04;2032-01-04
+Ørholm;station;Ørholm;no data;55,7999, 12,5109;2022-01-04;2032-01-04
+Nørgaardsvej;passenger stop;Nørgaardsvej;no data;55,7704, 12,5134;2022-01-04;2032-01-04
+Lyngby Lokal;passenger stop;Lyngby Lokal;no data;55,774, 12,5049;2022-01-04;2032-01-04
+Brede;passenger stop;Brede;no data;55,7945, 12,5007;2022-01-04;2032-01-04
+Ravnholm;passenger stop;Ravnholm;no data;55,8021, 12,5197;2022-01-04;2032-01-04
+Nærum;station;Nærum;no data;55,8141, 12,5281;2022-01-04;2032-01-04
+Brødeskov;station;Brødeskov;no data;55,8941, 12,2811;2022-01-04;2032-01-04
+Gørløse;station;Gørløse;no data;55,8867, 12,2035;2022-01-04;2032-01-04
+Skævinge;station;Skævinge;no data;55,9072, 12,1511;2022-01-04;2032-01-04
+Grimstrup;passenger stop;Grimstrup;no data;55,9154, 12,104;2022-01-04;2032-01-04
+Ølsted;station;Ølsted;no data;55,9226, 12,0749;2022-01-04;2032-01-04
+Kregme;station;Kregme;no data;55,934, 12,0476;2022-01-04;2032-01-04
+Lille Kregme;passenger stop;Lille Kregme;no data;55,9454, 12,0357;2022-01-04;2032-01-04
+Frederiksværk;station;Frederiksværk;no data;55,9677, 12,0195;2022-01-04;2032-01-04
+Hanehoved;passenger stop;Hanehoved;no data;55,9746, 12,0017;2022-01-04;2032-01-04
+Melby;station;Melby;no data;55,9919, 11,974;2022-01-04;2032-01-04
+Dyssekilde;station;Dyssekilde;no data;55,9859, 11,9454;2022-01-04;2032-01-04
+Østerbjerg;station;Østerbjerg;no data;55,978, 11,9169;2022-01-04;2032-01-04
+Vibehus;passenger stop;Vibehus;no data;55,9615, 11,875;2022-01-04;2032-01-04
+Hundested;station;Hundested;no data;55,962, 11,8531;2022-01-04;2032-01-04
+Hundested Havn;station;Hundested Havn;no data;55,9662, 11,8489;2022-01-04;2032-01-04
+Grønnehave;station;Grønnehave;no data;56,0403, 12,6109;2022-01-04;2032-01-04
+Højstrup;station;Højstrup;no data;56,0483, 12,5931;2022-01-04;2032-01-04
+Hellebæk;station;Hellebæk;no data;56,0665, 12,5541;2022-01-04;2032-01-04
+Ålsgårde;station;Ålsgårde;no data;56,075, 12,5381;2022-01-04;2032-01-04
+Saunte;station;Saunte;no data;56,077, 12,4849;2022-01-04;2032-01-04
+Hornbæk;station;Hornbæk;no data;56,0891, 12,4611;2022-01-04;2032-01-04
+Dronningmølle;station;Dronningmølle;no data;56,0976, 12,388;2022-01-04;2032-01-04
+Firhøj;station;Firhøj;no data;56,0983, 12,356;2022-01-04;2032-01-04
+Marienlyst;passenger stop;Marienlyst;no data;56,0433, 12,6033;2022-01-04;2032-01-04
+Skibstrup;passenger stop;Skibstrup;no data;56,0787, 12,5141;2022-01-04;2032-01-04
+Karinebæk;passenger stop;Karinebæk;no data;56,0822, 12,4703;2022-01-04;2032-01-04
+Horneby Sand;passenger stop;Horneby Sand;no data;56,0899, 12,4359;2022-01-04;2032-01-04
+Kildekrog;passenger stop;Kildekrog;no data;56,0925, 12,4239;2022-01-04;2032-01-04
+Slotspavillonen;station;Slotspavillonen;no data;55,9433, 12,3111;2022-01-04;2032-01-04
+Gribsø;passenger stop;Gribsø;no data;55,9876, 12,3017;2022-01-04;2032-01-04
+Kagerup;station;Kagerup;no data;55,9976, 12,2859;2022-01-04;2032-01-04
+Mårum;station;Mårum;no data;56,0306, 12,3172;2022-01-04;2032-01-04
+Saltrup;passenger stop;Saltrup;no data;56,0541, 12,3229;2022-01-04;2032-01-04
+Græsted Syd;passenger stop;Græsted Syd;no data;56,0633, 12,2956;2022-01-04;2032-01-04
+Græsted;station;Græsted;no data;56,072, 12,2876;2022-01-04;2032-01-04
+Pårup;passenger stop;Pårup;no data;56,1003, 12,3012;2022-01-04;2032-01-04
+Fjellenstrup;passenger stop;Fjellenstrup;no data;56,1159, 12,2985;2022-01-04;2032-01-04
+Gilleleje;station;Gilleleje;no data;56,1236, 12,3019;2022-01-04;2032-01-04
+Helsinge;station;Helsinge;no data;56,0232, 12,2051;2022-01-04;2032-01-04
+Laugø;passenger stop;Laugø;no data;56,0393, 12,1828;2022-01-04;2032-01-04
+Ørby;passenger stop;Ørby;no data;56,0552, 12,1633;2022-01-04;2032-01-04
+Vejby;station;Vejby;no data;56,0626, 12,1369;2022-01-04;2032-01-04
+Tisvildeleje;station;Tisvildeleje;no data;56,0595, 12,0785;2022-01-04;2032-01-04
+Holløse;passenger stop;Holløse;no data;56,0596, 12,1186;2022-01-04;2032-01-04
+Godhavn;passenger stop;Godhavn;no data;56,0599, 12,0978;2022-01-04;2032-01-04
+Mårsø;station;Mårsø;no data;55,7234, 11,6341;2022-01-04;2032-01-04
+Ny Hagested;passenger stop;Ny Hagested;no data;55,7287, 11,5957;2022-01-04;2032-01-04
+Gislinge;station;Gislinge;no data;55,7296, 11,5477;2022-01-04;2032-01-04
+Svinninge;station;Svinninge;no data;55,7234, 11,4683;2022-01-04;2032-01-04
+Hørve;station;Hørve;no data;55,7518, 11,4566;2022-01-04;2032-01-04
+Fårevejle;station;Fårevejle;no data;55,7875, 11,4695;2022-01-04;2032-01-04
+Asnæs;station;Asnæs;no data;55,8086, 11,4992;2022-01-04;2032-01-04
+Grevinge;station;Grevinge;no data;55,8028, 11,5509;2022-01-04;2032-01-04
+Vig;station;Vig;no data;55,8522, 11,5819;2022-01-04;2032-01-04
+Nørre Asmindrup;station;Nørre Asmindrup;no data;55,8828, 11,6068;2022-01-04;2032-01-04
+Sommerland Sjælland;passenger stop;Sommerland Sjælland;no data;55,8975, 11,6035;2022-01-04;2032-01-04
+Højby Sjælland;station;Højby Sjælland;no data;55,9102, 11,603;2022-01-04;2032-01-04
+Nyled;passenger stop;Nyled;no data;55,9224, 11,6533;2022-01-04;2032-01-04
+Nykøbing Sjælland;station;Nykøbing Sjælland;no data;55,9215, 11,6729;2022-01-04;2032-01-04
+Havrebjerg;station;Havrebjerg;no data;55,451, 11,3078;2022-01-04;2032-01-04
+Høng;station;Høng;no data;55,5071, 11,2858;2022-01-04;2032-01-04
+Ruds Vedby;station;Ruds Vedby;no data;55,5398, 11,3743;2022-01-04;2032-01-04
+Skellebjerg;station;Skellebjerg;no data;55,5381, 11,4488;2022-01-04;2032-01-04
+Dianalund;station;Dianalund;no data;55,534, 11,4992;2022-01-04;2032-01-04
+Vedde;passenger stop;Vedde;no data;55,5326, 11,5473;2022-01-04;2032-01-04
+Stenlille;station;Stenlille;no data;55,5392, 11,5905;2022-01-04;2032-01-04
+Nyrup;passenger stop;Nyrup;no data;55,5423, 11,6526;2022-01-04;2032-01-04
+Bagmarken;passenger stop;Bagmarken;no data;55,5443, 11,6846;2022-01-04;2032-01-04
+Store Merløse;station;Store Merløse;no data;55,545, 11,7113;2022-01-04;2032-01-04
+Kirke Eskilstrup;station;Kirke Eskilstrup;no data;55,5743, 11,7653;2022-01-04;2032-01-04
+Egøje;station;Egøje;no data;55,4245, 12,1899;2022-01-04;2032-01-04
+Vallø;station;Vallø;no data;55,4003, 12,1922;2022-01-04;2032-01-04
+Grubberholm;station;Grubberholm;no data;55,3812, 12,1995;2022-01-04;2032-01-04
+Himlingøje;passenger stop;Himlingøje;no data;55,3681, 12,2213;2022-01-04;2032-01-04
+Hårlev;station;Hårlev;no data;55,3519, 12,2275;2022-01-04;2032-01-04
+Lille Linde;passenger stop;Lille Linde;no data;55,3374, 12,2196;2022-01-04;2032-01-04
+Karise;station;Karise;no data;55,3074, 12,1966;2022-01-04;2032-01-04
+Tokkerup;passenger stop;Tokkerup;no data;55,2832, 12,1426;2022-01-04;2032-01-04
+Faxe Syd;station;Faxe Syd;no data;55,243, 12,1362;2022-01-04;2032-01-04
+Faxe Ladeplads;station;Faxe Ladeplads;no data;55,2183, 12,1609;2022-01-04;2032-01-04
+Klippinge;station;Klippinge;no data;55,3463, 12,3251;2022-01-04;2032-01-04
+Store Heddinge;station;Store Heddinge;no data;55,3094, 12,3857;2022-01-04;2032-01-04
+Rødvig;station;Rødvig;no data;55,2551, 12,3785;2022-01-04;2032-01-04
+Grænge;station;Grænge;no data;54,7743, 11,7645;2022-01-04;2032-01-04
+Sakskøbing;station;Sakskøbing;no data;54,7966, 11,6353;2022-01-04;2032-01-04
+Maribo;station;Maribo;no data;54,7768, 11,5016;2022-01-04;2032-01-04
+Ryde;station;Ryde;no data;54,7853, 11,371;2022-01-04;2032-01-04
+Søllested;station;Søllested;no data;54,8111, 11,2701;2022-01-04;2032-01-04
+Avnede;passenger stop;Avnede;no data;54,8293, 11,2143;2022-01-04;2032-01-04
+Nakskov;station;Nakskov;no data;54,8336, 11,1371;2022-01-04;2032-01-04
+Varde Vest;station;Varde Vest;no data;55,6243, 8,4757;2022-01-04;2032-01-04
+Janderup;station;Janderup;no data;55,6228, 8,3743;2022-01-04;2032-01-04
+Billum;station;Billum;no data;55,6169, 8,3297;2022-01-04;2032-01-04
+Hesselmed;station;Hesselmed;no data;55,619, 8,295;2022-01-04;2032-01-04
+Oksbøl;station;Oksbøl;no data;55,6262, 8,2836;2022-01-04;2032-01-04
+Baunhøj;passenger stop;Baunhøj;no data;55,636, 8,2831;2022-01-04;2032-01-04
+Vrøgum;passenger stop;Vrøgum;no data;55,6533, 8,2921;2022-01-04;2032-01-04
+Jegum;passenger stop;Jegum;no data;55,6652, 8,302;2022-01-04;2032-01-04
+Søvig Sund;passenger stop;Søvig Sund;no data;55,684, 8,3043;2022-01-04;2032-01-04
+Henne;station;Henne;no data;55,7105, 8,3049;2022-01-04;2032-01-04
+Outrup;station;Outrup;no data;55,7177, 8,3453;2022-01-04;2032-01-04
+Løftgård;passenger stop;Løftgård;no data;55,7297, 8,3531;2022-01-04;2032-01-04
+Lunde;passenger stop;Lunde;no data;55,7562, 8,364;2022-01-04;2032-01-04
+Nørre Nebel;station;Nørre Nebel;no data;55,7773, 8,2901;2022-01-04;2032-01-04
+Frisvadvej;passenger stop;Frisvadvej;no data;55,6279, 8,486;2022-01-04;2032-01-04
+Dyreby;passenger stop;Dyreby;no data;55,6996, 8,2981;2022-01-04;2032-01-04
+Boulevarden;passenger stop;Boulevarden;no data;55,6239, 8,4602;2022-01-04;2032-01-04
+Elkærdam;passenger stop;Elkærdam;no data;55,6262, 8,4258;2022-01-04;2032-01-04
+Hyllerslev;passenger stop;Hyllerslev;no data;55,6263, 8,4005;2022-01-04;2032-01-04
+Odder;station;Odder;no data;55,9713, 10,1506;2022-01-04;2032-01-04
+Assedrup;station;Assedrup;no data;56,0037, 10,1818;2022-01-04;2032-01-04
+Malling;station;Malling;no data;56,0368, 10,1921;2022-01-04;2032-01-04
+Mårslet;station;Mårslet;no data;56,0687, 10,1644;2022-01-04;2032-01-04
+Tranbjerg;station;Tranbjerg;no data;56,0964, 10,136;2022-01-04;2032-01-04
+Viby Jylland;station;Viby Jylland;no data;56,1224, 10,1607;2022-01-04;2032-01-04
+Rude Havvej;passenger stop;Rude Havvej;no data;55,9836, 10,1543;2022-01-04;2032-01-04
+Beder;passenger stop;Beder;no data;56,0565, 10,1981;2022-01-04;2032-01-04
+Vilhelmsborg;passenger stop;Vilhelmsborg;no data;56,0643, 10,1782;2022-01-04;2032-01-04
+Mølleparken;passenger stop;Mølleparken;no data;56,0726, 10,1544;2022-01-04;2032-01-04
+Nørrevænget;passenger stop;Nørrevænget;no data;56,092, 10,1517;2022-01-04;2032-01-04
+Gunnar Clausensvej;passenger stop;Gunnar Clausensvej;no data;56,1116, 10,1259;2022-01-04;2032-01-04
+Øllegårdsvej;passenger stop;Øllegårdsvej;no data;56,1147, 10,1342;2022-01-04;2032-01-04
+Rosenhøj;passenger stop;Rosenhøj;no data;56,1171, 10,1474;2022-01-04;2032-01-04
+Balleby;passenger stop;Balleby;no data;56,5476, 8,2419;2022-01-04;2032-01-04
+Klinkby;passenger stop;Klinkby;no data;56,5645, 8,2207;2022-01-04;2032-01-04
+Nejrup;passenger stop;Nejrup;no data;56,5656, 8,1871;2022-01-04;2032-01-04
+Strande;station;Strande;no data;56,5688, 8,1626;2022-01-04;2032-01-04
+Victoria Street Station;passenger stop;Victoria Street Station;no data;56,5774, 8,1433;2022-01-04;2032-01-04
+Vrist;passenger stop;Vrist;no data;56,6008, 8,1481;2022-01-04;2032-01-04
+Harboøre;station;Harboøre;no data;56,6202, 8,1783;2022-01-04;2032-01-04
+Rønland;station;Rønland;no data;56,6568, 8,1948;2022-01-04;2032-01-04
+Sprogøvej;passenger stop;Sprogøvej;no data;56,6916, 8,2108;2022-01-04;2032-01-04
+Thyborøn;passenger stop;Thyborøn;no data;56,6973, 8,2071;2022-01-04;2032-01-04
+Thyborøn Havn;station;Thyborøn Havn;no data;56,7037, 8,2137;2022-01-04;2032-01-04
+Amstrup;passenger stop;Amstrup;no data;56,3905, 8,3299;2022-01-04;2032-01-04
+Bækmarksbro;station;Bækmarksbro;no data;56,4118, 8,3085;2022-01-04;2032-01-04
+Sinkbæk;passenger stop;Sinkbæk;no data;56,4373, 8,2846;2022-01-04;2032-01-04
+Fåre;station;Fåre;no data;56,4531, 8,2628;2022-01-04;2032-01-04
+Ramme;station;Ramme;no data;56,4884, 8,2116;2022-01-04;2032-01-04
+Bonnet;station;Bonnet;no data;56,5208, 8,2225;2022-01-04;2032-01-04
+Armose;passenger stop;Armose;no data;56,529, 8,2651;2022-01-04;2032-01-04
+Lemvig;station;Lemvig;no data;56,5465, 8,299;2022-01-04;2032-01-04
+Hjørring;station;Hjørring;no data;57,4564, 9,9854;2022-01-04;2032-01-04
+Kvægtorvet;passenger stop;Kvægtorvet;no data;57,4545, 9,9761;2022-01-04;2032-01-04
+Tornby;station;Tornby;no data;57,5329, 9,9495;2022-01-04;2032-01-04
+Teglgårdsvej;passenger stop;Teglgårdsvej;no data;57,4602, 9,963;2022-01-04;2032-01-04
+Hirtshals;station;Hirtshals;no data;57,5918, 9,9631;2022-01-04;2032-01-04
+Herregårdsparken;passenger stop;Herregårdsparken;no data;57,4733, 9,9658;2022-01-04;2032-01-04
+Vellingshøj;passenger stop;Vellingshøj;no data;57,4804, 9,9686;2022-01-04;2032-01-04
+Vidstrup;passenger stop;Vidstrup;no data;57,5018, 9,9476;2022-01-04;2032-01-04
+Sønderby;passenger stop;Sønderby;no data;57,524, 9,951;2021-08-27;2031-08-27
+Horne;passenger stop;Horne;no data;57,5595, 9,9725;2022-01-04;2032-01-04
+Emmersbæk;passenger stop;Emmersbæk;no data;57,5722, 9,9777;2022-01-04;2032-01-04
+Lilleheden;passenger stop;Lilleheden;no data;57,5852, 9,9764;2022-01-04;2032-01-04
+Strandby;station;Strandby;no data;57,49, 10,4901;2022-01-04;2032-01-04
+Rimmen;passenger stop;Rimmen;no data;57,5048, 10,4453;2022-01-04;2032-01-04
+Jerup;station;Jerup;no data;57,5319, 10,4174;2022-01-04;2032-01-04
+Napstjert;passenger stop;Napstjert;no data;57,5544, 10,4084;2022-01-04;2032-01-04
+Ålbæk;station;Ålbæk;no data;57,5923, 10,4083;2022-01-04;2032-01-04
+Bunken;passenger stop;Bunken;no data;57,6303, 10,4397;2022-01-04;2032-01-04
+Hulsig;station;Hulsig;no data;57,6598, 10,4634;2022-01-04;2032-01-04
+Frederikshavnsvej;passenger stop;Frederikshavnsvej;no data;57,7247, 10,5637;2022-01-04;2032-01-04
+Skagen;station;Skagen;no data;57,7243, 10,5914;2022-01-04;2032-01-04
+Nørreport;passenger stop;Nørreport;no data;55,6837, 12,5724;2022-01-04;2032-01-04
+Nordhavn;passenger stop;Nordhavn;no data;55,7061, 12,5906;2022-01-04;2032-01-04
+Svanemøllen;station;Svanemøllen;no data;55,7152, 12,5799;2022-01-04;2032-01-04
+Hellerup;station;Hellerup;no data;55,7311, 12,5667;2022-01-04;2032-01-04
+Gentofte;station;Gentofte;no data;55,7535, 12,5416;2022-01-04;2032-01-04
+Lyngby;station;Lyngby;no data;55,7684, 12,5025;2022-01-04;2032-01-04
+Holte;station;Holte;no data;55,8077, 12,4686;2022-01-04;2032-01-04
+Birkerød;station;Birkerød;no data;55,8404, 12,4237;2022-01-04;2032-01-04
+Allerød;station;Allerød;no data;55,8707, 12,3572;2022-01-04;2032-01-04
+Bernstorffsvej;passenger stop;Bernstorffsvej;no data;55,7426, 12,5584;2022-01-04;2032-01-04
+Jægersborg;passenger stop;Jægersborg;no data;55,7621, 12,5205;2022-01-04;2032-01-04
+Sorgenfri;passenger stop;Sorgenfri;no data;55,7809, 12,4845;2022-01-04;2032-01-04
+Virum;passenger stop;Virum;no data;55,7969, 12,4727;2022-01-04;2032-01-04
+Høvelte;passenger stop;Høvelte;no data;55,8508, 12,3886;2022-01-04;2032-01-04
+Hillerød;station;Hillerød;no data;55,9273, 12,3113;2022-01-04;2032-01-04
+Langgade;passenger stop;Langgade;no data;55,6676, 12,5041;2022-01-04;2032-01-04
+Peter Bangsvej;passenger stop;Peter Bangsvej;no data;55,6774, 12,5039;2022-01-04;2032-01-04
+Flintholm;passenger stop;Flintholm;no data;55,685, 12,499;2022-01-04;2032-01-04
+Vanløse;station;Vanløse;no data;55,687, 12,4922;2022-01-04;2032-01-04
+Herlev;station;Herlev;no data;55,7189, 12,4432;2022-01-04;2032-01-04
+Jyllingevej;passenger stop;Jyllingevej;no data;55,6901, 12,4788;2022-01-04;2032-01-04
+Islev;passenger stop;Islev;no data;55,699, 12,4695;2022-01-04;2032-01-04
+Husum;passenger stop;Husum;no data;55,7105, 12,463;2022-01-04;2032-01-04
+Skovlunde;passenger stop;Skovlunde;no data;55,7232, 12,402;2022-01-04;2032-01-04
+Malmparken;passenger stop;Malmparken;no data;55,7246, 12,3861;2022-01-04;2032-01-04
+Ballerup;station;Ballerup;no data;55,7296, 12,3586;2022-01-04;2032-01-04
+Måløv;passenger stop;Måløv;no data;55,7472, 12,3186;2022-01-04;2032-01-04
+Kildedal;passenger stop;Kildedal;no data;55,752, 12,2869;2022-01-04;2032-01-04
+Veksø;station;Veksø;no data;55,75, 12,2383;2022-01-04;2032-01-04
+Stenløse;passenger stop;Stenløse;no data;55,7666, 12,1902;2022-01-04;2032-01-04
+Egedal;passenger stop;Egedal;no data;55,7791, 12,1858;2022-01-04;2032-01-04
+Ølstykke;station;Ølstykke;no data;55,7958, 12,1593;2022-01-04;2032-01-04
+Frederikssund;station;Frederikssund;no data;55,832, 12,0689;2022-01-04;2032-01-04
+Dyssegård;station;Dyssegård;no data;55,7332, 12,5355;2022-01-04;2032-01-04
+Buddinge;station;Buddinge;no data;55,7474, 12,4927;2022-01-04;2032-01-04
+Hareskov;station;Hareskov;no data;55,7653, 12,4079;2022-01-04;2032-01-04
+Ryparken;passenger stop;Ryparken;no data;55,7159, 12,5605;2022-01-04;2032-01-04
+Emdrup;passenger stop;Emdrup;no data;55,7211, 12,5408;2022-01-04;2032-01-04
+Vangede;passenger stop;Vangede;no data;55,7389, 12,5256;2022-01-04;2032-01-04
+Kildebakke;passenger stop;Kildebakke;no data;55,7443, 12,5093;2022-01-04;2032-01-04
+Stengården;passenger stop;Stengården;no data;55,7575, 12,472;2022-01-04;2032-01-04
+Bagsværd;passenger stop;Bagsværd;no data;55,7616, 12,455;2022-01-04;2032-01-04
+Skovbrynet;passenger stop;Skovbrynet;no data;55,7655, 12,4352;2022-01-04;2032-01-04
+Værløse;passenger stop;Værløse;no data;55,7826, 12,3717;2022-01-04;2032-01-04
+Farum;station;Farum;no data;55,8111, 12,3747;2022-01-04;2032-01-04
+Bavnehøj;junction;Bavnehøj;no data;55,6593, 12,5403;2022-01-04;2032-01-04
+Åmarken;station;Åmarken;no data;55,6392, 12,4993;2022-01-04;2032-01-04
+Vallensbæk;station;Vallensbæk;no data;55,6233, 12,3873;2022-01-04;2032-01-04
+Sydhavn;passenger stop;Sydhavn;no data;55,6551, 12,5377;2022-01-04;2032-01-04
+Sjælør;passenger stop;Sjælør;no data;55,6515, 12,5254;2022-01-04;2032-01-04
+Ny Ellebjerg;passenger stop;Ny Ellebjerg;no data;55,6524, 12,5162;2022-01-04;2032-01-04
+Friheden;passenger stop;Friheden;no data;55,6294, 12,4835;2022-01-04;2032-01-04
+Avedøre;passenger stop;Avedøre;no data;55,6257, 12,4551;2022-01-04;2032-01-04
+Brøndby Strand;passenger stop;Brøndby Strand;no data;55,6211, 12,4216;2022-01-04;2032-01-04
+Ishøj;passenger stop;Ishøj;no data;55,6135, 12,3579;2022-01-04;2032-01-04
+Hundige;station;Hundige;no data;55,5981, 12,3345;2022-01-04;2032-01-04
+Karlslunde;station;Karlslunde;no data;55,5663, 12,2702;2022-01-04;2032-01-04
+Solrød Strand;station;Solrød Strand;no data;55,5333, 12,2182;2022-01-04;2032-01-04
+Ølsemagle;junction;Ølsemagle;no data;55,5039, 12,1825;2022-01-04;2032-01-04
+Greve;passenger stop;Greve;no data;55,5817, 12,2965;2022-01-04;2032-01-04
+Jersie;passenger stop;Jersie;no data;55,5215, 12,209;2022-01-04;2032-01-04
+Ølby;passenger stop;Ølby;no data;55,4799, 12,1754;2022-01-04;2032-01-04
+Køge;station;Køge;no data;55,4578, 12,1865;2022-01-04;2032-01-04
+Charlottenlund;passenger stop;Charlottenlund;no data;55,7517, 12,5723;2022-01-04;2032-01-04
+Ordrup;passenger stop;Ordrup;no data;55,7622, 12,5832;2022-01-04;2032-01-04
+Klampenborg;station;Klampenborg;no data;55,7765, 12,5883;2022-01-04;2032-01-04
+Vigerslev;junction;Vigerslev;no data;55,655, 12,5116;2022-01-04;2032-01-04
+Ny Ellebjerg;passenger stop;Ny Ellebjerg;no data;55,6539, 12,5138;2022-01-04;2032-01-04
+Vigerslev Allé;passenger stop;Vigerslev Allé;no data;55,6597, 12,4993;2022-01-04;2032-01-04
+Danshøj;passenger stop;Danshøj;no data;55,6646, 12,4938;2022-01-04;2032-01-04
+Ålholm;passenger stop;Ålholm;no data;55,6718, 12,4932;2022-01-04;2032-01-04
+KB Hallen;passenger stop;KB Hallen;no data;55,6776, 12,4924;2022-01-04;2032-01-04
+Flintholm;station;Flintholm;no data;55,6856, 12,4989;2022-01-04;2032-01-04
+Grøndal;passenger stop;Grøndal;no data;55,6905, 12,5154;2022-01-04;2032-01-04
+Fuglebakken;passenger stop;Fuglebakken;no data;55,6953, 12,5269;2022-01-04;2032-01-04
+Nørrebro;passenger stop;Nørrebro;no data;55,7007, 12,5379;2022-01-04;2032-01-04
+Bispebjerg;passenger stop;Bispebjerg;no data;55,7061, 12,5413;2022-01-04;2032-01-04
+Lersøen;junction;Lersøen;no data;55,7076, 12,5435;2022-01-04;2032-01-04
+Ryparken;passenger stop;Ryparken;no data;55,7158, 12,56;2022-01-04;2032-01-04
+Køge Nord;passenger stop;Køge Nord;no data;55,4989, 12,1747;2022-01-04;2032-01-04
+Vinge;passenger stop;Vinge;no data;55,8103, 12,1167;2022-01-04;2032-01-04
+Jerne;passenger stop;Jerne;no data;55,4745, 8,4865;2022-01-04;2032-01-04
+Kuopio Iloharju;junction;Kuopio Iloharju;FI01366;62,8912, 27,644;1970-01-01;3100-12-31
+Lähessuo;junction;Lähessuo;FI01364;65,4007, 25,4112;1970-01-01;3100-12-31
+Maksniemi;junction;Maksniemi;FI01365;65,6818, 24,8101;1970-01-01;3100-12-31
+Aalborg Lufthavn;station;Aalborg Lufthavn;no data;57,0842, 9,8758;2022-01-04;2032-01-04
+Langholm;junction;Langholm;no data;57,4926, 9,9568;2022-01-04;2032-01-04
+Tornio-raja;border point;Tornio-raja;EU00239;65,8279, 24,1507;1970-01-01;3100-12-31
+Kuusikkoniemi;small station;Kuusikkoniemi;FI01356;64,3929, 27,9199;2023-04-12;3100-12-31
+Vuosaari rajapiste;domestic border point;Vuosaari rajapiste;FI02281;60,2245, 25,177;2024-01-25;3100-12-31
+Peberholm grænse;border point;Peberholm grænse;no data;55,6059, 12,7381;2022-01-04;2032-01-04
+Rauma rajapiste;domestic border point;Rauma rajapiste;FI02496;61,1291, 21,4737;2024-02-02;3100-12-31
+Kotkan satama rajapiste;domestic border point;Kotkan satama rajapiste;FI02258;60,4688, 26,9406;2024-02-02;3100-12-31

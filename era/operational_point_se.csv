@@ -1,0 +1,1098 @@
+﻿Operational Point;Type of operational point;Unique OP ID;Name of Operational point;OP TAF TAP primary code;Geographical location of Operational Point;Validity start date;Validity end date
+Stockholms central;station;SECst;Stockholms central;SE03751;59,33, 18,0573;1970-01-01;3100-12-31
+Göteborg Central;station;SEG;Göteborg Central;SE01318;57,7089, 11,9739;1970-01-01;3100-12-31
+Ånge godsbangård;shunting yard;SEÅggb;Ånge godsbangård;SE04720;62,5254, 15,6428;1970-01-01;3100-12-31
+Alingsås;small station;SEA;Alingsås;SE00119;57,9269, 12,5322;1970-01-01;3100-12-31
+Alväng;junction;SEAä;Alväng;SE10006;59,379, 15,566;1970-01-01;3100-12-31
+Annedal;junction;SEAal;Annedal;SE10008;56,1276, 12,9296;1970-01-01;3100-12-31
+Arbrå;small station;SEAb;Arbrå;SE00169;61,471, 16,3798;1970-01-01;3100-12-31
+Agnesberg;junction;SEAgb;Agnesberg;SE00112;57,7811, 12,0071;1970-01-01;3100-12-31
+Algutsgården;junction;SEAgg;Algutsgården;SE10002;57,9881, 12,6519;1970-01-01;3100-12-31
+Aleholm;junction;SEAhm;Aleholm;SE10001;57,3982, 14,6635;1970-01-01;3100-12-31
+Arvidsjaur;small station;SEAjr;Arvidsjaur;SE00185;65,5887, 19,1685;1970-01-01;3100-12-31
+Abisko östra;small station;SEAk;Abisko östra;SE00106;68,3486, 18,8303;1970-01-01;3100-12-31
+Arlöv;junction;SEAl;Arlöv;SE00177;55,6339, 13,0684;1970-01-01;3100-12-31
+Almnäs;junction;SEAlä;Almnäs;SE10004;59,1694, 17,5078;1970-01-01;3100-12-31
+Alvhem;small station;SEAlh;Alvhem;SE10005;58,0108, 12,1577;1970-01-01;3100-12-31
+Almedal;junction;SEAm;Almedal;SE10003;57,684, 12,004;1970-01-01;3100-12-31
+Arnemark;junction;SEAmk;Arnemark;SE10014;65,4913, 21,2179;1970-01-01;3100-12-31
+Arvån;junction;SEAn;Arvån;SE10016;64,5584, 19,003;1970-01-01;3100-12-31
+Anundsjö;junction;SEAnö;Anundsjö;SE10009;63,4266, 18,1438;1970-01-01;3100-12-31
+Aspeå;junction;SEAp;Aspeå;SE10017;63,3877, 17,5136;1970-01-01;3100-12-31
+Aplared;junction;SEApd;Aplared;SE04998;57,6512, 13,0744;1970-01-01;3100-12-31
+Aptas;junction;SEApt;Aptas;SE10010;67,7641, 20,4434;1970-01-01;3100-12-31
+Arvika;small station;SEAr;Arvika;SE00186;59,6536, 12,5908;1970-01-01;3100-12-31
+Arnäsvall;junction;SEAra;Arnäsvall;SE00229;63,308, 18,7859;1970-01-01;3100-12-31
+Arboga;small station;SEArb;Arboga;SE00167;59,3972, 15,8405;1970-01-01;3100-12-31
+Arlanda central;small station;SEArnc;Arlanda central;SE00194;59,6491, 17,9285;1970-01-01;3100-12-31
+Arlanda nedre;junction;SEArne;Arlanda nedre;SE10011;59,6327, 17,9231;1970-01-01;3100-12-31
+Arlanda norra;small station;SEArnn;Arlanda norra;SE00227;59,6515, 17,9298;1970-01-01;3100-12-31
+Arlanda södra;small station;SEArns;Arlanda södra;SE10012;59,6468, 17,9283;1970-01-01;3100-12-31
+Attarp;junction;SEAtp;Attarp;SE10019;56,1372, 13,8487;1970-01-01;3100-12-31
+Alvesta;small station;SEAv;Alvesta;SE00144;56,898, 14,5562;1970-01-01;3100-12-31
+Avaviken;small station;SEAva;Avaviken;SE00210;65,6051, 18,6509;1970-01-01;3100-12-31
+Avesta Krylbo;small station;SEAvky;Avesta Krylbo;SE00214;60,1295, 16,2161;1970-01-01;3100-12-31
+Axmarby;junction;SEAx;Axmarby;SE10021;61,0074, 17,1136;1970-01-01;3100-12-31
+Alby;junction;SEAy;Alby;SE00116;62,4901, 15,4747;1970-01-01;3100-12-31
+Björnlunda;junction;SEB;Björnlunda;SE10038;59,0656, 17,1547;1970-01-01;3100-12-31
+Backsjön;junction;SEBaö;Backsjön;SE10022;63,3247, 17,2995;1970-01-01;3100-12-31
+Barkåkra;small station;SEBaa;Barkåkra;SE10663;56,2937, 12,8246;1970-01-01;3100-12-31
+Blyberg;junction;SEBbe;Blyberg;SE00368;61,1533, 14,1378;1970-01-01;3100-12-31
+Boden central;small station;SEBdn;Boden central;SE00389;65,8288, 21,7081;1970-01-01;3100-12-31
+Broddbo;junction;SEBdo;Broddbo;SE10053;59,9869, 16,4819;1970-01-01;3100-12-31
+Bodens södra;junction;SEBds;Bodens södra;SE00390;65,8255, 21,6474;1970-01-01;3100-12-31
+Backe;junction;SEBe;Backe;SE00230;63,8073, 16,4269;1970-01-01;3100-12-31
+Bredviken;junction;SEBen;Bredviken;SE10050;65,8374, 23,2332;1970-01-01;3100-12-31
+Bruksberget;junction;SEBet;Bruksberget;SE10055;66,0036, 22,7136;1970-01-01;3100-12-31
+Brunflo;small station;SEBf;Brunflo;SE00495;63,076, 14,8326;1970-01-01;3100-12-31
+Billingsfors;small station;SEBfo;Billingsfors;SE00291;58,982, 12,2497;1970-01-01;3100-12-31
+Bergfors;junction;SEBfs;Bergfors;SE00262;68,1473, 19,7827;1970-01-01;3100-12-31
+Berga;small station;SEBg;Berga;SE00259;57,2165, 16,0334;1970-01-01;3100-12-31
+Bryngenäs;junction;SEBgs;Bryngenäs;SE10059;57,8978, 12,4876;1970-01-01;3100-12-31
+Bälgviken;junction;SEBgv;Bälgviken;SE10072;59,2527, 16,4606;1970-01-01;3100-12-31
+Bräkne-Hoby;small station;SEBhb;Bräkne-Hoby;SE00521;56,2314, 15,1161;1970-01-01;3100-12-31
+Bohus;small station;SEBhs;Bohus;SE00402;57,864, 12,0196;1970-01-01;3100-12-31
+Birsta;junction;SEBia;Birsta;SE10028;62,4471, 17,3126;1970-01-01;3100-12-31
+Billeberga;small station;SEBib;Billeberga;SE00288;55,8838, 12,9958;1970-01-01;3100-12-31
+Billesholm;small station;SEBih;Billesholm;SE00289;56,0564, 12,9768;1970-01-01;3100-12-31
+Björna;junction;SEBj;Björna;SE10033;63,5514, 18,5969;1970-01-01;3100-12-31
+Björnsjö;junction;SEBjö;Björnsjö;SE10039;63,5077, 18,4603;1970-01-01;3100-12-31
+Bjästa;junction;SEBja;Bjästa;SE10032;63,2116, 18,4445;1970-01-01;3100-12-31
+Björneborg;junction;SEBjb;Björneborg;SE00336;59,2444, 14,2504;1970-01-01;3100-12-31
+Bjurhem;junction;SEBjh;Bjurhem;SE10030;58,4285, 12,2801;1970-01-01;3100-12-31
+Bjärnum;small station;SEBjm;Bjärnum;SE05004;56,2929, 13,7041;1970-01-01;3100-12-31
+Björnkulla;junction;SEBjn;Björnkulla;SE10037;59,2038, 17,9286;1970-01-01;3100-12-31
+Bjuv;small station;SEBjuv;Bjuv;SE00306;56,0826, 12,9111;1970-01-01;3100-12-31
+Barkarby;small station;SEBkb;Barkarby;SE00250;59,4054, 17,8637;1970-01-01;3100-12-31
+Blädinge;junction;SEBld;Blädinge;SE10041;56,8415, 14,5044;1970-01-01;3100-12-31
+Helsingborgs godsbangård;shunting yard;SEHbgb;Helsingborgs godsbangård;SE01690;56,0271, 12,7219;1970-01-01;3100-12-31
+Hallsbergs rangerbangård;shunting yard;SEHrbg;Hallsbergs rangerbangård;SE01373;59,0587, 15,0593;1970-01-01;3100-12-31
+Jönköpings godsbangård;shunting yard;SEJögb;Jönköpings godsbangård;SE01883;57,7641, 14,1732;1970-01-01;3100-12-31
+Malmö godsbangård;shunting yard;SEMgb;Malmö godsbangård;SE02615;55,622, 13,051;1970-01-01;3100-12-31
+Sävenäs rangerbangård;shunting yard;SESär;Sävenäs rangerbangård;SE03953;57,7301, 12,0462;1970-01-01;3100-12-31
+Tomteboda bangård;shunting yard;SETm;Tomteboda bangård;SE04134;59,3457, 18,0203;1970-01-01;3100-12-31
+Västerås västra;shunting yard;SEVåv;Västerås västra;SE04633;59,5956, 16,5077;1970-01-01;3100-12-31
+Bräcke;small station;SEBä;Bräcke;SE00520;62,75, 15,4176;1970-01-01;3100-12-31
+Bäckebron;small station;SEBäb;Bäckebron;SE00571;59,661, 13,1662;1970-01-01;3100-12-31
+Bäckefors;junction;SEBäf;Bäckefors;SE10071;58,8043, 12,1593;1970-01-01;3100-12-31
+Bålsta;small station;SEBål;Bålsta;SE00557;59,5694, 17,5319;1970-01-01;3100-12-31
+Båstad norra;small station;SEBån;Båstad norra;SE10070;56,4308, 12,9052;1970-01-01;3100-12-31
+Brännögård;junction;SEBög;Brännögård;SE00532;57,0055, 13,1008;1970-01-01;3100-12-31
+Bodsjön;junction;SEBön;Bodsjön;SE10044;62,8146, 15,4213;1970-01-01;3100-12-31
+Björbo;small station;SEBöo;Björbo;SE00316;60,4531, 14,7288;1970-01-01;3100-12-31
+Björkliden;small station;SEBln;Björkliden;SE00326;68,4084, 18,6864;1970-01-01;3100-12-31
+Burlöv;small station;SEBlv;Burlöv;SE00544;55,6409, 13,0804;1970-01-01;3100-12-31
+Blomstermåla;small station;SEBma;Blomstermåla;SE00366;56,9807, 16,3321;1970-01-01;3100-12-31
+Bromölla;small station;SEBml;Bromölla;SE00490;56,0672, 14,4816;1970-01-01;3100-12-31
+Båramo;junction;SEBmo;Båramo;SE10069;57,4536, 14,0907;1970-01-01;3100-12-31
+Bollnäs;small station;SEBn;Bollnäs;SE00411;61,3495, 16,3917;1970-01-01;3100-12-31
+Brunna;junction;SEBna;Brunna;SE10056;59,8614, 17,4289;1970-01-01;3100-12-31
+Borgstena;small station;SEBoa;Borgstena;SE00426;57,883, 13,0148;1970-01-01;3100-12-31
+Boda;junction;SEBoda;Boda;SE10042;61,5905, 17,0081;1970-01-01;3100-12-31
+Bofors;small station;SEBof;Bofors;SE00398;59,3333, 14,5469;1970-01-01;3100-12-31
+Bomansberget;junction;SEBom;Bomansberget;SE10045;60,6508, 17,2418;1970-01-01;3100-12-31
+Bor;small station;SEBor;Bor;SE00417;57,1161, 14,1686;1970-01-01;3100-12-31
+Born;junction;SEBorn;Born;SE10046;61,1353, 14,643;1970-01-01;3100-12-31
+Bollebygd;small station;SEBoy;Bollebygd;SE00408;57,6675, 12,57;1970-01-01;3100-12-31
+Brännarp;junction;SEBp;Brännarp;SE10062;56,7881, 12,7281;1970-01-01;3100-12-31
+Bjurå;junction;SEBrå;Bjurå;SE10031;66,0356, 22,1495;1970-01-01;3100-12-31
+Brista;junction;SEBra;Brista;SE00358;59,61, 17,8672;1970-01-01;3100-12-31
+Brännland;junction;SEBrd;Brännland;SE00527;63,8806, 20,0566;1970-01-01;3100-12-31
+Bränninge;junction;SEBre;Bränninge;SE10064;59,1405, 17,6352;1970-01-01;3100-12-31
+Brännberg;junction;SEBrg;Brännberg;SE10063;65,7831, 21,2257;1970-01-01;3100-12-31
+Brattheden;small station;SEBrh;Brattheden;SE03157;59,788, 16,1811;1970-01-01;3100-12-31
+Brålanda;junction;SEBrl;Brålanda;SE10061;58,56, 12,349;1970-01-01;3100-12-31
+Brånan;junction;SEBrn;Brånan;SE00514;62,6938, 14,409;1970-01-01;3100-12-31
+Bro Nygård;junction;SEBrny;Bro Nygård;SE10052;59,4977, 17,672;1970-01-01;3100-12-31
+Bro;small station;SEBro;Bro;SE00477;59,5123, 17,633;1970-01-01;3100-12-31
+Brattsbacka;junction;SEBrs;Brattsbacka;SE10049;63,7848, 19,1858;1970-01-01;3100-12-31
+Bankeryd;small station;SEBry;Bankeryd;SE00247;57,8604, 14,1282;1970-01-01;3100-12-31
+Bjärka-Säby;small station;SEBsä;Bjärka-Säby;SE00309;58,2706, 15,7528;1970-01-01;3100-12-31
+Bensjöbacken;junction;SEBsb;Bensjöbacken;SE00257;62,7036, 15,4543;1970-01-01;3100-12-31
+Brunnsgård;junction;SEBsd;Brunnsgård;SE10057;57,4226, 15,1069;1970-01-01;3100-12-31
+Bispgården;small station;SEBsg;Bispgården;SE00297;63,0287, 16,6209;1970-01-01;3100-12-31
+Bastuträsk;small station;SEBst;Bastuträsk;SE00253;64,789, 20,0415;1970-01-01;3100-12-31
+Baggetorp;junction;SEBt;Baggetorp;SE10024;59,0096, 16,0649;1970-01-01;3100-12-31
+Betåsen;junction;SEBtå;Betåsen;SE10027;63,552, 16,8137;1970-01-01;3100-12-31
+Brattby;junction;SEBtb;Brattby;SE01595;63,911, 19,8816;1970-01-01;3100-12-31
+Biskopstorp;junction;SEBtp;Biskopstorp;SE10029;56,7496, 12,8589;1970-01-01;3100-12-31
+Brunsbergstunneln;junction;SEBu;Brunsbergstunneln;SE10058;59,6224, 12,9466;1970-01-01;3100-12-31
+Buddbyn;junction;SEBud;Buddbyn;SE10066;65,863, 21,7084;1970-01-01;3100-12-31
+Barva;junction;SEBva;Barva;SE10026;59,3434, 16,7928;1970-01-01;3100-12-31
+Blackvreten;junction;SEBvr;Blackvreten;SE10040;59,6076, 17,9076;1970-01-01;3100-12-31
+Boxholm;small station;SEBx;Boxholm;SE00442;58,1929, 15,0536;1970-01-01;3100-12-31
+Byvalla;junction;SEBy;Byvalla;SE10067;60,347, 16,4163;1970-01-01;3100-12-31
+Byälven;junction;SEByä;Byälven;SE10068;59,1386, 12,9221;1970-01-01;3100-12-31
+Callans såg;junction;SECas;Callans såg;SE10073;62,5135, 15,993;1970-01-01;3100-12-31
+Charlottenberg;small station;SECg;Charlottenberg;SE00620;59,8831, 12,2993;1970-01-01;3100-12-31
+Karlskrona central;small station;SECk;Karlskrona central;SE01948;56,1671, 15,5853;1970-01-01;3100-12-31
+Kristianstads central;small station;SECr;Kristianstads central;SE02117;56,0322, 14,1508;1970-01-01;3100-12-31
+Kristianstad GBG;junction;SECrgb;Kristianstad GBG;SE10290;56,0412, 14,1569;1970-01-01;3100-12-31
+Kristianstads södra;junction;SECrs;Kristianstads södra;SE10292;56,0217, 14,1631;1970-01-01;3100-12-31
+Degerön;junction;SED;Degerön;SE10081;58,7015, 15,1518;1970-01-01;3100-12-31
+Dånviken;junction;SEDån;Dånviken;SE10089;59,1899, 17,7143;1970-01-01;3100-12-31
+Drömme;junction;SEDöe;Drömme;SE10086;63,2505, 18,2202;1970-01-01;3100-12-31
+Döljebro;junction;SEDöl;Döljebro;SE10090;60,994, 16,6869;1970-01-01;3100-12-31
+Dammstorp;junction;SEDat;Dammstorp;SE10077;55,8019, 13,2832;1970-01-01;3100-12-31
+Degerbäcken;junction;SEDbn;Degerbäcken;SE10079;65,8395, 21,4018;1970-01-01;3100-12-31
+Degerfors;small station;SEDg;Degerfors;SE00662;59,2289, 14,4404;1970-01-01;3100-12-31
+Daglösen;junction;SEDgö;Daglösen;SE00631;59,6421, 14,1914;1970-01-01;3100-12-31
+Degermyr;junction;SEDgm;Degermyr;SE10080;63,8719, 19,6059;1970-01-01;3100-12-31
+Dalgränsen;junction;SEDgn;Dalgränsen;SE10075;60,3828, 16,4535;1970-01-01;3100-12-31
+Diö norra;junction;SEDiö;Diö norra;SE10082;56,6361, 14,2211;1970-01-01;3100-12-31
+Dala-Järna;small station;SEDj;Dala-Järna;SE00636;60,5477, 14,3627;1970-01-01;3100-12-31
+Dockmyr;junction;SEDk;Dockmyr;SE10084;62,9546, 15,739;1970-01-01;3100-12-31
+Dingle;small station;SEDl;Dingle;SE00680;58,5296, 11,5791;1970-01-01;3100-12-31
+Dals Långed;small station;SEDld;Dals Långed;SE00647;58,9234, 12,3062;1970-01-01;3100-12-31
+Dannemora;junction;SEDma;Dannemora;SE00656;60,1961, 17,848;1970-01-01;3100-12-31
+Dagarn;junction;SEDn;Dagarn;SE10074;59,9081, 15,7171;1970-01-01;3100-12-31
+Dynäs;junction;SEDns;Dynäs;SE00720;62,9663, 17,7377;1970-01-01;3100-12-31
+Dals Rostock;junction;SEDrt;Dals Rostock;SE10076;58,7135, 12,3553;1970-01-01;3100-12-31
+Dingtuna;small station;SEDt;Dingtuna;SE00682;59,5716, 16,3898;1970-01-01;3100-12-31
+Dorotea;small station;SEDta;Dorotea;SE00702;64,2582, 16,4059;1970-01-01;3100-12-31
+Duved;small station;SEDu;Duved;SE00712;63,3898, 12,9175;1970-01-01;3100-12-31
+Duvbo;junction;SEDuo;Duvbo;SE10087;59,3707, 17,9322;1970-01-01;3100-12-31
+Dysjön;junction;SEDy;Dysjön;SE10088;62,628, 15,5155;1970-01-01;3100-12-31
+Eslöv;small station;SEE;Eslöv;SE00816;55,8377, 13,3054;1970-01-01;3100-12-31
+Eldsberga;junction;SEEa;Eldsberga;SE10097;56,5909, 12,9981;1970-01-01;3100-12-31
+Enstaberga;junction;SEEbg;Enstaberga;SE10099;58,751, 16,8491;1970-01-01;3100-12-31
+Ekeby;junction;SEEby;Ekeby;SE10094;59,7769, 17,7553;1970-01-01;3100-12-31
+Ed;small station;SEEd;Ed;SE00731;58,9135, 11,9329;1970-01-01;3100-12-31
+Erikslund;small station;SEEi;Erikslund;SE00799;62,5274, 15,9126;1970-01-01;3100-12-31
+Eksjö;small station;SEEk;Eksjö;SE00761;57,6638, 14,9754;1970-01-01;3100-12-31
+Ekolsund;junction;SEEko;Ekolsund;SE10095;59,6141, 17,3702;1970-01-01;3100-12-31
+Edsvalla;junction;SEEl;Edsvalla;SE10093;59,4358, 13,2126;1970-01-01;3100-12-31
+Emmaboda;small station;SEEm;Emmaboda;SE00775;56,6298, 15,5349;1970-01-01;3100-12-31
+Edane;small station;SEEn;Edane;SE00732;59,6268, 12,8293;1970-01-01;3100-12-31
+Enafors;small station;SEEns;Enafors;SE00781;63,2898, 12,3373;1970-01-01;3100-12-31
+Enköping;small station;SEEp;Enköping;SE00788;59,6446, 17,0887;1970-01-01;3100-12-31
+Ervalla;junction;SEEr;Ervalla;SE10101;59,417, 15,2476;1970-01-01;3100-12-31
+Eneryda;junction;SEEra;Eneryda;SE10098;56,7079, 14,3397;1970-01-01;3100-12-31
+Erikstad;junction;SEErk;Erikstad;SE10100;58,6314, 12,4106;1970-01-01;3100-12-31
+Ekenässjön;small station;SEEsn;Ekenässjön;SE00750;57,4905, 15,0189;1970-01-01;3100-12-31
+Eskilstuna central;small station;SEEt;Eskilstuna central;SE00806;59,3694, 16,5055;1970-01-01;3100-12-31
+Ekträsk;junction;SEEtk;Ekträsk;SE10096;64,4962, 19,8096;1970-01-01;3100-12-31
+Falköpings central;small station;SEF;Falköpings central;SE00843;58,1757, 13,552;1970-01-01;3100-12-31
+Finnerödja;junction;SEFa;Finnerödja;SE10105;58,9262, 14,4429;1970-01-01;3100-12-31
+Falkenbergs godsstation;junction;SEFabg;Falkenbergs godsstation;SE00839;56,9016, 12,4875;1970-01-01;3100-12-31
+Falkenberg personstation;small station;SEFabp;Falkenberg personstation;SE01594;56,9195, 12,5087;1970-01-01;3100-12-31
+Falerum;small station;SEFal;Falerum;SE00838;58,1436, 16,2072;1970-01-01;3100-12-31
+Farsta strand;small station;SEFas;Farsta strand;SE00861;59,2367, 18,1041;1970-01-01;3100-12-31
+Forsbacka;junction;SEFb;Forsbacka;SE00929;60,6397, 16,8885;1970-01-01;3100-12-31
+Floby;small station;SEFby;Floby;SE00908;58,1387, 13,3322;1970-01-01;3100-12-31
+Floda;small station;SEFd;Floda;SE00910;57,81, 12,3615;1970-01-01;3100-12-31
+Frändefors;junction;SEFdf;Frändefors;SE10121;58,4943, 12,2797;1970-01-01;3100-12-31
+Fågelsjö;small station;SEFeö;Fågelsjö;SE01006;61,8016, 14,6821;1970-01-01;3100-12-31
+Fellingsbro;small station;SEFeb;Fellingsbro;SE00858;59,4328, 15,595;1970-01-01;3100-12-31
+Finnforsfallet;junction;SEFfs;Finnforsfallet;SE10106;64,7774, 20,3331;1970-01-01;3100-12-31
+Finspång;junction;SEFg;Finspång;SE00877;58,7072, 15,7755;1970-01-01;3100-12-31
+Fagerås;small station;SEFgå;Fagerås;SE00837;59,5198, 13,2182;1970-01-01;3100-12-31
+Fångsjöbacken;junction;SEFgö;Fångsjöbacken;SE10126;63,054, 16,781;1970-01-01;3100-12-31
+Fagersta central;small station;SEFgc;Fagersta central;SE00835;59,9905, 15,8155;1970-01-01;3100-12-31
+Fågelsta;junction;SEFgl;Fågelsta;SE10124;58,4586, 15,0394;1970-01-01;3100-12-31
+Forshem;small station;SEFhm;Forshem;SE00937;58,6181, 13,4918;1970-01-01;3100-12-31
+Fiskeby;junction;SEFi;Fiskeby;SE00883;58,6051, 16,1239;1970-01-01;3100-12-31
+Fillan;junction;SEFil;Fillan;SE10103;62,4262, 17,382;1970-01-01;3100-12-31
+Finja;junction;SEFin;Finja;SE10104;56,1697, 13,6955;1970-01-01;3100-12-31
+Fjällåsen;small station;SEFjå;Fjällåsen;SE00892;67,5194, 20,0937;1970-01-01;3100-12-31
+Fjälkinge;small station;SEFki;Fjälkinge;SE10107;56,0414, 14,2981;1970-01-01;3100-12-31
+Fåker;small station;SEFkr;Fåker;SE01010;62,9932, 14,5744;1970-01-01;3100-12-31
+Flädie;junction;SEFl;Flädie;SE10113;55,7237, 13,074;1970-01-01;3100-12-31
+Flemingsberg;small station;SEFlb;Flemingsberg;SE00900;59,2193, 17,9478;1970-01-01;3100-12-31
+Flen;small station;SEFle;Flen;SE00901;59,0569, 16,5853;1970-01-01;3100-12-31
+Falun central;small station;SEFln;Falun central;SE00850;60,6032, 15,6417;1970-01-01;3100-12-31
+Flisby;junction;SEFls;Flisby;SE10110;57,7877, 14,8007;1970-01-01;3100-12-31
+Forserum;small station;SEFm;Forserum;SE00931;57,6979, 14,4741;1970-01-01;3100-12-31
+Falköpings norra;junction;SEFn;Falköpings norra;SE10690;58,1951, 13,5775;1970-01-01;3100-12-31
+Fliskär;junction;SEFär;Fliskär;SE08483;60,6865, 17,2461;1970-01-01;3100-12-31
+Frillesås;junction;SEFå;Frillesås;SE10118;57,3186, 12,1696;1970-01-01;3100-12-31
+Förslöv;small station;SEFör;Förslöv;SE10661;56,3554, 12,8014;1970-01-01;3100-12-31
+Frånö;junction;SEFnö;Frånö;SE00979;62,9062, 17,8277;1970-01-01;3100-12-31
+Forsheda;small station;SEFod;Forsheda;SE00935;57,1633, 13,8329;1970-01-01;3100-12-31
+Folkesta;junction;SEFok;Folkesta;SE00920;59,4027, 16,4143;1970-01-01;3100-12-31
+Fristad;small station;SEFra;Fristad;SE00968;57,8274, 13,0086;1970-01-01;3100-12-31
+Frinnaryd;junction;SEFrd;Frinnaryd;SE10119;57,9374, 14,8219;1970-01-01;3100-12-31
+Fredrikslund;junction;SEFre;Fredrikslund;SE10117;56,7375, 15,9506;1970-01-01;3100-12-31
+Fors;small station;SEFs;Fors;SE00923;60,2065, 16,3115;1970-01-01;3100-12-31
+Flens övre;junction;SEFsö;Flens övre;SE10109;59,0616, 16,5949;1970-01-01;3100-12-31
+Fosieby;small station;SEFsb;Fosieby;SE00944;55,5623, 13,0315;1970-01-01;3100-12-31
+Forsmo;junction;SEFsm;Forsmo;SE10116;63,2639, 17,1795;1970-01-01;3100-12-31
+Fränsta;small station;SEFt;Fränsta;SE00983;62,496, 16,1674;1970-01-01;3100-12-31
+Furet;small station;SEFur;Furet;SE10122;56,6847, 12,8885;1970-01-01;3100-12-31
+Frövi;small station;SEFv;Frövi;SE00990;59,4676, 15,3637;1970-01-01;3100-12-31
+Gävle central;small station;SEGä;Gävle central;SE01296;60,6761, 17,1518;1970-01-01;3100-12-31
+Gävle godsbangård;junction;SEGäb;Gävle godsbangård;SE01297;60,6812, 17,1556;1970-01-01;3100-12-31
+Gräsberg;junction;SEGäg;Gräsberg;SE10156;60,2243, 15,2233;1970-01-01;3100-12-31
+Gålnäs;junction;SEGån;Gålnäs;SE10169;63,2819, 18,6082;1970-01-01;3100-12-31
+Gåvetorp;junction;SEGåp;Gåvetorp;SE10173;56,9425, 14,5794;1970-01-01;3100-12-31
+Gällö;small station;SEGö;Gällö;SE01287;62,9112, 15,2295;1970-01-01;3100-12-31
+Gårdsjön;junction;SEGön;Gårdsjön;SE10171;62,1984, 17,3789;1970-01-01;3100-12-31
+Graninge;junction;SEGa;Graninge;SE10145;63,09, 16,861;1970-01-01;3100-12-31
+Granstanda;junction;SEGad;Granstanda;SE10147;60,5848, 16,3661;1970-01-01;3100-12-31
+Gamleby;small station;SEGal;Gamleby;SE01044;57,897, 16,4096;1970-01-01;3100-12-31
+Gantofta;small station;SEGan;Gantofta;SE00325;55,989, 12,809;1970-01-01;3100-12-31
+Garnudden;small station;SEGau;Garnudden;SE10130;59,1934, 17,7708;1970-01-01;3100-12-31
+Göteborg Marieholm;small station;SEGbm;Göteborg Marieholm;SE01330;57,7354, 12,005;1970-01-01;3100-12-31
+Gårdsjö;small station;SEGdö;Gårdsjö;SE01266;58,8721, 14,3338;1970-01-01;3100-12-31
+Geijersdal;junction;SEGdl;Geijersdal;SE10133;59,5984, 13,9669;1970-01-01;3100-12-31
+Gottne;junction;SEGe;Gottne;SE10143;63,4357, 18,3907;1970-01-01;3100-12-31
+Gåsträsken;junction;SEGen;Gåsträsken;SE10172;66,0471, 22,3477;1970-01-01;3100-12-31
+Grängesberg;small station;SEGg;Grängesberg;SE01191;60,075, 15,0034;1970-01-01;3100-12-31
+Grängesbergs malmbangård;junction;SEGgm;Grängesbergs malmbangård;SE01192;60,0636, 14,9817;1970-01-01;3100-12-31
+Grohed;junction;SEGhd;Grohed;SE10693;58,2997, 11,899;1970-01-01;3100-12-31
+Grythyttans norra;junction;SEGhyn;Grythyttans norra;SE10154;59,7389, 14,515;1970-01-01;3100-12-31
+Gistad;junction;SEGi;Gistad;SE10140;58,4785, 15,9144;1970-01-01;3100-12-31
+Gideåbacka;junction;SEGia;Gideåbacka;SE10137;63,3377, 19,0839;1970-01-01;3100-12-31
+Grillby;junction;SEGib;Grillby;SE10149;59,629, 17,234;1970-01-01;3100-12-31
+Gimonäs;junction;SEGim;Gimonäs;SE01077;63,7873, 20,3159;1970-01-01;3100-12-31
+Göteborg Kville;junction;SEGk;Göteborg Kville;SE01326;57,7273, 11,9826;1970-01-01;3100-12-31
+Gullträsk;junction;SEGlt;Gullträsk;SE10163;66,1956, 21,191;1970-01-01;3100-12-31
+Gemla;small station;SEGm;Gemla;SE01063;56,8708, 14,6462;1970-01-01;3100-12-31
+Gimo;junction;SEGmo;Gimo;SE10138;60,1759, 18,1842;1970-01-01;3100-12-31
+Gamlarp;junction;SEGmp;Gamlarp;SE03027;57,6808, 14,6868;1970-01-01;3100-12-31
+Grums;small station;SEGms;Grums;SE01165;59,353, 13,1138;1970-01-01;3100-12-31
+Gnesta;small station;SEGn;Gnesta;SE01108;59,0485, 17,3128;1970-01-01;3100-12-31
+Grönåsen;junction;SEGnå;Grönåsen;SE10158;63,3356, 17,3895;1970-01-01;3100-12-31
+Gnosjö;small station;SEGnö;Gnosjö;SE01110;57,3585, 13,735;1970-01-01;3100-12-31
+Genevad;junction;SEGnd;Genevad;SE10134;56,571, 13,0318;1970-01-01;3100-12-31
+Gagnef;small station;SEGnf;Gagnef;SE01040;60,5988, 15,081;1970-01-01;3100-12-31
+Gullringen;junction;SEGng;Gullringen;SE01227;57,805, 15,7013;1970-01-01;3100-12-31
+Gnarp;small station;SEGnp;Gnarp;SE01105;62,0554, 17,2429;1970-01-01;3100-12-31
+Godegård;junction;SEGo;Godegård;SE10141;58,7453, 15,1652;1970-01-01;3100-12-31
+Grästorp;small station;SEGop;Grästorp;SE01198;58,3346, 12,6858;1970-01-01;3100-12-31
+Gripenberg;junction;SEGp;Gripenberg;SE10151;57,9986, 14,865;1970-01-01;3100-12-31
+Grötingen;junction;SEGrö;Grötingen;SE10159;62,854, 15,4847;1970-01-01;3100-12-31
+Grevaryd;junction;SEGrd;Grevaryd;SE10148;57,1499, 14,5889;1970-01-01;3100-12-31
+Grimsås;junction;SEGrm;Grimsås;SE04999;57,4824, 13,5436;1970-01-01;3100-12-31
+Gubbero;small station;SEGro;Gubbero;SE10160;57,7092, 11,9982;1970-01-01;3100-12-31
+Gransjö;junction;SEGrs;Gransjö;SE10146;66,0639, 21,408;1970-01-01;3100-12-31
+Grundbro;junction;SEGru;Grundbro;SE10152;59,2904, 17,1022;1970-01-01;3100-12-31
+Gryttje;junction;SEGry;Gryttje;SE10155;62,0717, 17,2807;1970-01-01;3100-12-31
+Garsås;junction;SEGså;Garsås;SE10131;60,9133, 14,8193;1970-01-01;3100-12-31
+Gunsen;junction;SEGse;Gunsen;SE10165;64,7179, 21,0979;1970-01-01;3100-12-31
+Gastsjön;junction;SEGsn;Gastsjön;SE10132;62,9583, 15,8565;1970-01-01;3100-12-31
+Gärsnäs;small station;SEGss;Gärsnäs;SE01294;55,5465, 14,1816;1970-01-01;3100-12-31
+Gammelstad;small station;SEGst;Gammelstad;SE01048;65,641, 22,0261;1970-01-01;3100-12-31
+Göteborg Sävenäs;small station;SEGsv;Göteborg Sävenäs;SE10142;57,7247, 12,0186;1970-01-01;3100-12-31
+Grimstorp;junction;SEGt;Grimstorp;SE10150;57,5568, 14,6972;1970-01-01;3100-12-31
+Getå;junction;SEGtå;Getå;SE10136;58,6666, 16,2634;1970-01-01;3100-12-31
+Gustafs;junction;SEGtf;Gustafs;SE10167;60,4014, 15,5947;1970-01-01;3100-12-31
+Gullberna;junction;SEGua;Gullberna;SE10664;56,1876, 15,6143;1970-01-01;3100-12-31
+Gussi;junction;SEGui;Gussi;SE10166;61,2345, 17,0964;1970-01-01;3100-12-31
+Gunnarn;junction;SEGun;Gunnarn;SE01237;65,0023, 17,6749;1970-01-01;3100-12-31
+Gällivare;small station;SEGv;Gällivare;SE01283;67,1333, 20,6511;1970-01-01;3100-12-31
+Gäddmyr;junction;SEGy;Gäddmyr;SE10174;67,6795, 20,193;1970-01-01;3100-12-31
+Hamra;junction;SEHaa;Hamra;SE10183;57,0791, 12,3105;1970-01-01;3100-12-31
+Hallstavik;junction;SEHak;Hallstavik;SE01377;60,0508, 18,5958;1970-01-01;3100-12-31
+Harasjön;junction;SEHan;Harasjön;SE10186;63,1734, 17,8409;1970-01-01;3100-12-31
+Harrå;junction;SEHar;Harrå;SE01423;67,4062, 20,1027;1970-01-01;3100-12-31
+Helsingborgs central;small station;SEHb;Helsingborgs central;SE01688;56,0435, 12,6952;1970-01-01;3100-12-31
+Högbränna;junction;SEHbä;Högbränna;SE10225;63,7687, 19,4284;1970-01-01;3100-12-31
+Högboda;small station;SEHbd;Högboda;SE01728;59,5575, 13,0512;1970-01-01;3100-12-31
+Holsbybrunn;junction;SEHbr;Holsbybrunn;SE10205;57,4278, 15,1953;1970-01-01;3100-12-31
+Halmstads central;small station;SEHd;Halmstads central;SE01380;56,6696, 12,8648;1970-01-01;3100-12-31
+Hedemora;small station;SEHdm;Hedemora;SE01439;60,2741, 15,9802;1970-01-01;3100-12-31
+Holmsveden;small station;SEHdn;Holmsveden;SE01544;61,1197, 16,7191;1970-01-01;3100-12-31
+Halmstads rangerbangård;junction;SEHdr;Halmstads rangerbangård;SE01239;56,6535, 12,8863;1970-01-01;3100-12-31
+Heberg;junction;SEHe;Heberg;SE10191;56,8734, 12,6445;1970-01-01;3100-12-31
+Hestra;small station;SEHet;Hestra;SE01482;57,4431, 13,5958;1970-01-01;3100-12-31
+Hultsfred;small station;SEHf;Hultsfred;SE01598;57,4859, 15,8471;1970-01-01;3100-12-31
+Hemfosa;small station;SEHfa;Hemfosa;SE01460;59,0688, 17,9766;1970-01-01;3100-12-31
+Hamrångefjärden;junction;SEHfj;Hamrångefjärden;SE10184;60,9011, 17,0625;1970-01-01;3100-12-31
+Hofors;small station;SEHfr;Hofors;SE01524;60,5696, 16,2662;1970-01-01;3100-12-31
+Holmfors;junction;SEHfs;Holmfors;SE10203;65,9032, 21,6876;1970-01-01;3100-12-31
+Hagaström;junction;SEHg;Hagaström;SE10178;60,6704, 17,0681;1970-01-01;3100-12-31
+Hagge;junction;SEHge;Hagge;SE01363;60,1314, 15,31;1970-01-01;3100-12-31
+Hagalund;junction;SEHgl;Hagalund;SE10177;59,3721, 18,0056;1970-01-01;3100-12-31
+Hästbo;junction;SEHä;Hästbo;SE10223;60,449, 16,4553;1970-01-01;3100-12-31
+Hämrasviken;junction;SEHäb;Hämrasviken;SE10221;63,2241, 18,0409;1970-01-01;3100-12-31
+Härad;junction;SEHäd;Härad;SE10222;59,3571, 16,9132;1970-01-01;3100-12-31
+Häggsjön;junction;SEHän;Häggsjön;SE10216;62,5745, 17,7314;1970-01-01;3100-12-31
+Härryda;junction;SEHäy;Härryda;SE04995;57,6897, 12,3036;1970-01-01;3100-12-31
+Håsjö;junction;SEHå;Håsjö;SE10215;63,0234, 16,273;1970-01-01;3100-12-31
+Harmånger;junction;SEHåg;Harmånger;SE10187;61,9035, 17,2689;1970-01-01;3100-12-31
+Håmojåkk;junction;SEHåk;Håmojåkk;SE01638;67,3241, 20,1679;1970-01-01;3100-12-31
+Hållsta;junction;SEHål;Hållsta;SE10214;59,2952, 16,4586;1970-01-01;3100-12-31
+Håkantorp;small station;SEHåp;Håkantorp;SE01631;58,3067, 12,9076;1970-01-01;3100-12-31
+Hindås;small station;SEHås;Hindås;SE01497;57,7044, 12,451;1970-01-01;3100-12-31
+Höör;small station;SEHö;Höör;SE01761;55,9375, 13,5431;1970-01-01;3100-12-31
+Högbysjön;junction;SEHög;Högbysjön;SE10226;63,3127, 18,8902;1970-01-01;3100-12-31
+Högdalen;junction;SEHön;Högdalen;SE10227;59,2574, 18,042;1970-01-01;3100-12-31
+Hössjön;junction;SEHös;Hössjön;SE10234;63,6553, 19,9723;1970-01-01;3100-12-31
+Högsjö;junction;SEHgö;Högsjö;SE10228;59,0501, 15,7229;1970-01-01;3100-12-31
+Häggvik;small station;SEHgv;Häggvik;SE01653;59,4432, 17,9337;1970-01-01;3100-12-31
+Hallstahammar;small station;SEHh;Hallstahammar;SE01375;59,6147, 16,2202;1970-01-01;3100-12-31
+Hyllie;small station;SEHie;Hyllie;SE01585;55,5631, 12,9763;1970-01-01;3100-12-31
+Hillared;junction;SEHil;Hillared;SE10198;57,6299, 13,158;1970-01-01;3100-12-31
+Hjulsbro;junction;SEHj;Hjulsbro;SE01512;58,3794, 15,7165;1970-01-01;3100-12-31
+Hjärup;small station;SEHjp;Hjärup;SE01525;55,6738, 13,1362;1970-01-01;3100-12-31
+Hökön;junction;SEHkö;Hökön;SE10231;56,474, 14,224;1970-01-01;3100-12-31
+Huskvarna;small station;SEHka;Huskvarna;SE01611;57,7824, 14,2648;1970-01-01;3100-12-31
+Hudiksvall;small station;SEHkl;Hudiksvall;SE01579;61,7247, 17,1092;1970-01-01;3100-12-31
+Horndal;junction;SEHl;Horndal;SE01553;60,3048, 16,4137;1970-01-01;3100-12-31
+Hölö;junction;SEHlö;Hölö;SE10232;59,0259, 17,5348;1970-01-01;3100-12-31
+Hällefors;small station;SEHlf;Hällefors;SE01667;59,7777, 14,5181;1970-01-01;3100-12-31
+Helgum;junction;SEHlm;Helgum;SE10194;63,151, 16,9499;1970-01-01;3100-12-31
+Hasslarp;junction;SEHlp;Hasslarp;SE10190;56,1357, 12,8162;1970-01-01;3100-12-31
+Hällnäs;small station;SEHls;Hällnäs;SE10219;64,3055, 19,6259;1970-01-01;3100-12-31
+Herrhult;junction;SEHlt;Herrhult;SE10197;59,6499, 14,3107;1970-01-01;3100-12-31
+Hilleby;junction;SEHly;Hilleby;SE10199;60,7304, 17,1715;1970-01-01;3100-12-31
+Hässleholm;small station;SEHm;Hässleholm;SE01707;56,1579, 13,7632;1970-01-01;3100-12-31
+Holmsjö;small station;SEHmö;Holmsjö;SE01539;56,4222, 15,5422;1970-01-01;3100-12-31
+Hökmora;junction;SEHma;Hökmora;SE10230;60,0621, 16,1573;1970-01-01;3100-12-31
+Hissmofors;junction;SEHmfs;Hissmofors;SE10201;63,3198, 14,4578;1970-01-01;3100-12-31
+Hälleforsnäs;small station;SEHnä;Hälleforsnäs;SE01658;59,162, 16,5026;1970-01-01;3100-12-31
+Hälsingenybo;junction;SEHnb;Hälsingenybo;SE10220;62,0707, 15,8329;1970-01-01;3100-12-31
+Handen;small station;SEHnd;Handen;SE10185;59,1663, 18,1341;1970-01-01;3100-12-31
+Hällenyland;junction;SEHnl;Hällenyland;SE10218;62,603, 17,7882;1970-01-01;3100-12-31
+Hennan;junction;SEHnn;Hennan;SE10196;62,0219, 15,9024;1970-01-01;3100-12-31
+Hinsnoret;junction;SEHno;Hinsnoret;SE10200;60,5425, 15,6283;1970-01-01;3100-12-31
+Habo;small station;SEHo;Habo;SE01351;57,9064, 14,077;1970-01-01;3100-12-31
+Holmån;junction;SEHoå;Holmån;SE10204;63,3913, 17,6483;1970-01-01;3100-12-31
+Holmsund;junction;SEHod;Holmsund;SE01542;63,7085, 20,369;1970-01-01;3100-12-31
+Hova;small station;SEHova;Hova;SE01569;58,8548, 14,2152;1970-01-01;3100-12-31
+Haparanda;small station;SEHp;Haparanda;SE01408;65,8281, 24,1311;1970-01-01;3100-12-31
+Hallsbergs personbangård;small station;SEHpbg;Hallsbergs personbangård;SE01374;59,0671, 15,1112;1970-01-01;3100-12-31
+Horred;small station;SEHre;Horred;SE01558;57,3537, 12,4777;1970-01-01;3100-12-31
+Hörle;junction;SEHrl;Hörle;SE01757;57,2591, 14,0538;1970-01-01;3100-12-31
+Hargshamn;junction;SEHrm;Hargshamn;SE01415;60,1692, 18,4728;1970-01-01;3100-12-31
+Harrträsk;junction;SEHrt;Harrträsk;SE10188;67,0335, 20,7143;1970-01-01;3100-12-31
+Hasselfors;junction;SEHs;Hasselfors;SE10189;59,0856, 14,6463;1970-01-01;3100-12-31
+Hörnsjö;junction;SEHsö;Hörnsjö;SE10233;63,7953, 19,5074;1970-01-01;3100-12-31
+Hovsta;junction;SEHsa;Hovsta;SE10207;59,3491, 15,2187;1970-01-01;3100-12-31
+Hedensbyn;junction;SEHsb;Hedensbyn;SE01444;64,7448, 21,0107;1970-01-01;3100-12-31
+Härnösands central;small station;SEHsd;Härnösands central;SE01701;62,6353, 17,9284;1970-01-01;3100-12-31
+Hasslerör;small station;SEHsr;Hasslerör;SE01430;58,7502, 13,9395;1970-01-01;3100-12-31
+Hussjöby;junction;SEHsy;Hussjöby;SE10210;62,5475, 17,6057;1970-01-01;3100-12-31
+Hednoret;junction;SEHt;Hednoret;SE10193;65,8234, 21,5319;1970-01-01;3100-12-31
+Hoting;small station;SEHtg;Hoting;SE01566;64,1156, 16,1991;1970-01-01;3100-12-31
+Hillerstorp;small station;SEHto;Hillerstorp;SE01491;57,3136, 13,8836;1970-01-01;3100-12-31
+Huddinge;small station;SEHu;Huddinge;SE01578;59,2357, 17,978;1970-01-01;3100-12-31
+Hundsjön;junction;SEHuö;Hundsjön;SE10209;65,9652, 21,8027;1970-01-01;3100-12-31
+Hulingsryd;junction;SEHud;Hulingsryd;SE10208;57,501, 15,8352;1970-01-01;3100-12-31
+Hult;small station;SEHul;Hult;SE01589;57,6445, 15,1288;1970-01-01;3100-12-31
+Husums norra;junction;SEHumn;Husums norra;SE10211;63,3483, 19,1676;1970-01-01;3100-12-31
+Huvudsta;junction;SEHuv;Huvudsta;SE10212;59,3548, 18,0006;1970-01-01;3100-12-31
+Hästveda;small station;SEHv;Hästveda;SE10224;56,2886, 13,9348;1970-01-01;3100-12-31
+Hjältevad;small station;SEHvd;Hjältevad;SE01521;57,6289, 15,344;1970-01-01;3100-12-31
+Hovmantorp;small station;SEHvp;Hovmantorp;SE01573;56,7862, 15,1396;1970-01-01;3100-12-31
+Håverud;small station;SEHvr;Håverud;SE01646;58,8246, 12,4129;1970-01-01;3100-12-31
+Heby;small station;SEHy;Heby;SE01435;59,9404, 16,8532;1970-01-01;3100-12-31
+Hyllstofta;junction;SEHyl;Hyllstofta;SE10213;56,1325, 13,2859;1970-01-01;3100-12-31
+Iggesund;small station;SEId;Iggesund;SE01788;61,6448, 17,0814;1970-01-01;3100-12-31
+Insjön;small station;SEIn;Insjön;SE01807;60,6755, 15,0944;1970-01-01;3100-12-31
+Isätra;junction;SEIst;Isätra;SE10236;59,9377, 16,7441;1970-01-01;3100-12-31
+Jonsered östra;junction;SEJ;Jonsered östra;SE10239;57,7512, 12,1922;1970-01-01;3100-12-31
+Järlövsby;junction;SEJäy;Järlövsby;SE01864;57,2785, 12,3613;1970-01-01;3100-12-31
+Juån;junction;SEJå;Juån;SE10242;62,3692, 15,5623;1970-01-01;3100-12-31
+Jönåker;junction;SEJår;Jönåker;SE10249;58,7433, 16,7247;1970-01-01;3100-12-31
+Jönköpings central;small station;SEJö;Jönköpings central;SE01881;57,7845, 14,1646;1970-01-01;3100-12-31
+Järbo;junction;SEJb;Järbo;SE10244;60,715, 16,6031;1970-01-01;3100-12-31
+Johannisberg;junction;SEJbg;Johannisberg;SE01830;62,504, 16,0289;1970-01-01;3100-12-31
+Jädersbruk;junction;SEJbk;Jädersbruk;SE10243;59,4072, 15,7984;1970-01-01;3100-12-31
+Jordbro;small station;SEJbo;Jordbro;SE01841;59,1423, 18,1266;1970-01-01;3100-12-31
+Jakobshyttan;junction;SEJho;Jakobshyttan;SE10237;58,808, 15,1594;1970-01-01;3100-12-31
+Jokkmokk;small station;SEJk;Jokkmokk;SE01835;66,6071, 19,8401;1970-01-01;3100-12-31
+Jakobsberg;small station;SEJkb;Jakobsberg;SE01820;59,4238, 17,8331;1970-01-01;3100-12-31
+Järlåsa;junction;SEJla;Järlåsa;SE10246;59,885, 17,2031;1970-01-01;3100-12-31
+Järlebo;junction;SEJlo;Järlebo;SE10245;60,1344, 17,7419;1970-01-01;3100-12-31
+Järna;small station;SEJn;Järna;SE01865;59,0938, 17,5684;1970-01-01;3100-12-31
+Järneträsk;junction;SEJnt;Järneträsk;SE10247;65,639, 20,7401;1970-01-01;3100-12-31
+Järpen;small station;SEJpn;Järpen;SE01873;63,3424, 13,4722;1970-01-01;3100-12-31
+Järpås;small station;SEJps;Järpås;SE01874;58,379, 12,97;1970-01-01;3100-12-31
+Järvsö;small station;SEJr;Järvsö;SE01876;61,7157, 16,1721;1970-01-01;3100-12-31
+Jörn;small station;SEJrn;Jörn;SE01892;65,0533, 20,0294;1970-01-01;3100-12-31
+Jämtlands Sikås;small station;SEJs;Jämtlands Sikås;SE01858;63,6262, 15,2065;1970-01-01;3100-12-31
+Jularbo;junction;SEJu;Jularbo;SE01847;60,1583, 16,2577;1970-01-01;3100-12-31
+Katrineholms central;small station;SEK;Katrineholms central;SE01968;58,9965, 16,2092;1970-01-01;3100-12-31
+Kattarp;small station;SEKa;Kattarp;SE01971;56,1449, 12,7783;1970-01-01;3100-12-31
+Kattisträsk;junction;SEKaä;Kattisträsk;SE10263;64,6893, 20,0328;1970-01-01;3100-12-31
+Koijuvaara;junction;SEKaa;Koijuvaara;SE10277;67,0578, 20,7311;1970-01-01;3100-12-31
+Kalmar central;small station;SEKac;Kalmar central;SE01919;56,6613, 16,3603;1970-01-01;3100-12-31
+Karpalund;junction;SEKap;Karpalund;SE10258;56,0407, 14,0947;1970-01-01;3100-12-31
+Kalmar södra;junction;SEKas;Kalmar södra;SE01924;56,6667, 16,3311;1970-01-01;3100-12-31
+Kattisavan;junction;SEKat;Kattisavan;SE10262;64,7534, 18,16;1970-01-01;3100-12-31
+Kungsbacka;small station;SEKb;Kungsbacka;SE02158;57,4895, 12,0799;1970-01-01;3100-12-31
+Kolbäck;small station;SEKbä;Kolbäck;SE02062;59,5643, 16,2334;1970-01-01;3100-12-31
+Karbenning;small station;SEKbn;Karbenning;SE01928;60,0368, 16,0732;1970-01-01;3100-12-31
+Kågeröd;small station;SEKd;Kågeröd;SE05001;56,0015, 13,0828;1970-01-01;3100-12-31
+Kode;small station;SEKde;Kode;SE02057;57,9445, 11,8509;1970-01-01;3100-12-31
+Karlberg;small station;SEKe;Karlberg;SE01934;59,3403, 18,0284;1970-01-01;3100-12-31
+Kejsarbäcken;junction;SEKeb;Kejsarbäcken;SE10646;59,8334, 14,7125;1970-01-01;3100-12-31
+Keräsjoki;junction;SEKei;Keräsjoki;SE10264;65,8466, 23,924;1970-01-01;3100-12-31
+Kolforsen;small station;SEKfn;Kolforsen;SE02065;60,8431, 16,8512;1970-01-01;3100-12-31
+Kävlinge;small station;SEKg;Kävlinge;SE02256;55,7945, 13,1114;1970-01-01;3100-12-31
+Kungsgården;junction;SEKgd;Kungsgården;SE10295;60,6024, 16,6211;1970-01-01;3100-12-31
+Kragenäs;junction;SEKgs;Kragenäs;SE10287;58,7987, 11,2531;1970-01-01;3100-12-31
+Karlshamn;small station;SEKh;Karlshamn;SE01944;56,1771, 14,8664;1970-01-01;3100-12-31
+Kallhäll;small station;SEKhä;Kallhäll;SE01914;59,4523, 17,8073;1970-01-01;3100-12-31
+Kristinehamn;small station;SEKhn;Kristinehamn;SE02120;59,3174, 14,1071;1970-01-01;3100-12-31
+Klenshyttan;junction;SEKhy;Klenshyttan;SE10272;60,1079, 15,1043;1970-01-01;3100-12-31
+Källeryd;junction;SEKä;Källeryd;SE10299;58,1146, 13,1936;1970-01-01;3100-12-31
+Kärreberga;junction;SEKäb;Kärreberga;SE10302;56,1384, 12,9835;1970-01-01;3100-12-31
+Källene;junction;SEKäe;Källene;SE10641;61,3335, 17,0167;1970-01-01;3100-12-31
+Kungsängen;small station;SEKän;Kungsängen;SE02166;59,4781, 17,7528;1970-01-01;3100-12-31
+Kälvattnet;junction;SEKäv;Kälvattnet;SE10300;63,4215, 17,9778;1970-01-01;3100-12-31
+Kopparåsen;junction;SEKå;Kopparåsen;SE02078;68,4263, 18,5036;1970-01-01;3100-12-31
+Kåbdalis;small station;SEKåb;Kåbdalis;SE02208;66,1528, 19,9887;1970-01-01;3100-12-31
+Könsa;junction;SEKöa;Könsa;SE10304;63,3911, 19,1899;1970-01-01;3100-12-31
+Kungsör;small station;SEKör;Kungsör;SE02168;59,4278, 16,1031;1970-01-01;3100-12-31
+Kirunavaara;junction;SEKia;Kirunavaara;SE02019;67,802, 20,1989;1970-01-01;3100-12-31
+Kil;small station;SEKil;Kil;SE01982;59,5047, 13,3159;1970-01-01;3100-12-31
+Kisa;small station;SEKisa;Kisa;SE02012;57,9846, 15,6341;1970-01-01;3100-12-31
+Kjula;junction;SEKju;Kjula;SE10271;59,3373, 16,6614;1970-01-01;3100-12-31
+Klippan;small station;SEKl;Klippan;SE02034;56,1307, 13,13;1970-01-01;3100-12-31
+Kumla;small station;SEKla;Kumla;SE02155;59,1275, 15,141;1970-01-01;3100-12-31
+Klockarbäcken;junction;SEKlbn;Klockarbäcken;SE04367;63,8562, 20,1421;1970-01-01;3100-12-31
+Kallholsfors;junction;SEKlh;Kallholsfors;SE01912;61,1674, 14,7042;1970-01-01;3100-12-31
+Kälarne;junction;SEKln;Kälarne;SE02222;62,9806, 16,0832;1970-01-01;3100-12-31
+Koler;junction;SEKlr;Koler;SE10278;65,4958, 20,4932;1970-01-01;3100-12-31
+Kilafors;small station;SEKls;Kilafors;SE01983;61,2307, 16,5704;1970-01-01;3100-12-31
+Kilvo;junction;SEKlv;Kilvo;SE10267;66,8309, 20,8947;1970-01-01;3100-12-31
+Kalix Östra;junction;SEKlx;Kalix Östra;SE01907;65,8566, 23,1803;1970-01-01;3100-12-31
+Kilsmo;junction;SEKm;Kilsmo;SE10266;59,0657, 15,5357;1970-01-01;3100-12-31
+Kiruna malmbangård;small station;SEKmb;Kiruna malmbangård;SE02007;67,8683, 20,1992;1970-01-01;3100-12-31
+Kimstad;small station;SEKms;Kimstad;SE10268;58,5363, 15,9688;1970-01-01;3100-12-31
+Knivsta;small station;SEKn;Knivsta;SE02051;59,7254, 17,7871;1970-01-01;3100-12-31
+Knäred;junction;SEKnä;Knäred;SE05003;56,5155, 13,3115;1970-01-01;3100-12-31
+Kvarnängen;junction;SEKng;Kvarnängen;SE10684;58,9293, 17,9275;1970-01-01;3100-12-31
+Korsnäs;junction;SEKoä;Korsnäs;SE10281;60,5861, 15,7127;1970-01-01;3100-12-31
+Kolke;junction;SEKoe;Kolke;SE10279;59,0584, 17,2148;1970-01-01;3100-12-31
+Kosjärv;junction;SEKoj;Kosjärv;SE10284;65,9313, 22,8414;1970-01-01;3100-12-31
+Kolmården;small station;SEKon;Kolmården;SE02066;58,6747, 16,3625;1970-01-01;3100-12-31
+Koskullskulle;junction;SEKos;Koskullskulle;SE10286;67,187, 20,7327;1970-01-01;3100-12-31
+Köping;small station;SEKp;Köping;SE02260;59,5062, 16,0066;1970-01-01;3100-12-31
+Kaisepakte;junction;SEKpe;Kaisepakte;SE01903;68,2857, 19,3033;1970-01-01;3100-12-31
+Kopparberg;small station;SEKpg;Kopparberg;SE02072;59,8726, 14,9869;1970-01-01;3100-12-31
+Köpmannebro;junction;SEKpm;Köpmannebro;SE10305;58,7685, 12,5071;1970-01-01;3100-12-31
+Krökesbo;junction;SEKröb;Krökesbo;SE10293;57,7071, 14,5032;1970-01-01;3100-12-31
+Karsbäcken;junction;SEKrb;Karsbäcken;SE10259;64,9029, 19,996;1970-01-01;3100-12-31
+Kållered;small station;SEKrd;Kållered;SE02214;57,6155, 12,0462;1970-01-01;3100-12-31
+Kramfors;small station;SEKrf;Kramfors;SE02112;62,929, 17,7782;1970-01-01;3100-12-31
+Kringlan;junction;SEKrl;Kringlan;SE10289;60,9659, 17,0549;1970-01-01;3100-12-31
+Krampen;junction;SEKrn;Krampen;SE10288;59,7425, 15,5797;1970-01-01;3100-12-31
+Krokom OJ;junction;SEKroj;Krokom OJ;SE02106;63,3385, 14,4127;1970-01-01;3100-12-31
+Karlstads central;small station;SEKs;Karlstads central;SE01953;59,3779, 13,499;1970-01-01;3100-12-31
+Karsjö;junction;SEKsö;Karsjö;SE10260;61,6402, 16,2615;1970-01-01;3100-12-31
+Karlsberg;junction;SEKsg;Karlsberg;SE10252;62,9413, 15,6407;1970-01-01;3100-12-31
+Kistinge;junction;SEKst;Kistinge;SE02014;56,6385, 12,914;1970-01-01;3100-12-31
+Kvicksund;small station;SEKsu;Kvicksund;SE02192;59,4581, 16,3095;1970-01-01;3100-12-31
+Korsträsk;junction;SEKtä;Korsträsk;SE10282;65,6647, 20,8646;1970-01-01;3100-12-31
+Klingerud;junction;SEKud;Klingerud;SE10273;59,4833, 13,3608;1970-01-01;3100-12-31
+Krokvik;small station;SEKv;Krokvik;SE02128;67,9312, 20,0667;1970-01-01;3100-12-31
+Karlstad Välsviken;small station;SEKvä;Karlstad Välsviken;SE10257;59,3911, 13,5821;1970-01-01;3100-12-31
+Koskivaara;junction;SEKva;Koskivaara;SE10285;66,6494, 20,9845;1970-01-01;3100-12-31
+Kvillsfors;junction;SEKvf;Kvillsfors;SE02198;57,4033, 15,4957;1970-01-01;3100-12-31
+Klevshult;small station;SEKvh;Klevshult;SE02027;57,3516, 14,0973;1970-01-01;3100-12-31
+Kvidinge;small station;SEKvi;Kvidinge;SE10297;56,1372, 13,0461;1970-01-01;3100-12-31
+Kalixfors;junction;SEKx;Kalixfors;SE10250;67,7415, 20,2086;1970-01-01;3100-12-31
+Laxå;small station;SELå;Laxå;SE02318;58,9889, 14,6146;1970-01-01;3100-12-31
+Lörstrand;junction;SELö;Lörstrand;SE10345;61,6588, 16,1655;1970-01-01;3100-12-31
+Lödöse;junction;SELöö;Lödöse;SE10342;58,0275, 12,1512;1970-01-01;3100-12-31
+Lövberga;small station;SELöb;Lövberga;SE02570;63,9613, 15,8524;1970-01-01;3100-12-31
+Ludvika;small station;SELa;Ludvika;SE02472;60,1499, 15,1825;1970-01-01;3100-12-31
+Lappberg;junction;SELab;Lappberg;SE02307;67,593, 20,1961;1970-01-01;3100-12-31
+Laholm västra;small station;SELaov;Laholm västra;SE02288;56,5027, 12,9994;1970-01-01;3100-12-31
+Lindesberg;small station;SELd;Lindesberg;SE02403;59,5945, 15,2286;1970-01-01;3100-12-31
+Lidlund;junction;SELdl;Lidlund;SE10314;64,9822, 20,0254;1970-01-01;3100-12-31
+Lindome;small station;SELdo;Lindome;SE02411;57,576, 12,0787;1970-01-01;3100-12-31
+Luleå;small station;SELe;Luleå;SE02480;65,5841, 22,1656;1970-01-01;3100-12-31
+Leksboda;junction;SELea;Leksboda;SE10311;60,7766, 15,0202;1970-01-01;3100-12-31
+Lekarekulle;junction;SELek;Lekarekulle;SE10310;57,4044, 12,1518;1970-01-01;3100-12-31
+Läggesta;small station;SELg;Läggesta;SE02650;59,2475, 17,1691;1970-01-01;3100-12-31
+Långbron;small station;SELgb;Långbron;SE02520;58,9365, 12,2799;1970-01-01;3100-12-31
+Ledsgård;junction;SELgd;Ledsgård;SE10309;57,5286, 12,096;1970-01-01;3100-12-31
+Linghem;small station;SELgm;Linghem;SE02420;58,4363, 15,7851;1970-01-01;3100-12-31
+Linaälv;junction;SELin;Linaälv;SE02397;67,2568, 20,2393;1970-01-01;3100-12-31
+Lit;small station;SELit;Lit;SE02427;63,3184, 14,8567;1970-01-01;3100-12-31
+Ljungskile;small station;SELj;Ljungskile;SE02443;58,2248, 11,921;1970-01-01;3100-12-31
+Ljung;small station;SELju;Ljung;SE02432;57,9865, 13,0533;1970-01-01;3100-12-31
+Ljungaverks lastplats;junction;SELjun;Ljungaverks lastplats;SE02434;62,4961, 16,0783;1970-01-01;3100-12-31
+Lakaträsk;junction;SELkä;Lakaträsk;SE10307;66,2753, 21,1253;1970-01-01;3100-12-31
+Landskrona Östra;small station;SELkö;Landskrona Östra;SE02300;55,8791, 12,8574;1970-01-01;3100-12-31
+Lökom;junction;SELkm;Lökom;SE10344;63,1652, 17,6017;1970-01-01;3100-12-31
+Lindekullen;junction;SELkn;Lindekullen;SE10320;58,2553, 15,0959;1970-01-01;3100-12-31
+Lidköping;small station;SELkp;Lidköping;SE02352;58,5044, 13,1651;1970-01-01;3100-12-31
+Linddalen;junction;SELln;Linddalen;SE10318;59,0114, 14,7691;1970-01-01;3100-12-31
+Lomma;small station;SELma;Lomma;SE10694;55,671, 13,0744;1970-01-01;3100-12-31
+Limmared;small station;SELme;Limmared;SE02396;57,534, 13,3535;1970-01-01;3100-12-31
+Lemmeströ;junction;SELmm;Lemmeströ;SE10312;55,4916, 13,3637;1970-01-01;3100-12-31
+Långviksmon;junction;SELmn;Långviksmon;SE10340;63,6335, 18,6926;1970-01-01;3100-12-31
+Löcknamon;junction;SELmo;Löcknamon;SE10658;58,9134, 15,0712;1970-01-01;3100-12-31
+Lomselenäs;junction;SELms;Lomselenäs;SE02462;65,2156, 17,6464;1970-01-01;3100-12-31
+Lugnås;small station;SELnå;Lugnås;SE02478;58,6443, 13,7019;1970-01-01;3100-12-31
+Lernacken;junction;SELnk;Lernacken;SE10313;55,5656, 12,9055;1970-01-01;3100-12-31
+Lidnäs;junction;SELns;Lidnäs;SE10315;57,0701, 14,6003;1970-01-01;3100-12-31
+Långvattnet;junction;SELnv;Långvattnet;SE10339;63,6529, 18,7313;1970-01-01;3100-12-31
+Lessebo;small station;SELo;Lessebo;SE02341;56,7506, 15,2585;1970-01-01;3100-12-31
+Lottefors;junction;SELot;Lottefors;SE10329;61,4202, 16,4115;1970-01-01;3100-12-31
+Linköpings central;small station;SELp;Linköpings central;SE02421;58,417, 15,6243;1970-01-01;3100-12-31
+Lerum;small station;SELr;Lerum;SE02336;57,7694, 12,2728;1970-01-01;3100-12-31
+Landeryd;small station;SELrd;Landeryd;SE02297;57,0767, 13,2656;1970-01-01;3100-12-31
+Lästringe;junction;SELre;Lästringe;SE10341;58,8751, 17,3272;1970-01-01;3100-12-31
+Laduberg;junction;SELrg;Laduberg;SE10306;65,7218, 21,11;1970-01-01;3100-12-31
+Lockarp;junction;SELrp;Lockarp;SE10324;55,5472, 13,0408;1970-01-01;3100-12-31
+Ljusdal;small station;SELs;Ljusdal;SE02444;61,8268, 16,0965;1970-01-01;3100-12-31
+Ljuså;junction;SELså;Ljuså;SE10323;65,9779, 21,6004;1970-01-01;3100-12-31
+Ljusne bruk;junction;SELsb;Ljusne bruk;SE10322;61,2171, 17,1166;1970-01-01;3100-12-31
+Leksand;small station;SELsd;Leksand;SE02325;60,734, 15,003;1970-01-01;3100-12-31
+Långsjön;junction;SELsj;Långsjön;SE10337;60,5873, 16,0915;1970-01-01;3100-12-31
+Långsele;small station;SELsl;Långsele;SE02529;63,1764, 17,0672;1970-01-01;3100-12-31
+Losesjön;junction;SELsn;Losesjön;SE10327;61,4105, 16,9945;1970-01-01;3100-12-31
+Lycksele industrispår;junction;SELsp;Lycksele industrispår;SE10332;64,5895, 18,6995;1970-01-01;3100-12-31
+Långträsk;junction;SELtk;Långträsk;SE10338;65,3774, 20,3363;1970-01-01;3100-12-31
+Loster;junction;SELtr;Loster;SE10328;61,9395, 15,9491;1970-01-01;3100-12-31
+Lund c;small station;SELu;Lund c;SE02485;55,7072, 13,1866;1970-01-01;3100-12-31
+Lubboträsk;junction;SELuä;Lubboträsk;SE10330;64,5591, 19,9294;1970-01-01;3100-12-31
+Lundby;junction;SELub;Lundby;SE10331;59,6546, 16,9278;1970-01-01;3100-12-31
+Lövliden;junction;SELvd;Lövliden;SE10347;64,6545, 16,6124;1970-01-01;3100-12-31
+Lovene;small station;SELve;Lovene;SE02470;58,4402, 13,0466;1970-01-01;3100-12-31
+Lycksele;small station;SELy;Lycksele;SE02502;64,5943, 18,6688;1970-01-01;3100-12-31
+Lyrestad;small station;SELyd;Lyrestad;SE02507;58,8049, 14,0566;1970-01-01;3100-12-31
+Lyckselesågen;junction;SELyg;Lyckselesågen;SE10334;64,5927, 18,7285;1970-01-01;3100-12-31
+Lycksele timmer;junction;SELyt;Lycksele timmer;SE10333;64,5903, 18,7575;1970-01-01;3100-12-31
+Lysvik;small station;SELyv;Lysvik;SE02511;60,016, 13,1378;1970-01-01;3100-12-31
+Malmö central;small station;SEM;Malmö central;SE02611;55,6097, 13,0002;1970-01-01;3100-12-31
+Mattmar;junction;SEMa;Mattmar;SE02664;63,3033, 13,8302;1970-01-01;3100-12-31
+Maj;junction;SEMaj;Maj;SE10349;62,2331, 17,4014;1970-01-01;3100-12-31
+Mobodarne;junction;SEMb;Mobodarne;SE10362;61,2809, 16,7148;1970-01-01;3100-12-31
+Malmbäck;small station;SEMbä;Malmbäck;SE02605;57,578, 14,4604;1970-01-01;3100-12-31
+Malmby;junction;SEMby;Malmby;SE10350;59,3439, 17,0535;1970-01-01;3100-12-31
+Morgongåva;small station;SEMå;Morgongåva;SE02731;59,9329, 16,9614;1970-01-01;3100-12-31
+Månsarp;small station;SEMåp;Månsarp;SE02797;57,654, 14,0711;1970-01-01;3100-12-31
+Mölnbo;small station;SEMö;Mölnbo;SE02818;59,0474, 17,4183;1970-01-01;3100-12-31
+Mörlunda;small station;SEMöa;Mörlunda;SE02830;57,3223, 15,8756;1970-01-01;3100-12-31
+Mörtsal;junction;SEMöl;Mörtsal;SE10377;62,7825, 17,926;1970-01-01;3100-12-31
+Mörarp;small station;SEMör;Mörarp;SE02826;56,0554, 12,8736;1970-01-01;3100-12-31
+Mölndals övre;junction;SEMdö;Mölndals övre;SE02821;57,6585, 12,031;1970-01-01;3100-12-31
+Moradal;junction;SEMdl;Moradal;SE10366;62,5638, 15,5477;1970-01-01;3100-12-31
+Mölndals nedre;small station;SEMdn;Mölndals nedre;SE02820;57,6634, 12,0167;1970-01-01;3100-12-31
+Marmaverken;junction;SEMe;Marmaverken;SE02658;61,2705, 16,8634;1970-01-01;3100-12-31
+Mockfjärd;small station;SEMfj;Mockfjärd;SE02704;60,4958, 14,9584;1970-01-01;3100-12-31
+Munkflohögen;small station;SEMfn;Munkflohögen;SE02770;63,5601, 14,949;1970-01-01;3100-12-31
+Moholm;junction;SEMh;Moholm;SE10364;58,6071, 14,0402;1970-01-01;3100-12-31
+Myrheden;junction;SEMhn;Myrheden;SE10373;65,2995, 20,2159;1970-01-01;3100-12-31
+Mörsil;small station;SEMi;Mörsil;SE02834;63,3085, 13,6577;1970-01-01;3100-12-31
+Maria;small station;SEMia;Maria;SE02588;56,0756, 12,7106;1970-01-01;3100-12-31
+Morjärv;junction;SEMjv;Morjärv;SE02735;66,0697, 22,6952;1970-01-01;3100-12-31
+Murjek;small station;SEMk;Murjek;SE02774;66,4841, 20,8807;1970-01-01;3100-12-31
+Munkedal;small station;SEMkl;Munkedal;SE02766;58,4669, 11,675;1970-01-01;3100-12-31
+Mellerud;small station;SEMl;Mellerud;SE02674;58,7018, 12,4648;1970-01-01;3100-12-31
+Mellösa;junction;SEMlö;Mellösa;SE02676;59,1008, 16,5596;1970-01-01;3100-12-31
+Mellby;junction;SEMlb;Mellby;SE10358;56,0749, 13,7373;1970-01-01;3100-12-31
+Meselefors;small station;SEMlf;Meselefors;SE02681;64,443, 16,8167;1970-01-01;3100-12-31
+Malung;small station;SEMlg;Malung;SE02634;60,6836, 13,7104;1970-01-01;3100-12-31
+Mariannelund;small station;SEMnd;Mariannelund;SE02643;57,616, 15,5853;1970-01-01;3100-12-31
+Moheda;small station;SEMo;Moheda;SE10363;57,0031, 14,5766;1970-01-01;3100-12-31
+Mo grindar;junction;SEMog;Mo grindar;SE10361;60,9421, 16,7117;1970-01-01;3100-12-31
+Mon;junction;SEMon;Mon;SE10365;58,909, 11,7658;1970-01-01;3100-12-31
+Munktorp;junction;SEMorp;Munktorp;SE10369;59,5332, 16,1341;1970-01-01;3100-12-31
+Moskosel;small station;SEMos;Moskosel;SE02744;65,8824, 19,4266;1970-01-01;3100-12-31
+Motala central;small station;SEMot;Motala central;SE02751;58,5375, 15,0482;1970-01-01;3100-12-31
+Märsta;small station;SEMr;Märsta;SE02808;59,6277, 17,8616;1970-01-01;3100-12-31
+Markaryd;small station;SEMrd;Markaryd;SE02654;56,4596, 13,5939;1970-01-01;3100-12-31
+Marma;junction;SEMrm;Marma;SE02656;60,4801, 17,421;1970-01-01;3100-12-31
+Morshyttan;junction;SEMrs;Morshyttan;SE10367;60,2619, 16,3754;1970-01-01;3100-12-31
+Mörrum;small station;SEMru;Mörrum;SE02832;56,1869, 14,743;1970-01-01;3100-12-31
+Mosås;junction;SEMs;Mosås;SE02750;59,1978, 15,1626;1970-01-01;3100-12-31
+Mellansjö;junction;SEMsö;Mellansjö;SE10357;62,3078, 15,6822;1970-01-01;3100-12-31
+Malmsjö;junction;SEMsj;Malmsjö;SE10351;59,1541, 17,7626;1970-01-01;3100-12-31
+Mellansel;small station;SEMsl;Mellansel;SE02671;63,4282, 18,3067;1970-01-01;3100-12-31
+Medskogsheden;junction;SEMsn;Medskogsheden;SE10356;60,7912, 16,6992;1970-01-01;3100-12-31
+Mönsterås;junction;SEMss;Mönsterås;SE02824;57,0401, 16,4469;1970-01-01;3100-12-31
+Mariestad;small station;SEMst;Mariestad;SE02652;58,7113, 13,8257;1970-01-01;3100-12-31
+Mantorp;small station;SEMt;Mantorp;SE02639;58,348, 15,2882;1970-01-01;3100-12-31
+Maitum;junction;SEMtm;Maitum;SE10348;66,3902, 19,7025;1970-01-01;3100-12-31
+Mertainen;junction;SEMtn;Mertainen;SE10683;67,6778, 20,8438;1970-01-01;3100-12-31
+Mullsjö;small station;SEMu;Mullsjö;SE02762;57,915, 13,8814;1970-01-01;3100-12-31
+Mosselund;small station;SEMud;Mosselund;SE10368;56,2158, 13,8504;1970-01-01;3100-12-31
+Mjölby;small station;SEMy;Mjölby;SE02693;58,3227, 15,1321;1970-01-01;3100-12-31
+Mölnlycke;small station;SEMyk;Mölnlycke;SE02823;57,657, 12,1187;1970-01-01;3100-12-31
+Myrbacken;junction;SEMyn;Myrbacken;SE10372;59,694, 17,8077;1970-01-01;3100-12-31
+Myra;junction;SEMyra;Myra;SE10371;61,5065, 16,9873;1970-01-01;3100-12-31
+Nässjö central;small station;SEN;Nässjö central;SE03012;57,6514, 14,6947;1970-01-01;3100-12-31
+Näsberg;junction;SENb;Näsberg;SE10399;66,3648, 21,0094;1970-01-01;3100-12-31
+Norsesund västra;junction;SENdv;Norsesund västra;SE10390;57,8588, 12,4338;1970-01-01;3100-12-31
+Norrhög;junction;SENg;Norrhög;SE10387;62,2392, 15,6582;1970-01-01;3100-12-31
+Norsholm;junction;SENh;Norsholm;SE10391;58,5069, 15,972;1970-01-01;3100-12-31
+Njurundabommen;small station;SENjb;Njurundabommen;SE10692;62,2675, 17,3774;1970-01-01;3100-12-31
+Nyköpings central;small station;SENk;Nyköpings central;SE02976;58,7566, 16,9971;1970-01-01;3100-12-31
+Nykroppa;small station;SENka;Nykroppa;SE02973;59,6225, 14,3084;1970-01-01;3100-12-31
+Norra Kikkejaur;junction;SENkr;Norra Kikkejaur;SE10384;65,638, 19,136;1970-01-01;3100-12-31
+Nyköping södra;junction;SENks;Nyköping södra;SE10398;58,7476, 17,0008;1970-01-01;3100-12-31
+Näverkärret;junction;SENkt;Näverkärret;SE10400;59,6653, 15,5272;1970-01-01;3100-12-31
+Nykvarn;small station;SENkv;Nykvarn;SE02974;59,1787, 17,4321;1970-01-01;3100-12-31
+Nelhammar;small station;SENl;Nelhammar;SE02865;58,0898, 16,325;1970-01-01;3100-12-31
+Nolby;junction;SENly;Nolby;SE10691;62,2884, 17,3761;1970-01-01;3100-12-31
+Niemisel;junction;SENml;Niemisel;SE02870;66,0281, 22,0015;1970-01-01;3100-12-31
+Norrmjöle;junction;SENoe;Norrmjöle;SE10388;63,702, 20,0878;1970-01-01;3100-12-31
+Nordmaling;small station;SENog;Nordmaling;SE01583;63,5784, 19,4823;1970-01-01;3100-12-31
+Norrsjön;junction;SENon;Norrsjön;SE10389;63,5832, 19,6;1970-01-01;3100-12-31
+Nordskogen;junction;SENosk;Nordskogen;SE10382;57,7503, 12,9501;1970-01-01;3100-12-31
+Norrköpings central;small station;SENr;Norrköpings central;SE02930;58,5963, 16,1817;1970-01-01;3100-12-31
+Nälden;small station;SENä;Nälden;SE03000;63,3506, 14,2631;1970-01-01;3100-12-31
+Nättraby;junction;SENät;Nättraby;SE03020;56,211, 15,5271;1970-01-01;3100-12-31
+Norrfors;junction;SENrs;Norrfors;SE10386;63,7689, 18,9986;1970-01-01;3100-12-31
+Nuortikon;junction;SENrt;Nuortikon;SE10392;66,8835, 20,8207;1970-01-01;3100-12-31
+Nedansjö;junction;SENsö;Nedansjö;SE10378;62,3747, 16,8525;1970-01-01;3100-12-31
+Nyckelsjön;junction;SENsj;Nyckelsjön;SE10395;59,0878, 16,8668;1970-01-01;3100-12-31
+Stockholms norra;junction;SENst;Stockholms norra;SE10495;59,3475, 18,0335;1970-01-01;3100-12-31
+Nacksta;junction;SENta;Nacksta;SE10689;62,3986, 17,2472;1970-01-01;3100-12-31
+Nattavaara;small station;SENtv;Nattavaara;SE02852;66,7543, 20,9501;1970-01-01;3100-12-31
+Norra Valbo;junction;SENvl;Norra Valbo;SE02906;60,6615, 17,0135;1970-01-01;3100-12-31
+Notviken;small station;SENvn;Notviken;SE02953;65,6107, 22,1187;1970-01-01;3100-12-31
+Nyhem;junction;SENy;Nyhem;SE10397;62,8919, 15,6133;1970-01-01;3100-12-31
+Nyåker;junction;SENyå;Nyåker;SE02994;63,7701, 19,313;1970-01-01;3100-12-31
+Nybro;small station;SENyb;Nybro;SE02959;56,7424, 15,909;1970-01-01;3100-12-31
+Nynäshamns centrum;small station;SENyc;Nynäshamns centrum;SE10705;58,9002, 17,9497;1970-01-01;3100-12-31
+Nyfors;junction;SENyf;Nyfors;SE10396;65,6718, 20,9644;1970-01-01;3100-12-31
+Osby;small station;SEO;Osby;SE03074;56,3812, 13,9957;1970-01-01;3100-12-31
+Ockelbo;small station;SEOb;Ockelbo;SE03031;60,8912, 16,7209;1970-01-01;3100-12-31
+Olofström;small station;SEOf;Olofström;SE03042;56,2791, 14,5197;1970-01-01;3100-12-31
+Oskarshamn;small station;SEOh;Oskarshamn;SE03077;57,2629, 16,4576;1970-01-01;3100-12-31
+Oskarström;small station;SEOm;Oskarström;SE03080;56,8065, 12,972;1970-01-01;3100-12-31
+Ombenning;junction;SEOmb;Ombenning;SE10698;59,9809, 15,9265;1970-01-01;3100-12-31
+Ope;junction;SEOpe;Ope;SE10403;63,1339, 14,7462;1970-01-01;3100-12-31
+Olskroken;junction;SEOr;Olskroken;SE10402;57,7184, 11,9988;1970-01-01;3100-12-31
+Ornäs;junction;SEOrn;Ornäs;SE10404;60,5072, 15,5349;1970-01-01;3100-12-31
+Orsa;small station;SEOrs;Orsa;SE03071;61,1191, 14,6211;1970-01-01;3100-12-31
+Ormaryd;small station;SEOry;Ormaryd;SE03059;57,6656, 14,8314;1970-01-01;3100-12-31
+Orrskog;junction;SEOs;Orrskog;SE10405;60,4045, 17,4005;1970-01-01;3100-12-31
+Ovansjö;junction;SEOsö;Ovansjö;SE10406;62,5172, 15,5938;1970-01-01;3100-12-31
+Oslättfors;small station;SEOsl;Oslättfors;SE03081;60,773, 16,9788;1970-01-01;3100-12-31
+Ottebol;small station;SEOt;Ottebol;SE03082;59,698, 12,4616;1970-01-01;3100-12-31
+Oxelösund;junction;SEOxd;Oxelösund;SE03091;58,6705, 17,0999;1970-01-01;3100-12-31
+Oxmyran;junction;SEOxm;Oxmyran;SE10407;63,7734, 19,2369;1970-01-01;3100-12-31
+Partille;small station;SEP;Partille;SE03105;57,7407, 12,1026;1970-01-01;3100-12-31
+Polcirkeln;junction;SEPc;Polcirkeln;SE10412;66,5673, 21,0212;1970-01-01;3100-12-31
+Peuravaara;junction;SEPea;Peuravaara;SE10409;67,8729, 20,1574;1970-01-01;3100-12-31
+Peberholm;junction;SEPhm;Peberholm;SE01587;55,6006, 12,7487;1970-01-01;3100-12-31
+Pitkäjärvi;junction;SEPii;Pitkäjärvi;SE03116;67,6642, 20,9399;1970-01-01;3100-12-31
+Porjus;small station;SEPj;Porjus;SE03126;66,9661, 19,8297;1970-01-01;3100-12-31
+Pilgrimstad;small station;SEPl;Pilgrimstad;SE03119;62,955, 15,0404;1970-01-01;3100-12-31
+Perstorp;small station;SEPt;Perstorp;SE03114;56,1364, 13,3986;1970-01-01;3100-12-31
+Piteå;junction;SEPtå;Piteå;SE03120;65,3179, 21,4681;1970-01-01;3100-12-31
+Pålsboda;junction;SEPå;Pålsboda;SE10414;59,0639, 15,3401;1970-01-01;3100-12-31
+Påarp;small station;SEPåa;Påarp;SE03140;56,0293, 12,8172;1970-01-01;3100-12-31
+Pölsebo;junction;SEPöb;Pölsebo;SE03146;57,6995, 11,8991;1970-01-01;3100-12-31
+Rotebro;small station;SER;Rotebro;SE03233;59,4755, 17,9153;1970-01-01;3100-12-31
+Räppe;junction;SERäp;Räppe;SE03305;56,8837, 14,7369;1970-01-01;3100-12-31
+Rågsveden;small station;SERåg;Rågsveden;SE03284;60,4795, 14,0652;1970-01-01;3100-12-31
+Råsjön;junction;SERån;Råsjön;SE10438;58,8309, 12,4119;1970-01-01;3100-12-31
+Råskogen;junction;SERås;Råskogen;SE10439;58,6421, 12,3808;1970-01-01;3100-12-31
+Rödberg;junction;SERö;Rödberg;SE04996;57,6778, 12,6166;1970-01-01;3100-12-31
+Rian;junction;SERan;Rian;SE10421;65,8913, 23,0088;1970-01-01;3100-12-31
+Ralingsås;junction;SERas;Ralingsås;SE10416;57,877, 14,8037;1970-01-01;3100-12-31
+Ronneby;small station;SERb;Ronneby;SE03219;56,2064, 15,2836;1970-01-01;3100-12-31
+Repbäcken;junction;SERbä;Repbäcken;SE10420;60,5142, 15,3434;1970-01-01;3100-12-31
+Rabbalshede;small station;SERbh;Rabbalshede;SE03150;58,6101, 11,4707;1970-01-01;3100-12-31
+Röstbo;junction;SERbo;Röstbo;SE10445;61,1751, 16,6732;1970-01-01;3100-12-31
+Rockneby;junction;SERby;Rockneby;SE10426;56,8073, 16,3411;1970-01-01;3100-12-31
+Rävlanda;small station;SERd;Rävlanda;SE03308;57,6544, 12,5003;1970-01-01;3100-12-31
+Rydsgård;small station;SERdg;Rydsgård;SE03256;55,4742, 13,5885;1970-01-01;3100-12-31
+Rimforsa;small station;SERf;Rimforsa;SE03197;58,1353, 15,6817;1970-01-01;3100-12-31
+Reftele;small station;SERft;Reftele;SE03176;57,1759, 13,5935;1970-01-01;3100-12-31
+Röjan;small station;SERjn;Röjan;SE03319;62,4792, 14,3592;1970-01-01;3100-12-31
+Rörvik;junction;SERk;Rörvik;SE10444;57,2302, 14,5829;1970-01-01;3100-12-31
+Rekarne;junction;SERke;Rekarne;SE10419;59,4276, 16,3408;1970-01-01;3100-12-31
+Rällså;junction;SERlå;Rällså;SE10441;59,797, 15,0975;1970-01-01;3100-12-31
+Rämshyttan;junction;SERmh;Rämshyttan;SE10442;60,2983, 15,2224;1970-01-01;3100-12-31
+Regumatorp;junction;SERmtp;Regumatorp;SE10418;58,317, 13,7903;1970-01-01;3100-12-31
+Roback;junction;SERob;Roback;SE10425;63,0204, 16,1617;1970-01-01;3100-12-31
+Rossön;junction;SERos;Rossön;SE10428;63,9212, 16,3488;1970-01-01;3100-12-31
+Ripats;junction;SERps;Ripats;SE10424;66,9719, 20,7316;1970-01-01;3100-12-31
+Rosersberg;small station;SERs;Rosersberg;SE03226;59,5844, 17,8798;1970-01-01;3100-12-31
+Ramsjö;junction;SERsö;Ramsjö;SE10417;62,16, 15,6763;1970-01-01;3100-12-31
+Råtsi;junction;SERsi;Råtsi;SE10440;67,791, 20,2405;1970-01-01;3100-12-31
+Rensjön;small station;SERsn;Rensjön;SE03182;68,0707, 19,8269;1970-01-01;3100-12-31
+Ransta;small station;SERt;Ransta;SE03165;59,8102, 16,64;1970-01-01;3100-12-31
+Röste;junction;SERte;Röste;SE03339;61,3802, 16,3918;1970-01-01;3100-12-31
+Rottneros;small station;SERts;Rottneros;SE03238;59,795, 13,1287;1970-01-01;3100-12-31
+Ragunda;small station;SERu;Ragunda;SE10415;63,0584, 16,4123;1970-01-01;3100-12-31
+Ruda;junction;SERud;Ruda;SE10429;57,1104, 16,1164;1970-01-01;3100-12-31
+Rundvik;junction;SERuk;Rundvik;SE10430;63,5461, 19,4143;1970-01-01;3100-12-31
+Rautas;small station;SERut;Rautas;SE03170;67,9943, 19,8986;1970-01-01;3100-12-31
+Rättvik;small station;SERv;Rättvik;SE03306;60,8847, 15,1157;1970-01-01;3100-12-31
+Rosshyttan;junction;SERy;Rosshyttan;SE10427;60,0686, 16,3541;1970-01-01;3100-12-31
+Ryssjöbrink;junction;SERyb;Ryssjöbrink;SE10436;59,2095, 17,3357;1970-01-01;3100-12-31
+Rynge;junction;SERye;Rynge;SE10434;55,4689, 13,6706;1970-01-01;3100-12-31
+Ryggen;junction;SERyg;Ryggen;SE10433;60,591, 15,9462;1970-01-01;3100-12-31
+Rydaholm;small station;SERym;Rydaholm;SE03252;56,9864, 14,3115;1970-01-01;3100-12-31
+Ryr;junction;SERyr;Ryr;SE10435;58,3318, 12,1387;1970-01-01;3100-12-31
+Sveg;small station;SES;Sveg;SE03907;62,0345, 14,352;1970-01-01;3100-12-31
+Skabersjö;junction;SESaö;Skabersjö;SE10671;55,5339, 13,1541;1970-01-01;3100-12-31
+Sandared;small station;SESae;Sandared;SE03371;57,7095, 12,7925;1970-01-01;3100-12-31
+Sandbäck;junction;SESak;Sandbäck;SE10449;56,1635, 14,6345;1970-01-01;3100-12-31
+Svalöv;small station;SESal;Svalöv;SE10700;55,9135, 13,1105;1970-01-01;3100-12-31
+Samnan;junction;SESam;Samnan;SE10448;59,9115, 17,6551;1970-01-01;3100-12-31
+Salsta;junction;SESas;Salsta;SE10446;60,0466, 17,7284;1970-01-01;3100-12-31
+Stora Tuna;junction;SESau;Stora Tuna;SE10498;60,4418, 15,4969;1970-01-01;3100-12-31
+Sågbäcken;junction;SESbä;Sågbäcken;SE10518;66,0621, 22,5955;1970-01-01;3100-12-31
+Spannarboda;junction;SESba;Spannarboda;SE10484;59,5763, 15,5075;1970-01-01;3100-12-31
+Saluböle;junction;SESbe;Saluböle;SE10447;63,4774, 19,2872;1970-01-01;3100-12-31
+Storblåliden;junction;SESbi;Storblåliden;SE10500;65,4468, 20,4289;1970-01-01;3100-12-31
+Stenbacken;junction;SESbk;Stenbacken;SE03705;68,2498, 19,5024;1970-01-01;3100-12-31
+Skärblacka;junction;SESbl;Skärblacka;SE03575;58,5751, 15,9103;1970-01-01;3100-12-31
+Norra Sunderbyn;junction;SESby;Norra Sunderbyn;SE10385;65,6978, 21,865;1970-01-01;3100-12-31
+Stockholm City;small station;SESci;Stockholm City;SE10655;59,3324, 18,0649;1970-01-01;3100-12-31
+Sköldinge;junction;SESde;Sköldinge;SE10475;59,0302, 16,4542;1970-01-01;3100-12-31
+Sandmon;junction;SESdm;Sandmon;SE10645;59,6028, 13,6343;1970-01-01;3100-12-31
+Smålandsstenar;small station;SESdr;Smålandsstenar;SE03638;57,1614, 13,415;1970-01-01;3100-12-31
+Svedala;small station;SESea;Svedala;SE03904;55,5069, 13,232;1970-01-01;3100-12-31
+Skene;small station;SESee;Skene;SE03512;57,4884, 12,6494;1970-01-01;3100-12-31
+Sävedalen;junction;SESel;Sävedalen;SE10523;57,7329, 12,0665;1970-01-01;3100-12-31
+Stavreviken;junction;SESen;Stavreviken;SE10490;62,5535, 17,4066;1970-01-01;3100-12-31
+Stensundberget;junction;SESet;Stensundberget;SE10492;65,8491, 23,3822;1970-01-01;3100-12-31
+Storfors;small station;SESf;Storfors;SE03784;59,533, 14,2717;1970-01-01;3100-12-31
+Säffle;small station;SESfl;Säffle;SE03935;59,1324, 12,9162;1970-01-01;3100-12-31
+Storflon;junction;SESfn;Storflon;SE10501;63,3513, 14,3865;1970-01-01;3100-12-31
+Stehag;small station;SESg;Stehag;SE03702;55,9003, 13,3934;1970-01-01;3100-12-31
+Slagnäs;small station;SESgä;Slagnäs;SE03596;65,5859, 18,1579;1970-01-01;3100-12-31
+Segmon;junction;SESgm;Segmon;SE10452;59,2747, 13,0385;1970-01-01;3100-12-31
+Strängnäs;small station;SESgs;Strängnäs;SE03820;59,3703, 17,0282;1970-01-01;3100-12-31
+Stjärnhov;junction;SESh;Stjärnhov;SE10494;59,0829, 17,0053;1970-01-01;3100-12-31
+Surahammar;small station;SEShr;Surahammar;SE03881;59,7066, 16,2196;1970-01-01;3100-12-31
+Söderhamns västra;small station;SEShv;Söderhamns västra;SE10525;61,2994, 17,0349;1970-01-01;3100-12-31
+Simrishamn;small station;SESi;Simrishamn;SE03449;55,5536, 14,3511;1970-01-01;3100-12-31
+Silverdalens bruk;junction;SESid;Silverdalens bruk;SE03440;57,5362, 15,7592;1970-01-01;3100-12-31
+Stävie;junction;SESie;Stävie;SE10696;55,7475, 13,0742;1970-01-01;3100-12-31
+Silinge;junction;SESii;Silinge;SE10456;59,0123, 16,5666;1970-01-01;3100-12-31
+Svartvik;junction;SESik;Svartvik;SE10513;62,3227, 17,3673;1970-01-01;3100-12-31
+Sorsele industrispår;junction;SESir;Sorsele industrispår;SE10483;65,5628, 17,5245;1970-01-01;3100-12-31
+Skövde central;small station;SESk;Skövde central;SE03592;58,389, 13,8519;1970-01-01;3100-12-31
+Skästra;junction;SESkä;Skästra;SE03583;61,7491, 16,1641;1970-01-01;3100-12-31
+Skinnskatteberg;small station;SESkb;Skinnskatteberg;SE03520;59,8326, 15,6916;1970-01-01;3100-12-31
+Skälebol;junction;SESkbl;Skälebol;SE10472;58,6071, 12,3931;1970-01-01;3100-12-31
+Skavstaby;junction;SESkby;Skavstaby;SE10463;59,5506, 17,8959;1970-01-01;3100-12-31
+Skee;small station;SESke;Skee;SE03503;58,9234, 11,2621;1970-01-01;3100-12-31
+Skogås;small station;SESkg;Skogås;SE03533;59,2194, 18,1536;1970-01-01;3100-12-31
+Skönvik;junction;SESkk;Skönvik;SE10476;62,4689, 17,3281;1970-01-01;3100-12-31
+Skellefteå;junction;SESkl;Skellefteå;SE03510;64,7535, 20,9557;1970-01-01;3100-12-31
+Stenkumla;junction;SESkm;Stenkumla;SE10657;58,9614, 15,0435;1970-01-01;3100-12-31
+Skymossen;junction;SESkms;Skymossen;SE05000;59,02, 15,0889;1970-01-01;3100-12-31
+Skänninge;small station;SESkn;Skänninge;SE03572;58,3926, 15,0925;1970-01-01;3100-12-31
+Skåre;junction;SESkr;Skåre;SE10471;59,4294, 13,4484;1970-01-01;3100-12-31
+Skogstorp;junction;SESkrp;Skogstorp;SE10465;59,3318, 16,4734;1970-01-01;3100-12-31
+Skebokvarn;junction;SESkv;Skebokvarn;SE10464;59,0653, 16,7178;1970-01-01;3100-12-31
+Sala;small station;SESl;Sala;SE03352;59,9257, 16,6045;1970-01-01;3100-12-31
+Solbacka;junction;SESlbk;Solbacka;SE03647;62,5046, 17,3601;1970-01-01;3100-12-31
+Stenåsen;junction;SESån;Stenåsen;SE10493;59,5033, 13,3378;1970-01-01;3100-12-31
+Söråkers södra;junction;SESårs;Söråkers södra;SE04009;62,5499, 17,4405;1970-01-01;3100-12-31
+Slätte;junction;SESle;Slätte;SE10477;58,7644, 14,2009;1970-01-01;3100-12-31
+Sällinge;junction;SESlg;Sällinge;SE03938;59,5197, 15,4804;1970-01-01;3100-12-31
+Selsjön;junction;SESlj;Selsjön;SE10454;63,307, 17,2123;1970-01-01;3100-12-31
+Solum;junction;SESlm;Solum;SE10481;63,1153, 17,7828;1970-01-01;3100-12-31
+Sellnäs;junction;SESlnä;Sellnäs;SE10453;60,4134, 15,3807;1970-01-01;3100-12-31
+Sandhem;small station;SESm;Sandhem;SE03377;57,9883, 13,7727;1970-01-01;3100-12-31
+Simeå;junction;SESmå;Simeå;SE10457;61,5719, 16,3267;1970-01-01;3100-12-31
+Strömstad;small station;SESmd;Strömstad;SE03826;58,9365, 11,1734;1970-01-01;3100-12-31
+Smedjebacken;small station;SESmj;Smedjebacken;SE03631;60,1365, 15,4056;1970-01-01;3100-12-31
+Sommen;junction;SESmn;Sommen;SE10482;58,1458, 14,9783;1970-01-01;3100-12-31
+Strömsbro;junction;SESmo;Strömsbro;SE10507;60,6993, 17,1547;1970-01-01;3100-12-31
+Simonstorp;junction;SESmt;Simonstorp;SE10458;58,7839, 16,157;1970-01-01;3100-12-31
+Stenkullen;small station;SESn;Stenkullen;SE03710;57,7917, 12,3146;1970-01-01;3100-12-31
+Snickarbo;junction;SESnb;Snickarbo;SE10478;60,1911, 16,0564;1970-01-01;3100-12-31
+Sandarne;junction;SESne;Sandarne;SE03372;61,2651, 17,1484;1970-01-01;3100-12-31
+Singsån;junction;SESngå;Singsån;SE10459;63,0289, 16,3769;1970-01-01;3100-12-31
+Skanlog;junction;SESnl;Skanlog;SE10461;59,4055, 16,4453;1970-01-01;3100-12-31
+Snyten;junction;SESnt;Snyten;SE10479;59,9916, 16,0238;1970-01-01;3100-12-31
+Stenungsund;small station;SESnu;Stenungsund;SE03723;58,0727, 11,8247;1970-01-01;3100-12-31
+Sandviken;small station;SESnv;Sandviken;SE03389;60,6142, 16,7776;1970-01-01;3100-12-31
+Solna;small station;SESo;Solna;SE03653;59,3655, 18,0103;1970-01-01;3100-12-31
+Stordalen;junction;SESoa;Stordalen;SE03781;68,3436, 19,0705;1970-01-01;3100-12-31
+Stockholm Odenplan;small station;SESod;Stockholm Odenplan;SE10654;59,3444, 18,0451;1970-01-01;3100-12-31
+Stolpen;junction;SESoe;Stolpen;SE10496;57,5915, 14,5528;1970-01-01;3100-12-31
+Stormyran;junction;SESom;Stormyran;SE10502;63,3686, 17,4473;1970-01-01;3100-12-31
+Skorped;junction;SESop;Skorped;SE10466;63,3854, 17,8595;1970-01-01;3100-12-31
+Sparreholm;junction;SESp;Sparreholm;SE10485;59,0758, 16,8286;1970-01-01;3100-12-31
+Spånga;small station;SESpå;Spånga;SE03681;59,3841, 17,8973;1970-01-01;3100-12-31
+Skeppshult;small station;SESph;Skeppshult;SE03515;57,125, 13,3569;1970-01-01;3100-12-31
+Spjutsbygd;junction;SESpj;Spjutsbygd;SE10487;56,3103, 15,5943;1970-01-01;3100-12-31
+Spjutbäcken;junction;SESpjb;Spjutbäcken;SE10486;59,3287, 14,1388;1970-01-01;3100-12-31
+Sprängsviken;junction;SESpk;Sprängsviken;SE03680;62,8604, 17,8707;1970-01-01;3100-12-31
+Stolpstugan;junction;SESpn;Stolpstugan;SE10497;59,0121, 16,3435;1970-01-01;3100-12-31
+Storå;small station;SESr;Storå;SE10505;59,7189, 15,1407;1970-01-01;3100-12-31
+Söderbärke;small station;SESre;Söderbärke;SE03962;60,0725, 15,5371;1970-01-01;3100-12-31
+Storebro;small station;SESro;Storebro;SE03783;57,584, 15,8522;1970-01-01;3100-12-31
+Skurup;small station;SESrp;Skurup;SE03548;55,4802, 13,4981;1970-01-01;3100-12-31
+Skattkärr;junction;SESrr;Skattkärr;SE10462;59,4086, 13,6718;1970-01-01;3100-12-31
+Sorsele;small station;SESrs;Sorsele;SE03665;65,535, 17,5428;1970-01-01;3100-12-31
+Strömtorp;junction;SESrt;Strömtorp;SE10509;59,2506, 14,4115;1970-01-01;3100-12-31
+Skruv;junction;SESru;Skruv;SE10675;56,6778, 15,3672;1970-01-01;3100-12-31
+Storvreta;small station;SESrv;Storvreta;SE03801;59,9563, 17,7062;1970-01-01;3100-12-31
+Stenstorp;small station;SESs;Stenstorp;SE03720;58,2729, 13,7127;1970-01-01;3100-12-31
+Segersäng;small station;SESsä;Segersäng;SE03401;59,0295, 17,9271;1970-01-01;3100-12-31
+Sjösa;junction;SESsa;Sjösa;SE10460;58,7822, 17,0964;1970-01-01;3100-12-31
+Strömsholm;junction;SESsh;Strömsholm;SE10508;59,501, 16,2677;1970-01-01;3100-12-31
+Stockholms Södra;small station;SESst;Stockholms Södra;SE03755;59,3134, 18,0605;1970-01-01;3100-12-31
+Säter;small station;SESt;Säter;SE03942;60,3466, 15,7571;1970-01-01;3100-12-31
+Sandträsk;junction;SEStä;Sandträsk;SE10450;66,1266, 21,318;1970-01-01;3100-12-31
+Sollefteå;small station;SEStå;Sollefteå;SE03651;63,167, 17,2651;1970-01-01;3100-12-31
+Strångsjö;junction;SEStö;Strångsjö;SE10506;58,9061, 16,198;1970-01-01;3100-12-31
+Stöde;small station;SEStd;Stöde;SE03853;62,4198, 16,5991;1970-01-01;3100-12-31
+Stegsskogen;junction;SESten;Stegsskogen;SE10491;61,8479, 17,2018;1970-01-01;3100-12-31
+Stora Höga;small station;SESth;Stora Höga;SE03771;58,0187, 11,8358;1970-01-01;3100-12-31
+Storbergets industrispår;junction;SESti;Storbergets industrispår;SE10499;64,2563, 16,4512;1970-01-01;3100-12-31
+Sikträsk;junction;SEStk;Sikträsk;SE10455;67,1744, 20,4423;1970-01-01;3100-12-31
+Ställdalen;small station;SEStl;Ställdalen;SE03849;59,9344, 14,9417;1970-01-01;3100-12-31
+Storträsk;junction;SESto;Storträsk;SE10504;65,154, 20,06;1970-01-01;3100-12-31
+Stockviksverkens nedre;junction;SESton;Stockviksverkens nedre;SE03765;62,3471, 17,3608;1970-01-01;3100-12-31
+Svågertorp;small station;SEStp;Svågertorp;SE10517;55,5473, 12,9933;1970-01-01;3100-12-31
+Storlien;small station;SEStr;Storlien;SE03787;63,3159, 12,1006;1970-01-01;3100-12-31
+Storsund;junction;SESts;Storsund;SE10503;65,5784, 20,6221;1970-01-01;3100-12-31
+Stavre;small station;SEStv;Stavre;SE03696;62,8261, 15,3118;1970-01-01;3100-12-31
+Sundbyberg;small station;SESub;Sundbyberg;SE03860;59,3608, 17,9718;1970-01-01;3100-12-31
+Sundsvalls central;small station;SESuc;Sundsvalls central;SE03869;62,3866, 17,3149;1970-01-01;3100-12-31
+Storuman;small station;SESum;Storuman;SE03797;65,096, 17,1099;1970-01-01;3100-12-31
+Sunne;small station;SESun;Sunne;SE03873;59,8355, 13,1492;1970-01-01;3100-12-31
+Skutskär;small station;SESur;Skutskär;SE03551;60,626, 17,4046;1970-01-01;3100-12-31
+Sunderbyns sjukhus;small station;SESus;Sunderbyns sjukhus;SE03846;65,6733, 21,9354;1970-01-01;3100-12-31
+Storvik;small station;SESv;Storvik;SE03800;60,5819, 16,5343;1970-01-01;3100-12-31
+Svartå;junction;SESvå;Svartå;SE10514;59,1323, 14,5159;1970-01-01;3100-12-31
+Skytts Vemmerlöv;junction;SESvö;Skytts Vemmerlöv;SE10469;55,4101, 13,1541;1970-01-01;3100-12-31
+Säve;junction;SESve;Säve;SE10522;57,8042, 11,9123;1970-01-01;3100-12-31
+Svenshögen;small station;SESvg;Svenshögen;SE03912;58,1447, 11,9361;1970-01-01;3100-12-31
+Södra Vi;small station;SESvi;Södra Vi;SE03984;57,7402, 15,7929;1970-01-01;3100-12-31
+Svedje;junction;SESvj;Svedje;SE10515;62,6899, 17,8861;1970-01-01;3100-12-31
+Svenstavik;small station;SESvk;Svenstavik;SE03914;62,7719, 14,4407;1970-01-01;3100-12-31
+Sävast;junction;SESvt;Sävast;SE10520;65,7624, 21,7665;1970-01-01;3100-12-31
+Stockaryd;small station;SESy;Stockaryd;SE03737;57,3098, 14,5919;1970-01-01;3100-12-31
+Skillingaryd;small station;SESyd;Skillingaryd;SE03518;57,4284, 14,0907;1970-01-01;3100-12-31
+Sävastklinten;junction;SESän;Sävastklinten;SE10521;65,7763, 21,7494;1970-01-01;3100-12-31
+Skärpan;junction;SESäp;Skärpan;SE10474;60,3081, 17,5769;1970-01-01;3100-12-31
+Sunnäsbruk;junction;SESäu;Sunnäsbruk;SE10511;61,1086, 17,1253;1970-01-01;3100-12-31
+Säby;junction;SESäy;Säby;SE10519;59,8291, 17,7026;1970-01-01;3100-12-31
+Södertälje syd övre;small station;SESöö;Södertälje syd övre;SE03956;59,1633, 17,648;1970-01-01;3100-12-31
+Södertälje centrum;small station;SESöc;Södertälje centrum;SE03955;59,1911, 17,6284;1970-01-01;3100-12-31
+Södertälje hamn;small station;SESöd;Södertälje hamn;SE03976;59,1776, 17,6472;1970-01-01;3100-12-31
+Söderby;junction;SESödy;Söderby;SE10524;59,1964, 17,7936;1970-01-01;3100-12-31
+Sölvesborg;small station;SESög;Sölvesborg;SE03989;56,0494, 14,5831;1970-01-01;3100-12-31
+Stöcke;junction;SESök;Stöcke;SE10510;63,7428, 20,2587;1970-01-01;3100-12-31
+Södertälje syd undre;small station;SESöu;Södertälje syd undre;SE03995;59,1634, 17,6455;1970-01-01;3100-12-31
+Skelleftehamns övre;junction;SESöv;Skelleftehamns övre;SE03508;64,6872, 21,2275;1970-01-01;3100-12-31
+Töreboda;small station;SET;Töreboda;SE04297;58,7046, 14,1272;1970-01-01;3100-12-31
+Tälle;junction;SETäl;Tälle;SE10553;59,0502, 15,019;1970-01-01;3100-12-31
+Trångsviken;junction;SETåv;Trångsviken;SE04224;63,3318, 14,0134;1970-01-01;3100-12-31
+Tjörnarp;small station;SETö;Tjörnarp;SE10534;56,0015, 13,6312;1970-01-01;3100-12-31
+Tösse;junction;SETöe;Tösse;SE10554;58,9714, 12,6434;1970-01-01;3100-12-31
+Töva;junction;SETöv;Töva;SE04301;62,3737, 17,1098;1970-01-01;3100-12-31
+Tillberga;junction;SETb;Tillberga;SE04097;59,6874, 16,6241;1970-01-01;3100-12-31
+Tystberga;junction;SETba;Tystberga;SE10550;58,8485, 17,2361;1970-01-01;3100-12-31
+Torbacken;junction;SETbn;Torbacken;SE10536;58,0687, 12,243;1970-01-01;3100-12-31
+Tobo;small station;SETbo;Tobo;SE04123;60,259, 17,6338;1970-01-01;3100-12-31
+Trödje;junction;SETdj;Trödje;SE10543;60,8144, 17,1991;1970-01-01;3100-12-31
+Torebo;junction;SETeo;Torebo;SE10537;56,9491, 12,4557;1970-01-01;3100-12-31
+Tolikberget;junction;SETet;Tolikberget;SE10535;66,4133, 20,9072;1970-01-01;3100-12-31
+Tågarp;small station;SETgp;Tågarp;SE08891;55,9274, 12,9474;1970-01-01;3100-12-31
+Tenhult;small station;SETh;Tenhult;SE04085;57,7052, 14,3266;1970-01-01;3100-12-31
+Trehörningsjö;small station;SEThö;Trehörningsjö;SE10541;63,6914, 18,8656;1970-01-01;3100-12-31
+Tallhed;small station;SEThd;Tallhed;SE04055;61,2101, 14,7091;1970-01-01;3100-12-31
+Tornhill;junction;SEThl;Tornhill;SE10539;55,7381, 13,1898;1970-01-01;3100-12-31
+Träskholm;junction;SEThm;Träskholm;SE10542;65,2322, 20,0951;1970-01-01;3100-12-31
+Trollhättan;small station;SEThn;Trollhättan;SE04212;58,2876, 12,2989;1970-01-01;3100-12-31
+Tierp;small station;SETip;Tierp;SE04096;60,3458, 17,5131;1970-01-01;3100-12-31
+Tjärnvik;junction;SETjä;Tjärnvik;SE10533;62,1, 17,3197;1970-01-01;3100-12-31
+Tallåsen;junction;SETl;Tallåsen;SE10528;61,8673, 16,0127;1970-01-01;3100-12-31
+Tällberg;small station;SETlg;Tällberg;SE04284;60,8188, 15,0204;1970-01-01;3100-12-31
+Tomelilla;small station;SETli;Tomelilla;SE04129;55,5458, 13,9497;1970-01-01;3100-12-31
+Tomteboda övre;junction;SETmö;Tomteboda övre;SE10653;59,3511, 18,0164;1970-01-01;3100-12-31
+Torneträsk;small station;SETnk;Torneträsk;SE04155;68,2175, 19,7079;1970-01-01;3100-12-31
+Tranås;small station;SETns;Tranås;SE04185;58,0381, 14,9751;1970-01-01;3100-12-31
+Tanum;small station;SETnu;Tanum;SE04069;58,7136, 11,2956;1970-01-01;3100-12-31
+Torpshammar;small station;SETo;Torpshammar;SE04161;62,4727, 16,3354;1970-01-01;3100-12-31
+Toresta;junction;SETot;Toresta;SE10538;59,5336, 17,5745;1970-01-01;3100-12-31
+Torup;small station;SETou;Torup;SE04176;56,9576, 13,0795;1970-01-01;3100-12-31
+Torsby;small station;SEToy;Torsby;SE04165;60,1365, 13,0027;1970-01-01;3100-12-31
+Teckomatorp;small station;SETp;Teckomatorp;SE04078;55,8705, 13,0825;1970-01-01;3100-12-31
+Timrå;small station;SETrå;Timrå;SE04102;62,4864, 17,3303;1970-01-01;3100-12-31
+Trekanten;small station;SETre;Trekanten;SE10666;56,7029, 16,1134;1970-01-01;3100-12-31
+Trelleborg;small station;SETrg;Trelleborg;SE04196;55,3715, 13,1611;1970-01-01;3100-12-31
+Triangeln;small station;SETri;Triangeln;SE01586;55,5925, 13,0009;1970-01-01;3100-12-31
+Tungelsta;small station;SETs;Tungelsta;SE04245;59,1028, 18,0465;1970-01-01;3100-12-31
+Torsåker;small station;SETså;Torsåker;SE04171;60,5146, 16,4903;1970-01-01;3100-12-31
+Tågsjöberg;junction;SETsg;Tågsjöberg;SE10551;63,6735, 16,742;1970-01-01;3100-12-31
+Tisselskog;junction;SETsl;Tisselskog;SE04109;58,8972, 12,3856;1970-01-01;3100-12-31
+Tortuna;junction;SETtu;Tortuna;SE04174;59,6698, 16,7208;1970-01-01;3100-12-31
+Tumba;small station;SETu;Tumba;SE04239;59,1995, 17,8384;1970-01-01;3100-12-31
+Tunneby;junction;SETun;Tunneby;SE10546;56,4576, 14,0828;1970-01-01;3100-12-31
+Tvärålund;small station;SETvä;Tvärålund;SE04262;64,0997, 19,6776;1970-01-01;3100-12-31
+Tväråbäck;junction;SETvb;Tväråbäck;SE10548;63,9895, 19,7241;1970-01-01;3100-12-31
+Tyringe;small station;SETy;Tyringe;SE04266;56,1596, 13,5984;1970-01-01;3100-12-31
+Tyllered;junction;SETye;Tyllered;SE10549;57,0199, 12,3916;1970-01-01;3100-12-31
+Uppsala central;small station;SEU;Uppsala central;SE04351;59,8579, 17,6487;1970-01-01;3100-12-31
+Ulriksdal;small station;SEUdl;Ulriksdal;SE04326;59,3798, 18,0013;1970-01-01;3100-12-31
+Ulriksfors;small station;SEUf;Ulriksfors;SE04327;63,8323, 15,6208;1970-01-01;3100-12-31
+Umeå central;small station;SEUå;Umeå central;SE04337;63,8301, 20,267;1970-01-01;3100-12-31
+Umeå östra;small station;SEUåö;Umeå östra;SE01581;63,8182, 20,2936;1970-01-01;3100-12-31
+Umeå godsbangård;junction;SEUågb;Umeå godsbangård;SE04369;63,8447, 20,2375;1970-01-01;3100-12-31
+Ulvshyttan;junction;SEUly;Ulvshyttan;SE10557;60,3301, 15,3568;1970-01-01;3100-12-31
+Undersåker;small station;SEUn;Undersåker;SE04341;63,315, 13,2385;1970-01-01;3100-12-31
+Uppsala norra;junction;SEUna;Uppsala norra;SE10559;59,8672, 17,6122;1970-01-01;3100-12-31
+Upplands Väsby;small station;SEUpv;Upplands Väsby;SE04348;59,5205, 17,8992;1970-01-01;3100-12-31
+Ulvstorp;junction;SEUtp;Ulvstorp;SE10558;57,4771, 14,6893;1970-01-01;3100-12-31
+Utsikten;junction;SEUts;Utsikten;SE10561;59,2031, 17,8964;1970-01-01;3100-12-31
+Uddevalla central;small station;SEUv;Uddevalla central;SE04314;58,3542, 11,9234;1970-01-01;3100-12-31
+Ursviken;junction;SEUvn;Ursviken;SE10560;64,7084, 21,17;1970-01-01;3100-12-31
+Värnamo;small station;SEV;Värnamo;SE04604;57,1864, 14,036;1970-01-01;3100-12-31
+Vara;small station;SEVaa;Vara;SE04428;58,261, 12,9515;1970-01-01;3100-12-31
+Vargön;small station;SEVag;Vargön;SE04433;58,3598, 12,3912;1970-01-01;3100-12-31
+Varjisträsk;small station;SEVaj;Varjisträsk;SE04434;66,0446, 19,5299;1970-01-01;3100-12-31
+Varberg;small station;SEVb;Varberg;SE04429;57,1094, 12,2481;1970-01-01;3100-12-31
+Värmlands Bro;small station;SEVdb;Värmlands Bro;SE04601;59,1853, 13,0139;1970-01-01;3100-12-31
+Veddige;small station;SEVdi;Veddige;SE04458;57,2667, 12,3368;1970-01-01;3100-12-31
+Vindeln;small station;SEVdn;Vindeln;SE04517;64,2041, 19,714;1970-01-01;3100-12-31
+Vedevåg;junction;SEVdv;Vedevåg;SE10570;59,5236, 15,2823;1970-01-01;3100-12-31
+Väse;small station;SEVe;Väse;SE04609;59,3816, 13,8532;1970-01-01;3100-12-31
+Velanda södra;junction;SEVeas;Velanda södra;SE10574;58,2181, 12,3255;1970-01-01;3100-12-31
+Vedum;small station;SEVed;Vedum;SE04461;58,169, 12,9987;1970-01-01;3100-12-31
+Vartofta;junction;SEVf;Vartofta;SE10567;58,0921, 13,628;1970-01-01;3100-12-31
+Vissefjärda;small station;SEVfa;Vissefjärda;SE10587;56,538, 15,5826;1970-01-01;3100-12-31
+Viskafors;small station;SEVfo;Viskafors;SE04540;57,6293, 12,8451;1970-01-01;3100-12-31
+Vänersborg central;small station;SEVg;Vänersborg central;SE04590;58,3775, 12,3187;1970-01-01;3100-12-31
+Vårgårda;small station;SEVgå;Vårgårda;SE04579;58,0311, 12,8093;1970-01-01;3100-12-31
+Vaggeryd;small station;SEVgd;Vaggeryd;SE04374;57,4982, 14,1454;1970-01-01;3100-12-31
+Vegeholm;junction;SEVh;Vegeholm;SE10571;56,2087, 12,7938;1970-01-01;3100-12-31
+Vagnhärad;small station;SEVhd;Vagnhärad;SE04376;58,9458, 17,4988;1970-01-01;3100-12-31
+Västerhaninge;small station;SEVhe;Västerhaninge;SE04617;59,123, 18,1034;1970-01-01;3100-12-31
+Vikmanshyttan;junction;SEVhy;Vikmanshyttan;SE10579;60,2966, 15,8624;1970-01-01;3100-12-31
+Via;junction;SEVia;Via;SE10576;61,8079, 17,1911;1970-01-01;3100-12-31
+Vimmerby;small station;SEVib;Vimmerby;SE04512;57,663, 15,8585;1970-01-01;3100-12-31
+Vimmerby Hamra;junction;SEVibh;Vimmerby Hamra;SE10582;57,6371, 15,869;1970-01-01;3100-12-31
+Västra Ingelstad;small station;SEVid;Västra Ingelstad;SE10669;55,4915, 13,1065;1970-01-01;3100-12-31
+Vimnarp;junction;SEVim;Vimnarp;SE10583;57,7076, 14,6928;1970-01-01;3100-12-31
+Viarp;junction;SEVip;Viarp;SE10662;56,333, 12,8073;1970-01-01;3100-12-31
+Viskan;junction;SEVisk;Viskan;SE10586;62,4495, 16,4335;1970-01-01;3100-12-31
+Vassijaure;small station;SEVj;Vassijaure;SE04445;68,4296, 18,2577;1970-01-01;3100-12-31
+Vojmån;small station;SEVjm;Vojmån;SE04558;64,7918, 16,8165;1970-01-01;3100-12-31
+Västervik;small station;SEVk;Västervik;SE04623;57,7556, 16,6429;1970-01-01;3100-12-31
+Vallsta;small station;SEVl;Vallsta;SE04400;61,5181, 16,3675;1970-01-01;3100-12-31
+Vilhelmsborg;small station;SEVlb;Vilhelmsborg;SE10672;55,427, 13,732;1970-01-01;3100-12-31
+Vinlidsberg;junction;SEVld;Vinlidsberg;SE10584;65,017, 17,0634;1970-01-01;3100-12-31
+Vallnäs;junction;SEVln;Vallnäs;SE10564;57,6177, 15,4748;1970-01-01;3100-12-31
+Vattjom;junction;SEVm;Vattjom;SE10569;62,3673, 17,0058;1970-01-01;3100-12-31
+Vilhelmina;small station;SEVma;Vilhelmina;SE04507;64,623, 16,6514;1970-01-01;3100-12-31
+Vilhelmina timmer;junction;SEVmat;Vilhelmina timmer;SE10581;64,6494, 16,6138;1970-01-01;3100-12-31
+VME;junction;SEVme;VME;SE10589;59,4058, 16,446;1970-01-01;3100-12-31
+Villersmuren;junction;SEVmu;Villersmuren;SE10686;60,6072, 16,6963;1970-01-01;3100-12-31
+Åsbro;junction;SEÅ;Åsbro;SE04756;58,9982, 15,0612;1970-01-01;3100-12-31
+Åsensbruk;small station;SEÅb;Åsensbruk;SE04760;58,8054, 12,4256;1970-01-01;3100-12-31
+Ålberga;junction;SEÅba;Ålberga;SE10604;58,7241, 16,5774;1970-01-01;3100-12-31
+Årstaberg;small station;SEÅbe;Årstaberg;SE24920;59,2994, 18,0277;1970-01-01;3100-12-31
+Åby södra;junction;SEÅbs;Åby södra;SE10600;58,6589, 16,1804;1970-01-01;3100-12-31
+Ådalsliden;junction;SEÅd;Ådalsliden;SE10602;63,4396, 16,879;1970-01-01;3100-12-31
+Ånge;small station;SEÅg;Ånge;SE04718;62,5237, 15,6568;1970-01-01;3100-12-31
+Ångebyn;junction;SEÅgy;Ångebyn;SE10607;62,5242, 15,6099;1970-01-01;3100-12-31
+Åshammar;junction;SEÅh;Åshammar;SE10614;60,6485, 16,5479;1970-01-01;3100-12-31
+Åhus;junction;SEÅhus;Åhus;SE04685;55,9276, 14,3007;1970-01-01;3100-12-31
+Åkarp;small station;SEÅk;Åkarp;SE04687;55,6573, 13,1082;1970-01-01;3100-12-31
+Årskogen;junction;SEÅkg;Årskogen;SE10610;62,1438, 17,3484;1970-01-01;3100-12-31
+Åskott;junction;SEÅkt;Åskott;SE10615;63,2802, 14,6352;1970-01-01;3100-12-31
+Åmål;small station;SEÅl;Åmål;SE04715;59,0464, 12,6983;1970-01-01;3100-12-31
+Ålsäng;junction;SEÅlg;Ålsäng;SE10605;59,4157, 15,7102;1970-01-01;3100-12-31
+Åmsele;junction;SEÅm;Åmsele;SE04713;64,4887, 19,325;1970-01-01;3100-12-31
+Ångsågsmossen;junction;SEÅmn;Ångsågsmossen;SE10608;56,2124, 14,9775;1970-01-01;3100-12-31
+Åmyran;junction;SEÅmy;Åmyran;SE10606;61,9898, 17,2579;1970-01-01;3100-12-31
+Ånimskog;junction;SEÅnm;Ånimskog;SE10609;58,8772, 12,5689;1970-01-01;3100-12-31
+Ånn;small station;SEÅnn;Ånn;SE04729;63,3214, 12,539;1970-01-01;3100-12-31
+Åstorp;small station;SEÅp;Åstorp;SE04777;56,1333, 12,9511;1970-01-01;3100-12-31
+Väring;junction;SEVä;Väring;SE10595;58,5115, 13,9594;1970-01-01;3100-12-31
+Vätteryd;junction;SEVäd;Vätteryd;SE10668;56,0192, 13,6549;1970-01-01;3100-12-31
+Vännäs norra;junction;SEVän;Vännäs norra;SE10594;63,9295, 19,7414;1970-01-01;3100-12-31
+Västeraspby;small station;SEVäy;Västeraspby;SE10596;63,0557, 17,7476;1970-01-01;3100-12-31
+Västerås central;small station;SEVå;Västerås central;SE04629;59,6077, 16,5529;1970-01-01;3100-12-31
+Vålberg;junction;SEVåb;Vålberg;SE04574;59,3989, 13,1974;1970-01-01;3100-12-31
+Vallåkra;small station;SEVåk;Vallåkra;SE04403;55,9638, 12,8622;1970-01-01;3100-12-31
+Västerås norra;junction;SEVån;Västerås norra;SE04632;59,646, 16,5831;1970-01-01;3100-12-31
+Växjö;small station;SEVö;Växjö;SE04647;56,8767, 14,8053;1970-01-01;3100-12-31
+Vinslöv;small station;SEVöv;Vinslöv;SE04525;56,1049, 13,9165;1970-01-01;3100-12-31
+Värtan;junction;SEVn;Värtan;SE04606;59,3511, 18,0949;1970-01-01;3100-12-31
+Vännäs;small station;SEVns;Vännäs;SE04594;63,9103, 19,749;1970-01-01;3100-12-31
+Vackernäset;junction;SEVnt;Vackernäset;SE10562;63,0041, 16,118;1970-01-01;3100-12-31
+Vansbro;small station;SEVo;Vansbro;SE04424;60,5125, 14,2261;1970-01-01;3100-12-31
+Varpemossen;junction;SEVpm;Varpemossen;SE10566;58,1277, 12,3032;1970-01-01;3100-12-31
+Vingåker;small station;SEVr;Vingåker;SE04520;59,0421, 15,8765;1970-01-01;3100-12-31
+Värö;junction;SEVrö;Värö;SE04610;57,2386, 12,1961;1970-01-01;3100-12-31
+Vrena;junction;SEVre;Vrena;SE10591;58,8624, 16,7043;1970-01-01;3100-12-31
+Vekerum;junction;SEVru;Vekerum;SE04470;56,177, 14,7807;1970-01-01;3100-12-31
+Vislanda;small station;SEVs;Vislanda;SE04543;56,7887, 14,4565;1970-01-01;3100-12-31
+Viresjö;junction;SEVsö;Viresjö;SE10585;58,2039, 15,913;1970-01-01;3100-12-31
+Vikingstad;small station;SEVsd;Vikingstad;SE04502;58,3835, 15,433;1970-01-01;3100-12-31
+Valskog;small station;SEVsg;Valskog;SE10565;59,4436, 15,9513;1970-01-01;3100-12-31
+Vuonoskogen;junction;SEVsk;Vuonoskogen;SE10593;65,8605, 23,7249;1970-01-01;3100-12-31
+Virsbo;small station;SEVso;Virsbo;SE04532;59,8719, 16,0843;1970-01-01;3100-12-31
+Vretstorp;junction;SEVt;Vretstorp;SE10592;59,0216, 14,8649;1970-01-01;3100-12-31
+Vetlanda;small station;SEVta;Vetlanda;SE04483;57,4259, 15,0816;1970-01-01;3100-12-31
+Västra Torup;junction;SEVto;Västra Torup;SE10598;56,1442, 13,5077;1970-01-01;3100-12-31
+Vallvik;junction;SEVv;Vallvik;SE04401;61,1934, 17,1293;1970-01-01;3100-12-31
+Ystad;small station;SEY;Ystad;SE04661;55,4274, 13,8255;1970-01-01;3100-12-31
+Yttersjön;junction;SEYö;Yttersjön;SE10599;64,4104, 19,6594;1970-01-01;3100-12-31
+Ytterby;small station;SEYb;Ytterby;SE04666;57,8623, 11,9174;1970-01-01;3100-12-31
+Ytterhogdal;small station;SEYl;Ytterhogdal;SE04667;62,1973, 14,8554;1970-01-01;3100-12-31
+Ängelholm;small station;SEÄ;Ängelholm;SE04828;56,2468, 12,8534;1970-01-01;3100-12-31
+Ängelsberg;small station;SEÄbg;Ängelsberg;SE04831;59,957, 16,0092;1970-01-01;3100-12-31
+Äggfors;junction;SEÄfs;Äggfors;SE04791;63,295, 13,7074;1970-01-01;3100-12-31
+Älmhult;small station;SEÄh;Älmhult;SE04801;56,55, 14,1368;1970-01-01;3100-12-31
+Älgarås;junction;SEÄl;Älgarås;SE10618;58,8135, 14,2554;1970-01-01;3100-12-31
+Älvho;small station;SEÄlo;Älvho;SE04806;61,498, 14,7473;1970-01-01;3100-12-31
+Älvängen;small station;SEÄn;Älvängen;SE04820;57,9544, 12,1066;1970-01-01;3100-12-31
+Ängersjö;junction;SEÄnö;Ängersjö;SE10620;63,6038, 19,8046;1970-01-01;3100-12-31
+Äng;small station;SEÄng;Äng;SE04823;57,6924, 14,5668;1970-01-01;3100-12-31
+Älvsjö;small station;SEÄs;Älvsjö;SE04816;59,2786, 18,0113;1970-01-01;3100-12-31
+Älvsjö godsbangård;junction;SEÄsg;Älvsjö godsbangård;SE04818;59,2911, 18,0208;1970-01-01;3100-12-31
+Ättekulla;junction;SEÄtk;Ättekulla;SE10621;56,0216, 12,7677;1970-01-01;3100-12-31
+Älvsbyn;small station;SEÄy;Älvsbyn;SE04814;65,6782, 20,9933;1970-01-01;3100-12-31
+Åryd;junction;SEÅrd;Åryd;SE10611;56,8208, 14,9835;1970-01-01;3100-12-31
+Åre;small station;SEÅre;Åre;SE04734;63,3994, 13,0749;1970-01-01;3100-12-31
+Åsarna central;small station;SEÅsal;Åsarna central;SE04752;62,6471, 14,3745;1970-01-01;3100-12-31
+Åsträsk;junction;SEÅst;Åsträsk;SE10616;64,6157, 19,9752;1970-01-01;3100-12-31
+Åmotfors;small station;SEÅt;Åmotfors;SE04712;59,7684, 12,3664;1970-01-01;3100-12-31
+Åtvidaberg;small station;SEÅvg;Åtvidaberg;SE04783;58,2036, 16,0021;1970-01-01;3100-12-31
+Örtofta;small station;SEÖ;Örtofta;SE04900;55,7785, 13,2427;1970-01-01;3100-12-31
+Öreälv;junction;SEÖä;Öreälv;SE10629;63,7936, 19,3434;1970-01-01;3100-12-31
+Ökna;junction;SEÖa;Ökna;SE10623;59,4012, 15,7251;1970-01-01;3100-12-31
+Österalnö;junction;SEÖal;Österalnö;SE10631;63,3551, 18,515;1970-01-01;3100-12-31
+Örabäcken;junction;SEÖbn;Örabäcken;SE10627;62,1113, 15,7547;1970-01-01;3100-12-31
+Ödåkra;small station;SEÖda;Ödåkra;SE04857;56,1047, 12,7451;1970-01-01;3100-12-31
+Östra Grevie;small station;SEÖg;Östra Grevie;SE10634;55,4644, 13,1345;1970-01-01;3100-12-31
+Örbyhus;small station;SEÖh;Örbyhus;SE04876;60,2293, 17,7035;1970-01-01;3100-12-31
+Överhogdals grusgrop;junction;SEÖhlg;Överhogdals grusgrop;SE10636;62,2319, 14,8233;1970-01-01;3100-12-31
+Östansjö;junction;SEÖj;Östansjö;SE10630;59,0456, 14,9813;1970-01-01;3100-12-31
+Örnsköldsviks central;small station;SEÖk;Örnsköldsviks central;SE04888;63,2884, 18,7047;1970-01-01;3100-12-31
+Örnsköldsvik norra;small station;SEÖkn;Örnsköldsvik norra;SE01588;63,3061, 18,7249;1970-01-01;3100-12-31
+Ölme;junction;SEÖl;Ölme;SE10624;59,3609, 14,0054;1970-01-01;3100-12-31
+Önaskogen;junction;SEÖna;Önaskogen;SE10625;58,6215, 15,1211;1970-01-01;3100-12-31
+Önnestad;small station;SEÖnd;Önnestad;SE10626;56,0667, 14,0168;1970-01-01;3100-12-31
+Örebro central;small station;SEÖr;Örebro central;SE04878;59,2782, 15,211;1970-01-01;3100-12-31
+Örsjö;small station;SEÖrs;Örsjö;SE10639;56,6967, 15,7498;1970-01-01;3100-12-31
+Östersunds central;small station;SEÖs;Östersunds central;SE04942;63,17, 14,6381;1970-01-01;3100-12-31
+Österås;junction;SEÖså;Österås;SE10633;63,2113, 17,1844;1970-01-01;3100-12-31
+Ösmo;small station;SEÖso;Ösmo;SE04903;58,9845, 17,9026;1970-01-01;3100-12-31
+Östertälje;small station;SEÖte;Östertälje;SE04947;59,185, 17,6584;1970-01-01;3100-12-31
+Östavall;junction;SEÖv;Östavall;SE04918;62,4293, 15,4732;1970-01-01;3100-12-31
+Övsjö;junction;SEÖvö;Övsjö;SE10637;62,9649, 15,9864;1970-01-01;3100-12-31
+Överum;small station;SEÖvm;Överum;SE04983;57,9824, 16,3255;1970-01-01;3100-12-31
+Östervärn;small station;SEÖvn;Östervärn;SE10632;55,6068, 13,0336;1970-01-01;3100-12-31
+Öxnered;small station;SEÖx;Öxnered;SE04994;58,3568, 12,2726;1970-01-01;3100-12-31
+Klostergården;small station;SEKgå;Klostergården;SE10708;55,6944, 13,1712;1970-01-01;3100-12-31
+Södra utmarken;junction;SESöt;Södra utmarken;SE10702;56,2371, 12,8455;1970-01-01;3100-12-31
+Borås central;small station;SEBsc;Borås central;SE00431;57,7203, 12,931;1970-01-01;3100-12-31
+Göteborg Skandiahamnen;junction;SEGsh;Göteborg Skandiahamnen;SE01314;57,6993, 11,8592;1970-01-01;3100-12-31
+Knalleland;small station;SEKnl;Knalleland;SE02064;57,7341, 12,9426;1970-01-01;3100-12-31
+Pålsjö;junction;SEPö;Pålsjö;SE10704;56,0684, 12,6983;1970-01-01;3100-12-31
+Lustån;junction;SELuå;Lustån;SE10701;60,2361, 16,0088;1970-01-01;3100-12-31
+Helenelund;small station;SEHel;Helenelund;SE01453;59,4176, 17,9568;1970-01-01;3100-12-31
+Sollentuna;small station;SESol;Sollentuna;SE03652;59,4294, 17,9475;1970-01-01;3100-12-31
+Borlänge central;small station;SEBlgc;Borlänge central;SE00427;60,4829, 15,4255;1970-01-01;3100-12-31
+Domnarvet;junction;SEDmn;Domnarvet;SE10712;60,4937, 15,4458;1970-01-01;3100-12-31
+Morastrand;small station;SEMras;Morastrand;SE02725;61,0049, 14,5426;1970-01-01;3100-12-31
+Mora central;small station;SEMrc;Mora central;SE02722;61,0087, 14,5591;1970-01-01;3100-12-31
+Riksgränsen Vj-Bjf;border point;EU00237;Riksgränsen Vj-Bjf;SE10035;68,43, 18,1057;1970-01-01;3100-12-31
+Storlien gränsen;border point;EU00236;Storlien gränsen;SE06541;63,337, 12,0605;1970-01-01;3100-12-31
+Herrljunga västra;junction;SEHrv;Herrljunga västra;SE10710;58,0665, 12,9613;1970-01-01;3100-12-31
+Kornsjö gränsen;border point;EU00234;Kornsjö gränsen;SE02084;58,9348, 11,6699;1970-01-01;3100-12-31
+Charlottenberg gränsen;border point;EU00235;Charlottenberg gränsen;SE10707;59,9319, 12,2434;1970-01-01;3100-12-31
+Riksgräns Haparanda - Tornio;border point;EU00239;Riksgräns Haparanda - Tornio;SE10709;65,8279, 24,1507;1970-01-01;3100-12-31
+Herrljunga central;small station;SEHrc;Herrljunga central;SE01476;58,0791, 13,0209;1970-01-01;3100-12-31
+Göteborg Lindholmen;junction;SEGli;Göteborg Lindholmen;SE10713;57,707, 11,9195;1970-01-01;3100-12-31
+Öresundsbro Konsortiet - Trafikverket km 281+810;domestic border point;SE00100;Öresundsbro Konsortiet - Trafikverket km 281+810;no data;55,5655, 12,9029;1970-01-01;3100-12-31
+Peberholm gränsen;border point;EU00141;Peberholm gränsen;no data;55,6059, 12,7381;1970-01-01;3100-12-31

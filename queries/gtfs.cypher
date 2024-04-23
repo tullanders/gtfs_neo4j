@@ -1,0 +1,145 @@
+//Clear database
+//MATCH(n) DETACH DELETE n;
+
+:param basedir => 'http://127.0.0.1:5500/data/gtfs/';
+
+
+// load the trafikverket mapping
+// set trafikverket signature for each stop
+LOAD CSV WITH HEADERS FROM $basedir + "trafikverket_stops.txt" as row
+merge (s:stops {signature:row.trafikverket_signature})
+set s.stop_id = row.stop_id;
+
+// agency
+CREATE CONSTRAINT uc_agency_agency_id IF NOT EXISTS FOR (n:agency) REQUIRE (n.agency_id) IS UNIQUE;
+CREATE INDEX index_agency_agency_id IF NOT EXISTS FOR (n:agency) ON (n.agency_id);
+
+LOAD CSV WITH HEADERS FROM $basedir + "agency.txt" as row
+MERGE (n:agency {agency_id: row.agency_id})
+SET n.agency_name = row.agency_name, 
+n.agency_url = row.agency_url,
+n.agency_timezone = row.agency_timezone,
+n.agency_lang = row.agency_lang,
+n.agency_fare_url = row.agency_fare_url;
+
+// routes
+CREATE CONSTRAINT uc_routes_route_id IF NOT EXISTS FOR (n:routes) REQUIRE (n.route_id) IS UNIQUE;
+CREATE INDEX index_routes_route_id IF NOT EXISTS FOR (n:routes) ON (n.route_id);
+CREATE INDEX index_routes_agency_id IF NOT EXISTS FOR (n:routes) ON (n.agency_id);
+LOAD CSV WITH HEADERS FROM $basedir + "routes.txt" as row
+MERGE (n:routes {route_id:row.route_id})
+SET n.agency_id = row.agency_id, 
+n.route_short_name = row.route_short_name,
+n.route_long_name = row.route_long_name,
+n.route_type = row.route_type,
+n.route_desc = row.route_desc;
+
+// trips
+CREATE CONSTRAINT uc_trips_trip_id IF NOT EXISTS FOR (n:trips) REQUIRE (n.trip_id) IS UNIQUE;
+CREATE INDEX index_trips_trip_id IF NOT EXISTS FOR (n:trips) ON (n.trip_id);
+CREATE INDEX index_trips_route_id IF NOT EXISTS FOR (n:trips) ON (n.route_id);
+CREATE INDEX index_trips_service_id IF NOT EXISTS FOR (n:trips) ON (n.service_id);
+CREATE INDEX index_trips_shape_id IF NOT EXISTS FOR (n:trips) ON (n.service_id);
+LOAD CSV WITH HEADERS FROM $basedir + "trips.txt" as row
+MERGE (n:trips {trip_id:row.trip_id})
+SET n.route_id = row.route_id, 
+n.service_id = row.service_id,
+n.trip_headsign = row.trip_headsign,
+n.direction_id = tointeger(row.direction_id),
+n.route_type = tointeger(row.route_type),
+n.shape_id = row.shape_id,
+n.route_desc = row.route_desc;
+
+// calendar_dates
+CREATE INDEX index_calendar_dates_service_id IF NOT EXISTS FOR (n:calendar_dates) ON (n.service_id);
+CREATE INDEX index_calendar_dates_date IF NOT EXISTS FOR (n:calendar_dates) ON (n.date);
+LOAD CSV WITH HEADERS FROM $basedir + "calendar_dates.txt" as row
+MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
+SET n.exception_type = row.exception_type;
+
+// stop_times
+CREATE INDEX index_stop_times_trip_id IF NOT EXISTS FOR (n:stop_times) ON (n.trip_id);
+CREATE INDEX index_stop_times_stop_id IF NOT EXISTS FOR (n:stop_times) ON (n.stop_id);
+LOAD CSV WITH HEADERS FROM $basedir + "stop_times.txt" as row
+MERGE (n:stop_times {trip_id:row.trip_id, stop_id:row.stop_id})
+SET n.arrival_time = row.arrival_time,
+n.departure_time = row.departure_time,
+n.stop_sequence = tointeger(row.stop_sequence),
+n.stop_headsign = row.stop_headsign,
+n.pickup_type = tointeger(row.pickup_type),
+n.drop_off_type = tointeger(row.drop_off_type),
+n.shape_dist_traveled = row.shape_dist_traveled,
+n.timepoint = tointeger(row.timepoint);
+
+// stops
+CREATE INDEX index_stops_stop_id IF NOT EXISTS FOR (n:stops) ON (n.stop_id);
+LOAD CSV WITH HEADERS FROM $basedir + "stops.txt" as row
+MERGE (n:stops {stop_id:row.stop_id})
+SET n.stop_name = row.stop_name, 
+n.stop_lat = tofloat(row.stop_lat),
+n.stop_lon = tofloat(row.stop_lon),
+n.location_type = tointeger(row.location_type),
+n.parent_station = row.parent_station,
+n.platform_code = row.platform_code;
+
+// routes_technical.txt
+LOAD CSV WITH HEADERS FROM $basedir + "routes_technical.txt" as row
+with row where row.technical_route_number <> 'null'
+match (r:routes {route_id:row.route_id})
+set r.technical_route_number = row.technical_route_number;
+
+// trips_technical.txt
+LOAD CSV WITH HEADERS FROM $basedir + "trips_technical.txt" as row
+match (t:trips {trip_id:row.trip_id})
+set t.technical_trip_number = row.technical_trip_number;
+
+// Sometimes we get null for route_short_name but a value for technical_trip_number. Guess it's the same :)
+match (r:routes)--(t:trips)--(c:calendar_dates {date:date()}) where r.route_short_name is null and t.technical_trip_number is not null
+set r.route_short_name = t.technical_trip_number;
+
+// RELATIONS:
+// agency -> routes
+match (a:agency)
+match (r:routes {agency_id: a.agency_id})
+merge (a)-[:HAS_ROUTES]->(r);
+
+// routes -> trips
+match (r:routes)
+match (t:trips {route_id: r.route_id})
+merge (r)-[:HAS_TRIPS]->(t);
+
+// trips -> calendar_dates
+match (t:trips)
+match (c:calendar_dates {service_id: t.service_id})
+merge (t)-[:HAS_CALENDAR_DATES]->(c);
+
+// trips -> stop_times
+match (t:trips)
+match (s:stop_times {trip_id: t.trip_id})
+merge (t)-[:HAS_STOP_TIMES]->(s);
+
+// stop_times -> stops
+match (st:stop_times)
+match (s:stops {stop_id: st.stop_id})
+merge (st)-[:HAS_STOPS]->(s);
+
+// transfers stop_times -> stop_times
+LOAD CSV WITH HEADERS FROM $basedir + "transfers.txt" as row
+match (st1:stop_times {stop_id:row.from_stop_id, trip_id: row.from_trip_id})
+match (st2:stop_times {stop_id:row.to_stop_id, trip_id: row.to_trip_id})
+merge (st1)-[:TRANSFERS]->(st2);
+
+// next stop mellan alla stationer:
+match (st1:stop_times)
+match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
+merge (st1)-[:NEXT_STOP]->(st2);
+
+// next stop mellan alla stationer:
+match (st1:stop_times)
+match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
+merge (st1)-[:NEXT_STOP]->(st2);
+
+// set trafikverket signature for each stop
+LOAD CSV WITH HEADERS FROM $basedir + "trafikverket_stops.txt" as row
+match (s:stops {stop_id:row.stop_id})
+set s.signature = row.trafikverket_signature;
