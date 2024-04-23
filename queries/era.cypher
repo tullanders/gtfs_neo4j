@@ -1,4 +1,4 @@
-:param erabasedir => 'http://127.0.0.1:5500/data/era/';
+:param erabasedir => 'https://github.com/tullanders/gtfs_neo4j/tree/main/era/;
 
 // Load Swedish Operational Points from ERA:
 LOAD CSV WITH HEADERS FROM $erabasedir + "operational_point_se.csv" as row

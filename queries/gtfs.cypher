@@ -1,4 +1,4 @@
-:param basedir => 'http://127.0.0.1:5500/data/gtfs/';
+:param basedir => 'https://github.com/tullanders/gtfs_neo4j/tree/main/gtfs/';
 
 
 // load the trafikverket mapping
