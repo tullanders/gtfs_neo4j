@@ -7,13 +7,19 @@ with row,
 toupper(replace(row['Unique OP ID'],'SE','')) as signature,
 tointeger(replace(row['OP TAF TAP primary code'],'SE','')) as uic_code,
 row['Normal running direction'] as direction,
-row['Load capability line category'] as linecat
+row['Load capability line category'] as linecat,
+split(row['Geographical location of Operational Point'],', ') as point
+
+with row, signature, uic_code, direction, linecat, 
+tofloat(replace(point[0],',','.')) as latitude,
+tofloat(replace(point[1],',','.')) as longitude
 
 MERGE (s:stops {signature:signature})
 on create
 set s.uic_code = uic_code,
 s.stop_name = row['Name of Operational point'],
-s.era_id = row['Unique OP ID'];
+s.era_id = row['Unique OP ID'],
+s.point = Point({latitude: latitude, longitude: longitude});
 
 
 // Load Swedish relationships
