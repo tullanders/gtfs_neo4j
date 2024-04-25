@@ -1,15 +1,15 @@
 # Digital Twin for railway and trains
 Simple project for setting up a simple Digital Railway Twin
- [GTFS](https://gtfs.org/) in a neo4j database.
+ with neo4j database.
 
 
 ## Data
 ### GTFS-dataset
 #### What is GTFS?
-GTFS stands for General Transit Feed Specification. It is a set of open standards that define formats for public transportation schedules and associated geographic information. 
+[GTFS](https://gtfs.org/) stands for General Transit Feed Specification. It is a set of open standards that define formats for public transportation schedules and associated geographic information. 
 
 #### Data
-The GTFS-files is downloaded from [Trafiklab.se](https://www.trafiklab.se/api/trafiklab-apis/gtfs-sverige-2/) (GTFS Sverige-2). The files are really large because they contains all public transportation in Sweden, both busses and trains. To reduce the filesize you could use the Jupyter Notebook (/notebooks/extract_trains.ipynb). 
+The GTFS-files is downloaded from [Trafiklab.se](https://www.trafiklab.se/api/trafiklab-apis/gtfs-sverige-2/) (GTFS Sverige-2). The files are really large because they contains all public transportation in Sweden, both busses and trains. To reduce the filesize you could use the provided Jupyter Notebook (/notebooks/extract_trains.ipynb). 
 ![Schema](/schema.png)
 
 ### ERA Dataset
