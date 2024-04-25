@@ -5,11 +5,6 @@ DETACH DELETE n
 } IN TRANSACTIONS OF 50000 ROWS;
 
 
-// The train numbers are stored in different nodes and properties. Let's collect them into a single property:
-match (r:routes)--(t:trips)
-set r.train_id = coalesce(r.route_short_name, r.technical_route_number, t.technical_trip_number)
-
-
 // convert the arrival and departure times to time object and add the offset
 match (st:stop_times) where st.arrival_time2 is null
 with st, split(st.arrival_time,':') as arrivaltime,
