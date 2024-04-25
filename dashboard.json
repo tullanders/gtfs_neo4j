@@ -1,0 +1,229 @@
+{
+  "uuid": "78840e33-f875-424e-ac5f-cf4770229ac6",
+  "title": "Tågdemo",
+  "version": "2.4",
+  "settings": {
+    "pagenumber": 0,
+    "editable": true,
+    "fullscreenEnabled": false,
+    "parameters": {
+      "neodash_stops_stop_name_1": "Örebro Centralstation",
+      "neodash_stops_stop_name_1_display": "Örebro Centralstation",
+      "neodash_stops_stop_name_2": "Falun Centralstation",
+      "neodash_stops_stop_name_2_display": "Falun Centralstation",
+      "neodash_date": {
+        "year": 2024,
+        "month": 4,
+        "day": 29
+      },
+      "neodash_train_id": "54",
+      "neodash_train_id_display": "54"
+    },
+    "theme": "light"
+  },
+  "pages": [
+    {
+      "title": "Stationer",
+      "reports": [
+        {
+          "id": "0b6527f8-e1d7-4577-99cc-c87d057dbfa7",
+          "title": "Karta",
+          "query": "match (falun:stops {signature:'ÖR'})\nmatch p=(s:stops)--(:stops) where point.distance(s.point, falun.point) < 50000\nreturn p\n\n\n\n",
+          "width": 19,
+          "height": 6,
+          "x": 0,
+          "y": 0,
+          "type": "map",
+          "selection": {
+            "stops": "signature"
+          },
+          "settings": {
+            "clusterMarkers": false,
+            "defaultNodeSize": "small"
+          },
+          "schema": [
+            [
+              "stops",
+              "signature",
+              "era_id",
+              "uic_code",
+              "stop_name",
+              "point",
+              "stop_id",
+              "stop_lon",
+              "stop_lat"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kortaste sträcka",
+      "reports": [
+        {
+          "id": "b5007351-20e4-417d-b3c7-56254dbb6ea4",
+          "title": "Från",
+          "query": "MATCH (n:`stops`) \nWHERE toLower(toString(n.`stop_name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`stop_name` as value,  n.`stop_name` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "stops",
+            "propertyType": "stop_name",
+            "propertyTypeDisplay": "stop_name",
+            "parameterName": "neodash_stops_stop_name_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "1d838c91-b9c6-47df-b7b3-05d852064769",
+          "title": "Till",
+          "query": "MATCH (n:`stops`) \nWHERE toLower(toString(n.`stop_name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`stop_name` as value,  n.`stop_name` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 0,
+          "y": 2,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "stops",
+            "propertyType": "stop_name",
+            "propertyTypeDisplay": "stop_name",
+            "parameterName": "neodash_stops_stop_name_2",
+            "id": "2"
+          },
+          "schema": []
+        },
+        {
+          "id": "1d6c3a59-a203-436e-8a05-87d6c0ab6b5d",
+          "title": "Karta",
+          "query": "match (s1:stops {stop_name:$neodash_stops_stop_name_1})\nmatch (s2:stops {stop_name:$neodash_stops_stop_name_2})\nCALL apoc.algo.dijkstra(s1, s2, 'SECTION', 'length') YIELD path, weight\nreturn *\n\n",
+          "width": 10,
+          "height": 6,
+          "x": 6,
+          "y": 0,
+          "type": "map",
+          "selection": {
+            "stops": "(no label)"
+          },
+          "settings": {
+            "defaultNodeSize": "small"
+          },
+          "schema": [
+            [
+              "stops",
+              "stop_lon",
+              "signature",
+              "stop_id",
+              "stop_lat",
+              "era_id",
+              "uic_code",
+              "stop_name",
+              "point"
+            ]
+          ]
+        },
+        {
+          "id": "5d49cc2c-419c-4de8-bedc-75d830278e2d",
+          "title": "Avstånd",
+          "query": "match (s1:stops {stop_name:$neodash_stops_stop_name_1})\nmatch (s2:stops {stop_name:$neodash_stops_stop_name_2})\nCALL apoc.algo.dijkstra(s1, s2, 'SECTION', 'length') YIELD path, weight\n\nRETURN toInteger(apoc.coll.sum([r in relationships(path) | r.length])) + \" km\" as km\n\n\n\n\n\n\n\n\n\n\n\n",
+          "width": 6,
+          "height": 2,
+          "x": 0,
+          "y": 4,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        }
+      ]
+    },
+    {
+      "title": "Sök tåg",
+      "reports": [
+        {
+          "id": "b67c4fd7-7a23-4e87-9ee2-3f1c4a3cb339",
+          "title": "Från",
+          "query": "MATCH (n:`stops`) \nWHERE toLower(toString(n.`stop_name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`stop_name` as value,  n.`stop_name` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 4,
+          "height": 2,
+          "x": 0,
+          "y": 2,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "stops",
+            "propertyType": "stop_name",
+            "propertyTypeDisplay": "stop_name",
+            "parameterName": "neodash_stops_stop_name_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "7e91ea1c-81a8-443c-9bbc-77cf9753983a",
+          "title": "Avgångar",
+          "query": "with date($neodash_date) as date, \n$neodash_stops_stop_name_1 as from, \n$neodash_stops_stop_name_2 as to\nmatch (a:agency)--(r:routes)--(t:trips)--(c:calendar_dates {date:date})\nmatch (t)--(st1:stop_times)--(s1:stops)\nwhere tolower(s1.stop_name) starts with tolower(from)\nmatch (s2:stops) where tolower(s2.stop_name) starts with tolower(to)\nmatch (st1)-[:NEXT_STOP*]->(st2:stop_times)-->(s2)\nreturn \na.agency_name as Operatör,\nt.technical_trip_number as TågId, \nst1.departure_time2 as Avgång, \nst2.arrival_time2 as Ankomst,\ns1.stop_name as Från,\ns2.stop_name as Till,\nt.trip_headsign as Skylt\norder by st1.departure_time2 limit 50\n\n\n\n",
+          "width": 15,
+          "height": 6,
+          "x": 4,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "compact": true
+          }
+        },
+        {
+          "id": "7ae89738-008f-4e72-92cf-d88c0d6f8200",
+          "title": "Till",
+          "query": "MATCH (n:`stops`) \nWHERE toLower(toString(n.`stop_name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`stop_name` as value,  n.`stop_name` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 4,
+          "height": 2,
+          "x": 0,
+          "y": 4,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "stops",
+            "propertyType": "stop_name",
+            "propertyTypeDisplay": "stop_name",
+            "parameterName": "neodash_stops_stop_name_2",
+            "id": "2"
+          },
+          "schema": []
+        },
+        {
+          "id": "5884f9f3-d6ee-4dcf-a045-37c8b73749d6",
+          "title": "Datum",
+          "query": "RETURN true;",
+          "width": 4,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Date Picker",
+            "entityType": "date",
+            "parameterName": "neodash_date"
+          },
+          "schema": []
+        }
+      ]
+    }
+  ],
+  "parameters": {},
+  "extensions": {
+    "active": true,
+    "activeReducers": []
+  }
+}
