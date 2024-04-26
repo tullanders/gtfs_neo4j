@@ -6,7 +6,8 @@ DETACH DELETE n
 
 
 // convert the arrival and departure times to time object and add the offset
-match (st:stop_times) where st.arrival_time2 is null
+CALL apoc.periodic.iterate(
+  "match (st:stop_times) where st.arrival_time2 is null
 with st, split(st.arrival_time,':') as arrivaltime,
 split(st.departure_time,':') as departuretime
 with st,
@@ -14,14 +15,15 @@ tointeger(arrivaltime[0]) as arrival_hours,
 tointeger(arrivaltime[1]) as arrival_minutes,
 tointeger(departuretime[0]) as departure_hours,
 tointeger(departuretime[1]) as departure_minutes
-with st,departure_hours, departure_minutes,arrival_hours, arrival_minutes,
+return st,departure_hours, departure_minutes,arrival_hours, arrival_minutes,
 tointeger(floor(arrival_hours/24)) as arrival_offset,
 tointeger(floor(departure_hours/24)) as departure_offset,
-localtime('00:00') as t
-set st.arrival_time2 = t + duration({hours:arrival_hours, minutes:arrival_minutes}),
+localtime('00:00') as t",
+"set st.arrival_time2 = t + duration({hours:arrival_hours, minutes:arrival_minutes}),
 st.arrival_offset = arrival_offset,
 st.departure_offset = departure_offset,
-st.departure_time2 = t + duration({hours:departure_hours, minutes:departure_minutes})
+st.departure_time2 = t + duration({hours:departure_hours, minutes:departure_minutes})",
+  {batchSize:10000, parallel:true})
 
 
 // Quantized path pattern:
