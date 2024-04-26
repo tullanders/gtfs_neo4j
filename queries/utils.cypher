@@ -17,7 +17,7 @@ tointeger(departuretime[1]) as departure_minutes
 with st,departure_hours, departure_minutes,arrival_hours, arrival_minutes,
 tointeger(floor(arrival_hours/24)) as arrival_offset,
 tointeger(floor(departure_hours/24)) as departure_offset,
-localtime('00:00') as t limit 100000
+localtime('00:00') as t
 set st.arrival_time2 = t + duration({hours:arrival_hours, minutes:arrival_minutes}),
 st.arrival_offset = arrival_offset,
 st.departure_offset = departure_offset,
