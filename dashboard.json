@@ -28,7 +28,7 @@
         {
           "id": "0b6527f8-e1d7-4577-99cc-c87d057dbfa7",
           "title": "Karta",
-          "query": "match (falun:stops {signature:'ÖR'})\nmatch p=(s:stops)--(:stops) where point.distance(s.point, falun.point) < 50000\nreturn p\n\n\n\n",
+          "query": "match (orebro:stops {signature:'ÖR'})\nmatch p=(s:stops)--(:stops) where point.distance(s.point, orebro.point) < 50000\nreturn p\n\n\n\n",
           "width": 19,
           "height": 6,
           "x": 0,
