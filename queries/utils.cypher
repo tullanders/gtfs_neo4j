@@ -26,6 +26,7 @@ st.departure_time2 = t + duration({hours:departure_hours, minutes:departure_minu
   {batchSize:10000, parallel:true})
 
 
+
 // Quantized path pattern:
 with date() as date
 match p = 

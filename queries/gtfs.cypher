@@ -69,6 +69,7 @@ n.timepoint = tointeger(row.timepoint);
 
 // stops
 CREATE INDEX index_stops_stop_id IF NOT EXISTS FOR (n:stops) ON (n.stop_id);
+CREATE INDEX index_stops_point IF NOT EXISTS FOR (n:stops) ON (n.point);
 LOAD CSV WITH HEADERS FROM $basedir + "stops.txt" as row
 MERGE (n:stops {stop_id:row.stop_id})
 SET n.stop_name = row.stop_name, 
