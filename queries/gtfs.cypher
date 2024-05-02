@@ -56,8 +56,9 @@ SET n.exception_type = row.exception_type;
 // stop_times
 CREATE INDEX index_stop_times_trip_id IF NOT EXISTS FOR (n:stop_times) ON (n.trip_id);
 CREATE INDEX index_stop_times_stop_id IF NOT EXISTS FOR (n:stop_times) ON (n.stop_id);
-LOAD CSV WITH HEADERS FROM $basedir + "stop_times.txt" as row
-MERGE (n:stop_times {trip_id:row.trip_id, stop_id:row.stop_id})
+CALL apoc.periodic.iterate(
+  "LOAD CSV WITH HEADERS FROM $basedir + "stop_times.txt" as row return row",
+"MERGE (n:stop_times {trip_id:row.trip_id, stop_id:row.stop_id})
 SET n.arrival_time = row.arrival_time,
 n.departure_time = row.departure_time,
 n.stop_sequence = tointeger(row.stop_sequence),
@@ -65,7 +66,9 @@ n.stop_headsign = row.stop_headsign,
 n.pickup_type = tointeger(row.pickup_type),
 n.drop_off_type = tointeger(row.drop_off_type),
 n.shape_dist_traveled = row.shape_dist_traveled,
-n.timepoint = tointeger(row.timepoint);
+n.timepoint = tointeger(row.timepoint)",
+  {batchSize:10000, parallel:true});
+
 
 // stops
 CREATE INDEX index_stops_stop_id IF NOT EXISTS FOR (n:stops) ON (n.stop_id);
