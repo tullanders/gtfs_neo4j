@@ -80,6 +80,7 @@ n.parent_station = row.parent_station,
 n.platform_code = row.platform_code;
 
 // routes_technical.txt
+CREATE INDEX index_trips_technical_route_number IF NOT EXISTS FOR (n:trips) ON (n.technical_route_number);
 LOAD CSV WITH HEADERS FROM $basedir + "routes_technical.txt" as row
 with row where row.technical_route_number <> 'null'
 match (r:routes {route_id:row.route_id})
