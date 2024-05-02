@@ -130,20 +130,15 @@ match (s:stops {stop_id: st.stop_id}) return st,s",
 "merge (st)-[:HAS_STOPS]->(s)",
   {batchSize:10000, parallel:true});
 
-
-
-
 // transfers stop_times -> stop_times
 LOAD CSV WITH HEADERS FROM $basedir + "transfers.txt" as row
 match (st1:stop_times {stop_id:row.from_stop_id, trip_id: row.from_trip_id})
 match (st2:stop_times {stop_id:row.to_stop_id, trip_id: row.to_trip_id})
 merge (st1)-[:TRANSFERS]->(st2);
 
-// next stop mellan alla stationer:
+// next stop mellan alla hålltider i en trip:
 CALL apoc.periodic.iterate(
-"match (st1:stop_times)
-match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1}) return st1,st2",
+"match (st1:stop_times)<--(:trips)-->(st2:stop_times) 
+where st2.stop_sequence = st1.stop_sequence +1 return st1,st2",
 "merge (st1)-[:NEXT_STOP]->(st2)",
-  {batchSize:10000, parallel:true});
-
-
+  {batchSize:1000, parallel:true});
