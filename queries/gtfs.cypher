@@ -57,7 +57,7 @@ SET n.exception_type = row.exception_type;
 CREATE INDEX index_stop_times_trip_id IF NOT EXISTS FOR (n:stop_times) ON (n.trip_id);
 CREATE INDEX index_stop_times_stop_id IF NOT EXISTS FOR (n:stop_times) ON (n.stop_id);
 CALL apoc.periodic.iterate(
-  "LOAD CSV WITH HEADERS FROM $basedir + "stop_times.txt" as row return row",
+  "LOAD CSV WITH HEADERS FROM $basedir + 'stop_times.txt' as row return row",
 "MERGE (n:stop_times {trip_id:row.trip_id, stop_id:row.stop_id})
 SET n.arrival_time = row.arrival_time,
 n.departure_time = row.departure_time,
@@ -67,7 +67,7 @@ n.pickup_type = tointeger(row.pickup_type),
 n.drop_off_type = tointeger(row.drop_off_type),
 n.shape_dist_traveled = row.shape_dist_traveled,
 n.timepoint = tointeger(row.timepoint)",
-  {batchSize:10000, parallel:true});
+  {batchSize:10000, parallel:true,params: { basedir: $basedir}});
 
 
 // stops
@@ -107,19 +107,31 @@ match (t:trips {route_id: r.route_id})
 merge (r)-[:HAS_TRIPS]->(t);
 
 // trips -> calendar_dates
-match (t:trips)
-match (c:calendar_dates {service_id: t.service_id})
-merge (t)-[:HAS_CALENDAR_DATES]->(c);
+CALL apoc.periodic.iterate(
+"match (t:trips)
+match (c:calendar_dates {service_id: t.service_id}) return t,c",
+"merge (t)-[:HAS_CALENDAR_DATES]->(c)",
+  {batchSize:10000, parallel:true});
+
+
 
 // trips -> stop_times
-match (t:trips)
-match (s:stop_times {trip_id: t.trip_id})
-merge (t)-[:HAS_STOP_TIMES]->(s);
+CALL apoc.periodic.iterate(
+"match (t:trips)
+match (s:stop_times {trip_id: t.trip_id}) return t,s",
+"merge (t)-[:HAS_STOP_TIMES]->(s)",
+  {batchSize:10000, parallel:true});
+
 
 // stop_times -> stops
-match (st:stop_times)
-match (s:stops {stop_id: st.stop_id})
-merge (st)-[:HAS_STOPS]->(s);
+CALL apoc.periodic.iterate(
+"match (st:stop_times)
+match (s:stops {stop_id: st.stop_id}) return st,s",
+"merge (st)-[:HAS_STOPS]->(s)",
+  {batchSize:10000, parallel:true});
+
+
+
 
 // transfers stop_times -> stop_times
 LOAD CSV WITH HEADERS FROM $basedir + "transfers.txt" as row
@@ -128,6 +140,10 @@ match (st2:stop_times {stop_id:row.to_stop_id, trip_id: row.to_trip_id})
 merge (st1)-[:TRANSFERS]->(st2);
 
 // next stop mellan alla stationer:
-match (st1:stop_times)
-match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1})
-merge (st1)-[:NEXT_STOP]->(st2);
+CALL apoc.periodic.iterate(
+"match (st1:stop_times)
+match (st2:stop_times {trip_id: st1.trip_id, stop_sequence:st1.stop_sequence + 1}) return st1,st2",
+"merge (st1)-[:NEXT_STOP]->(st2)",
+  {batchSize:10000, parallel:true});
+
+
