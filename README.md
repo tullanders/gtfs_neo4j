@@ -21,6 +21,10 @@ Includes all stations for Sweden, Norway, Denmark, Finland and Norway with prope
 #### Station relationships
 Contains sections between all stations with properties like length (km) between the stations.
 ## Setup
+1. Run /queries/era.cypher
+2. Run /queries/gtfs.cypher
+
+
 ### Database
 Before running the queries, you must have a neo4j-database. Note! The dataset is to lagre for AuraDB Free. You must reduce the filesize. There is a Jupyter notebook provided in /notebook/ folder that uses Pandas.
 
