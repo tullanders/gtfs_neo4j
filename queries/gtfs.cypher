@@ -132,9 +132,14 @@ match (s:stops {stop_id: st.stop_id}) return st,s",
 
 // transfers stop_times -> stop_times
 LOAD CSV WITH HEADERS FROM $basedir + "transfers.txt" as row
-match (st1:stop_times {stop_id:row.from_stop_id, trip_id: row.from_trip_id})
-match (st2:stop_times {stop_id:row.to_stop_id, trip_id: row.to_trip_id})
-merge (st1)-[:TRANSFERS]->(st2);
+with row, 
+tostring(tointeger(row.to_trip_id)) as trip_to,
+tostring(tointeger(row.from_trip_id)) as trip_from
+where row.to_trip_id is not null
+
+match (t_from:trips {trip_id:trip_from})-->(st_from:stop_times)-->(:stops {stop_id:row.from_stop_id})
+match (t_to:trips {trip_id:trip_to})-->(st_to:stop_times)-->(:stops {stop_id:row.to_stop_id})
+create (st_from)-[:TRANSFER]->(st_to)
 
 // next stop mellan alla hålltider i en trip:
 CALL apoc.periodic.iterate(
