@@ -2,7 +2,7 @@
 
 // load the trafikverket mapping
 // set trafikverket signature for each stop
-LOAD CSV WITH HEADERS FROM $basedir + "trafikverket_stops.txt" as row
+LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trafikverket_stops.txt" as row
 merge (s:stops {signature:row.trafikverket_signature})
 set s.stop_id = row.stop_id;
 
@@ -84,13 +84,13 @@ n.platform_code = row.platform_code;
 
 // routes_technical.txt
 CREATE INDEX index_trips_technical_route_number IF NOT EXISTS FOR (n:trips) ON (n.technical_route_number);
-LOAD CSV WITH HEADERS FROM $basedir + "routes_technical.txt" as row
+LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/routes_technical.txt" as row
 with row where row.technical_route_number <> 'null'
 match (r:routes {route_id:row.route_id})
 set r.technical_route_number = row.technical_route_number;
 
 // trips_technical.txt
-LOAD CSV WITH HEADERS FROM $basedir + "trips_technical.txt" as row
+LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trips_technical.txt" as row
 match (t:trips {trip_id:row.trip_id})
 set t.technical_trip_number = row.technical_trip_number;
 
@@ -139,7 +139,7 @@ where row.to_trip_id is not null
 
 match (t_from:trips {trip_id:trip_from})-->(st_from:stop_times)-->(:stops {stop_id:row.from_stop_id})
 match (t_to:trips {trip_id:trip_to})-->(st_to:stop_times)-->(:stops {stop_id:row.to_stop_id})
-create (st_from)-[:TRANSFER]->(st_to)
+create (st_from)-[:TRANSFER]->(st_to);
 
 // next stop mellan alla hålltider i en trip:
 CALL apoc.periodic.iterate(
