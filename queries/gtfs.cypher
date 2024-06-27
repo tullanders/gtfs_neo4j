@@ -50,6 +50,7 @@ n.route_desc = row.route_desc;
 CREATE INDEX index_calendar_dates_service_id IF NOT EXISTS FOR (n:calendar_dates) ON (n.service_id);
 CREATE INDEX index_calendar_dates_date IF NOT EXISTS FOR (n:calendar_dates) ON (n.date);
 LOAD CSV WITH HEADERS FROM $basedir + "calendar_dates.txt" as row
+with row where date(row.date) >= date()
 MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
 SET n.exception_type = row.exception_type;
 
