@@ -21,5 +21,4 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 583,Krösatågen,http://www.krosatagen.se/,Europe/Stockholm,sv
 586,Tågab,http://www.tagakeriet.se/,Europe/Stockholm,sv
 648,Krösatågen,http://www.krosatagen.se/,Europe/Stockholm,sv
-781,SJ Nord,http://www.resrobot.se/,Europe/Stockholm,sv
 812,MTRX,https://mtrx.travel,Europe/Stockholm,sv
