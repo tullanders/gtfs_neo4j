@@ -3,7 +3,7 @@
 // load the trafikverket mapping
 // set trafikverket signature for each stop
 LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trafikverket_stops.txt" as row
-merge (s:stops {signature:row.trafikverket_signature})
+merge (s:stops {signature:toupper(row.trafikverket_signature)})
 set s.stop_id = row.stop_id;
 
 // agency
