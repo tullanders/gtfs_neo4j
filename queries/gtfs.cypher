@@ -80,6 +80,7 @@ MERGE (n:stops {stop_id:row.stop_id})
 SET n.stop_name = row.stop_name, 
 n.stop_lat = tofloat(row.stop_lat),
 n.stop_lon = tofloat(row.stop_lon),
+n.point = point({longitude: tofloat(row.stop_lon),latitude: tofloat(row.stop_lat)}),
 n.location_type = tointeger(row.location_type),
 n.parent_station = row.parent_station,
 n.platform_code = row.platform_code;
@@ -149,3 +150,24 @@ CALL apoc.periodic.iterate(
 where st2.stop_sequence = st1.stop_sequence +1 return st1,st2",
 "merge (st1)-[:NEXT_STOP]->(st2)",
   {batchSize:1000, parallel:true});
+
+
+  // convert the arrival and departure times to time object and add the offset
+CALL apoc.periodic.iterate(
+  "match (st:stop_times) where st.arrival_time2 is null
+with st, split(st.arrival_time,':') as arrivaltime,
+split(st.departure_time,':') as departuretime
+with st,
+tointeger(arrivaltime[0]) as arrival_hours, 
+tointeger(arrivaltime[1]) as arrival_minutes,
+tointeger(departuretime[0]) as departure_hours,
+tointeger(departuretime[1]) as departure_minutes
+return st,departure_hours, departure_minutes,arrival_hours, arrival_minutes,
+tointeger(floor(arrival_hours/24)) as arrival_offset,
+tointeger(floor(departure_hours/24)) as departure_offset,
+localtime('00:00') as t",
+"set st.arrival_time2 = t + duration({hours:arrival_hours, minutes:arrival_minutes}),
+st.arrival_offset = arrival_offset,
+st.departure_offset = departure_offset,
+st.departure_time2 = t + duration({hours:departure_hours, minutes:departure_minutes})",
+  {batchSize:10000, parallel:true});
