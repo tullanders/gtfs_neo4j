@@ -11,7 +11,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 300,Öresundståg,http://www.oresundstag.se/,Europe/Stockholm,sv
 313,Mälartåg,https://malartag.se,Europe/Stockholm,sv
 315,Vy Tåg,https://www.tagkompaniet.se/#/,Europe/Stockholm,sv
-322,Lennakatten,http://www.lennakatten.se/,Europe/Stockholm,sv
 325,Tåg i Bergslagen,http://www.resrobot.se/,Europe/Stockholm,sv
 380,Snälltåget,http://www.snalltaget.se/,Europe/Stockholm,sv
 382,TJF Smalspåret,http://www.hwj.nu/,Europe/Stockholm,sv
