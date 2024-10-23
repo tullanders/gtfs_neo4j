@@ -13,7 +13,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 315,Vy Tåg,https://www.tagkompaniet.se/#/,Europe/Stockholm,sv
 325,Tåg i Bergslagen,http://www.resrobot.se/,Europe/Stockholm,sv
 380,Snälltåget,http://www.snalltaget.se/,Europe/Stockholm,sv
-382,TJF Smalspåret,http://www.hwj.nu/,Europe/Stockholm,sv
 512,Vy Nattåg,http://www.resrobot.se/,Europe/Stockholm,sv
 513,Norrtåg,https://www.norrtag.se,Europe/Stockholm,sv
 583,Krösatågen,http://www.krosatagen.se/,Europe/Stockholm,sv
