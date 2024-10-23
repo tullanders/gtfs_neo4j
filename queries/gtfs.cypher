@@ -51,7 +51,7 @@ CREATE INDEX index_calendar_dates_service_id IF NOT EXISTS FOR (n:calendar_dates
 CREATE INDEX index_calendar_dates_date IF NOT EXISTS FOR (n:calendar_dates) ON (n.date);
 LOAD CSV WITH HEADERS FROM $basedir + "calendar_dates.txt" as row
 // if using AuraDB Free - we must reduce size of the data
-with row where date(row.date) >= date() and date(row.date) <= date() + duration({days:60})
+with row where date(row.date) >= date()
 MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
 SET n.exception_type = row.exception_type;
 
@@ -93,9 +93,11 @@ match (r:routes {route_id:row.route_id})
 set r.technical_route_number = row.technical_route_number;
 
 // trips_technical.txt
-LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trips_technical.txt" as row
-match (t:trips {trip_id:row.trip_id})
-set t.technical_trip_number = row.technical_trip_number;
+CALL apoc.periodic.iterate(
+"LOAD CSV WITH HEADERS FROM 'https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trips_technical.txt' as row return",
+"match (t:trips {trip_id:row.trip_id})
+set t.technical_trip_number = row.technical_trip_number;",
+  {batchSize:10000, parallel:true});
 
 
 // RELATIONS:
