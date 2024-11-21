@@ -5,6 +5,7 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 254,JLT,http://www.jlt.se,Europe/Stockholm,sv
 265,Värmlandstrafik,http://www.varmlandstrafik.se/,Europe/Stockholm,sv
 268,X-trafik,http://www.x-trafik.se/,Europe/Stockholm,sv
+275,SL,http://www.sl.se,Europe/Stockholm,sv
 276,Skånetrafiken,http://www.skanetrafiken.se,Europe/Stockholm,sv
 279,Västtrafik,http://www.vasttrafik.se/,Europe/Stockholm,sv
 287,Arlanda Express,http://www.arlandaexpress.com,Europe/Stockholm,sv
