@@ -86,19 +86,18 @@ n.parent_station = row.parent_station,
 n.platform_code = row.platform_code;
 
 // routes_technical.txt
-CREATE INDEX index_trips_technical_route_number IF NOT EXISTS FOR (n:trips) ON (n.technical_route_number);
+CREATE INDEX index_trips_technical_route_number IF NOT EXISTS FOR (n:routes) ON (n.technical_route_number);
 LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/routes_technical.txt" as row
 with row where row.technical_route_number <> 'null'
 match (r:routes {route_id:row.route_id})
 set r.technical_route_number = row.technical_route_number;
 
 // trips_technical.txt
-CALL apoc.periodic.iterate(
-"LOAD CSV WITH HEADERS FROM 'https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trips_technical.txt' as row return",
-"match (t:trips {trip_id:row.trip_id})
-set t.technical_trip_number = row.technical_trip_number;",
-  {batchSize:10000, parallel:true});
-
+CREATE INDEX index_trips_technical_trip_number IF NOT EXISTS FOR (n:trips) ON (n.technical_trip_number);
+LOAD CSV WITH HEADERS FROM "https://api.trafiklab.se/v2/samtrafiken/gtfs/extra/trips_technical.txt" as row
+with row where row.technical_trip_number <> 'null'
+match (t:trips {trip_id:row.trip_id})
+set t.technical_trip_number = row.technical_trip_number;
 
 // RELATIONS:
 // agency -> routes
@@ -154,7 +153,7 @@ where st2.stop_sequence = st1.stop_sequence +1 return st1,st2",
   {batchSize:1000, parallel:true});
 
 
-  // convert the arrival and departure times to time object and add the offset
+  // convert the arrival and departure times to duration object for easier calculations
 CALL apoc.periodic.iterate(
   "match (st:stop_times) where st.arrival_time2 is null
 with st, split(st.arrival_time,':') as arrivaltime,
@@ -166,10 +165,7 @@ tointeger(departuretime[0]) as departure_hours,
 tointeger(departuretime[1]) as departure_minutes
 return st,departure_hours, departure_minutes,arrival_hours, arrival_minutes,
 tointeger(floor(arrival_hours/24)) as arrival_offset,
-tointeger(floor(departure_hours/24)) as departure_offset,
-localtime('00:00') as t",
-"set st.arrival_time2 = t + duration({hours:arrival_hours, minutes:arrival_minutes}),
-st.arrival_offset = arrival_offset,
-st.departure_offset = departure_offset,
-st.departure_time2 = t + duration({hours:departure_hours, minutes:departure_minutes})",
+tointeger(floor(departure_hours/24)) as departure_offset",
+"set st.arrival_duration = duration({hours:arrival_hours, minutes:arrival_minutes}),
+st.departure_duration = duration({hours:departure_hours, minutes:departure_minutes})",
   {batchSize:10000, parallel:true});
