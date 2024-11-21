@@ -153,7 +153,7 @@ where st2.stop_sequence = st1.stop_sequence +1 return st1,st2",
   {batchSize:1000, parallel:true});
 
 
-  // convert the arrival and departure times to duration object for easier calculations
+// convert the arrival and departure times to duration object for easier calculations
 CALL apoc.periodic.iterate(
   "match (st:stop_times) where st.arrival_time2 is null
 with st, split(st.arrival_time,':') as arrivaltime,
@@ -169,3 +169,13 @@ tointeger(floor(departure_hours/24)) as departure_offset",
 "set st.arrival_duration = duration({hours:arrival_hours, minutes:arrival_minutes}),
 st.departure_duration = duration({hours:departure_hours, minutes:departure_minutes})",
   {batchSize:10000, parallel:true});
+
+// update trips with departure and arrival durations
+// and from and to signatures
+match (t:trips)-[:HAS_STOP_TIMES]->(st:stop_times)-[:HAS_STOPS]->(s:stops)
+with t, st, s order by st.stop_sequence
+with t, collect(s) as s, collect(st) as st
+set t.from_signature = s[0].signature,
+t.to_signature = s[size(s)-1].signature,
+t.departure_duration = st[0].departure_duration,
+t.arrival_duration = st[size(st)-1].arrival_duration;

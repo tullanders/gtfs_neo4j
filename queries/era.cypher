@@ -17,7 +17,7 @@ tofloat(replace(point[1],',','.')) as longitude
 MERGE (s:stops {signature:signature})
 
 set s.uic_code = uic_code,
-s.stop_name = row['Name of Operational point'],
+//s.stop_name = row['Name of Operational point'],
 s.era_id = row['Unique OP ID'],
 s.point = Point({latitude: latitude, longitude: longitude});
 
