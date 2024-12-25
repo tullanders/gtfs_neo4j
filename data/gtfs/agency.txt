@@ -5,7 +5,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 254,JLT,http://www.jlt.se,Europe/Stockholm,sv
 265,Värmlandstrafik,http://www.varmlandstrafik.se/,Europe/Stockholm,sv
 268,X-trafik,http://www.x-trafik.se/,Europe/Stockholm,sv
-275,SL,http://www.sl.se,Europe/Stockholm,sv
 276,Skånetrafiken,http://www.skanetrafiken.se,Europe/Stockholm,sv
 279,Västtrafik,http://www.vasttrafik.se/,Europe/Stockholm,sv
 287,Arlanda Express,http://www.arlandaexpress.com,Europe/Stockholm,sv
@@ -14,7 +13,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 315,Vy Tåg,https://www.tagkompaniet.se/#/,Europe/Stockholm,sv
 325,Tåg i Bergslagen,http://www.resrobot.se/,Europe/Stockholm,sv
 380,Snälltåget,http://www.snalltaget.se/,Europe/Stockholm,sv
-512,Vy Nattåg,http://www.resrobot.se/,Europe/Stockholm,sv
 513,Norrtåg,https://www.norrtag.se,Europe/Stockholm,sv
 583,Krösatågen,http://www.krosatagen.se/,Europe/Stockholm,sv
 586,Tågab,http://www.tagakeriet.se/,Europe/Stockholm,sv
