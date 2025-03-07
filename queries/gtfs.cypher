@@ -245,16 +245,18 @@ t.to_signature = s[size(s)-1].signature,
 t.departure_duration = st[0].departure_duration,
 t.arrival_duration = st[size(st)-1].arrival_duration;
 
-// Fix train numbers
+// Fix train id
 // The GTFS-dataset has train numbers spread in both routes and trips
 // We will consolidate this into the routes
-CALL apoc.periodic.iterate(
-"match (r:routes)-[:HAS_TRIPS]->(t:trips) return r,t",
-"set r.train_number = coalesce(r.technical_route_number, t.technical_trip_number)",
-  {batchSize:10000, parallel:true});
+match (a:agency)--(r:routes)--(t:trips)--(c:calendar_dates) 
+with r, case 
+    when size(r.route_short_name) <= size(coalesce(r.technical_route_number, t.technical_trip_number)) then r.route_short_name
+    else coalesce(r.technical_route_number, t.technical_trip_number)
+end as train_id 
+set r.train_id = train_id
 
   // Create operational stop_times
-  // It make traversing the graph easier
+  // It make traversing the graph easier - this is NOT GTFS-standard
   CALL apoc.periodic.iterate(
     "match (c:calendar_dates)<-[:HAS_CALENDAR_DATES]-(:trips)-[:HAS_STOP_TIMES]->(st:stop_times)
     with st, localdatetime({year:c.date.year, month:c.date.month, day:c.date.day}) as dt
