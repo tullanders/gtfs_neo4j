@@ -235,15 +235,12 @@ tointeger(floor(departure_hours/24)) as departure_offset",
 st.departure_duration = duration({hours:departure_hours, minutes:departure_minutes})",
   {batchSize:10000, parallel:true});
 
-// update trips with departure and arrival durations
-// and from and to signatures
+// update trips with from and to signatures
 match (t:trips)-[:HAS_STOP_TIMES]->(st:stop_times)-[:HAS_STOPS]->(s:stops)
 with t, st, s order by st.stop_sequence
 with t, collect(s) as s, collect(st) as st
 set t.from_signature = s[0].signature,
-t.to_signature = s[size(s)-1].signature,
-t.departure_duration = st[0].departure_duration,
-t.arrival_duration = st[size(st)-1].arrival_duration;
+t.to_signature = s[size(s)-1].signature;
 
 // Fix train id
 // The GTFS-dataset has train numbers spread in both routes and trips
