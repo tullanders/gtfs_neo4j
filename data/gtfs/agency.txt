@@ -1,14 +1,6 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang
 74,SJ,http://www.sj.se,Europe/Stockholm,sv
 76,Vy,http://www.nsb.no,Europe/Stockholm,sv
-287,Arlanda Express,http://www.arlandaexpress.com,Europe/Stockholm,sv
 300,Öresundståg,http://www.oresundstag.se/,Europe/Stockholm,sv
-313,Mälartåg,https://malartag.se,Europe/Stockholm,sv
-315,Vy Tåg,https://www.tagkompaniet.se/#/,Europe/Stockholm,sv
-325,Tåg i Bergslagen,http://www.resrobot.se/,Europe/Stockholm,sv
 380,Snälltåget,http://www.snalltaget.se/,Europe/Stockholm,sv
-513,Norrtåg,https://www.norrtag.se,Europe/Stockholm,sv
 583,Krösatågen,http://www.krosatagen.se/,Europe/Stockholm,sv
-586,Tågab,http://www.tagakeriet.se/,Europe/Stockholm,sv
-781,SJ Nord,http://www.resrobot.se/,Europe/Stockholm,sv
-812,VR Snabbtåg,https://mtrx.travel,Europe/Stockholm,sv

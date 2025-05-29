@@ -183,7 +183,6 @@ match (c:calendar_dates {service_id: t.service_id}) return t,c",
   {batchSize:10000, parallel:true});
 
 
-
 // trips -> stop_times
 CALL apoc.periodic.iterate(
 "match (t:trips)
@@ -246,22 +245,23 @@ t.to_signature = s[size(s)-1].signature;
 // The GTFS-dataset has train numbers spread in both routes and trips
 // We will consolidate this into the routes
 match (a:agency)--(r:routes)--(t:trips)--(c:calendar_dates) 
-with r, case 
+with r, t, case 
     when size(r.route_short_name) <= size(coalesce(r.technical_route_number, t.technical_trip_number)) then r.route_short_name
     else coalesce(r.technical_route_number, t.technical_trip_number)
 end as train_id 
-set r.train_id = train_id
+set r.train_id = train_id, t.train_id = train_id;
 
-  // Create operational stop_times
-  // It make traversing the graph easier - this is NOT GTFS-standard
-  CALL apoc.periodic.iterate(
-    "match (c:calendar_dates)<-[:HAS_CALENDAR_DATES]-(:trips)-[:HAS_STOP_TIMES]->(st:stop_times)
-    with st, localdatetime({year:c.date.year, month:c.date.month, day:c.date.day}) as dt
-    where not (st)-[:HAS_OPERATIONAL_STOP_TIMES]->() return st, dt",
-    "create (st)-[:HAS_OPERATIONAL_STOP_TIMES]->(op:operational_stop_times 
-        {
-            arrival_datetime: dt + st.arrival_duration,
-            departure_datetime: dt + st.departure_duration
-        }
-    )",
+// Create operational stop_times
+// It make traversing the graph easier - this is NOT GTFS-standard
+CALL apoc.periodic.iterate(
+  "match (c:calendar_dates)<-[:HAS_CALENDAR_DATES]-(:trips)-[:HAS_STOP_TIMES]->(st:stop_times)
+  with c, st, localdatetime({year:c.date.year, month:c.date.month, day:c.date.day}) as dt
+  where not (st)-[:HAS_OPERATIONAL_STOP_TIMES]->() return c, st, dt",
+  "create (st)-[:HAS_OPERATIONAL_STOP_TIMES]->(op:operational_stop_times 
+      {
+          arrival_datetime: dt + st.arrival_duration,
+          departure_datetime: dt + st.departure_duration,
+          start_date: c.date
+      }
+  )",
 {batchSize:10000, parallel:true});
