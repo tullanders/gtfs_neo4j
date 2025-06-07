@@ -117,8 +117,15 @@ CREATE INDEX index_calendar_dates_date IF NOT EXISTS FOR (n:calendar_dates) ON (
 LOAD CSV WITH HEADERS FROM $basedir + "gtfs/calendar_dates.txt" as row
 // if using AuraDB Free - we must reduce size of the data
 with row where date(row.date) >= date()
-MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
-SET n.exception_type = row.exception_type;
+
+// to have "more" GTFS-standard, create separete nodes for calendar_dates
+//MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
+//SET n.exception_type = row.exception_type
+//with row
+
+// this is not GTFS-standard, but it makes it easier to query
+match (t:trips {service_id:row.service_id})
+set t.calendar_dates = coalesce(t.calendar_dates, []) + date(row.date);
 
 // stop_times
 CREATE INDEX index_stop_times_trip_id IF NOT EXISTS FOR (n:stop_times) ON (n.trip_id);
@@ -174,14 +181,6 @@ merge (a)-[:HAS_ROUTES]->(r);
 match (r:routes)
 match (t:trips {route_id: r.route_id})
 merge (r)-[:HAS_TRIPS]->(t);
-
-// trips -> calendar_dates
-CALL apoc.periodic.iterate(
-"match (t:trips)
-match (c:calendar_dates {service_id: t.service_id}) return t,c",
-"merge (t)-[:HAS_CALENDAR_DATES]->(c)",
-  {batchSize:10000, parallel:true});
-
 
 // trips -> stop_times
 CALL apoc.periodic.iterate(
@@ -251,17 +250,28 @@ with r, t, case
 end as train_id 
 set r.train_id = train_id, t.train_id = train_id;
 
+// Fix train_id (again)
+with '[{"trainIdProperty":"technicalRouteNumber","agencyId":"74"},{"trainIdProperty":"routeShortName","agencyId":"76"},{"trainIdProperty":"routeShortName","agencyId":"313"},{"trainIdProperty":"technicalTripNumber","agencyId":"325"},{"trainIdProperty":"routeShortName","agencyId":"513"},{"trainIdProperty":"technicalTripNumber","agencyId":"781"},{"trainIdProperty":"tripShortName","agencyId":"812"}]' as jsonstring
+
+with apoc.convert.fromJsonList(jsonstring) as jsonlist
+unwind jsonlist as json
+match (r:routes {agency_id:json.agencyId})-->(t:trips)
+set t.train_id = t[json.trainIdProperty];
+
 // Create operational stop_times
 // It make traversing the graph easier - this is NOT GTFS-standard
+
 CALL apoc.periodic.iterate(
-  "match (c:calendar_dates)<-[:HAS_CALENDAR_DATES]-(:trips)-[:HAS_STOP_TIMES]->(st:stop_times)
-  with c, st, localdatetime({year:c.date.year, month:c.date.month, day:c.date.day}) as dt
+  "match (t:trips)-[:HAS_STOP_TIMES]->(st:stop_times)
+  where t.calendar_dates is not null
+  unwind t.calendar_dates as c
+  with c, st, datetime({year:c.year, month:c.month, day:c.day}) as dt
   where not (st)-[:HAS_OPERATIONAL_STOP_TIMES]->() return c, st, dt",
   "create (st)-[:HAS_OPERATIONAL_STOP_TIMES]->(op:operational_stop_times 
       {
           arrival_datetime: dt + st.arrival_duration,
           departure_datetime: dt + st.departure_duration,
-          start_date: c.date
+          start_date: c
       }
   )",
-{batchSize:10000, parallel:true});
+{batchSize:1000, parallel:false});

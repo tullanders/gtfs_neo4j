@@ -10,3 +10,17 @@ DELETE n
 } IN TRANSACTIONS OF 50000 ROWS;
 
 
+// Annan variant
+
+CALL apoc.periodic.iterate(
+  "MATCH ()-[r]-() RETURN r",
+  "DELETE r",
+  {batchSize:100000, parallel:false}
+);
+
+
+CALL apoc.periodic.iterate(
+  "MATCH (n) RETURN n",
+  "DETACH DELETE n",
+  {batchSize:100000, parallel:false}
+);
