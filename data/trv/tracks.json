@@ -1,0 +1,43 @@
+{
+	"strak": null,
+	"straknamn": null,
+	"pl_forb": "Avky",
+	"une": null,
+	"sparbeteck": "z4",
+	"sphuvsido": "ssp",
+	"status": "Öppen",
+	"elektrifi": "ej el",
+	"sth_med": "20/20/20/20",
+	"sth_mot": "20/20/20/20",
+	"atc_proc": null,
+	"linjekat": null,
+	"infrafnam": "Outokompu Stainless AB",
+	"langd": 138.54607320384326,
+	"linestring": {
+		"type": "LineString",
+		"crs": {
+			"type": "name",
+			"properties": {
+				"name": "EPSG:4326"
+			}
+		},
+		"coordinates": [
+			[
+				16.202195381762206,
+				60.13580301175685
+			],
+			[
+				16.19992815131334,
+				60.13528476806503
+			]
+		]
+	},
+	"start": [
+		16.202195381762206,
+		60.13580301175685
+	],
+	"end": [
+		16.19992815131334,
+		60.13528476806503
+	]
+}

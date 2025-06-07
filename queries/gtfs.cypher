@@ -15,6 +15,9 @@ WITH ts, split(substring(pointString, 7, size(pointString) - 8), " ") AS coords
 WITH ts, toFloat(coords[0]) AS longitude, toFloat(coords[1]) AS latitude
 merge (s:stops {signature:toUpper(ts.LocationSignature)})
 set s.stop_name = ts.AdvertisedLocationName,
+s.country_code_iso = 'SE',
+s.country_code_uic = 74,
+s.primary_location_code = tointeger(ts.PrimaryLocationCode),
 s.point = point({latitude: latitude, longitude: longitude});
 
 
@@ -117,8 +120,15 @@ CREATE INDEX index_calendar_dates_date IF NOT EXISTS FOR (n:calendar_dates) ON (
 LOAD CSV WITH HEADERS FROM $basedir + "gtfs/calendar_dates.txt" as row
 // if using AuraDB Free - we must reduce size of the data
 with row where date(row.date) >= date()
-MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
-SET n.exception_type = row.exception_type;
+
+// to have "more" GTFS-standard, create separete nodes for calendar_dates
+//MERGE (n:calendar_dates {service_id:row.service_id, `date`: date(row.date)})
+//SET n.exception_type = row.exception_type
+//with row
+
+// this is not GTFS-standard, but it makes it easier to query
+match (t:trips {service_id:row.service_id})
+set t.calendar_dates = coalesce(t.calendar_dates, []) + date(row.date);
 
 // stop_times
 CREATE INDEX index_stop_times_trip_id IF NOT EXISTS FOR (n:stop_times) ON (n.trip_id);
@@ -143,8 +153,6 @@ CREATE INDEX index_stops_point IF NOT EXISTS FOR (n:stops) ON (n.point);
 LOAD CSV WITH HEADERS FROM $basedir + "gtfs/stops.txt" as row
 MERGE (n:stops {stop_id:row.stop_id})
 SET n.stop_name = row.stop_name, 
-n.stop_lat = tofloat(row.stop_lat),
-n.stop_lon = tofloat(row.stop_lon),
 n.point = point({longitude: tofloat(row.stop_lon),latitude: tofloat(row.stop_lat)}),
 n.location_type = tointeger(row.location_type),
 n.parent_station = row.parent_station,
@@ -210,10 +218,11 @@ match (t_to:trips {trip_id:trip_to})-->(st_to:stop_times)-->(:stops {stop_id:row
 create (st_from)-[:TRANSFER]->(st_to);
 
 // next stop mellan alla hålltider i en trip:
+// namnges NEXT_CONTRACTUAL_STOP eftersom relationen inte leder nödvändigtvis till nästa färdplats
 CALL apoc.periodic.iterate(
 "match (st1:stop_times)<--(:trips)-->(st2:stop_times) 
 where st2.stop_sequence = st1.stop_sequence +1 return st1,st2",
-"merge (st1)-[:NEXT_STOP]->(st2)",
+"merge (st1)-[:NEXT_CONTRACTUAL_STOP]->(st2)",
   {batchSize:1000, parallel:true});
 
 
@@ -250,6 +259,15 @@ with r, t, case
     else coalesce(r.technical_route_number, t.technical_trip_number)
 end as train_id 
 set r.train_id = train_id, t.train_id = train_id;
+
+// Fix train_id (again)
+with '[{"trainIdProperty":"technicalRouteNumber","agencyId":"74"},{"trainIdProperty":"routeShortName","agencyId":"76"},{"trainIdProperty":"routeShortName","agencyId":"313"},{"trainIdProperty":"technicalTripNumber","agencyId":"325"},{"trainIdProperty":"routeShortName","agencyId":"513"},{"trainIdProperty":"technicalTripNumber","agencyId":"781"},{"trainIdProperty":"tripShortName","agencyId":"812"}]' as jsonstring
+
+with apoc.convert.fromJsonList(jsonstring) as jsonlist
+unwind jsonlist as json
+match (r:routes {agency_id:json.agencyId})-->(t:trips)
+set t.train_id = t[json.trainIdProperty];
+
 
 // Create operational stop_times
 // It make traversing the graph easier - this is NOT GTFS-standard

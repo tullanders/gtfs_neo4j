@@ -1,15 +1,19 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang
-74,SJ,http://www.sj.se,Europe/Stockholm,sv
-76,Vy,http://www.nsb.no,Europe/Stockholm,sv
-300,Öresundståg,http://www.oresundstag.se/,Europe/Stockholm,sv
-313,Mälartåg,https://malartag.se,Europe/Stockholm,sv
-315,Vy Tåg,https://www.tagkompaniet.se/#/,Europe/Stockholm,sv
-322,Lennakatten,http://www.lennakatten.se/,Europe/Stockholm,sv
-325,Tåg i Bergslagen,http://www.resrobot.se/,Europe/Stockholm,sv
-380,Snälltåget,http://www.snalltaget.se/,Europe/Stockholm,sv
-382,TJF Smalspåret,http://www.hwj.nu/,Europe/Stockholm,sv
-513,Norrtåg,https://www.norrtag.se,Europe/Stockholm,sv
-583,Krösatågen,http://www.krosatagen.se/,Europe/Stockholm,sv
-586,Tågab,http://www.tagakeriet.se/,Europe/Stockholm,sv
-781,SJ Nord,http://www.resrobot.se/,Europe/Stockholm,sv
-812,VR Snabbtåg,https://mtrx.travel,Europe/Stockholm,sv
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_fare_url
+505000000000000001,AB Storstockholms Lokaltrafik,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000005,Östgötatrafiken,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000006,Jönköpings Länstrafik,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000012,Skånetrafiken,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000014,Västtrafik,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000017,Värmlandstrafik,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000020,Dalatrafik,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000100,SJ AB,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000112,Vy Tåg,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000116,Lennakatten,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000128,Snälltåget,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000129,TJF Smalspåret,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000135,Inlandsbanan,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000137,Tågab,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000159,MTR Express AB,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000172,Flixtrain,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000178,SJ Norge,https://www.resrobot.se/,Europe/Stockholm,sv,
+505000000000000636,Öresundståg,https://www.resrobot.se/,Europe/Stockholm,sv,
