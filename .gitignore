@@ -1,3 +1,4 @@
 data/gtfs/sweden*
+data/gtfs/netex*
 queries/trainmodel.cypher
 privat/färdplansvariant.cypher
